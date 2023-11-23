@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26302",
+      "part_num": "2205",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4250141.jpg",
+      "name": "Duplo Door 1 x 4 x 4 with Four Panes",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "2206",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4250146.jpg",
+      "name": "Duplo Door / Window with Four Panes Square Corners",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "2209",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2209.png",
+      "name": "Duplo Door 1 x 3 x 5 with Four Panes",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "2210pr0001",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/2210.png",
+      "name": "Duplo Building 6 x 8 x 6 Drive Through with Door and Window Openings with 'POLICE' Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "2211c02",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/2211-1-a3bdfaac-0347-458b-8023-2067f41a0894.jpg",
+      "name": "Duplo Roofpiece, Slope 33 2 x 4 with Red Shingles",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "2318c01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/231830.jpg",
+      "name": "Duplo Siren / Flashing Light - Trans-Dark Blue",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "3664pr0018",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3664pb02-4-8341bd1b-d84d-4211-85a0-236d0d656ea1.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 Curved Top with Clock Hands 10:10 Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "4066pr0134",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4066bp18.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Road Sign Speed Limit 50 Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "4555c01pr0018",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Figure, Early, with Short Parted Hair Black, Black Legs, White Arms, Black Stripes and '2-672' Print (Criminal)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "4555c02pr0011",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/4555pr0011-0-7e1b22ce-fe16-42a0-ae9a-78cab456b730.jpg",
+      "name": "Duplo Figure, Early, with Flat Cap Blue, Blue Legs, Three Buttons and Police Badge, Nose Pointing Down Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "74201c01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4174122.jpg",
+      "name": "Duplo Motorcycle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "26302",
+      "part_num": "dupupn0010c02",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/dupupn0010c02-0-31e18e9c-ce58-49fe-9a1e-d120d981debd.jpg",
+      "name": "Duplo Van / Paddy Wagon, with White Base, and 'POLICE' Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2672-1",
+    "name": "Police Station",
+    "year": "1991",
+    "theme_id": "632",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2672-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

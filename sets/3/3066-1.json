@@ -1,0 +1,229 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13307",
+      "part_num": "298c02",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73737.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "3003",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300323.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "3710",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371001.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "3933",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/393326.jpg",
+      "name": "Wedge Plate 8 x 4 Wing Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "3934",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3934.png",
+      "name": "Wedge Plate 8 x 4 Wing Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "4070",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/407002.jpg",
+      "name": "Brick Special 1 x 1 with Headlight and No Slot",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "6126a",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/57/6126a.png",
+      "name": "Wave / Flame Rounded with Base Pegs",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "6141",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005748.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "6153a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/6153a.png",
+      "name": "Wedge Sloped 6 x 4 Cutout, No Stud Notches",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13307",
+      "part_num": "6239",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/623901.jpg",
+      "name": "Tail Shuttle",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3066-1",
+    "name": "Cosmos Glider",
+    "year": "1999",
+    "theme_id": "93",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3066-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51801",
+        "part_num": "2446",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106303.jpg",
+        "name": "Helmet, Standard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000986"
+      },
+      {
+        "inventory_id": "51801",
+        "part_num": "2447",
+        "color_id": "33",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/244743.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Dark Blue",
+        "fig_num": "fig-000986"
+      },
+      {
+        "inventory_id": "51801",
+        "part_num": "3626bpr0037",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp69.png",
+        "name": "Minifig Head Rebel Pilot (Dutch Vander) / Aquanaut, Headset Over Smile, Red-Brown Hair & Eyebrows Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000986"
+      },
+      {
+        "inventory_id": "51801",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000986"
+      },
+      {
+        "inventory_id": "51801",
+        "part_num": "973c27h27pr0176",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973px176c01-15-c20ed36c-440b-4c95-961b-4665b017ac56.jpg",
+        "name": "Torso Space Port Logo, Tube and 'C1' with Two Yellow Bars Print, White Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000986"
+      }
+    ]
+  ]
+}

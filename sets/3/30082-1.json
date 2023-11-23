@@ -1,0 +1,313 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10228",
+      "part_num": "12825",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6030716.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "2419",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241928.jpg",
+      "name": "Wedge Plate 3 x 6 Cut Corners",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "30173b",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/30173b.png",
+      "name": "Weapon Sword / Katana / Shamshir with Uncapped Pommel [Square Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "3023",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211063.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "3023",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302301.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "32064b",
+      "color_id": "71",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/71/32064d.png",
+      "name": "Technic Brick 1 x 2 with Axle Hole Type 2 [X Opening]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "3705",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370526.jpg",
+      "name": "Technic Axle 4",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "3710",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371001.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "3956",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395626.jpg",
+      "name": "Bracket 2 x 2 - 2 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "4032a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403201.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "48183",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238793.jpg",
+      "name": "Wedge Plate 3 x 4 with Stud Notches",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "60470a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/60470a.png",
+      "name": "Plate Special 1 x 2 with Clips Horizontal [Thick U-Clips]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "60478",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4521187.jpg",
+      "name": "Plate Special 1 x 2 with Handle on End [Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "63965",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4538724.jpg",
+      "name": "Bar 6L with Stop Ring",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "64225",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4567878.jpg",
+      "name": "Wedge Curved 4 x 3 No Studs [Plain]",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "90202",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4584126.jpg",
+      "name": "Technic Pin Connector Round with 4 Clips",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "10228",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10228",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30082-1",
+    "name": "Ninja Training",
+    "year": "2011",
+    "theme_id": "435",
+    "num_parts": "32",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30082-1.jpg"
+  },
+  "countedUniqueParts": 20,
+  "countedSpareParts": 2,
+  "countedStandardParts": 28,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51261",
+        "part_num": "30177",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4641678.jpg",
+        "name": "Wrap, Ninja, with Clip",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000447"
+      },
+      {
+        "inventory_id": "51261",
+        "part_num": "3626bpr0746",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611427.jpg",
+        "name": "Minifig Head Jay, Stern Eyebrows, Scar on Right Eyebrow, White Pupils, Brown Chin Dimple Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000447"
+      },
+      {
+        "inventory_id": "51261",
+        "part_num": "970c28pr0192",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4667793.jpg",
+        "name": "Hips and Blue Legs with Dark Blue Belt Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000447"
+      },
+      {
+        "inventory_id": "51261",
+        "part_num": "973c28h03pr1717",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612649.jpg",
+        "name": "Torso Robe, Brown Rope, Gold Medallion and Dark Blue Undershirt Print, Blue Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000447"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0002",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/penupn0002-1-ef8394e9-6d33-49b1-9ca5-c7dabc463c4b.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0003",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/36/penupn0003-36-d5d59931-12ba-4649-a395-706aceb52f74.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0003pr0078",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Orb with 'SPIDER-MAN 2' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0003pr0079",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Orb with Black Spider Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0004pr0155",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Spider-Man Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0005",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/penupn0005-7-06e01bf4-f5af-4cdf-bbfb-468b0afcc80c.jpg",
+      "name": "Pen Bead, Gear",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0005",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/penupn0005-7-06e01bf4-f5af-4cdf-bbfb-468b0afcc80c.jpg",
+      "name": "Pen Bead, Gear",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/penupn0005-7-06e01bf4-f5af-4cdf-bbfb-468b0afcc80c.jpg",
+      "name": "Pen Bead, Gear",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0006pr0059",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Spider-Man Head Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0007",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0007-0-6937cce3-bced-4244-b682-a06772ad9f46.jpg",
+      "name": "Pen Bead, Round Curved, Hourglass",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn0037c02pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0037c02pr0001-4-872a0d74-73ee-4065-b2cc-ac8afccc3327.jpg",
+      "name": "Pen Body, with Blue Tip, Black Ends, Silver Spider Web Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "96411",
+      "part_num": "penupn9976",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3114-2",
+    "name": "Spider-Man 2 Pen",
+    "year": "2004",
+    "theme_id": "739",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3114-2.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

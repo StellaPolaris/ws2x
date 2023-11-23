@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26811",
+      "part_num": "2164",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2164-4-5bb871d5-1596-4ba3-a247-f0b561ca82a9.jpg",
+      "name": "Duplo Umbrella without Stop Ring",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "31222",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/31222-2-873e695e-721a-4167-80fa-d8e0674f40ac.jpg",
+      "name": "Duplo Animal Ladybug Base (Legs)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "31226pr0002",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Animal Spider Body, with Ladybug / Ladybird Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "31231pr0005",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/92/31231pr0005-92-2e5db4ab-fa50-430c-8b3a-17b35e7dc030.jpg",
+      "name": "Duplo Figure Little Forest Friend Female, Green Dress with Three White Flowers Necklace Print (Trixie Toadstool)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "31232pr0004",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/92/31232pr0004-92-a546d5fd-6026-4a98-9e3d-d6f24aee13c7.jpg",
+      "name": "Duplo Figure Little Forest Friend, Male, Green Overalls with Acorn Necklace Print (Grumpy Toadstool)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "4066pr0051",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4066pr0051-4-8f95ef72-343e-42d7-ba85-7040f37e7d31.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with 3 Blueberries and Leaves Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "4128015",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Book, Little Forest Friends 'The Berry Chase'",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "6510",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100854.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "6510",
+      "color_id": "112",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121573.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Bluish Violet"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "89158",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100851.jpg",
+      "name": "Duplo Plant Vine with Leaves and Two End Anti-Studs",
+      "part_cat_id": "4",
+      "part_material": "Rubber",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26811",
+      "part_num": "dupupn0124",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/6/dupupn0124-6-7db2d076-ad20-43f7-a3fc-a3d86a8537a8.jpg",
+      "name": "Duplo Backpack with Armholes",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "Brown"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2831-1",
+    "name": "The Toadstools",
+    "year": "1999",
+    "theme_id": "660",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2831-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

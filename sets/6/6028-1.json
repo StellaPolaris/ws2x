@@ -1,0 +1,277 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2484",
+      "part_num": "2470",
+      "color_id": "6",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/6/2470.png",
+      "name": "Wheel Wagon Small (27mm D.)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "2540",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254021.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "30103",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114051.jpg",
+      "name": "Animal, Bat",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "3023",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302321.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "3069b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306921.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "3795",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379502.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "3795",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "3847",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/384727.jpg",
+      "name": "Weapon Sword / Shortsword",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "4085c",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408521.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "4497",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/449725.jpg",
+      "name": "Weapon Pike / Spear Round End",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "4600",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/460026.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "4738b",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/473825.jpg",
+      "name": "Treasure Chest Bottom with Rear Slots, with Groove",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "4739a",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/473925.jpg",
+      "name": "Treasure Chest Lid [Thick Hinge]",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "6141",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005743.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "2484",
+      "part_num": "6141",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005743.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "2484",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "6028-1",
+    "name": "Treasure Cart",
+    "year": "1998",
+    "theme_id": "195",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6028-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 2,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51461",
+        "part_num": "3626bpr9983",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx54-14-cf867bc3-7085-45bd-a08a-825d78923e7b.jpg",
+        "name": "Minifig Head Knight, Bushy Goatee and Eyebrows Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000646"
+      },
+      {
+        "inventory_id": "51461",
+        "part_num": "6122",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6122.png",
+        "name": "Helmet Castle - Dragon Crown Top",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000646"
+      },
+      {
+        "inventory_id": "51461",
+        "part_num": "970c08",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/970x026-8-77aac8fa-923d-44c0-8f1e-242358066537.jpg",
+        "name": "Hips and Dark Gray Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000646"
+      },
+      {
+        "inventory_id": "51461",
+        "part_num": "973c03h01pr0090",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973px90c01-0-5818f477-9196-4634-a880-dd4bfc9f55f2.jpg",
+        "name": "Torso Armor, Dark Gray with Silver Stripes Print (Fright Knights), Black Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000646"
+      }
+    ]
+  ]
+}

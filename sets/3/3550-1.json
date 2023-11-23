@@ -1,0 +1,240 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3594",
+      "part_num": "2736",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211375.jpg",
+      "name": "Technic Axle Towball",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "3021",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302101.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "3070b",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307001.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "32034",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107783.jpg",
+      "name": "Technic Axle and Pin Connector Angled #2 - 180",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "32064b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/32064d.png",
+      "name": "Technic Brick 1 x 2 with Axle Hole Type 2 [X Opening]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "3623",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/362321.jpg",
+      "name": "Plate 1 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "3707",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370726.jpg",
+      "name": "Technic Axle 8",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "4195285",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/89/4195285-89-430f4e98-94d0-4d17-b56a-4f44dac25e1a.jpg",
+      "name": "Backdrop for Sets 3548 / 3550, Basketball Backboard",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "43373",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4174045.jpg",
+      "name": "Sports Hoop with 2 Studs and Axle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "43374",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4174044.jpg",
+      "name": "Sports Basketball Net",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "43702",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4185103.jpg",
+      "name": "Sports Basketball [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "45522",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4191724.jpg",
+      "name": "Plate Special 6 x 6 x 2/3 with 4 Studs and Embossed 'SPORTS'",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "6232",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/623221.jpg",
+      "name": "Brick Special 2 x 2 with Pin and Axle Hole",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3594",
+      "part_num": "2736",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211375.jpg",
+      "name": "Technic Axle Towball",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "3594",
+      "part_num": "3070b",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307001.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3550-1",
+    "name": "Jump and Shoot",
+    "year": "2003",
+    "theme_id": "459",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3550-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 2,
+  "countedStandardParts": 14,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51312",
+        "part_num": "3626bpr0116",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpb0117-14-f9894a74-51e6-4d61-a19b-c74ff3b78053.jpg",
+        "name": "Minifig Head Basketball Player, Lips, Goatee, Hair Stripes Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000498"
+      },
+      {
+        "inventory_id": "51312",
+        "part_num": "970c22",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582576.jpg",
+        "name": "Hips and Red Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000498"
+      },
+      {
+        "inventory_id": "51312",
+        "part_num": "973b01pr0157",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/973bpb157c01-4-3400a226-a43d-47e3-9670-088b38d258b3.jpg",
+        "name": "Torso Basketball Jersey, NBA Logo and '4' Print, Long One Piece Arms Yellow (NBA)",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000498"
+      }
+    ]
+  ]
+}

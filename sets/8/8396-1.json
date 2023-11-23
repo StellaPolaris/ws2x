@@ -1,0 +1,218 @@
+{
+  "standard": [
+    {
+      "inventory_id": "12514",
+      "part_num": "2524",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4215414.jpg",
+      "name": "Minifig Neckwear Backpack Non-Opening",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "2530",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210789.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "2561",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211311.jpg",
+      "name": "Weapon Gun / Flintlock / Musket (Pirate)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "2562",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4536847.jpg",
+      "name": "Weapon Gun / Pistol Flintlock",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "3020",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211186.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "3710",
+      "color_id": "272",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4177739.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "3794b",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/71/3794b.png",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "59900",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529237.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "60475a",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/71/60475a.png",
+      "name": "Brick Special 1 x 1 with Clip Vertical [Thick U Clip, Solid Stud]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "12514",
+      "part_num": "2526",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541677.jpg",
+      "name": "Minifig Neckwear Epaulette",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "12514",
+      "part_num": "2530",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210789.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8396-1",
+    "name": "Soldier's Arsenal",
+    "year": "2009",
+    "theme_id": "153",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8396-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 2,
+  "countedStandardParts": 12,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "57489",
+        "part_num": "2526",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541677.jpg",
+        "name": "Minifig Neckwear Epaulette",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-005453"
+      },
+      {
+        "inventory_id": "57489",
+        "part_num": "2545pr0001",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540656.jpg",
+        "name": "Hat / Imperial Guard Shako with Red Plume and Gold Badge Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-005453"
+      },
+      {
+        "inventory_id": "57489",
+        "part_num": "3626bpr0348",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4225875.jpg",
+        "name": "Minifig Head Rascus / Soldier / Knight / Warrior / Soccer Player, Male, Messy Black Hair, Goatee Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-005453"
+      },
+      {
+        "inventory_id": "57489",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-005453"
+      },
+      {
+        "inventory_id": "57489",
+        "part_num": "973c22h01pr1441",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540514.jpg",
+        "name": "Torso Imperial Soldier Uniform with Knapsack on Back Print, Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-005453"
+      }
+    ]
+  ]
+}

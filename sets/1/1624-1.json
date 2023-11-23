@@ -1,0 +1,217 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4849",
+      "part_num": "2540",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254026.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "3005",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300526.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "3034",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303428.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "3040b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/304026.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "3659",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/365926.jpg",
+      "name": "Brick Arch 1 x 4",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "4085c",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408526.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "4150pr0019",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4150p40.png",
+      "name": "Tile Round 2 x 2 with Archery Target Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "4497",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/449725.jpg",
+      "name": "Weapon Pike / Spear Round End",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "4499",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/449925.jpg",
+      "name": "Weapon Bow and Arrow [Large]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "6019",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/601921.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4849",
+      "part_num": "6064",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/606428.jpg",
+      "name": "Plant, Bush 2 x 2 x 4",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1624-1",
+    "name": "King's Archer",
+    "year": "1993",
+    "theme_id": "188",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1624-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51030",
+        "part_num": "3626bpr0012",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp42.png",
+        "name": "Minifig Head Cavalry / Knight, Beard Vertical Lines with Messy Hair, Moustache Brown Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000217"
+      },
+      {
+        "inventory_id": "51030",
+        "part_num": "3896",
+        "color_id": "8",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/3896.png",
+        "name": "Helmet Castle with Chin Guard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Gray",
+        "fig_num": "fig-000217"
+      },
+      {
+        "inventory_id": "51030",
+        "part_num": "4498",
+        "color_id": "6",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/449825.jpg",
+        "name": "Minifig Neckwear Weapon Arrow Quiver",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Brown",
+        "fig_num": "fig-000217"
+      },
+      {
+        "inventory_id": "51030",
+        "part_num": "970c17",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/970x026-7-c99be078-340f-4dff-8de1-745e6393844f.jpg",
+        "name": "Hips and Light Gray Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000217"
+      },
+      {
+        "inventory_id": "51030",
+        "part_num": "973c03h01pr0041",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/973p41c01-4-6be70a1a-239c-4900-82c9-aaad9245f462.jpg",
+        "name": "Torso Scale Mail Print, Black Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000217"
+      }
+    ]
+  ]
+}

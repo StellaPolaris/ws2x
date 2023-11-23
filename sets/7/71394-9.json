@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "107678",
+      "part_num": "30176",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114348.jpg",
+      "name": "Plant, Round 1 x 1 - 3 Bamboo Leaves",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "3062b",
+      "color_id": "288",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6253282.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "3068bpr9726",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6354044.jpg",
+      "name": "Tile 2 x 2 with Groove with Bony Beetle and Barcode Print (Sticker)",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "54200",
+      "color_id": "378",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4652205.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "6182",
+      "color_id": "84",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569470.jpg",
+      "name": "Brick Arch 1 x 4 x 2",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Medium Nougat"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "66792",
+      "color_id": "84",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6308873.jpg",
+      "name": "Plate Round Corners 4 x 4 x 2/3 Circle with Reduced Knobs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Medium Nougat"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "66858pr0003",
+      "color_id": "323",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6360244.jpg",
+      "name": "Feet, 2 x 2 x 2/3 with 4 Studs on Top and Dark Green Toes Print",
+      "part_cat_id": "61",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "67013pat0001",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315380.jpg",
+      "name": "Wedge Sloped 4 x 4 with White Underside Pattern (Koopa Troopa Shell)",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "85984",
+      "color_id": "323",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4616211.jpg",
+      "name": "Slope 30 1 x 2 x 2/3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "85984pr0027",
+      "color_id": "323",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6353883.jpg",
+      "name": "Slope 30 1 x 2 x 2/3 with Open Black Mouth, Yellow Teeth print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "107678",
+      "part_num": "99781",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6016172.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "107678",
+      "part_num": "54200",
+      "color_id": "378",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4652205.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    }
+  ],
+  "setInfo": {
+    "set_num": "71394-9",
+    "name": "Bony Beetle",
+    "year": "2021",
+    "theme_id": "690",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71394-9.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 1,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

@@ -1,0 +1,178 @@
+{
+  "standard": [
+    {
+      "inventory_id": "89904",
+      "part_num": "64728",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4538780.jpg",
+      "name": "Equipment Dynamite Sticks",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0068",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0430-0-e8202b86-5dff-4442-b00b-b1ea8835e572.jpg",
+      "name": "Watch, Clasp, Male",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0182",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0426-0-14e7dc52-1ce7-4141-9b27-7f4af931fe7f.jpg",
+      "name": "Watch, Clasp, Female",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0277",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0277-179-1680aaa9-7d37-448d-b242-b33e1ffdd623.jpg",
+      "name": "Watch, Bezel Round, No Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0323",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0323-179-1d4643f3-b701-4d94-8e01-32c4def46a14.jpg",
+      "name": "Watch, Link, with 1 x 2 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0382",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/watch0001-0-a1139792-7e3f-413c-897e-7cd656020ade.jpg",
+      "name": "Watch, Bezel Round, 8 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0389",
+      "color_id": "135",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/135/upn0437-135-31f2945a-0d49-460a-9a21-75ddd7936150.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0389",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0389",
+      "color_id": "27",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0389",
+      "color_id": "25",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "89904",
+      "part_num": "upn0465pr0017",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'LEGO Power Miners' Logo with Striped Background Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2853401-1",
+    "name": "Power Miners Buildable Watch with Toy",
+    "year": "2009",
+    "theme_id": "732",
+    "num_parts": "30",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2853401-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 28,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "59284",
+        "part_num": "64784pat01c01",
+        "color_id": "33",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/33/64784pat01-33-d14bf0aa-6a26-4f2a-a2c4-fcaa90648e09.jpg",
+        "name": "Body Rock Monster - Torso/Legs with Dark Bluish Gray Arms Assembly",
+        "part_cat_id": "13",
+        "part_material": "Plastic",
+        "colorName": "Trans-Dark Blue",
+        "fig_num": "fig-006642"
+      },
+      {
+        "inventory_id": "59284",
+        "part_num": "64785",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/72/64785.png",
+        "name": "Head Special, Rock Monster, Jaw Upper [Type 1]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-006642"
+      }
+    ]
+  ]
+}

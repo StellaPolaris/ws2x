@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14021",
+      "part_num": "13358",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6036717.jpg",
+      "name": "Duplo Train Crossing Gate Base / Crane Base with Bottom Hole",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "13359pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6037885.jpg",
+      "name": "Duplo Train Barrier / Crossing Gate with Lever and Red Stripe Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "3437",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4168579.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "3437",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343726.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "42025pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6025013.jpg",
+      "name": "Duplo Brick 1 x 3 x 2 Triangle Road Sign with Steam Engine Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "51560",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4250072.jpg",
+      "name": "Duplo Train Track Switcher with Red Switch",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "6377",
+      "color_id": "72",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211014.jpg",
+      "name": "Duplo Train Track 4 x 8 Straight",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "6378",
+      "color_id": "72",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211015.jpg",
+      "name": "Duplo Train Track 4 x 8 Curved [Short]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "6391",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211019.jpg",
+      "name": "Duplo Train Track with Ramps For Car Crossing",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "6510",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100853.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14021",
+      "part_num": "76371",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6101121.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Bottom Tube",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10506-1",
+    "name": "Train Accessory Set",
+    "year": "2013",
+    "theme_id": "634",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10506-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 24,
+  "minfigSetParts": []
+}

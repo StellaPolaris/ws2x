@@ -1,0 +1,210 @@
+{
+  "standard": [
+    {
+      "inventory_id": "34295",
+      "part_num": "298c02",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73737.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "3021",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302126.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "3022",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302221.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "30357",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4178428.jpg",
+      "name": "Plate Round Corner 3 x 3",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "30377",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4223247.jpg",
+      "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "3039",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "4032a",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211042.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "47905",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4214559.jpg",
+      "name": "Brick Special 1 x 1 with Studs on 2 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "48336",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4225201.jpg",
+      "name": "Plate Special 1 x 2 [Side Handle Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "60470b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4556158.jpg",
+      "name": "Plate Special 1 x 2 with Clips Horizontal [Open O Clips]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "61252",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4517925.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "6141",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614126.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "75937",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018805.jpg",
+      "name": "Plate Special 2 x 2 with Bar Frame Octagonal, Reinforced, Completely Round Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "34295",
+      "part_num": "298c02",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73737.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "30377",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4223247.jpg",
+      "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "34295",
+      "part_num": "6141",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614126.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "40324-1",
+    "name": "Ladybug",
+    "year": "2019",
+    "theme_id": "409",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/40324-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 3,
+  "countedStandardParts": 27,
+  "minfigSetParts": []
+}

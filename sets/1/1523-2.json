@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/36/penupn0003-36-d5d59931-12ba-4649-a395-706aceb52f74.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0003",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/42/penupn0003-42-5ade2fc0-a827-4f3b-acc9-e27209a8d454.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0003",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/36/penupn0003-36-d5d59931-12ba-4649-a395-706aceb52f74.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0003",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/6/penupn0003-6-f51a79b2-a0e0-4835-b37f-01aadfed19b4.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0004pr0009",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/PART-11656-15-f4512964-452b-4862-8df6-006b7fecdf77.jpg",
+      "name": "Pen Bead, Square with Paw Print and Snowshoes Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0004pr0010",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/PART-11657-4-d531e185-6ae3-4bd0-beb5-95ae85a33308.jpg",
+      "name": "Pen Bead, Square with Tracked Snow Truck and Flag Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0004pr0011",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/penupn0004-2-ed3252d2-0cbe-4bc8-921a-f570fa49b025.jpg",
+      "name": "Pen Bead, Square with Ice Berg Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0004pr0012",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/penupn0004-1-0a822a74-5021-43a0-bdeb-649852ee370a.jpg",
+      "name": "Pen Bead, Square with White Animal Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0005",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/penupn0005-7-06e01bf4-f5af-4cdf-bbfb-468b0afcc80c.jpg",
+      "name": "Pen Bead, Gear",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0006pr0009",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/118/PART-11660-118-e3284258-2862-4fc4-838a-32c25d79561f.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Sunglasses, White Fur Hood Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0006pr0010",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0006-4-8ec028bf-e584-433c-9ec3-fde3a6d99b76.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Sunglasses, Black Hair Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn0036c11",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/PART-11655-1-d2d12af3-c00e-4ea5-98f4-bcd04eff061d.jpg",
+      "name": "Pen Body, with Chrome Tip, Medium Blue Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "93339",
+      "part_num": "penupn9976",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1523-2",
+    "name": "Arctic Pen",
+    "year": "2000",
+    "theme_id": "739",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1523-2.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

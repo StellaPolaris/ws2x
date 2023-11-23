@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "41739",
+      "part_num": "2493a",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/2493a.png",
+      "name": "Window 1 x 4 x 5 with Solid Studs",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "2494",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/2494.png",
+      "name": "Glass for Window 1 x 4 x 5",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "3081cc01",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3081cc01.png",
+      "name": "Window 1 x 2 x 2 Classic with Short Sill [Complete]",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "3853",
+      "color_id": "4",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385321.jpg",
+      "name": "Window 1 x 4 x 3",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "3854",
+      "color_id": "15",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385401.jpg",
+      "name": "Window 1 x 2 x 3 Pane",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "3855",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163775.jpg",
+      "name": "Glass for Window 1 x 4 x 3",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "3856",
+      "color_id": "2",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385628.jpg",
+      "name": "Window 1 x 2 x 3 Shutter",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "3861b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/386121.jpg",
+      "name": "Door 1 x 4 x 5 with 4 Panes, Squared Base",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "47899c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73436.jpg",
+      "name": "Door 1 x 4 x 5 Left with Trans-Clear Glass",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "73194c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/73194c01.png",
+      "name": "Door 1 x 4 x 5 Right with Trans-Clear Glass",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "41739",
+      "part_num": "73312",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73312.jpg",
+      "name": "Door 1 x 4 x 5 Right with 6 Panes",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "41739",
+      "part_num": "3854",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385401.jpg",
+      "name": "Window 1 x 2 x 3 Pane",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "809-1",
+    "name": "Doors and Windows",
+    "year": "1986",
+    "theme_id": "473",
+    "num_parts": "38",
+    "img_url": "https://cdn.rebrickable.com/media/sets/809-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 1,
+  "countedStandardParts": 38,
+  "minfigSetParts": []
+}

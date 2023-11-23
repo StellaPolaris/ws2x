@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14421",
+      "part_num": "10201",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6014615.jpg",
+      "name": "Bracket 1 x 2 - 1 x 4 [Rounded Corners]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "11213",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6015349.jpg",
+      "name": "Plate Round 6 x 6 with Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "15573",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092572.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "2357",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/235723.jpg",
+      "name": "Brick 2 x 2 Corner",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "30151b",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6150320.jpg",
+      "name": "Brick Round 2 x 2 x 1 2/3 Dome Top [Hollow Stud]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "3022",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302221.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "3062b",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4212454.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "3069b",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306923.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "3070b",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206330.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "44375b",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211796.jpg",
+      "name": "Dish 6 x 6 Inverted (Radar) with Solid Studs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "60474",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581501.jpg",
+      "name": "Plate Round 4 x 4 with Pin Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "6141",
+      "color_id": "35",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6057034.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Bright Green"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "98138",
+      "color_id": "179",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4655241.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "14421",
+      "part_num": "3070b",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206330.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "6141",
+      "color_id": "35",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6057034.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Bright Green"
+    },
+    {
+      "inventory_id": "14421",
+      "part_num": "98138",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4655241.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    }
+  ],
+  "setInfo": {
+    "set_num": "40129-1",
+    "name": "UFO",
+    "year": "2015",
+    "theme_id": "409",
+    "num_parts": "39",
+    "img_url": "https://cdn.rebrickable.com/media/sets/40129-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 3,
+  "countedStandardParts": 39,
+  "minfigSetParts": []
+}

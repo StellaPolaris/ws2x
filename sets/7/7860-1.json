@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "30716",
+      "part_num": "2775c01",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/2775c01.png",
+      "name": "Electric Connector, 2 Way Male Squared Wide Short [Complete Assembly]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "3020",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302002.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "3021",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302102.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "3034",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303402.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "3228b",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3228b.png",
+      "name": "Vehicle Track, Train, Slotted Rail Straight",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "3242b",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/3242b-7-6bb6db0a-9cce-4be5-bdc1-a3aa8f293fa1.jpg",
+      "name": "Vehicle Track, Train, 12V Conducting Rail Straight for 12v Signal with Rail Interruption at End",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "4166",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/4166b.png",
+      "name": "Vehicle Track, Train, Sleeper Plate 2 x 8 with Cable Grooves",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "4168",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4168.png",
+      "name": "Support 1 x 16 Lattice (Train Signal Mast)",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "4169",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4169.png",
+      "name": "Bracket 2 x 3 - 1 x 3 (Train Signal Stand)",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "4707c04",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/u9004c01.png",
+      "name": "Control Unit, Train 12V, 8 x 10 with Signal Print",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "70022",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/70022.png",
+      "name": "Light Brick, Train 12V 2 x 3 Signal with Red and Green Lights",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "766c01",
+      "color_id": "7",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/70423.png",
+      "name": "Electric Connector, 2 Way Male Squared Narrow Long [Complete Assembly]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30716",
+      "part_num": "upn0257",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/x466-7-25bbfc56-279c-42a8-977e-b193111f3579.jpg",
+      "name": "Wire 12V / 4.5V with Two Leads [Undetermined Length]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7860-1",
+    "name": "Remote Controlled Signal 12v",
+    "year": "1980",
+    "theme_id": "234",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7860-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 24,
+  "minfigSetParts": []
+}

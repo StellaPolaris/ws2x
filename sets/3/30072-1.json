@@ -1,0 +1,228 @@
+{
+  "standard": [
+    {
+      "inventory_id": "12958",
+      "part_num": "30115",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249063.jpg",
+      "name": "Animal, Snake, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "30136",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211180.jpg",
+      "name": "Brick Special 1 x 2 Palisade [aka Log]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "3022",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216695.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "3062b",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3006844.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "33078",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114580.jpg",
+      "name": "Food Hot Dog / Sausage",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "3899",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/389921.jpg",
+      "name": "Equipment Cup / Mug [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "3941",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211166.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "4032a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403226.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "4528",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4274575.jpg",
+      "name": "Equipment Frying Pan",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "4740",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/474026.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "48729b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4289538.jpg",
+      "name": "Bar 1L with Clip [Cut Edges and One Side Hole] [Gap in Clip]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "64647",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540865.jpg",
+      "name": "Headwear Accessory Plume / Feather / Flame Triple Point",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "12958",
+      "part_num": "48729b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4289538.jpg",
+      "name": "Bar 1L with Clip [Cut Edges and One Side Hole] [Gap in Clip]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12958",
+      "part_num": "64647",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540865.jpg",
+      "name": "Headwear Accessory Plume / Feather / Flame Triple Point",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30072-1",
+    "name": "Woody's Camp Out",
+    "year": "2010",
+    "theme_id": "275",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30072-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 2,
+  "countedStandardParts": 15,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51262",
+        "part_num": "87768pat0001",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565857.jpg",
+        "name": "Minifig Head Special with Dark Orange Cowboy Hat and Smile Print (Woody)",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-000448"
+      },
+      {
+        "inventory_id": "51262",
+        "part_num": "87858pr1529",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565852.jpg",
+        "name": "Torso with Long Arms, Vest with Sheriff Star over Yellow Shirt Print, Yellow Arms, Light Nougat Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000448"
+      },
+      {
+        "inventory_id": "51262",
+        "part_num": "970f01pr0001",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4562523.jpg",
+        "name": "Long Legs and Hips with Dark Orange Boots Print (Woody)",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000448"
+      }
+    ]
+  ]
+}

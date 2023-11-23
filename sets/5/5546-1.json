@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "21493",
+      "part_num": "2300",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/230024.jpg",
+      "name": "Duplo Brick 2 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "3011",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301128.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "3011",
+      "color_id": "10",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4166924.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "31365",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4546929.jpg",
+      "name": "Duplo Mountain / Tunnel",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "3437",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343728.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "3437",
+      "color_id": "10",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4168579.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "3437",
+      "color_id": "484",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158534.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "4580c04",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541252.jpg",
+      "name": "Duplo Train Chassis with Light Bluish Gray Drive Rod and Blue Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "51547pr0011",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4262117.jpg",
+      "name": "Duplo Train Cab / Tender Base, Thomas & Friends Thomas, No. 1 Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "52053",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/52053-1-7b9a33ed-b48d-4f14-a52d-7a10356d7a90.jpg",
+      "name": "Duplo Train Front, Thomas & Friends, Thomas Face Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "52843",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4262114.jpg",
+      "name": "Duplo Train Cab Top, Thomas & Friends, Thomas Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "6510",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100774.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "21493",
+      "part_num": "6510",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100853.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5546-1",
+    "name": "Thomas at Morgan's Mine",
+    "year": "2009",
+    "theme_id": "631",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5546-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 22,
+  "minfigSetParts": []
+}

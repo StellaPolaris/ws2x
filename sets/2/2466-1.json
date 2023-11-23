@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "84147",
+      "part_num": "2301",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/230121.jpg",
+      "name": "Duplo Brick 2 x 3 x 2 with Curve",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "2302",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/230228.jpg",
+      "name": "Duplo Brick 2 x 3 with Curved Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3011",
+      "color_id": "1",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301123.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3011",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301124.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3011",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301128.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "31101",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/31101-15-1444555c-f0b9-43b9-a177-1d7079efaf7b.jpg",
+      "name": "Duplo Animal Dog 'Spot'",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "31102pr0001",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/48835pr0001-7-396192f0-65e3-47fa-85e1-3cbd3a4372b5.jpg",
+      "name": "Duplo Animal Cat with White Stripes and Paws Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3437",
+      "color_id": "2",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343728.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "84147",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2466-1",
+    "name": "Medium Yellow Bucket",
+    "year": "1999",
+    "theme_id": "505",
+    "num_parts": "50",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2466-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 50,
+  "minfigSetParts": []
+}

@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "25062",
+      "part_num": "2033",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/2033-14-9256c523-358b-4ff3-b95e-3c1ca8d40f06.jpg",
+      "name": "Duplo Ladder (Fire)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "2299c01pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/2299c01pr0001-0-f17118ba-9316-45de-ba19-2fb83159d790.jpg",
+      "name": "Duplo Animal Dog, Scottish Terrier / Scottie on Green Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "2318c01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/231830.jpg",
+      "name": "Duplo Siren / Flashing Light - Trans-Dark Blue",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "4555c16pr0005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/4555c16pr0005-0-2598ff32-0267-458a-b3da-d12b9fa2a62d.jpg",
+      "name": "Duplo Figure, Early, Fire Helmet White, Black Legs, Fire Jacket with Zipper Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "4567c02",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4567c02-14-bdabbb8a-3997-4498-bfbe-a0acead1b22f.jpg",
+      "name": "Duplo Ladder Turntable Base, 2 x 4 Plate with Holder",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "6413",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/641324.jpg",
+      "name": "Duplo Plate 2 x 4 x 1/2 with 4 Center Studs [Thick]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "6414",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6251748.jpg",
+      "name": "Duplo Fire Hydrant",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "6422c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/dupupn0070-4-513a5849-62ad-4ed4-9bad-61bb2e3dee18.jpg",
+      "name": "Duplo Fire Truck Base 4 x 13, with Light Gray Stripe, Cabin and Six Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "6425c03",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/6425c03-0-72f8a689-46ee-4aa9-afad-f0eb32ea3bc0.jpg",
+      "name": "Duplo Hose with Yellow Nozzle and Stud Holder",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "6426c01",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/642630.jpg",
+      "name": "Duplo Hose 11L with Stud Holder and Black Hose",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "6428",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/642821.jpg",
+      "name": "Duplo Panel 1 x 2 x 1 2/3 Sloped with 3 Embossed Gauges",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25062",
+      "part_num": "6474pr9993",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4284193.jpg",
+      "name": "Duplo Brick 2 x 2 Slope 45 with Medical Console Diagnostic or Locator Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2691-1",
+    "name": "My First Fire Engine",
+    "year": "1995",
+    "theme_id": "632",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2691-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "24894",
+      "part_num": "2300pr0004",
+      "color_id": "379",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4265306.jpg",
+      "name": "Duplo Brick 2 x 6 with Pipe Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "3011",
+      "color_id": "320",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4196413.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "3011",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301123.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "3437",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210953.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "3437",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211870.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "44538",
+      "color_id": "151",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4242419.jpg",
+      "name": "Duplo Turntable 2 x 2 with Square Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Very Light Bluish Gray"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "4580c05",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4513988.jpg",
+      "name": "Duplo Train Chassis with Light Bluish Gray Drive Rod & 4 Bright Green Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "51547pr0005",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4262110.jpg",
+      "name": "Duplo Train Cab / Tender Base 4 x 4 x 1.5 with Thomas & Friends Percy Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "52062",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4262105.jpg",
+      "name": "Duplo Train Front, Thomas & Friends, Percy Face",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "52840pr0001",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4262108.jpg",
+      "name": "Duplo Train Cab Top, Thomas & Friends, Percy Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "6377",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211014.jpg",
+      "name": "Duplo Train Track 4 x 8 Straight",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "24894",
+      "part_num": "6394",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4267406.jpg",
+      "name": "Duplo Brick 2 x 4 x 2 with 2 x 2 Square Arch",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5556-1",
+    "name": "Percy at the Water Tower",
+    "year": "2005",
+    "theme_id": "631",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5556-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

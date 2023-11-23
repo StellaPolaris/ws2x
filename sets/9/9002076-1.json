@@ -1,0 +1,191 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14417",
+      "part_num": "30374",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124054.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "64567",
+      "color_id": "80",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4548731.jpg",
+      "name": "Weapon Lightsaber Hilt with Bottom Ring",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Metallic Silver"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0068",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0430-0-e8202b86-5dff-4442-b00b-b1ea8835e572.jpg",
+      "name": "Watch, Clasp, Male",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0182",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0426-0-14e7dc52-1ce7-4141-9b27-7f4af931fe7f.jpg",
+      "name": "Watch, Clasp, Female",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0277",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0277-179-1680aaa9-7d37-448d-b242-b33e1ffdd623.jpg",
+      "name": "Watch, Bezel Round, No Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0323",
+      "color_id": "378",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0323-179-1d4643f3-b701-4d94-8e01-32c4def46a14.jpg",
+      "name": "Watch, Link, with 1 x 2 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0382",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/watch0001-0-a1139792-7e3f-413c-897e-7cd656020ade.jpg",
+      "name": "Watch, Bezel Round, 8 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0389",
+      "color_id": "378",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0389",
+      "color_id": "19",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0389",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14417",
+      "part_num": "upn0465pr0036",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'LEGO Star Wars' Logo, White Numbers, Yoda print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9002076-1",
+    "name": "Yoda Watch",
+    "year": "2011",
+    "theme_id": "732",
+    "num_parts": "32",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9002076-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 29,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "55244",
+        "part_num": "41879a",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4162229.jpg",
+        "name": "Legs Short",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003765"
+      },
+      {
+        "inventory_id": "55244",
+        "part_num": "64804pr0001",
+        "color_id": "378",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4543190.jpg",
+        "name": "Minifig Head Special, Yoda Straight Ears with Large Eyes and Gray Hair Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Sand Green",
+        "fig_num": "fig-003765"
+      },
+      {
+        "inventory_id": "55244",
+        "part_num": "973c26h25pr1458",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4544205.jpg",
+        "name": "Torso Robe, Open, Dark Orange Shirt with Sash Print (Yoda), Tan Arms, Sand Green Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003765"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "81561",
+      "part_num": "25269",
+      "color_id": "85",
+      "quantity": "21",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199891.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "25269",
+      "color_id": "323",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199886.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "25269",
+      "color_id": "321",
+      "quantity": "21",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199887.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "72046pat0001",
+      "color_id": "31",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6339182.jpg",
+      "name": "Tile Round 1 x 1 with Molded Trans-Bright Pink Star",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "72078pat0001",
+      "color_id": "272",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6322171.jpg",
+      "name": "Tile 1 x 1 with Molded Glitter Trans-Clear Opal Diamond",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "98138",
+      "color_id": "45",
+      "quantity": "20",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6053876.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "81561",
+      "part_num": "25269",
+      "color_id": "323",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199886.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "25269",
+      "color_id": "321",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199887.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "25269",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199891.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "72046pat0001",
+      "color_id": "31",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6339182.jpg",
+      "name": "Tile Round 1 x 1 with Molded Trans-Bright Pink Star",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "72078pat0001",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6322171.jpg",
+      "name": "Tile 1 x 1 with Molded Glitter Trans-Clear Opal Diamond",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "81561",
+      "part_num": "98138",
+      "color_id": "45",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6053876.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    }
+  ],
+  "setInfo": {
+    "set_num": "41921-1",
+    "name": "Extra DOTS - Series 3",
+    "year": "2021",
+    "theme_id": "688",
+    "num_parts": "97",
+    "img_url": "https://cdn.rebrickable.com/media/sets/41921-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 6,
+  "countedStandardParts": 97,
+  "minfigSetParts": []
+}

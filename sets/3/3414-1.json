@@ -1,0 +1,265 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13287",
+      "part_num": "23236",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Sticker Sheet for Sets 3414-1, 3419-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "2476a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124065.jpg",
+      "name": "Plate Special 2 x 2 with Pin on Bottom",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "3001",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300101.jpg",
+      "name": "Brick 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "3022",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302226.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "30261",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4116816.jpg",
+      "name": "Road Sign Clip-on 2 x 2 Round",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "3032",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4116671.jpg",
+      "name": "Plate 4 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "30488c01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142815.jpg",
+      "name": "Sports Soccer Minifig Stand with Spring and Green Pin [Complete Assembly]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "30492",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141119.jpg",
+      "name": "Sports Field Section 8 x 8",
+      "part_cat_id": "1",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "3754",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4189227.jpg",
+      "name": "Brick 1 x 6 x 5",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "3957a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "4282",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119227.jpg",
+      "name": "Plate 2 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "4282",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/428228.jpg",
+      "name": "Plate 2 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "4476b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142125.jpg",
+      "name": "Support 2 x 4 x 5 Stanchion Inclined [5mm wide posts]",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "4733",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/473326.jpg",
+      "name": "Brick Special 1 x 1 Studs on 4 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13287",
+      "part_num": "72824pr0006",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/72824p01.png",
+      "name": "Sports Soccer / Basket Ball with Black Pentagons Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "13287",
+      "part_num": "3901",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/390125.jpg",
+      "name": "Hair, Smooth",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3414-1",
+    "name": "Precision Shooting",
+    "year": "2000",
+    "theme_id": "462",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3414-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 1,
+  "countedStandardParts": 20,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51302",
+        "part_num": "3626bpr0007",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp05.png",
+        "name": "Minifig Head, Standard Grin and Eyebrows Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000488"
+      },
+      {
+        "inventory_id": "51302",
+        "part_num": "3901",
+        "color_id": "6",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/390125.jpg",
+        "name": "Hair, Smooth",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Brown",
+        "fig_num": "fig-000488"
+      },
+      {
+        "inventory_id": "51302",
+        "part_num": "970c28",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583501.jpg",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000488"
+      },
+      {
+        "inventory_id": "51302",
+        "part_num": "973c22h01pr0105",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973pb0104c01-15-80ce8ab0-45b9-42d2-b542-bd9b788c74d4.jpg",
+        "name": "Torso Soccer Shirt Vertical Striped Red/Blue / '11' Back Print, Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000488"
+      }
+    ]
+  ]
+}

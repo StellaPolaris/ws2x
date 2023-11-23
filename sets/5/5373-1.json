@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9224",
+      "part_num": "2489",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211147.jpg",
+      "name": "Barrel 2 x 2 x 2",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "2570",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504905.jpg",
+      "name": "Weapon Crossbow and Bolt",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "2736",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211375.jpg",
+      "name": "Technic Axle Towball",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "3021",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302126.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "3040b",
+      "color_id": "70",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211199.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "3062b",
+      "color_id": "71",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211412.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "32034",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107783.jpg",
+      "name": "Technic Axle and Pin Connector Angled #2 - 180",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "32530",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144024.jpg",
+      "name": "Technic Pin Connector Plate 1 x 2 x 1 2/3 [Two Holes On Top]",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "32556",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4514554.jpg",
+      "name": "Technic Pin Long without Friction Ridges",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "3847",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505002.jpg",
+      "name": "Weapon Sword / Shortsword",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "3848",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506846.jpg",
+      "name": "Weapon Halberd / Axe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "9224",
+      "part_num": "4529",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/452926.jpg",
+      "name": "Equipment Saucepan",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5373-1",
+    "name": "Knight & Catapult",
+    "year": "2008",
+    "theme_id": "193",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5373-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50986",
+        "part_num": "3626bpr0325",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4215503.jpg",
+        "name": "Minifig Head Harry Osborn / Aquaraider / Knight / Dwarf, Brown Eyebrows, Vertical Cheek Lines, Chin Dimple Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000173"
+      },
+      {
+        "inventory_id": "50986",
+        "part_num": "3844",
+        "color_id": "80",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506011.jpg",
+        "name": "Helmet Castle with Neck Protector",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Metallic Silver",
+        "fig_num": "fig-000173"
+      },
+      {
+        "inventory_id": "50986",
+        "part_num": "970c14",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4492335.jpg",
+        "name": "Hips and Light Bluish Gray Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000173"
+      },
+      {
+        "inventory_id": "50986",
+        "part_num": "973c14h01pr1318",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506827.jpg",
+        "name": "Torso Armor, Scale Mail, Crown on Collar Print, Light Bluish Gray Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-000173"
+      }
+    ]
+  ]
+}

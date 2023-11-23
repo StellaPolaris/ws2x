@@ -1,0 +1,253 @@
+{
+  "standard": [
+    {
+      "inventory_id": "32226",
+      "part_num": "15068",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6047220.jpg",
+      "name": "Slope Curved 2 x 2 x 2/3",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "2340",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/234001.jpg",
+      "name": "Tail 4 x 1 x 3",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "24246",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6131655.jpg",
+      "name": "Tile Round 1 x 1 Half Circle",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "2432",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211039.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "3021",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4530028.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "3022",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211397.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "3034",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303401.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "3069b",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113854.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "3069bpr0090",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4221879.jpg",
+      "name": "Tile 1 x 2 with Joystick and Vehicle Control Panel Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "3839b",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4263176.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "59900",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529240.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "98138",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646860.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "98138",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646864.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "32226",
+      "part_num": "99781",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6163471.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "951901-1",
+    "name": "Police Officer and Jet",
+    "year": "2019",
+    "theme_id": "61",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/951901-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 0,
+  "countedStandardParts": 22,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52793",
+        "part_num": "2446",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106303.jpg",
+        "name": "Helmet, Standard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001978"
+      },
+      {
+        "inventory_id": "52793",
+        "part_num": "2447",
+        "color_id": "40",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163306.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Brown",
+        "fig_num": "fig-001978"
+      },
+      {
+        "inventory_id": "52793",
+        "part_num": "3626cpr1663",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6112622.jpg",
+        "name": "Minifig Head, Black and Silver Sunglasses, Chin Dimple, Grim Mouth Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001978"
+      },
+      {
+        "inventory_id": "52793",
+        "part_num": "970c05",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4162916.jpg",
+        "name": "Hips and Dark Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-001978"
+      },
+      {
+        "inventory_id": "52793",
+        "part_num": "973c05h12pr3727",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6177568.jpg",
+        "name": "Torso Jacket, Dark Bluish Grey Vest, Police Badge, Radio, Pockets / 'POLICE' on Back Print, Dark Blue Arms, Dark Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-001978"
+      }
+    ]
+  ]
+}

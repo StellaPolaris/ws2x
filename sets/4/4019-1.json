@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "800",
+      "part_num": "2458",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/245821.jpg",
+      "name": "Brick Special 1 x 2 with Pin",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3003",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300321.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3004",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300421.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3034",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303428.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3039",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140789.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3298pr0023",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3298p72.png",
+      "name": "Slope 33 3 x 2 with Red '2' over Two Green Stripes Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3641",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/364126.jpg",
+      "name": "Tyre 15 x 6 Offset Tread Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3660",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366021.jpg",
+      "name": "Slope Inverted 45 2 x 2 [Ovoid Bottom Pin, Bar-sized Stud Holes]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "3795",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "4600",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/460002.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "4617b",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4617b.png",
+      "name": "Propeller  3 Blade  5.5 Diameter with Hole for Technic Pin",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "800",
+      "part_num": "4624",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462424.jpg",
+      "name": "Wheel 8 x 6",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4019-1",
+    "name": "Aeroplane",
+    "year": "2001",
+    "theme_id": "674",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4019-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

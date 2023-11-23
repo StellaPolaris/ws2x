@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "87848",
+      "part_num": "25269",
+      "color_id": "3",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240467.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Turquoise"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269",
+      "color_id": "85",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199891.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6195183.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269pr0027",
+      "color_id": "322",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6326119.jpg",
+      "name": "Tile Round 1 x 1 Quarter with Single Black Music Note, Blue Lines Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269pr0028",
+      "color_id": "1050",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6326120.jpg",
+      "name": "Tile Round 1 x 1 Quarter with Double Black Music Note, Blue Lines Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Coral"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "66821",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6290292.jpg",
+      "name": "DOTS Bracelet 2 Stud Wide",
+      "part_cat_id": "56",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "98138",
+      "color_id": "46",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650500.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "98138",
+      "color_id": "117",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6313555.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Clear"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "98138",
+      "color_id": "114",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6325421.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Dark Pink"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "87848",
+      "part_num": "25269",
+      "color_id": "3",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240467.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Turquoise"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6195183.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199891.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269pr0027",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6326119.jpg",
+      "name": "Tile Round 1 x 1 Quarter with Single Black Music Note, Blue Lines Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "25269pr0028",
+      "color_id": "1050",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6326120.jpg",
+      "name": "Tile Round 1 x 1 Quarter with Double Black Music Note, Blue Lines Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Coral"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "98138",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650500.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "98138",
+      "color_id": "117",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6313555.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Clear"
+    },
+    {
+      "inventory_id": "87848",
+      "part_num": "98138",
+      "color_id": "114",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6325421.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Dark Pink"
+    }
+  ],
+  "setInfo": {
+    "set_num": "41933-1",
+    "name": "Music",
+    "year": "2021",
+    "theme_id": "688",
+    "num_parts": "33",
+    "img_url": "https://cdn.rebrickable.com/media/sets/41933-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 8,
+  "countedStandardParts": 33,
+  "minfigSetParts": []
+}

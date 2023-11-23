@@ -1,0 +1,289 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13038",
+      "part_num": "2431",
+      "color_id": "15",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243101.jpg",
+      "name": "Tile 1 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "2460",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/246002.jpg",
+      "name": "Tile Special 2 x 2 with Top Pin",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3001",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300101.jpg",
+      "name": "Brick 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3020",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302028.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3036",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303628.jpg",
+      "name": "Plate 6 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "30488",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142813.jpg",
+      "name": "Sports Soccer Minifig Stand",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "30493",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141120.jpg",
+      "name": "Sports Soccer Goalie Stick",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3069b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306921.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3403",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/340326.jpg",
+      "name": "Turntable 4 x 4 Square Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3404",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4221659.jpg",
+      "name": "Turntable 4 x 4 Top",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3700",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370002.jpg",
+      "name": "Technic Brick 1 x 2 [1 Hole]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "3701",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370102.jpg",
+      "name": "Technic Brick 1 x 4 [3 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "4282",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119227.jpg",
+      "name": "Plate 2 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "4476b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142125.jpg",
+      "name": "Support 2 x 4 x 5 Stanchion Inclined [5mm wide posts]",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "72824pr0006",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/72824p01.png",
+      "name": "Sports Soccer / Basket Ball with Black Pentagons Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "85543",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4544140.jpg",
+      "name": "Rubber Belt Small [15mm ID] [Round Cross Section]",
+      "part_cat_id": "31",
+      "part_material": "Rubber",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "13038",
+      "part_num": "3069b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306921.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "13038",
+      "part_num": "85543",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4544140.jpg",
+      "name": "Rubber Belt Small [15mm ID] [Round Cross Section]",
+      "part_cat_id": "31",
+      "part_material": "Rubber",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3413-1",
+    "name": "Goal Keeper",
+    "year": "2000",
+    "theme_id": "462",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3413-1.jpg"
+  },
+  "countedUniqueParts": 18,
+  "countedSpareParts": 3,
+  "countedStandardParts": 23,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51107",
+        "part_num": "3626bpr0345",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx33-14-beb1a8cd-e1d7-47f2-b5e3-536d8e7ad35f.jpg",
+        "name": "Minifig Head, Red Hair with Black Outline, Stubble Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000294"
+      },
+      {
+        "inventory_id": "51107",
+        "part_num": "4485",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/448523.jpg",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000294"
+      },
+      {
+        "inventory_id": "51107",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000294"
+      },
+      {
+        "inventory_id": "51107",
+        "part_num": "973c28h03pr0083",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/973pb0083c02-1-bd5d9516-45ff-4413-8f1c-6c09dcc2fef5.jpg",
+        "name": "Torso Soccer Jersey, Studded Armor / '1' on Back Print, Blue Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000294"
+      }
+    ]
+  ]
+}

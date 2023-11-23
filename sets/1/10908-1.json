@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "31273",
+      "part_num": "10111pr0093",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6273497.jpg",
+      "name": "Duplo Figure with Headset and Cap Yellow, with Medium Azure Legs and Arms, Jacket with Pockets and Zipper Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "12651",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6040234.jpg",
+      "name": "Duplo Chair with 4 Studs and Rounded Back",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "13533",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6055882.jpg",
+      "name": "Duplo Airplane Landing Gear with 4 Studs on Top and 2 Wheels [Complete Assembly]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "15211",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6070016.jpg",
+      "name": "Duplo Rotor 3 blade, 4 Diameter (Propeller)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "16196",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6259459.jpg",
+      "name": "Duplo Airplane 12 x 10 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "16265",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6057851.jpg",
+      "name": "Duplo Wrench with Handles",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "27383",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6172277.jpg",
+      "name": "Duplo Cone / Ice Cup",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "40666",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4153497.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "45141",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6223576.jpg",
+      "name": "Duplo Fuel Container 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "31273",
+      "part_num": "76371pr0112",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6186538.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Bottom Tube - Car Radio and Speaker Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10908-1",
+    "name": "Plane",
+    "year": "2019",
+    "theme_id": "632",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10908-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

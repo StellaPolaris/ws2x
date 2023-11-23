@@ -1,0 +1,240 @@
+{
+  "standard": [
+    {
+      "inventory_id": "126530",
+      "part_num": "11476",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6028812.jpg",
+      "name": "Plate Special 1 x 2 with Clip Horizontal on Side",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "18649",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099483.jpg",
+      "name": "Plate Special 1 x 2 with Handles on Ends",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "2432",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243226.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "298c02",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/74335.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "3679",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211439.jpg",
+      "name": "Turntable 2 x 2 Plate - Top",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "3680",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/368026.jpg",
+      "name": "Turntable 2 x 2 Plate, Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "3795",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379524.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "4595",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211502.jpg",
+      "name": "Brick Special 1 x 2 x 2/3 with Studs on Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "4600",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211504.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "4871",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4277159.jpg",
+      "name": "Slope Inverted 45 4 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "48729b",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4542590.jpg",
+      "name": "Bar 1L with Clip [Cut Edges and One Side Hole] [Gap in Clip]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "6014b",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4170460.jpg",
+      "name": "Wheel 11 x 12 with Hole Notched for Wheels Holder Pin",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "87697",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4568644.jpg",
+      "name": "Tyre 21 x 12 with Offset Tread Small Wide and Center Band",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "126530",
+      "part_num": "89522",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612829.jpg",
+      "name": "Creature Body Part, Horn (Unicorn)",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "952202-1",
+    "name": "Pete's Precise's Drill",
+    "year": "2022",
+    "theme_id": "56",
+    "num_parts": "26",
+    "img_url": "https://cdn.rebrickable.com/media/sets/952202-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 0,
+  "countedStandardParts": 22,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "126559",
+        "part_num": "3626cpr1559",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099581.jpg",
+        "name": "Minifig Head, Beard Gray with Gray Eyebrows, Sideburns and Stern Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012293"
+      },
+      {
+        "inventory_id": "126559",
+        "part_num": "3833",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/383321.jpg",
+        "name": "Helmet, Construction / Hard Hat",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-012293"
+      },
+      {
+        "inventory_id": "126559",
+        "part_num": "970c28",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583501.jpg",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-012293"
+      },
+      {
+        "inventory_id": "126559",
+        "part_num": "973c32h01pr4900",
+        "color_id": "73",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6283869.jpg",
+        "name": "Torso Mechanic Blue Overalls, Tools in Pocket, Pen with Black Outline Print, Medium Blue Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Medium Blue",
+        "fig_num": "fig-012293"
+      }
+    ]
+  ]
+}

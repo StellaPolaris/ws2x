@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14621",
+      "part_num": "2420",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242001.jpg",
+      "name": "Plate 2 x 2 Corner",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300201.jpg",
+      "name": "Brick 2 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3004",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300426.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3004",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3004pr9973",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3004p51.png",
+      "name": "Brick 1 x 2 with Red / Black Three-Dot Face Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3005",
+      "color_id": "15",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300501.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3021",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302124.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3022",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302226.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3023",
+      "color_id": "15",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302301.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3024",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302424.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3039",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303901.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3040b",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/304001.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "3665",
+      "color_id": "15",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366501.jpg",
+      "name": "Slope Inverted 45 2 x 1",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "4032a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403224.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14621",
+      "part_num": "6141",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005740.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "14621",
+      "part_num": "6141",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005740.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1626-1",
+    "name": "Angel",
+    "year": "1989",
+    "theme_id": "227",
+    "num_parts": "33",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1626-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 1,
+  "countedStandardParts": 33,
+  "minfigSetParts": []
+}

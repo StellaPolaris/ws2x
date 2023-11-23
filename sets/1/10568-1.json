@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4753",
+      "part_num": "1376pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6069755.jpg",
+      "name": "Duplo Animal Horse with one Stud and Raised Hoof with Red Bridle & Lion on Shield Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "16304pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6073129.jpg",
+      "name": "Duplo Figure with Knight Helmet, with Dark Bluish Gray Legs, Red and White Chest with Lion on Shield",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "16600",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6064117.jpg",
+      "name": "Duplo Sword / Broadsword",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "2301",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/230121.jpg",
+      "name": "Duplo Brick 2 x 3 x 2 with Curve",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "31021",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211178.jpg",
+      "name": "Duplo Fence 1 x 6 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "3437",
+      "color_id": "191",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4226194.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "51708",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249081.jpg",
+      "name": "Duplo Flagpole / Antenna 1 x 9",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "76371",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6101121.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Bottom Tube",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "76371",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6040230.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Bottom Tube",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "98233",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6055100.jpg",
+      "name": "Duplo Plate 2 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "4753",
+      "part_num": "98252",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6073864.jpg",
+      "name": "Duplo Brick 2 x 3 with Curved Bottom",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10568-1",
+    "name": "Knight Tournament",
+    "year": "2014",
+    "theme_id": "647",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10568-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": []
+}

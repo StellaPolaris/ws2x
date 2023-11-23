@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15526",
+      "part_num": "2436",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4159314.jpg",
+      "name": "Bracket 1 x 2 - 1 x 4 [Square Corners]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "2496",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/249626.jpg",
+      "name": "Wheel Skateboard / Trolley",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "2655",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/265502.jpg",
+      "name": "Wheel Holder, Plate, Round 2 x 2 Thin with Clips",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "3020",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302021.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "3020",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302001.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "3039",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "4083",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408326.jpg",
+      "name": "Bar 1 x 4 x 2 with Studs",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "4865a",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4618924.jpg",
+      "name": "Panel 1 x 2 x 1 [Square Corners]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "6141",
+      "color_id": "42",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005749.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "15526",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "15526",
+      "part_num": "6141",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005749.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    }
+  ],
+  "setInfo": {
+    "set_num": "4067-1",
+    "name": "Buggy",
+    "year": "2001",
+    "theme_id": "273",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4067-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 2,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

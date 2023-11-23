@@ -1,0 +1,150 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2311",
+      "part_num": "87837",
+      "color_id": "378",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566850.jpg",
+      "name": "Large Figure Weapon, Claw with Ball Joint Socket",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "87838",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/87838-0-7de08a43-f541-49db-b8fa-c698ddd1fb73.jpg",
+      "name": "Large Figure Skeletal, Torso, Angular with 7 Ball Joints",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "87839",
+      "color_id": "378",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566851.jpg",
+      "name": "Large Figure Skeletal, Limb, with 2 Ball Sockets",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "87840",
+      "color_id": "378",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4586921.jpg",
+      "name": "Large Figure Skeletal, Limb, with 2 Ball Joints",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "87841",
+      "color_id": "378",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566853.jpg",
+      "name": "Large Figure Foot, Short with Ball Joint Socket",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "87843pr0001",
+      "color_id": "378",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/28/87843pr0001-28-807f9672-6295-4145-963a-8a3002f6ac10.jpg",
+      "name": "Large Figure Torso Cover, with Raised Center Circle and Ben 10 Print",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "88519",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4568054.jpg",
+      "name": "Large Figure Head, Swampfire with Black Face Print",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "88964",
+      "color_id": "288",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570159.jpg",
+      "name": "Large Figure Barb / Horn, Flame",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "88964",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570158.jpg",
+      "name": "Large Figure Barb / Horn, Flame",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "2311",
+      "part_num": "88964",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570158.jpg",
+      "name": "Large Figure Barb / Horn, Flame",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2311",
+      "part_num": "88964",
+      "color_id": "288",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570159.jpg",
+      "name": "Large Figure Barb / Horn, Flame",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8410-1",
+    "name": "Swampfire",
+    "year": "2010",
+    "theme_id": "270",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8410-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 2,
+  "countedStandardParts": 23,
+  "minfigSetParts": []
+}

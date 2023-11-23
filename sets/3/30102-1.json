@@ -1,0 +1,301 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13564",
+      "part_num": "3062b",
+      "color_id": "322",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620909.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3069bpr0175",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4621609.jpg",
+      "name": "Tile 1 x 2 with Groove and Cell Phone / Music Player Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3626b",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3001140.jpg",
+      "name": "Minifig Head Plain [Blocked Open Stud]",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3659",
+      "color_id": "5",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244613.jpg",
+      "name": "Brick Arch 1 x 4",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3741",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374128.jpg",
+      "name": "Plant, Flower Stem",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3742",
+      "color_id": "14",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3899",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4618670.jpg",
+      "name": "Equipment Cup / Mug [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3941",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4279733.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "4150",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/415001.jpg",
+      "name": "Tile Round 2 x 2 with Bottom Cross",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "4740",
+      "color_id": "45",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129859.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "6141",
+      "color_id": "29",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4517996.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "6180",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112243.jpg",
+      "name": "Plate Special 4 x 6 with Studs on 3 Edges",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "62698",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4527063.jpg",
+      "name": "Equipment Laptop",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "64644",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4538126.jpg",
+      "name": "Equipment Telescope / Torch / Spyglass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "13564",
+      "part_num": "3741",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374128.jpg",
+      "name": "Plant, Flower Stem",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "3742",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "6141",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4517996.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "13564",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30102-1",
+    "name": "Desk",
+    "year": "2012",
+    "theme_id": "494",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30102-1.jpg"
+  },
+  "countedUniqueParts": 19,
+  "countedSpareParts": 4,
+  "countedStandardParts": 24,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51869",
+        "part_num": "92198pr0003",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4621334.jpg",
+        "name": "Minidoll Head with Light Brown Eyes, Pink Lips and Closed Mouth Print",
+        "part_cat_id": "62",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-001054"
+      },
+      {
+        "inventory_id": "51869",
+        "part_num": "92256",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4596241.jpg",
+        "name": "Hair Long Wavy [2 Holes]",
+        "part_cat_id": "65",
+        "part_material": "Rubber",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-001054"
+      },
+      {
+        "inventory_id": "51869",
+        "part_num": "92456c01pr0004",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6019137.jpg",
+        "name": "Minidoll Torso Girl with Dark Pink Top with Hearts Print, Light Nougat Arms and Hands",
+        "part_cat_id": "63",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-001054"
+      },
+      {
+        "inventory_id": "51869",
+        "part_num": "92820c01pr0003",
+        "color_id": "30",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018863.jpg",
+        "name": "Minidoll Hips and Short Skirt with Light Nougat Legs with Bright Pink Strap Shoes Print",
+        "part_cat_id": "64",
+        "part_material": "Plastic",
+        "colorName": "Medium Lavender",
+        "fig_num": "fig-001054"
+      }
+    ]
+  ]
+}

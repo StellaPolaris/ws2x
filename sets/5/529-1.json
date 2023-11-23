@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "32474",
+      "part_num": "250",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/250.png",
+      "name": "Duplo Brick 2 x 6 x 2 Double Concave",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3011",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301124.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3011",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301123.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3011",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301128.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3437",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343728.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "3664pr0019",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3664p07.png",
+      "name": "Duplo Brick 2 x 2 x 2 Curved Top with Eye Print on Two Sides",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "32474",
+      "part_num": "dupupn0127",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u977.png",
+      "name": "Duplo Brick Arch Half 2 x 3 x 3",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "529-1",
+    "name": "Animals",
+    "year": "1978",
+    "theme_id": "505",
+    "num_parts": "40",
+    "img_url": "https://cdn.rebrickable.com/media/sets/529-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 40,
+  "minfigSetParts": []
+}

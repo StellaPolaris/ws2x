@@ -1,0 +1,277 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11864",
+      "part_num": "2458",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/245821.jpg",
+      "name": "Brick Special 1 x 2 with Pin",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "2479",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/247923.jpg",
+      "name": "Propeller 4 Blade 5 Diameter with Rounded Ends, Open Hub",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3003",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300321.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3004",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300421.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3005pr9996",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/82357.jpg",
+      "name": "Brick 1 x 1 with Simple Eye Black and White Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3009",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300924.jpg",
+      "name": "Brick 1 x 6",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3020",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302023.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3031",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303123.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3298pr0019",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3298p17.png",
+      "name": "Slope 33 3 x 2 with Red Stripes Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3741",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374128.jpg",
+      "name": "Plant, Flower Stem",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3742",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3747b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3747b.png",
+      "name": "Slope Inverted 33 3 x 2 [Connections between Studs]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3795",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379523.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3795",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379521.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "3957a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11864",
+      "part_num": "4495a",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/4495a.png",
+      "name": "Flag 4 x 1 Wavy [First Wave Left]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "11864",
+      "part_num": "3742",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3233-1",
+    "name": "Fantasy Bird",
+    "year": "1998",
+    "theme_id": "729",
+    "num_parts": "32",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3233-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 2,
+  "countedStandardParts": 28,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51291",
+        "part_num": "3626bpr0326",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx19-14-1738d754-87bb-425b-b044-73cdb55cad91.jpg",
+        "name": "Minifig Head Time Cruisers Timmy / Soccer Player, Bangs and Freckles Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000477"
+      },
+      {
+        "inventory_id": "51291",
+        "part_num": "4485",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/448523.jpg",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000477"
+      },
+      {
+        "inventory_id": "51291",
+        "part_num": "970c31",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569120.jpg",
+        "name": "Hips and Green Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-000477"
+      },
+      {
+        "inventory_id": "51291",
+        "part_num": "973c27h01pr0039",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/973px39c01-2-3c8dba83-908b-4b7c-987f-eeafa72b5619.jpg",
+        "name": "Torso White and Yellow Triangle and Red 'T' Print (Freestyle Timmy), White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-000477"
+      }
+    ]
+  ]
+}

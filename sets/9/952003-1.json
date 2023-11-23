@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "48492",
+      "part_num": "3020",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211065.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "3021",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302124.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "3023",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4201019.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "3829c01",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/9553.jpg",
+      "name": "Steering Stand 1 x 2 with Black Steering Wheel",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "6014b",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4170460.jpg",
+      "name": "Wheel 11 x 12 with Hole Notched for Wheels Holder Pin",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "60478",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4515368.jpg",
+      "name": "Plate Special 1 x 2 with Handle on End [Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "6141",
+      "color_id": "84",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6167641.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Medium Nougat"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "6157",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211569.jpg",
+      "name": "Plate Special 2 x 2 with Wheels Holder Wide",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "85984",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550348.jpg",
+      "name": "Slope 30 1 x 2 x 2/3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "87697",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4568644.jpg",
+      "name": "Tyre 21 x 12 with Offset Tread Small Wide and Center Band",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "93609",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6167900.jpg",
+      "name": "Arm Skeleton [Bent / 2 Clips]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "48492",
+      "part_num": "98834",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6124820.jpg",
+      "name": "Spoiler 2 x 4 with Handle [Plain]",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "952003-1",
+    "name": "Eddy Erker with Bulldozer",
+    "year": "2020",
+    "theme_id": "56",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/952003-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "62437",
+        "part_num": "3626cpr2523",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6218244.jpg",
+        "name": "Minifig Head, Smirk, Peach Dimple, Stubble Beard and Moustache and Sideburns Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-008290"
+      },
+      {
+        "inventory_id": "62437",
+        "part_num": "3833",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/383301.jpg",
+        "name": "Helmet, Construction / Hard Hat",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-008290"
+      },
+      {
+        "inventory_id": "62437",
+        "part_num": "970c05",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4162916.jpg",
+        "name": "Hips and Dark Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-008290"
+      },
+      {
+        "inventory_id": "62437",
+        "part_num": "973c34h12pr2913",
+        "color_id": "25",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6102597.jpg",
+        "name": "Torso Construction Jacket over Dark Gray Hoodie, Zipper Pockets, Brown Belt Print, Orange Arms, Dark Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Orange",
+        "fig_num": "fig-008290"
+      }
+    ]
+  ]
+}

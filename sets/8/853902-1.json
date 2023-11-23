@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "35008",
+      "part_num": "15573",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092587.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "18674",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6115080.jpg",
+      "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "24246",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6131655.jpg",
+      "name": "Tile Round 1 x 1 Half Circle",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "25269",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6149677.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "25269",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6170390.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "3070b",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211288.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "49757",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6255803.jpg",
+      "name": "Key Chain, Chrome Chain and Ring with 2 x 4 Brick",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "6141",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4517996.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "6141",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4161734.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "6141",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614126.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "98138pr0008",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6029156.jpg",
+      "name": "Tile Round 1 x 1 with Offset Black Eye Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "35008",
+      "part_num": "98138pr0026",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6097402.jpg",
+      "name": "Tile Round 1 x 1 with Black Eye Closed with Eyelashes Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "853902-1",
+    "name": "Creative Bag Charm",
+    "year": "2019",
+    "theme_id": "503",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/853902-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

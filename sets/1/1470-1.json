@@ -1,0 +1,228 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1585",
+      "part_num": "3002",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300201.jpg",
+      "name": "Brick 2 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3003",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300324.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3003",
+      "color_id": "15",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3004pr9972",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3004pt3.png",
+      "name": "Brick 1 x 2 with Shell Logo Type I Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3009pr0027",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/3009pb004-15-59696cf1-eb32-4665-854e-804d239108d6.jpg",
+      "name": "Brick 1 x 6 with 'Shell' Bold Red Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3022",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302221.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3030",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303026.jpg",
+      "name": "Plate 4 x 10",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3030",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303021.jpg",
+      "name": "Plate 4 x 10",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "3794a",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "4006",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/400626.jpg",
+      "name": "Tool Screwdriver and Spanner / Wrench",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1585",
+      "part_num": "4083",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408324.jpg",
+      "name": "Bar 1 x 4 x 2 with Studs",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1470-1",
+    "name": "Shell Station",
+    "year": "1987",
+    "theme_id": "67",
+    "num_parts": "32",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1470-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 24,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51999",
+        "part_num": "3626apr0001",
+        "color_id": "14",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626ap01.png",
+        "name": "Minifig Head Standard Grin Print [Solid Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001184"
+      },
+      {
+        "inventory_id": "51999",
+        "part_num": "4485",
+        "color_id": "4",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/448521.jpg",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-001184"
+      },
+      {
+        "inventory_id": "51999",
+        "part_num": "970c22",
+        "color_id": "4",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582576.jpg",
+        "name": "Hips and Red Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-001184"
+      },
+      {
+        "inventory_id": "51999",
+        "part_num": "973c27h01pr0060",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973p60c01-15-db8f1712-d78a-4a5c-a8f8-5c08a1c7bac8.jpg",
+        "name": "Torso Shell Logo Large Print, White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001184"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "18909",
+      "part_num": "15571",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6164313.jpg",
+      "name": "Slope 45 2 x 1 Triple with Inside Stud Holder",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "15573",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092585.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "15712",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6071226.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "18671",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099909.jpg",
+      "name": "Bracket 3 x 2 x 1 1/3 with Pin Bottom",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "2723",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121619.jpg",
+      "name": "Technic Disc 3 x 3",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "27256",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6168590.jpg",
+      "name": "Wave / Lightning Angular, Single",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "27261",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6168609.jpg",
+      "name": "Plate Special 2 x 3 with Rocks",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "3023",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6051918.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "3666",
+      "color_id": "73",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179829.jpg",
+      "name": "Plate 1 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "3749",
+      "color_id": "19",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4186017.jpg",
+      "name": "Technic Axle Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "4032a",
+      "color_id": "85",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6030534.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "44728",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4277928.jpg",
+      "name": "Bracket 1 x 2 - 2 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "18909",
+      "part_num": "6541",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/654126.jpg",
+      "name": "Technic Brick 1 x 1 with Hole",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "271717-1",
+    "name": "Rock Speeder",
+    "year": "2017",
+    "theme_id": "605",
+    "num_parts": "31",
+    "img_url": "https://cdn.rebrickable.com/media/sets/271717-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 31,
+  "minfigSetParts": []
+}

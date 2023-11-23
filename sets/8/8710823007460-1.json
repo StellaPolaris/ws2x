@@ -1,0 +1,217 @@
+{
+  "standard": [
+    {
+      "inventory_id": "186373",
+      "part_num": "19220",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6100054.jpg",
+      "name": "Equipment Radio [Extended Handle, Expanded Speaker Grille]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "22667",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4245320.jpg",
+      "name": "Plant, Cherries",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "2423",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242328.jpg",
+      "name": "Plant, Leaves 4 x 3",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "30089b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6476480.jpg",
+      "name": "Equipment Camera Handheld with Central Viewfinder",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "30115",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6177702.jpg",
+      "name": "Animal, Snake, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "3020",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302021.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "3022",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302224.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "33172",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119478.jpg",
+      "name": "Plant, Carrot",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "33183",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119479.jpg",
+      "name": "Plant, Carrot Top",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "3899",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/389924.jpg",
+      "name": "Equipment Cup / Mug [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "186373",
+      "part_num": "6256",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4243920.jpg",
+      "name": "Equipment Dish / Plate / Bowl 3 x 3 [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "8710823007460-1",
+    "name": "Een Doldwaze Zomer",
+    "year": "2023",
+    "theme_id": "497",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8710823007460-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "129074",
+        "part_num": "3626cpr3528",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6338854.jpg",
+        "name": "Minifig Head Dynamo Doug, Beard Stubble, Raised Eyebrows, Large Open Mouth Smile Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "66913",
+        "color_id": "3",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6296942.jpg",
+        "name": "Minifig Neckwear Headphones",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Dark Turquoise",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "973c22h01pr5737",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6356591.jpg",
+        "name": "Torso Shirt, Open with Flames, Lime Undershirt with Lightning Bolt Print, Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "98385",
+        "color_id": "226",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6142823.jpg",
+        "name": "Hair Spiked",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Yellow",
+        "fig_num": "fig-012362"
+      }
+    ]
+  ]
+}

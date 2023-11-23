@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "174744",
+      "part_num": "3004",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300423.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "3005",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300523.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "3008",
+      "color_id": "1",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300823.jpg",
+      "name": "Brick 1 x 8",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "3008pr0035",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/3008pb055-15-eaa229e5-e107-4857-bd27-5aeaa278e3d8.jpg",
+      "name": "Brick 1 x 8 with 'GARAGE' Thin Narrow Black Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "3009",
+      "color_id": "1",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300923.jpg",
+      "name": "Brick 1 x 6",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "3010",
+      "color_id": "1",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301023.jpg",
+      "name": "Brick 1 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "3035",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303501.jpg",
+      "name": "Plate 4 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "3036",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303601.jpg",
+      "name": "Plate 6 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "645cc01",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/645cc01.png",
+      "name": "Window 1 x 6 x 2 Classic with Short Sill (Complete)",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "820a",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/820a-7-74b5f82f-26f4-43e6-8071-542420034324.jpg",
+      "name": "Baseplate Raised 8 x 18 with Garage Floor Plate with Octagon Holes for Automatic Doors",
+      "part_cat_id": "1",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "174744",
+      "part_num": "820b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/grautodoor-4-8b7e0500-3cbf-4118-abd9-54c906b9c5a1.jpg",
+      "name": "Garage Door 1 x 3 x 5 Automatic with One Octagon Stud and One Round Stud (Old style)",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "348-1",
+    "name": "Garage with Automatic Doors",
+    "year": "1971",
+    "theme_id": "413",
+    "num_parts": "38",
+    "img_url": "https://cdn.rebrickable.com/media/sets/348-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 38,
+  "minfigSetParts": []
+}

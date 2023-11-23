@@ -1,0 +1,313 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3347",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "298c02",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73737.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "3023",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164037.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "30385",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541538.jpg",
+      "name": "Rock 1 x 1 Crystal 5 Point",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "3700",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370026.jpg",
+      "name": "Technic Brick 1 x 2 [1 Hole]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "3795",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211002.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "4079",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4079.png",
+      "name": "Seat / Chair 2 x 2",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "4590",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217558.jpg",
+      "name": "Plate Special 1 x 4 Offset",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "50950",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4537928.jpg",
+      "name": "Slope Curved 3 x 1 No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "54200",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504372.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "57563",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541469.jpg",
+      "name": "Large Figure Weapon Blade, Mahri Matoran",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "6014b",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211764.jpg",
+      "name": "Wheel 11 x 12 with Hole Notched for Wheels Holder Pin",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "6015",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/601526.jpg",
+      "name": "Tyre 21 x 12 with Offset Tread Small Wide",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "6141",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183133.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "6157",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/615726.jpg",
+      "name": "Plate Special 2 x 2 with Wheels Holder Wide",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "6536",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4173601.jpg",
+      "name": "Technic Axle and Pin Connector Perpendicular",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3347",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "298c02",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73737.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "54200",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504372.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "3347",
+      "part_num": "6141",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183133.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8907-1",
+    "name": "Rock Hacker",
+    "year": "2009",
+    "theme_id": "439",
+    "num_parts": "29",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8907-1.jpg"
+  },
+  "countedUniqueParts": 20,
+  "countedSpareParts": 7,
+  "countedStandardParts": 25,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51681",
+        "part_num": "30325",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540418.jpg",
+        "name": "Helmet with Breathing Apparatus and Headlights",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000866"
+      },
+      {
+        "inventory_id": "51681",
+        "part_num": "3626bpr0559",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4542174.jpg",
+        "name": "Minifig Head Stubble Guy, Dual Sided, Thick Eyebrows and Stubble, Evil Grin / Surprised Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000866"
+      },
+      {
+        "inventory_id": "51681",
+        "part_num": "970c28pr0122",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/970c00pr0122-1-2180c53c-8027-4f93-9264-52b03a88de5a.jpg",
+        "name": "Hips and Blue Legs with Flashlight and Chain Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000866"
+      },
+      {
+        "inventory_id": "51681",
+        "part_num": "973c01h12pr1432",
+        "color_id": "71",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4542512.jpg",
+        "name": "Torso Vest, Blue over Sweaty Shirt Print, Yellow Arms, Dark Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Bluish Gray",
+        "fig_num": "fig-000866"
+      }
+    ]
+  ]
+}

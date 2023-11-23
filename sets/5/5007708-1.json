@@ -1,0 +1,241 @@
+{
+  "standard": [
+    {
+      "inventory_id": "120679",
+      "part_num": "15712",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6072998.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "23443",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6143318.jpg",
+      "name": "Bar Holder with Hole and Bar Handle",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "2412b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "2432",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243226.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "2496",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/249626.jpg",
+      "name": "Wheel Skateboard / Trolley",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "2655",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211373.jpg",
+      "name": "Wheel Holder, Plate, Round 2 x 2 Thin with Clips",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "3005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300526.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "3020",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302026.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "4595",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4190471.jpg",
+      "name": "Brick Special 1 x 2 x 2/3 with Studs on Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "48729b",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4542590.jpg",
+      "name": "Bar 1L with Clip [Cut Edges and One Side Hole] [Gap in Clip]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "54200",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504382.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "95344",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6167664.jpg",
+      "name": "Bucket 1 x 1 x 1 Handle",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "120679",
+      "part_num": "98138",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646864.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5007708-1",
+    "name": "City: Go Extreme!",
+    "year": "2021",
+    "theme_id": "497",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5007708-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "129074",
+        "part_num": "3626cpr3528",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6338854.jpg",
+        "name": "Minifig Head Dynamo Doug, Beard Stubble, Raised Eyebrows, Large Open Mouth Smile Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "66913",
+        "color_id": "3",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6296942.jpg",
+        "name": "Minifig Neckwear Headphones",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Dark Turquoise",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "973c22h01pr5737",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6356591.jpg",
+        "name": "Torso Shirt, Open with Flames, Lime Undershirt with Lightning Bolt Print, Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-012362"
+      },
+      {
+        "inventory_id": "129074",
+        "part_num": "98385",
+        "color_id": "226",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6142823.jpg",
+        "name": "Hair Spiked",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Yellow",
+        "fig_num": "fig-012362"
+      }
+    ]
+  ]
+}

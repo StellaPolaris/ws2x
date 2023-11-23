@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "7184",
+      "part_num": "43559",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4194640.jpg",
+      "name": "Large Figure Shoulder Cover, Armour",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "44814",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4622785.jpg",
+      "name": "Large Figure Mask Avohkii",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "55013",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4499858.jpg",
+      "name": "Technic Axle 8 with Stop",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "57543",
+      "color_id": "179",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4609613.jpg",
+      "name": "Large Figure Weapon Blade (Hewkii Mahri / Solek)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "60176",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4519225.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Closed Sides, Squared Ends",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "60894",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4516400.jpg",
+      "name": "Large Figure Skeletal, Torso with 5 Ball Joints (Av-Matoran Type 1)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "60899",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565915.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular with Ball Joint, and Ball Socket (Av-Matoran)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "60901",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4516406.jpg",
+      "name": "Large Figure Head Connector Block (Av-Matoran)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "64251",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541458.jpg",
+      "name": "Large Figure Hand, Fist with Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "87790",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569233.jpg",
+      "name": "Large Figure Torso Cover, Armor, Small Triangular with Pincer End",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "87790",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565916.jpg",
+      "name": "Large Figure Torso Cover, Armor, Small Triangular with Pincer End",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7184",
+      "part_num": "87791",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565917.jpg",
+      "name": "Large Figure Foot, Small with Axle Connector",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7135-1",
+    "name": "Takanuva",
+    "year": "2010",
+    "theme_id": "324",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7135-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 21,
+  "minfigSetParts": []
+}

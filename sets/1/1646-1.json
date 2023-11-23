@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "7221",
+      "part_num": "122c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/122c01.png",
+      "name": "Plate Special 2 x 2 with Wheels Red",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3007",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300701.jpg",
+      "name": "Brick 2 x 8",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3037",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303726.jpg",
+      "name": "Slope 45 2 x 4",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3039",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/622740.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3137c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3137c01.png",
+      "name": "Brick Special 2 x 2 [Red Wheels for Single Tyre]",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3298",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329801.jpg",
+      "name": "Slope 33 3 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3641",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/364126.jpg",
+      "name": "Tyre 15 x 6 Offset Tread Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3795",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379501.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "3795",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "4286",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/428626.jpg",
+      "name": "Slope 33 3 x 1",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7221",
+      "part_num": "4287a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4287a.png",
+      "name": "Slope Inverted 34 3 x 1 without Internal Stopper",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1646-1",
+    "name": "Lego Motion 3A, Land Laser",
+    "year": "1989",
+    "theme_id": "728",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1646-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

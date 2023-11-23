@@ -1,0 +1,218 @@
+{
+  "standard": [
+    {
+      "inventory_id": "38793",
+      "part_num": "20482",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6186681.jpg",
+      "name": "Tile Round 1 x 1 with Hollow Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "30089b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6476480.jpg",
+      "name": "Equipment Camera Handheld with Central Viewfinder",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "30377",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4260649.jpg",
+      "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "32138",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211888.jpg",
+      "name": "Technic Pin Double with Axle Hole",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "43093",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206482.jpg",
+      "name": "Technic Axle Pin with Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "43857",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4177444.jpg",
+      "name": "Technic Beam 1 x 2 Thick",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "4733",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4111971.jpg",
+      "name": "Brick Special 1 x 1 Studs on 4 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "49656pat0002",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6259944.jpg",
+      "name": "Geode / Rock with Glitter Trans Light Blue Crystal",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "98138",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650498.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "38793",
+      "part_num": "98138pr0118",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6287773.jpg",
+      "name": "Tile Round 1 x 1 with Black Circle and 2 Medium Blue Circles print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "38793",
+      "part_num": "30377",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4260649.jpg",
+      "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "951908-1",
+    "name": "Astronaut",
+    "year": "2019",
+    "theme_id": "679",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/951908-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 1,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "63066",
+        "part_num": "3626cpr0891",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4651441.jpg",
+        "name": "Minifig Head, Black Eyebrows, Thin Grin, Eyes with White Pupils Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-008504"
+      },
+      {
+        "inventory_id": "63066",
+        "part_num": "87754",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600121.jpg",
+        "name": "Helmet Underwater / Space, Breathing Apparatus",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-008504"
+      },
+      {
+        "inventory_id": "63066",
+        "part_num": "89159",
+        "color_id": "82",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6051839.jpg",
+        "name": "Headwear Accessory Visor [Large with Trapezoid Top]",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Metallic Gold",
+        "fig_num": "fig-008504"
+      },
+      {
+        "inventory_id": "63066",
+        "part_num": "970c27pr1710",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6264146.jpg",
+        "name": "Hips and White Legs with Space Suit, White Belt, Dark Orange/Medium Blue Lines",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-008504"
+      },
+      {
+        "inventory_id": "63066",
+        "part_num": "973c27h27pr4710",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6265223.jpg",
+        "name": "Torso Space Suit, Gray Chest Device, Orange Mars Exploration Logo Print, White Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-008504"
+      }
+    ]
+  ]
+}

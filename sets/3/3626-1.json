@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15665",
+      "part_num": "264",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4463.png",
+      "name": "Window 1 x 4 x 5 Curved Top",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "3010",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301024.jpg",
+      "name": "Brick 1 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "3957a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "4328",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4328.png",
+      "name": "Tool Pipe Wrench / Adjustable Spanner",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "4362acx1",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4362ac01.png",
+      "name": "Fabuland, Vehicle Base, Car Chassis 12 x 6 with Tow Hook [Complete Assembly]",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "4440",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4440.png",
+      "name": "Fabuland, Tool Fuel Can / Jerrycan",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "4461",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4461.png",
+      "name": "Box 4 x 4 x 2 Bottom with Semicircle Cut-out Ends",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "4466",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4466.png",
+      "name": "Exhaust Pipe Twin Inlet 11L Left",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "4467",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4467.png",
+      "name": "Exhaust Pipe Twin Inlet 11L Right",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "fabfig0001c05pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u9107p05c02.png",
+      "name": "Fabuland Figure Raccoon 1",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "fabupn0038",
+      "color_id": "14",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u608.png",
+      "name": "Brick Curved 1 x 4 x 2 Fabuland Bell Shape",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15665",
+      "part_num": "fabupn0039",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u609.png",
+      "name": "Brick Curved 1 x 4 x 2 Fabuland Bell Shape with Headlights",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3626-1",
+    "name": "Roger Raccoon's Sports Car",
+    "year": "1983",
+    "theme_id": "390",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3626-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

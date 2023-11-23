@@ -1,0 +1,174 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4252",
+      "part_num": "14419",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6039482.jpg",
+      "name": "Plate Special 1 x 2 with 5.9mm End Cup and Towball",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "14704",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6043656.jpg",
+      "name": "Plate Special 1 x 2 5.9mm Centre Side Cup",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "17485",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6078985.jpg",
+      "name": "Brick Round 2 x 2 with Pin Holes",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "30367c",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211637.jpg",
+      "name": "Brick Round 2 x 2 Dome Top - Hollow Stud with Bottom Axle Holder x Shape + Orientation",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "3941",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614321.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "6222",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211527.jpg",
+      "name": "Brick Round 4 x 4 with 4 Side Pin Holes and Center Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "6628",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4184169.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Towball",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "86500",
+      "color_id": "40",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6079676.jpg",
+      "name": "Dome Hemisphere 4 x 4",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "87081",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610843.jpg",
+      "name": "Brick Round 4 x 4 [Centre Hole]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "4252",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4252",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "40137-1",
+    "name": "Submarine",
+    "year": "2015",
+    "theme_id": "409",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/40137-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 2,
+  "countedStandardParts": 28,
+  "minfigSetParts": []
+}

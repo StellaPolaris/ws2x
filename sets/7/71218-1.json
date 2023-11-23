@@ -1,0 +1,311 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14611",
+      "part_num": "11476",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6028812.jpg",
+      "name": "Plate Special 1 x 2 with Clip Horizontal on Side",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "11477",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6047276.jpg",
+      "name": "Slope Curved 2 x 1 No Studs [1/2 Bow]",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "18868c00",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104392.jpg",
+      "name": "Function Brick Round 4 x 4 x 2/3 with 4 Studs (Generic for Gadgets)",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "19981pr0036",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6122899.jpg",
+      "name": "Function Brick Round 4 x 4 x 2/3 with 2 Studs and White Fish Skeleton and Gray Stones Print",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "3941",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4178398.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "4032a",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211159.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "41854",
+      "color_id": "308",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6096940.jpg",
+      "name": "Mudguard 2 x 4 with 2 x 2 Studs and Flared Wings",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Dark Brown"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "50950",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4251161.jpg",
+      "name": "Slope Curved 3 x 1 No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "61252",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4517925.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "6141",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216581.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "64648",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611885.jpg",
+      "name": "Animal, Fish [Hollow Stud Mouth]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "75937",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018805.jpg",
+      "name": "Plate Special 2 x 2 with Bar Frame Octagonal, Reinforced, Completely Round Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "87747",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4563477.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Medium",
+      "part_cat_id": "28",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "93061",
+      "color_id": "72",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6037872.jpg",
+      "name": "Arm Skeleton Bent with Clips at 90 [Vertical Grip]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "99781",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6016172.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "14611",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "6141",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216581.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "87747",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4563477.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Medium",
+      "part_cat_id": "28",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14611",
+      "part_num": "93061",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6037872.jpg",
+      "name": "Arm Skeleton Bent with Clips at 90 [Vertical Grip]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "71218-1",
+    "name": "Gollum Fun Pack",
+    "year": "2015",
+    "theme_id": "604",
+    "num_parts": "39",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71218-1.jpg"
+  },
+  "countedUniqueParts": 22,
+  "countedSpareParts": 5,
+  "countedStandardParts": 36,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "54683",
+        "part_num": "10057pr0002",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6025335.jpg",
+        "name": "Body / Head Gollum - Narrow Eyes",
+        "part_cat_id": "13",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003420"
+      },
+      {
+        "inventory_id": "54683",
+        "part_num": "10058",
+        "color_id": "19",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6002801.jpg",
+        "name": "Arm, Bent [Gollum]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003420"
+      }
+    ]
+  ]
+}

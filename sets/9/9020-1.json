@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15947",
+      "part_num": "29540",
+      "color_id": "4",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238349.jpg",
+      "name": "Brick, Soft 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29540",
+      "color_id": "2",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238366.jpg",
+      "name": "Brick, Soft 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29540",
+      "color_id": "14",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238363.jpg",
+      "name": "Brick, Soft 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29540",
+      "color_id": "1",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238357.jpg",
+      "name": "Brick, Soft 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29540pr0001",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238363.jpg",
+      "name": "Brick Soft 2 x 2 with Eye Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29541",
+      "color_id": "1",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238359.jpg",
+      "name": "Brick, Soft 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29541",
+      "color_id": "2",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238367.jpg",
+      "name": "Brick, Soft 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29541",
+      "color_id": "4",
+      "quantity": "11",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238352.jpg",
+      "name": "Brick, Soft 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29541",
+      "color_id": "14",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238365.jpg",
+      "name": "Brick, Soft 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "29541pr0001",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Brick Soft 2 x 4 with Smile Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "50855",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238375.jpg",
+      "name": "Brick, Soft 2 x 4 with Curved Top",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15947",
+      "part_num": "71727",
+      "color_id": "4",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238372.jpg",
+      "name": "Brick, Soft 2 x 2 with Curved Top",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9020-1",
+    "name": "Soft Starter Set",
+    "year": "1998",
+    "theme_id": "526",
+    "num_parts": "84",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9020-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 84,
+  "minfigSetParts": []
+}

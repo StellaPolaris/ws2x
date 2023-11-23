@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11773",
+      "part_num": "2540",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140593.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "2654",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278273.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "33291",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141053.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 4 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "3958",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140525.jpg",
+      "name": "Plate 6 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "6141",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218588.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "6179",
+      "color_id": "191",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6116293.jpg",
+      "name": "Plate Special 4 x 4 with Studs on One Edge [Plain]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "63864",
+      "color_id": "30",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6097302.jpg",
+      "name": "Tile 1 x 3",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Medium Lavender"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "87079",
+      "color_id": "30",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4651902.jpg",
+      "name": "Tile 2 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Medium Lavender"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "92280",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4598526.jpg",
+      "name": "Plate Special 1 x 2 [Top Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "11773",
+      "part_num": "98387pr0002",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022491.jpg",
+      "name": "Animal, Rabbit / Bunny Sitting with Blue Eyes, Black Nose and Mouth and White Beard Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "561606-1",
+    "name": "Rabbit and Hutch",
+    "year": "2016",
+    "theme_id": "494",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/561606-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 18,
+  "minfigSetParts": []
+}

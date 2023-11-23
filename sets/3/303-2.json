@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3696",
+      "part_num": "132a",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/u9131.png",
+      "name": "Tyre Smooth Old Style - Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3001a",
+      "color_id": "1",
+      "quantity": "18",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3001.png",
+      "name": "Brick 2 x 4 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3001a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3001.png",
+      "name": "Brick 2 x 4 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3002a",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/3002.png",
+      "name": "Brick 2 x 3 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3003a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3003.png",
+      "name": "Brick 2 x 2 without Inside Ridges",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3004",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300421.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3034",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303401.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3035",
+      "color_id": "15",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303501.jpg",
+      "name": "Plate 4 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "3039",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "7039d",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/7039d-4-74bcec03-dd85-4c1f-a93b-a8e85f9a56fd.jpg",
+      "name": "Wheel Old with 4 Studs without inner Side Supports (Old Lego Logo)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3696",
+      "part_num": "7049a",
+      "color_id": "15",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/7049a.png",
+      "name": "Brick Special 2 x 4 with Wheel Holder Old, Opaque Bottom",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "303-2",
+    "name": "Aeroplane",
+    "year": "1964",
+    "theme_id": "373",
+    "num_parts": "46",
+    "img_url": "https://cdn.rebrickable.com/media/sets/303-2.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 46,
+  "minfigSetParts": []
+}

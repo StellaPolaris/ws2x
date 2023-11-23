@@ -1,0 +1,243 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2760",
+      "part_num": "2489",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/248925.jpg",
+      "name": "Barrel 2 x 2 x 2",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "2530",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106923.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "2547",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2547a.png",
+      "name": "Animal Body Part, Shark Body, without Bottom Tube",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "2548",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2548.png",
+      "name": "Animal Body Part, Shark Head",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "30088",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106936.jpg",
+      "name": "Weapon Spear Gun with Rounded Trigger and Thin Spear Base",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "30092",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/30092.png",
+      "name": "Equipment Underwater Scooter, 2 Bar Handles, Octagonal End",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "4032a",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403225.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "59275",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/59275a.png",
+      "name": "Minifig Footwear Flipper [Thin]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "6141",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005748.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "2760",
+      "part_num": "6141",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005748.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "2760",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "2871-1",
+    "name": "Diver and Shark",
+    "year": "1997",
+    "theme_id": "86",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2871-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 2,
+  "countedStandardParts": 11,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51345",
+        "part_num": "2446",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106304.jpg",
+        "name": "Helmet, Standard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000530"
+      },
+      {
+        "inventory_id": "51345",
+        "part_num": "30090",
+        "color_id": "33",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106554.jpg",
+        "name": "Headwear Accessory Visor / Diver's Mask",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Dark Blue",
+        "fig_num": "fig-000530"
+      },
+      {
+        "inventory_id": "51345",
+        "part_num": "30091a",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106563.jpg",
+        "name": "Minifig Neckwear Scuba Tank, No Bar Holder",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-000530"
+      },
+      {
+        "inventory_id": "51345",
+        "part_num": "3626bpr0320",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx26-14-288159ea-ceda-4d48-b5d9-36fa19a1a11e.jpg",
+        "name": "Minifig Head, Brown Bangs and Line Stubble Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000530"
+      },
+      {
+        "inventory_id": "51345",
+        "part_num": "970c22",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582624.jpg",
+        "name": "Hips and Red Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000530"
+      },
+      {
+        "inventory_id": "51345",
+        "part_num": "973c22h03pr0051",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/973px51c01-4-0d7666a8-e190-415c-948a-04c4a7c6b649.jpg",
+        "name": "Torso Wetsuit with Submarine Logo and Gauges Print, Red Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000530"
+      }
+    ]
+  ]
+}

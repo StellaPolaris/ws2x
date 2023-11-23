@@ -1,0 +1,231 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13891",
+      "part_num": "2423",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242328.jpg",
+      "name": "Plant, Leaves 4 x 3",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "2542",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106940.jpg",
+      "name": "Equipment Oar / Paddle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "3022",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302221.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "3023",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302302.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "3034",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303426.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "3835",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383526.jpg",
+      "name": "Weapon Axe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "4497",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/449725.jpg",
+      "name": "Weapon Pike / Spear Round End",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "4499",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107581.jpg",
+      "name": "Weapon Bow and Arrow [Large]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "6019",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/601902.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13891",
+      "part_num": "6215",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/621521.jpg",
+      "name": "Brick Curved 2 x 3 with Curved Top",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "13891",
+      "part_num": "30126pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/30126p01.png",
+      "name": "Headwear Accessory Plume / Feathers with Pin and Black Tip on Both Sides Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "2846-1",
+    "name": "Indian Kayak",
+    "year": "1997",
+    "theme_id": "475",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2846-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 1,
+  "countedStandardParts": 12,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51252",
+        "part_num": "30114",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569087.jpg",
+        "name": "Hair Long and Side Braided with Headband",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000438"
+      },
+      {
+        "inventory_id": "51252",
+        "part_num": "30126pr0003",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/30126p01.png",
+        "name": "Headwear Accessory Plume / Feathers with Pin and Black Tip on Both Sides Print",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000438"
+      },
+      {
+        "inventory_id": "51252",
+        "part_num": "3626bpr9981",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bpw4.png",
+        "name": "Minifig Head Indian, Face Paint with Orange Painted Face Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000438"
+      },
+      {
+        "inventory_id": "51252",
+        "part_num": "4498",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107580.jpg",
+        "name": "Minifig Neckwear Weapon Arrow Quiver",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000438"
+      },
+      {
+        "inventory_id": "51252",
+        "part_num": "970c26pr0005",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/19/970x023pr0004-19-28e8a7f8-7df4-4ab2-abb4-8006e45de106.jpg",
+        "name": "Hips and Tan Legs with Indians Blue/White Triangles, Fringe Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000438"
+      },
+      {
+        "inventory_id": "51252",
+        "part_num": "973c26h01pr0103",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/19/973px103c01-19-f7165f25-e0a2-4635-98b5-edc2e6f6384a.jpg",
+        "name": "Torso Buckskin Tunic with American Indian Decorations, Blue and White Triangles, and Red and White Amulet Print, Tan Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-000438"
+      }
+    ]
+  ]
+}

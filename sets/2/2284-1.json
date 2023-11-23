@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26889",
+      "part_num": "3011",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301124.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "31202c06pr0001",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/31202c06pr0001-2-c82e2f27-ea43-40a7-904f-cc9f2f6af606.jpg",
+      "name": "Duplo Car Base 2 x 4 with Yellow Wheels with Red Print, and Lego Logo on Base (Brickrunner)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "31205",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540052.jpg",
+      "name": "Duplo Road Section, Curve",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "31205",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/31205-1-3bd9f7d7-5aaf-42d1-a6b7-b36f04ff6e49.jpg",
+      "name": "Duplo Road Section, Curve",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "31205pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/31205pb01-4-765ce958-b6c5-420d-bdc7-8ec2da7b5309.jpg",
+      "name": "Duplo Road Section, Curve with Stripes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "31205pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/31205pb01-14-b84dfb5a-f9c8-4056-a55a-698f77728079.jpg",
+      "name": "Duplo Road Section, Curve with Stripes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "3437",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343728.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26889",
+      "part_num": "6474pr9982",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/6474pr0018-14-15582d1e-fa5b-4b8b-93a4-25a947aa25af.jpg",
+      "name": "Duplo Brick 2 x 2 Slope 45 with Clown Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2284-1",
+    "name": "Clown Go Round",
+    "year": "1999",
+    "theme_id": "505",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2284-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

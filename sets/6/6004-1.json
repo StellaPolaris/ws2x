@@ -1,0 +1,218 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4029",
+      "part_num": "2470",
+      "color_id": "6",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/6/2470.png",
+      "name": "Wheel Wagon Small (27mm D.)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "2540",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254021.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "2570",
+      "color_id": "8",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/257027.jpg",
+      "name": "Weapon Crossbow and Bolt",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "2586pr0014",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/2586p4f.png",
+      "name": "Minifig Shield Ovoid with Batlord Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "2926",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/292626.jpg",
+      "name": "Plate Special 1 x 4 with Wheels Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "3794a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "3795",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "4081b",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408124.jpg",
+      "name": "Plate Special 1 x 1 with Clip Light [Thick Ring]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "4497",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/449725.jpg",
+      "name": "Weapon Pike / Spear Round End",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "4029",
+      "part_num": "4623",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4501109.jpg",
+      "name": "Plate Special 1 x 2 with Arm Up [Horizontal Arm 6mm]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "4029",
+      "part_num": "4497",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/449725.jpg",
+      "name": "Weapon Pike / Spear Round End",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    }
+  ],
+  "setInfo": {
+    "set_num": "6004-1",
+    "name": "Crossbow Cart",
+    "year": "1997",
+    "theme_id": "195",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6004-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 1,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50870",
+        "part_num": "3626bpr9953",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx97-14-5bbcbf11-6e61-49e1-8e6f-4d6c4bb1f593.jpg",
+        "name": "Minifig Head Forestman / Knight, Moustache and Forehead Tuft Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000057"
+      },
+      {
+        "inventory_id": "50870",
+        "part_num": "3896",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3896.png",
+        "name": "Helmet Castle with Chin Guard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000057"
+      },
+      {
+        "inventory_id": "50870",
+        "part_num": "4498",
+        "color_id": "6",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/449825.jpg",
+        "name": "Minifig Neckwear Weapon Arrow Quiver",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Brown",
+        "fig_num": "fig-000057"
+      },
+      {
+        "inventory_id": "50870",
+        "part_num": "970c08",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/970x026-8-77aac8fa-923d-44c0-8f1e-242358066537.jpg",
+        "name": "Hips and Dark Gray Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000057"
+      },
+      {
+        "inventory_id": "50870",
+        "part_num": "973c22h01pr0066",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/973pb0066c01-7-5f69604a-4284-4e42-8db3-2347b427579d.jpg",
+        "name": "Torso Armor, Fright Knights Fleur de Lis Print, Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-000057"
+      }
+    ]
+  ]
+}

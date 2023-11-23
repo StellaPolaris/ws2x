@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "64104",
+      "part_num": "10928",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6012451.jpg",
+      "name": "Technic Gear 8 Tooth [Reinforced]",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "16511",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6074147.jpg",
+      "name": "Battery Box, Power Functions 4 x 11 x 7 with Orange Switch and Dark Bluish Gray Covers [New Version]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "32073",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211639.jpg",
+      "name": "Technic Axle 5",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "3648b",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4514558.jpg",
+      "name": "Technic Gear 24 Tooth [New Style with Single Axle Hole][Type 1]",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "58120",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506083.jpg",
+      "name": "Motor, Medium, Power Functions, 3 x 6 x 3 with Dark Bluish Gray Bottom and 20cm Wire",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "61903",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4525904.jpg",
+      "name": "Technic Universal Joint 3L [Complete Assembly]",
+      "part_cat_id": "25",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "61929c02",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/71/u9333c01.png",
+      "name": "Pole Reverser, Power Functions, Black Wire",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "61930",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4546421.jpg",
+      "name": "Light Unit, LED with Black Cable, Power Functions",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "76244",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4535052.jpg",
+      "name": "Technic Gear 24 Tooth Clutch with Dark Bluish Gray Center",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "64104",
+      "part_num": "10928",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6012451.jpg",
+      "name": "Technic Gear 8 Tooth [Reinforced]",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "32073",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211639.jpg",
+      "name": "Technic Axle 5",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "64104",
+      "part_num": "61903",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4525904.jpg",
+      "name": "Technic Universal Joint 3L [Complete Assembly]",
+      "part_cat_id": "25",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8293-1",
+    "name": "Power Functions Motor Set",
+    "year": "2008",
+    "theme_id": "438",
+    "num_parts": "10",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8293-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 4,
+  "countedStandardParts": 10,
+  "minfigSetParts": []
+}

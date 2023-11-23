@@ -1,0 +1,228 @@
+{
+  "standard": [
+    {
+      "inventory_id": "134104",
+      "part_num": "14769",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6044691.jpg",
+      "name": "Tile Round 2 x 2 with Bottom Stud Holder",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "14769pr1235",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6384992.jpg",
+      "name": "Tile Roune 2 x 2 with Open Mouth, Orange Tongue, Gold Tooth print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "17485",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6173922.jpg",
+      "name": "Brick Round 2 x 2 with Pin Holes",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "36752a",
+      "color_id": "28",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/28/36752a.png",
+      "name": "Equipment Wand [Individual]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "3900",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211753.jpg",
+      "name": "Equipment Signal Paddle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "4032a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403221.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "4274",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211483.jpg",
+      "name": "Technic Pin 1/2",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "4740",
+      "color_id": "82",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6078236.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Metallic Gold"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "6141",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211525.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "65578",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6326748.jpg",
+      "name": "Bar, Angled with Stud on End",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "88646",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4571146.jpg",
+      "name": "Plate Special 3 x 4 with 1 x 4 Center Studs [Plain]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "134104",
+      "part_num": "4274",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211483.jpg",
+      "name": "Technic Pin 1/2",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "6141",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211525.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "134104",
+      "part_num": "65578",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6326748.jpg",
+      "name": "Bar, Angled with Stud on End",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "71033-8",
+    "name": "Animal",
+    "year": "2022",
+    "theme_id": "720",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71033-8.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 3,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "134568",
+        "part_num": "89647pr0001",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/89647pr0001-4-0dd29d35-462f-4208-a62b-a48361f5a731.jpg",
+        "name": "Minifig Head Special (Animal)",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-012519"
+      },
+      {
+        "inventory_id": "134568",
+        "part_num": "970c19pat34pr0001",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6384996.jpg",
+        "name": "Hips with Reddish Brown Legs and Orange Boots Pattern with Reddish Brown Torn Pants, White Rope as Belt",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-012519"
+      },
+      {
+        "inventory_id": "134568",
+        "part_num": "973g01c38h38pr0001",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6390042.jpg",
+        "name": "Torso, Dual Molded Arms, Jacket, Laces, Bright Light Orange Belly print, Yellow Sleeves Pattern, Bright Light Orange Arms and Hands [PLAIN]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012519"
+      }
+    ]
+  ]
+}

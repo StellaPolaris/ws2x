@@ -1,0 +1,313 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2801",
+      "part_num": "2423",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242328.jpg",
+      "name": "Plant, Leaves 4 x 3",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "3022",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114084.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "3036",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303628.jpg",
+      "name": "Plate 6 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "30374",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158791.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "3062b",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211183.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "3068b",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306821.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "3068b",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4185177.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "33125",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273743.jpg",
+      "name": "Food Croissant - Rounded Ends",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "59900",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529242.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "59900",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4567338.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "182",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4222960.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183133.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614124.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "87580",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565388.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4222960.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183133.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "2801",
+      "part_num": "6141",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614124.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30108-1",
+    "name": "Summer Picnic",
+    "year": "2013",
+    "theme_id": "494",
+    "num_parts": "33",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30108-1.jpg"
+  },
+  "countedUniqueParts": 20,
+  "countedSpareParts": 4,
+  "countedStandardParts": 29,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51270",
+        "part_num": "92198pr0006",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6017024.jpg",
+        "name": "Minidoll Head with Light Brown Eyes, Freckles, Pink Lips and Closed Mouth Print",
+        "part_cat_id": "62",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-000456"
+      },
+      {
+        "inventory_id": "51270",
+        "part_num": "92257",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4621315.jpg",
+        "name": "Hair Long with Ponytail and Side Bangs [1 Hole]",
+        "part_cat_id": "65",
+        "part_material": "Rubber",
+        "colorName": "Dark Red",
+        "fig_num": "fig-000456"
+      },
+      {
+        "inventory_id": "51270",
+        "part_num": "92456c01pr0001",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018850.jpg",
+        "name": "Minidoll Torso Girl with Light Blue Halter Top with Paw and Butterflies Print, Light Nougat Arms and Hands",
+        "part_cat_id": "63",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-000456"
+      },
+      {
+        "inventory_id": "51270",
+        "part_num": "92819c01pr0002",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018844.jpg",
+        "name": "Minidoll Hips and Cropped Trousers with Dark Pink Butterfly, Light Nougat Legs and Medium Lavender Sandals Print",
+        "part_cat_id": "64",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000456"
+      }
+    ]
+  ]
+}

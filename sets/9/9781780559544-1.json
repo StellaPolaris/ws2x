@@ -1,0 +1,229 @@
+{
+  "standard": [
+    {
+      "inventory_id": "166679",
+      "part_num": "11477",
+      "color_id": "321",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6137300.jpg",
+      "name": "Slope Curved 2 x 1 No Studs [1/2 Bow]",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "21459",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6116596.jpg",
+      "name": "Weapon Sword / Katana / Shamshir with Capped Pommel [Square Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "24201",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6215212.jpg",
+      "name": "Slope Curved 2 x 1 Inverted",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "3005",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211098.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "32828",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6196548.jpg",
+      "name": "Plate Round 1 x 1 with Hollow Stud and Horizontal Bar 1L",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "4871",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4188534.jpg",
+      "name": "Slope Inverted 45 4 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "48729b",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4289542.jpg",
+      "name": "Bar 1L with Clip [Cut Edges and One Side Hole] [Gap in Clip]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "59900",
+      "color_id": "297",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529247.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "63868",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4535739.jpg",
+      "name": "Plate Special 1 x 2 with Clip Horizontal on End",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "67687",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371406.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders with Cross (+) Slots on Pins",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "87087",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4558954.jpg",
+      "name": "Brick Special 1 x 1 with Stud on 1 Side",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166679",
+      "part_num": "93555",
+      "color_id": "179",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4618133.jpg",
+      "name": "Sports Ice Skate",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9781780559544-1",
+    "name": "Ninjago: Nya's Powers",
+    "year": "2023",
+    "theme_id": "497",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9781780559544-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "121846",
+        "part_num": "3626cpr9888",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6253840.jpg",
+        "name": "Minifig Head Nya, Eyebrows, Beauty Mark, Dark Tan Lips, Crooked Smile / Open Mouth Smile Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012117"
+      },
+      {
+        "inventory_id": "121846",
+        "part_num": "40925pat0005",
+        "color_id": "1103",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/148/40925pat0005-148-cafff00e-ead2-48f5-981b-5620f5ae5bd8.jpg",
+        "name": "Wrap with Long Back Knot, Dark Azure Band Pattern",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Pearl Titanium",
+        "fig_num": "fig-012117"
+      },
+      {
+        "inventory_id": "121846",
+        "part_num": "41162",
+        "color_id": "1103",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6267464.jpg",
+        "name": "Minifig Neckwear Shoulder Guard",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Pearl Titanium",
+        "fig_num": "fig-012117"
+      },
+      {
+        "inventory_id": "121846",
+        "part_num": "970c12pr9764",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/72/970c00pr9764-72-2a331481-5d94-4656-80ee-0fcf7fd8ce79.jpg",
+        "name": "Hips and Dark Bluish Gray Legs with Pearl Titanium Robe, Dark Azure Decorations, White Knee Wraps Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-012117"
+      },
+      {
+        "inventory_id": "121846",
+        "part_num": "973e111pr0001",
+        "color_id": "1103",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/1103/973e111pr0001-1103-2fc923b8-272a-42d5-988e-3f612b3bb00f.jpg",
+        "name": "Torso, Odd Arms, Robe, White Symbol, Medium Azure Shirt Print, Left Dark Azure Arm, Right Pearl Titanium Arm, Dark Azure Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Pearl Titanium",
+        "fig_num": "fig-012117"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "89896",
+      "part_num": "32062",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "32174",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4194990.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Sides",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "44807",
+      "color_id": "1073",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4235867.jpg",
+      "name": "Large Figure Head Rahkshi",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Black"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "44807",
+      "color_id": "1071",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4235870.jpg",
+      "name": "Large Figure Head Rahkshi",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Green"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "53585",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286267.jpg",
+      "name": "Technic Ball Joint with Through Axle Hole",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "upn0068",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0430-0-e8202b86-5dff-4442-b00b-b1ea8835e572.jpg",
+      "name": "Watch, Clasp, Male",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "upn0182",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0426-0-14e7dc52-1ce7-4141-9b27-7f4af931fe7f.jpg",
+      "name": "Watch, Clasp, Female",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "upn0264",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0264-0-548d9d28-f06c-40b2-8b9c-da32c8bb01ed.jpg",
+      "name": "Watch, Bezel Round, Two 1 x 3 Technic Liftarms",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "upn0323",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0323-179-1d4643f3-b701-4d94-8e01-32c4def46a14.jpg",
+      "name": "Watch, Link, with 1 x 2 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "upn0323",
+      "color_id": "135",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0323-179-1d4643f3-b701-4d94-8e01-32c4def46a14.jpg",
+      "name": "Watch, Link, with 1 x 2 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "upn0389",
+      "color_id": "57",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "89896",
+      "part_num": "upn0465pr0024",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'Bionicle' Logo Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4215789-1",
+    "name": "Bionicle Rahkshi Buildable Watch",
+    "year": "2003",
+    "theme_id": "732",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4215789-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": []
+}

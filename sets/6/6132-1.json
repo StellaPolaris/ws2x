@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11199",
+      "part_num": "2224",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210761.jpg",
+      "name": "Duplo Ladder 8 Rung",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "3437",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4166960.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "3437",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158534.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "40666",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4170795.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "40666",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4170804.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "4066pr0266",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6001815.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Golden Stanley Car Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "51703",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4500457.jpg",
+      "name": "Duplo Wave (Fire, Water, Flame) 2 x 1 x 5 with Non-Marbled Tip",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "58498c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4548111.jpg",
+      "name": "Duplo Hose with Rubber End and Light Bluish Gray Nozzle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "6510",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100774.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "6510",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100853.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "88760c01pr0013",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6049683.jpg",
+      "name": "Duplo Car Base, 2 x 4 with Black Tires and Red Hubs Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "98218",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6001814.jpg",
+      "name": "Duplo Plate Round Corner 4 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "11199",
+      "part_num": "98247pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6032804.jpg",
+      "name": "Duplo Car Body Truck with 'Red' Fire Logo Print (Fits over Car Base 2 x 4)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6132-1",
+    "name": "Red",
+    "year": "2012",
+    "theme_id": "506",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6132-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

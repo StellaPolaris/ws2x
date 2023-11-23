@@ -1,0 +1,272 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4629",
+      "part_num": "2412b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241221.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "2458",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/245802.jpg",
+      "name": "Brick Special 1 x 2 with Pin",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "2817",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/281702.jpg",
+      "name": "Plate Special 2 x 2 with 2 Pin Holes",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "2926",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/292621.jpg",
+      "name": "Plate Special 1 x 4 with Wheels Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "2927",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2927.png",
+      "name": "Train Wheel Small",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "30031",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3003126.jpg",
+      "name": "Handlebars",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "3035",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303502.jpg",
+      "name": "Plate 4 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "3626bpr0005",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp03.png",
+      "name": "Minifig Head Biggs Darklighter / Soccer Player, Moustache Pointed with Standard Grin Print",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "3794a",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4629",
+      "part_num": "6019",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/601902.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "4629",
+      "part_num": "4524",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4524.png",
+      "name": "Minifig Neckwear Cape [Plastic]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "2585-1",
+    "name": "Handcar",
+    "year": "1998",
+    "theme_id": "236",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2585-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 1,
+  "countedStandardParts": 18,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "56740",
+        "part_num": "3626bpr0326",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx19-14-1738d754-87bb-425b-b044-73cdb55cad91.jpg",
+        "name": "Minifig Head Time Cruisers Timmy / Soccer Player, Bangs and Freckles Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-004811"
+      },
+      {
+        "inventory_id": "56740",
+        "part_num": "4485",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/448521.jpg",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-004811"
+      },
+      {
+        "inventory_id": "56740",
+        "part_num": "970c28",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583501.jpg",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-004811"
+      },
+      {
+        "inventory_id": "56740",
+        "part_num": "973c27h01pr0127",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973c27h01pr0127-15-9b55bf03-63da-4d90-8cbb-3ef29cdb1a66.jpg",
+        "name": "Torso Red 2 x 4 Brick Print, White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-004811"
+      }
+    ],
+    [
+      {
+        "inventory_id": "56741",
+        "part_num": "3624",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/362421.jpg",
+        "name": "Cap, Police Style",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-004812"
+      },
+      {
+        "inventory_id": "56741",
+        "part_num": "3626bpr9965",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpr9965-14-4633c545-cef4-45b4-88f3-c93497c320a4.jpg",
+        "name": "Minifig Head, Mask Red with Eyeholes and Moustache Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-004812"
+      },
+      {
+        "inventory_id": "56741",
+        "part_num": "4524",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4524.png",
+        "name": "Minifig Neckwear Cape [Plastic]",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-004812"
+      },
+      {
+        "inventory_id": "56741",
+        "part_num": "970c01",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6261448.jpg",
+        "name": "Hips and Yellow Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-004812"
+      },
+      {
+        "inventory_id": "56741",
+        "part_num": "973c01h22pr0128",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/973px128c01-14-118556ea-e2e5-41fc-acd1-1bdb2b023f4f.jpg",
+        "name": "Torso Train Logo Large Red Print, Yellow Arms, Red Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-004812"
+      }
+    ]
+  ]
+}

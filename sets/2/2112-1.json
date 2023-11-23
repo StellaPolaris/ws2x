@@ -1,0 +1,228 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14527",
+      "part_num": "2654",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278274.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "3004",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211149.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "30173a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114206.jpg",
+      "name": "Weapon Sword / Katana [Octagonal Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "3022",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216695.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "30374",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4262974.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "4612931",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 12 - Cole - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "4612932",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 76 - Storm Shield - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "4612933",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 26 - Power Drain - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "4612934",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4612934-9999-d353e86d-d7bd-493d-a304-348ab2ba459f.jpg",
+      "name": "Trading Card, Ninjago Deck #1: 52 - Card Freeze - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "4612935",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 20 - Magnetize - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "60897",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4594238.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "63965",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600270.jpg",
+      "name": "Bar 6L with Stop Ring",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "14527",
+      "part_num": "92547pr0002",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612287.jpg",
+      "name": "Turntable 6 x 6 Round Dark Bluish Gray Base with Lime Top with Gray Faces on Brown Print (Ninjago Spinner)",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2112-1",
+    "name": "Cole",
+    "year": "2011",
+    "theme_id": "435",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2112-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50922",
+        "part_num": "30177",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114503.jpg",
+        "name": "Wrap, Ninja, with Clip",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000109"
+      },
+      {
+        "inventory_id": "50922",
+        "part_num": "3626bpr0745",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611426.jpg",
+        "name": "Minifig Head Cole, Raised Bushy Eyebrows, White Pupils, Chin Dimple Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000109"
+      },
+      {
+        "inventory_id": "50922",
+        "part_num": "970c03pr0191",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4667794.jpg",
+        "name": "Hips and Black Legs with Gray Belt and Black Markings Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000109"
+      },
+      {
+        "inventory_id": "50922",
+        "part_num": "973c03h03pr1718",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612652.jpg",
+        "name": "Torso Robe, Brown Rope, Gold Medallion and Black Undershirt Print, Black Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000109"
+      }
+    ]
+  ]
+}

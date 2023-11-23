@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "152578",
+      "part_num": "31000",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31000pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/31000p01.png",
+      "name": "Primo Brick 1 x 1 with Lego Logo Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31001pr0002",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/31001.png",
+      "name": "Primo Brick 1 x 2 with 5 Yellow Stars Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31005pr0014",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Brick 1 x 1 with Round Rattle, Penguin print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31005pr0018",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Brick 1 x 1 with Round Rattle, Yellow Spots, Face print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31155c03",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Train Engine 1 x 2 with Yellow Wheels and Button, and Face Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31605c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/31008-1-c9604970-df07-4e7f-a159-48215daa4930.jpg",
+      "name": "Primo Wheel Base 1 x 2 with Hitches and Yellow Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31605c01",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/31008-2-2d4190c6-d291-439c-b86f-475463f5cdd5.jpg",
+      "name": "Primo Wheel Base 1 x 2 with Hitches and Yellow Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31615",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Building 1 x 2 x 2 House",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "31616",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Building 1 x 2 x 2 Door",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "priupn0004",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/PART-5060-14-d10b58e9-3285-435b-a4dc-3e5b39bab7be.jpg",
+      "name": "Primo Animal Cat / Tiger Striped",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "priupn0005",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/118/PART-11808-118-b26df723-a1df-42ea-bb05-750f44b50bdd.jpg",
+      "name": "Primo Animal Elephant",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152578",
+      "part_num": "upn0040c03pr0001",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Figure Boy with Red Base, Glasses and Green Cap (Timmy)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2017-1",
+    "name": "Choo Choo Train",
+    "year": "1998",
+    "theme_id": "440",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2017-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

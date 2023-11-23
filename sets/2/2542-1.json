@@ -1,0 +1,266 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15672",
+      "part_num": "2419",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241902.jpg",
+      "name": "Wedge Plate 3 x 6 Cut Corners",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "2420",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114077.jpg",
+      "name": "Plate 2 x 2 Corner",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "2421",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242102.jpg",
+      "name": "Propeller 3 Blade Small",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "3022",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302226.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "3034",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303402.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "3641",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/364126.jpg",
+      "name": "Tyre 15 x 6 Offset Tread Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "3795",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113993.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "4117698",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Sticker Sheet for Set 2542-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "4488",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/448826.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "4600",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/460002.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "4624",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462402.jpg",
+      "name": "Wheel 8 x 6",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "4859",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4859.png",
+      "name": "Wedge Plate 3 x 4 without Stud Notches",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "4865a",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113106.jpg",
+      "name": "Panel 1 x 2 x 1 [Square Corners]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "15672",
+      "part_num": "4871",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113998.jpg",
+      "name": "Slope Inverted 45 4 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "15672",
+      "part_num": "30170",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113923.jpg",
+      "name": "Headwear Accessory Glasses / Goggles",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "2542-1",
+    "name": "Adventurers Aeroplane",
+    "year": "1998",
+    "theme_id": "297",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2542-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 1,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51008",
+        "part_num": "30170",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113923.jpg",
+        "name": "Headwear Accessory Glasses / Goggles",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000195"
+      },
+      {
+        "inventory_id": "51008",
+        "part_num": "30171",
+        "color_id": "6",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113922.jpg",
+        "name": "Hat / Helmet, Aviator Cap",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Brown",
+        "fig_num": "fig-000195"
+      },
+      {
+        "inventory_id": "51008",
+        "part_num": "3626bpr0042",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bpa5.png",
+        "name": "Minifig Head Harry Cane / Soccer Player, Moustache Scruffy Raised Eyebrows, Smirk Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000195"
+      },
+      {
+        "inventory_id": "51008",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000195"
+      },
+      {
+        "inventory_id": "51008",
+        "part_num": "973c16h01pr0005",
+        "color_id": "6",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/6/973pa5c01-6-03a0cf09-f8ae-4c6e-bde1-dcd2b413b691.jpg",
+        "name": "Torso Jacket with White Collar, Belt, & Black Shirt Print, Brown Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Brown",
+        "fig_num": "fig-000195"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "standard": [
+    {
+      "inventory_id": "262",
+      "part_num": "3032",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4271874.jpg",
+      "name": "Plate 4 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "3048c",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4195004.jpg",
+      "name": "Slope 45 2 x 1 Triple with Ovoid Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "3062b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306221.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "3062b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306201.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "3062b",
+      "color_id": "70",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211183.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "3666",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366621.jpg",
+      "name": "Plate 1 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "4460b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4162628.jpg",
+      "name": "Slope 75 2 x 1 x 3 with Hollow Stud",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "4495b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/449521.jpg",
+      "name": "Flag 4 x 1 Wavy [First Wave Right]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "4495b",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504649.jpg",
+      "name": "Flag 4 x 1 Wavy [First Wave Right]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "6141",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614123.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "6141",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "6141",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614101.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "262",
+      "part_num": "6141",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614123.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "6141",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "262",
+      "part_num": "6141",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614101.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "7953-1",
+    "name": "Court Jester",
+    "year": "2010",
+    "theme_id": "196",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7953-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 3,
+  "countedStandardParts": 18,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51868",
+        "part_num": "3626bpr0579",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4549620.jpg",
+        "name": "Minifig Head Jester, Huge Grin, White Pupils, Eyebrows / Sad with Tear Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001053"
+      },
+      {
+        "inventory_id": "51868",
+        "part_num": "62537pr0003",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4585450.jpg",
+        "name": "Jester's Cap with Red Half and Red Pom Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001053"
+      },
+      {
+        "inventory_id": "51868",
+        "part_num": "970l27r22",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4586393.jpg",
+        "name": "Hips and White Left Leg, Red Right Leg",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001053"
+      },
+      {
+        "inventory_id": "51868",
+        "part_num": "973e025pr1629",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4586505.jpg",
+        "name": "Torso, Odd Arms, Jester Costume, Red and White Collar, Lion head on Buckle Print, Left Red Arm, Right White Arm, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-001053"
+      }
+    ]
+  ]
+}

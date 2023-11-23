@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2875",
+      "part_num": "2342",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2342.png",
+      "name": "Equipment Control Panel",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "3839b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383926.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "3956",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395602.jpg",
+      "name": "Bracket 2 x 2 - 2 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "3960",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143013.jpg",
+      "name": "Dish 4 x 4 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4070",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/407002.jpg",
+      "name": "Brick Special 1 x 1 with Headlight and No Slot",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4175",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100526.jpg",
+      "name": "Plate Special 1 x 2 with Ladder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4285a",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4285a.png",
+      "name": "Dish 6 x 6 Inverted [Radar / Webbed / No anti-studs]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4590",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114067.jpg",
+      "name": "Plate Special 1 x 4 Offset",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4595",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4190471.jpg",
+      "name": "Brick Special 1 x 2 x 2/3 with Studs on Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4596",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/459602.jpg",
+      "name": "Plate Special 1 x 2 with Long Stud Receptacle (Space Wing)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4733",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/473302.jpg",
+      "name": "Brick Special 1 x 1 Studs on 4 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "4873",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4873.png",
+      "name": "Bar 1 x 6 [Open Studs]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2875",
+      "part_num": "73590c01a",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/73590a.png",
+      "name": "Flexible Hose 8.5L with Tabless Ends (Ends same color as Tube)",
+      "part_cat_id": "30",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5175-1",
+    "name": "Space Elements",
+    "year": "1987",
+    "theme_id": "443",
+    "num_parts": "26",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5175-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 26,
+  "minfigSetParts": []
+}

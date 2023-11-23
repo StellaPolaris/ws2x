@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "136641",
+      "part_num": "18575",
+      "color_id": "19",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6084724.jpg",
+      "name": "Technic Gear 20 Tooth Double Bevel with Axle Hole Type 1 [+ Opening]",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "24505",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6133119.jpg",
+      "name": "Technic Gear 24 Tooth [New Style with Single Axle Hole][Type 2]",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "32498",
+      "color_id": "0",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4177434.jpg",
+      "name": "Technic Gear 36 Tooth Double Bevel",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "3649",
+      "color_id": "71",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211433.jpg",
+      "name": "Technic Gear 40 Tooth",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "3941",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614326.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "4185",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211544.jpg",
+      "name": "Technic Wedge Belt Wheel [aka Pulley]",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "6539",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278957.jpg",
+      "name": "Technic Driving Ring 2L, 4 Ridges",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "6542b",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4237267.jpg",
+      "name": "Technic Gear 16 Tooth with Clutch [Smooth]",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "6573",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211023.jpg",
+      "name": "Technic Gear Differential, 24 -16 Tooth with Clutch on Both Sides",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "6575",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210759.jpg",
+      "name": "Technic Cam",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "6589",
+      "color_id": "19",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4514556.jpg",
+      "name": "Technic Gear 12 Tooth Bevel",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "6641",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4270473.jpg",
+      "name": "Technic Changeover Catch - + opening",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "136641",
+      "part_num": "94925",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4640536.jpg",
+      "name": "Technic Gear 16 Tooth Reinforced [New Style]",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5003201-1",
+    "name": "Technic Gears",
+    "year": "2014",
+    "theme_id": "525",
+    "num_parts": "43",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5003201-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 43,
+  "minfigSetParts": []
+}

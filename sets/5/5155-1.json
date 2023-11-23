@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11078",
+      "part_num": "2340",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/234001.jpg",
+      "name": "Tail 4 x 1 x 3",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "2432",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243221.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "2516",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125442.jpg",
+      "name": "Tool Chainsaw / Drill Body",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "3475b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/347526.jpg",
+      "name": "Engine - Smooth, Small 1 x 2 Side Plate [With Axle Holders]",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "3933",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/393326.jpg",
+      "name": "Wedge Plate 8 x 4 Wing Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "3934",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3934.png",
+      "name": "Wedge Plate 8 x 4 Wing Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "3935",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3935.png",
+      "name": "Wedge Plate 4 x 4 Wing Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "3936",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3936.png",
+      "name": "Wedge Plate 4 x 4 Wing Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "3963",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/396326.jpg",
+      "name": "Brick Special 1 x 1 with 3 Loudspeakers / Space Positioning Rockets",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "4229",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163480.jpg",
+      "name": "Engine, Strakes, 2 x 2 Thin Top Plate",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "4598",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107108.jpg",
+      "name": "Bracket 3 x 2 - 2 x 2 [aka Space Seat]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "11078",
+      "part_num": "4746",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4746.png",
+      "name": "Tail 4 x 2 x 2, Rocket",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5155-1",
+    "name": "Space Jets and Wings",
+    "year": "1991",
+    "theme_id": "443",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5155-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

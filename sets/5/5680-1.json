@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5629",
+      "part_num": "13246",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583814.jpg",
+      "name": "Duplo Trailer Ramp / Door 1 x 4 with Handles",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "2318c01",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565327.jpg",
+      "name": "Duplo Siren / Flashing Light - Trans-Dark Blue",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "3011",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4166924.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "31021pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583393.jpg",
+      "name": "Duplo Fence 1 x 6 x 2 with Red Stripes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "3437",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183780.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "3437",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158534.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "3437",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343728.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "4066pr0279",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4516702.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Coins and Notes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "48842pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4220958.jpg",
+      "name": "Duplo Figure with Cap Black, with Black Legs, Black and White Striped Top with '62019', Black Arms (Prisoner)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "87702c04pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610615.jpg",
+      "name": "Duplo Truck Large Cab with Blue 4 x 8 Flatbed Plate and Police Badge Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "89200pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610493.jpg",
+      "name": "Duplo Truck / Semi-Tractor Container 4 x 8 x 3.5, with Police Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5629",
+      "part_num": "98465pr0009",
+      "color_id": "212",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4648963.jpg",
+      "name": "Duplo Figure with Police Style Hat Black, with Bright Light Blue Top with Badge and Tie, Nougat Face and Hands, and Dark Blue Legs",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5680-1",
+    "name": "Police Truck",
+    "year": "2011",
+    "theme_id": "632",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5680-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "161527",
+      "part_num": "2312c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100750.jpg",
+      "name": "Duplo Car Base 2 x 6 with Yellow Wheels and Open Hitch End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "23233pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6215680.jpg",
+      "name": "Duplo Food Corn with Green Leaves",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "31021",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100731.jpg",
+      "name": "Duplo Fence 1 x 6 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "31102pr0001",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/48835pr0001-7-396192f0-65e3-47fa-85e1-3cbd3a4372b5.jpg",
+      "name": "Duplo Animal Cat with White Stripes and Paws Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "31169",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112105.jpg",
+      "name": "Duplo Horse Harness",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "4555c09pr0005",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Figure, Early, Cowboy Hat Black, Blue Legs, Plaid Shirt Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "6440",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/6440-4-c76daf80-9ee8-4661-a226-a59a6f782aad.jpg",
+      "name": "Duplo Wagon Body Large with 2 x 6 Studs and Open Sides",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "6441",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/6441-4-57de803f-64a7-438f-a8b7-db1e943bcbd3.jpg",
+      "name": "Duplo Wagon Body Large Side Hatch",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "75721",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112124.jpg",
+      "name": "Duplo Animal Cow (Calf) Baby",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "75725pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143789.jpg",
+      "name": "Duplo Animal Horse with One Stud and Moveable Head, Eyes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "dupupn0005",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/dupupn0005-15-74280378-f87c-464e-b361-ba0e7bf73a73.jpg",
+      "name": "Duplo Animal Sheep",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "161527",
+      "part_num": "upn0554",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Playmat - Road for Set 3092-1",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3092-1",
+    "name": "Friendly Farm",
+    "year": "2001",
+    "theme_id": "632",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3092-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

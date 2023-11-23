@@ -1,0 +1,301 @@
+{
+  "standard": [
+    {
+      "inventory_id": "125396",
+      "part_num": "11126",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/11126.png",
+      "name": "Rip Cord Flexible with Handle",
+      "part_cat_id": "56",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "14769pr9990",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/297/14769pr9990-297-c38442df-363c-4991-9d1f-5b1be930f9e0.jpg",
+      "name": "Tile Round 2 x 2 with Orange Spiral print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "18041",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6162580.jpg",
+      "name": "Weapon Harpoon [Smooth Shaft]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "18674",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6195325.jpg",
+      "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "2654",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/265426.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "30136",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121914.jpg",
+      "name": "Brick Special 1 x 2 Palisade [aka Log]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "59900",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4544720.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "60474",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581501.jpg",
+      "name": "Plate Round 4 x 4 with Pin Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "65138",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6317538.jpg",
+      "name": "Dish 4 x 4 with 4 Studs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "69783",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/47/69783-47-74d1f6b5-7bce-4fdc-8900-ad173837e1d6.jpg",
+      "name": "Dome for Ninjago Spinner",
+      "part_cat_id": "47",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "69784pat0003",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Brick Round Cone Spinner with Marbled Trans-Yellow Pattern",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "71073",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/71073-0-5a55ff26-22cb-4eac-8b37-d25e17363179.jpg",
+      "name": "Axle for Spinner",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "71100",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/72/71100-72-e4e402d8-9a50-4dcc-9a3e-107ace3b1b13.jpg",
+      "name": "Brick Special 2 x 4 with Spinner Holder",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "85984",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4548180.jpg",
+      "name": "Slope 30 1 x 2 x 2/3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "93058b",
+      "color_id": "297",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/297/93058b-297-09980ab6-a527-4ae6-b2c7-f48ff3ac4044.jpg",
+      "name": "Weapon Throwing Star / Shuriken with Textured Grips",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "98341",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4647110.jpg",
+      "name": "Ring 4 x 4 with 2 x 2 Hole and 4 Arrow Ends (Ninjago Spinner Crown)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "125396",
+      "part_num": "18041",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6162580.jpg",
+      "name": "Weapon Harpoon [Smooth Shaft]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "125396",
+      "part_num": "93058b",
+      "color_id": "297",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/297/93058b-297-09980ab6-a527-4ae6-b2c7-f48ff3ac4044.jpg",
+      "name": "Weapon Throwing Star / Shuriken with Textured Grips",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    }
+  ],
+  "setInfo": {
+    "set_num": "70690-1",
+    "name": "Jay's Spinjitzu Ninja Training",
+    "year": "2022",
+    "theme_id": "435",
+    "num_parts": "26",
+    "img_url": "https://cdn.rebrickable.com/media/sets/70690-1.jpg"
+  },
+  "countedUniqueParts": 19,
+  "countedSpareParts": 3,
+  "countedStandardParts": 22,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "129025",
+        "part_num": "28621pr0009",
+        "color_id": "46",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/42/28621pr0009-42-9288408f-5352-491b-a1d4-465c3dc2ddda.jpg",
+        "name": "Minifig Head Jay, Sand Blue Flames, Green Eyes print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Trans-Yellow",
+        "fig_num": "fig-012336"
+      },
+      {
+        "inventory_id": "129025",
+        "part_num": "41163pat0007",
+        "color_id": "73",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "",
+        "name": "Wrap with Flames Trans-Yellow Pattern",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Medium Blue",
+        "fig_num": "fig-012336"
+      },
+      {
+        "inventory_id": "129025",
+        "part_num": "970c24pr9768",
+        "color_id": "379",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/379/970c00pr9768-379-adfdc878-7a98-41f3-b636-33a8f2ee8f2d.jpg",
+        "name": "Hips and Sand Blue Legs with Blue Robe, Bright Light Yellow Belt, Medium Azure Knee Wraps print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Sand Blue",
+        "fig_num": "fig-012336"
+      },
+      {
+        "inventory_id": "129025",
+        "part_num": "973c32h05pr0001",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/973c32h05pr0001-1-ec87389f-c07a-4e60-94e0-7d17700ec146.jpg",
+        "name": "Torso Robes, Medium Yellow Lightning, White Asian Symbol print, Blue Arms, Dark Blue Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-012336"
+      }
+    ]
+  ]
+}

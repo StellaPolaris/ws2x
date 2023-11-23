@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "169676",
+      "part_num": "11213",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6216908.jpg",
+      "name": "Plate Round 6 x 6 with Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "18674",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6261501.jpg",
+      "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "22888",
+      "color_id": "31",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6204112.jpg",
+      "name": "Plate Round Half 4 x 8",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "30136",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114328.jpg",
+      "name": "Brick Special 1 x 2 Palisade [aka Log]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "37762",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6234807.jpg",
+      "name": "Equipment Candle Stick",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "37775",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6236437.jpg",
+      "name": "Wave / Flame Small with Pin",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "3941",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614326.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "6141",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614124.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "6141",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "6141",
+      "color_id": "25",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4157103.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "6141",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218588.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "85080",
+      "color_id": "15",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4567449.jpg",
+      "name": "Brick Round Corner 2 x 2 Macaroni with Stud Notch and Reinforced Underside [New Style]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "169676",
+      "part_num": "87081",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610843.jpg",
+      "name": "Brick Round 4 x 4 [Centre Hole]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6464602-1",
+    "name": "Cake",
+    "year": "2023",
+    "theme_id": "598",
+    "num_parts": "36",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6464602-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 36,
+  "minfigSetParts": []
+}

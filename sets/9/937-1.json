@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11488",
+      "part_num": "3185",
+      "color_id": "4",
+      "quantity": "18",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/318521.jpg",
+      "name": "Fence 1 x 4 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3186",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3186.png",
+      "name": "Fence Gate 1 x 4 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3187",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3187.png",
+      "name": "Fence Gate 1 x 4 x 2 Base",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3190",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3190.png",
+      "name": "Door 1 x 3 x 3 Right",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3190",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3190.png",
+      "name": "Door 1 x 3 x 3 Right",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3191",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3191.png",
+      "name": "Door 1 x 3 x 3 Left",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3191",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3191.png",
+      "name": "Door 1 x 3 x 3 Left",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3192",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3192a.png",
+      "name": "Door 1 x 3 x 4 Right",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3193",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3193a.png",
+      "name": "Door 1 x 3 x 4 Left",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3194",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3194.png",
+      "name": "Door 1 x 5 x 4 Right",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "11488",
+      "part_num": "3195",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3195.png",
+      "name": "Door 1 x 5 x 4 Left",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "937-1",
+    "name": "Doors and Fences",
+    "year": "1973",
+    "theme_id": "473",
+    "num_parts": "34",
+    "img_url": "https://cdn.rebrickable.com/media/sets/937-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 34,
+  "minfigSetParts": []
+}

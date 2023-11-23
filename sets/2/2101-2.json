@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "152564",
+      "part_num": "31000",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31000",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31000",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31000",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31000pr0025",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/31000.png",
+      "name": "Primo Brick 1 x 1 with Blue Squares Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31001pr0004",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/31001.png",
+      "name": "Primo Brick 1 x 2 with Green, Yellow Red Squares Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31005pr0015",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Brick 1 x 1 with Round Rattle, Blue Stripes, Animal print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31150",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Brick Arch 1 x 4 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "31767",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Brick 1 x 3, with Curved Bottom (Rocker)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "priupn0005",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/118/PART-11808-118-b26df723-a1df-42ea-bb05-750f44b50bdd.jpg",
+      "name": "Primo Animal Elephant",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "priupn0006",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Catapult 1 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "152564",
+      "part_num": "upn0040c02pr0003",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/PART-12164-1-404ee60f-6145-46d2-9a91-968d2956117b.jpg",
+      "name": "Primo Figure Boy with Blue Base, Blue Suspenders Print, Brown Hair",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2101-2",
+    "name": "Circus Catapult",
+    "year": "1999",
+    "theme_id": "440",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2101-2.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

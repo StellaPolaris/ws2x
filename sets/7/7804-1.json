@@ -1,0 +1,174 @@
+{
+  "standard": [
+    {
+      "inventory_id": "7374",
+      "part_num": "2420",
+      "color_id": "2",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4157120.jpg",
+      "name": "Plate 2 x 2 Corner",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "3021",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302128.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "3022",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302228.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "3023",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302321.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "3034",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303428.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "3039",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303928.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "3794b",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379428.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "4070",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109676.jpg",
+      "name": "Brick Special 1 x 1 with Headlight and No Slot",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "4740",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/474001.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "54200",
+      "color_id": "27",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504372.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "6141",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614126.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7374",
+      "part_num": "73983",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4187931.jpg",
+      "name": "Hinge Plate 1 x 4 Swivel Top / Base - Solid Clip [Complete Assembly]",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "7374",
+      "part_num": "6141",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614126.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "7804-1",
+    "name": "Green Lizard",
+    "year": "2009",
+    "theme_id": "22",
+    "num_parts": "33",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7804-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 1,
+  "countedStandardParts": 33,
+  "minfigSetParts": []
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9967",
+      "part_num": "11248c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6045958.jpg",
+      "name": "Duplo Car Base 2 x 6 with Fake Bolts, Open Hitch End and Yellow Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "15320c01",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6100811.jpg",
+      "name": "Duplo Car Base 2 x 6 Tractor with Mudguards, Yellow Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "18823pr0006",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6096572.jpg",
+      "name": "Duplo Figure Child, Hair Combed Forward with Curl Reddish Brown, Red Legs, White Sleeves and Red Car Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "18825pr0007",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6096590.jpg",
+      "name": "Duplo Figure Child with Ponytails and Bangs Black, with Red Legs, Nougat Face and Hands, Bow Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "2302pr0002",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099654.jpg",
+      "name": "Duplo Brick 2 x 3 with Curved Top with Car Grill, Headlights Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "31110pr0049",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099609.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 with Bananas Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "31110pr0054",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099614.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 with Blueberries Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "31110pr0055",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099613.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 with Apple Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "31110pr0056",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099612.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 with Pear Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "31110pr0057",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099611.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 with Oranges Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "31110pr0058",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099610.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 with Plums Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "9967",
+      "part_num": "6446",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158473.jpg",
+      "name": "Duplo Container Wooden-Style Crate",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10615-1",
+    "name": "My First Tractor",
+    "year": "2015",
+    "theme_id": "632",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10615-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

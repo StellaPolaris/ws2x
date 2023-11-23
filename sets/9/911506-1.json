@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5451",
+      "part_num": "15573",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092599.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "15573",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379401.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "15712",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6071226.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "2412b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "30162",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211051.jpg",
+      "name": "Equipment Binoculars",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "3021",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211043.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "3023",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113917.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "30374",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211628.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "43722",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179874.jpg",
+      "name": "Wedge Plate 3 x 2 Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "43723",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179875.jpg",
+      "name": "Wedge Plate 3 x 2 Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "54200",
+      "color_id": "40",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244368.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "6141",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210633.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "5451",
+      "part_num": "99780",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6004990.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "911506-1",
+    "name": "Snowspeeder",
+    "year": "2015",
+    "theme_id": "158",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/911506-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

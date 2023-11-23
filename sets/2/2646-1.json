@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28889",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4199",
+      "color_id": "4",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/419921.jpg",
+      "name": "Duplo Brick 2 x 8",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4537",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/73351.png",
+      "name": "Duplo Support Brick 2 x 4 x 3",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4555c04pr0002",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4555pr0002-1-7eeca3f7-8cc7-4aa5-8809-205c8f61a1b8.jpg",
+      "name": "Duplo Figure, Early, Hard Hat Yellow, Blue Legs, Plain Top",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4567c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4567c01-14-50657055-5a9b-4bc9-87b3-b8e7900a1f1b.jpg",
+      "name": "Duplo Crane Base with Arm with Winch & Claw",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4572",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/4572-7-f88b8636-2e43-4dbc-99d0-cb38c5638ee4.jpg",
+      "name": "Duplo Shovel (Old Style)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4575",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4575-4-1c1d1879-af98-4680-b577-3585ea77d393.jpg",
+      "name": "Duplo Car with 2 x 4 Studs Bed and Running Boards",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4576",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4576-4-40ed318c-0d9f-48f3-b47d-827ecc3b5912.jpg",
+      "name": "Duplo Dumper Bucket Large with Sloped End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4576",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4576-4-40ed318c-0d9f-48f3-b47d-827ecc3b5912.jpg",
+      "name": "Duplo Dumper Bucket Large with Sloped End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4577",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4577-4-aee513d1-88c8-4bd0-b93b-b1d381e7da5e.jpg",
+      "name": "Duplo Tipper/Dumper Bucket Hinge Plate",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "4577",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4577-4-aee513d1-88c8-4bd0-b93b-b1d381e7da5e.jpg",
+      "name": "Duplo Tipper/Dumper Bucket Hinge Plate",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28889",
+      "part_num": "73352",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4528920.jpg",
+      "name": "Duplo Support / Column 2 x 8 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2646-1",
+    "name": "Crane Set",
+    "year": "1983",
+    "theme_id": "632",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2646-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 18,
+  "minfigSetParts": []
+}

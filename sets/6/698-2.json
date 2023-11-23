@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "146197",
+      "part_num": "258pr0009",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/258pb09-4-b5e55fe7-181a-460c-89fd-eb4d18ff56e8.jpg",
+      "name": "HO Scale VW Van - White Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "259pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup- Red Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "259pr0006",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup - Yellow Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "266pr0003",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/PART-7279-7-b0ec5604-50f2-4b64-b293-46a451b73d29.jpg",
+      "name": "HO Scale Mercedes 190SL - Red Interior",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "268pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Ford Taunus 17M",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "601pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Morris 1100",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "603pr0001",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/603pr0001-7-3366e8b5-c998-4a2c-b0a3-d26bf8f8b871.jpg",
+      "name": "HO Scale Citroen DS19",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "603pr0001",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/603pr0001-7-3366e8b5-c998-4a2c-b0a3-d26bf8f8b871.jpg",
+      "name": "HO Scale Citroen DS19",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "605pr0001",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Fiat 1800",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "661pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale, VW Beetle (Long Version)",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "664pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/664pb01-15-58b6cdd5-35b6-4856-9a5a-0a2dc96404e8.jpg",
+      "name": "HO Scale Mercedes 220S",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "146197",
+      "part_num": "664pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/664pb01-0-db96e2d0-2d07-49bc-8705-35d2be9ba5d0.jpg",
+      "name": "HO Scale Mercedes 220S",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "698-2",
+    "name": "1:87 12 Cars",
+    "year": "1966",
+    "theme_id": "368",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/698-2.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9009",
+      "part_num": "15452pr0004",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104604.jpg",
+      "name": "Duplo Car Body High Cab 2 Top Studs with Yellow Headlights, '5' and 'Octan' Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "24911c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6056601.jpg",
+      "name": "Duplo Car Base 4 x 8 with Four Black Wheels and Yellow Hubs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "3437",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6054619.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "3437pr0043",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6101162.jpg",
+      "name": "Duplo Brick 2 x 2 with Black Checkered Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "40666",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4192931.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "45141",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624417.jpg",
+      "name": "Duplo Fuel Container 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "47408",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6057566.jpg",
+      "name": "Duplo Cone 2 x 2 Square Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "47509",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620277.jpg",
+      "name": "Duplo Wrench",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "73241",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6053877.jpg",
+      "name": "Duplo Trophy Cup with Number 1 in Shield - Closed Handles",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "85347",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4546220.jpg",
+      "name": "Duplo Engine Block 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "9009",
+      "part_num": "93242pr0004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6102649.jpg",
+      "name": "Duplo Figure with Helmet with Open Visor, White Helmet, Red Legs, Race Top with Octan Logo, and Bright Green Arms",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10589-1",
+    "name": "Rally Car",
+    "year": "2015",
+    "theme_id": "632",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10589-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

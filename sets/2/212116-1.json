@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "106957",
+      "part_num": "298c02",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/74335.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "4032b",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/4032b.png",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 2 (X Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "4079b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/407921.jpg",
+      "name": "Seat / Chair 2 x 2 with Center Sprue Mark",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "4733",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210700.jpg",
+      "name": "Brick Special 1 x 1 Studs on 4 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "59900",
+      "color_id": "0",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529236.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "60474",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4515349.jpg",
+      "name": "Plate Round 4 x 4 with Pin Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "60849",
+      "color_id": "0",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4537551.jpg",
+      "name": "Equipment Hose Nozzle / Gun with Side String Hole Simplified",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "60897",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550017.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "6141",
+      "color_id": "42",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005749.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "75937",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018805.jpg",
+      "name": "Plate Special 2 x 2 with Bar Frame Octagonal, Reinforced, Completely Round Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "106957",
+      "part_num": "98313",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650022.jpg",
+      "name": "Arm Mechanical with Clip [Thick Support]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "212116-1",
+    "name": "The Joker",
+    "year": "2021",
+    "theme_id": "697",
+    "num_parts": "30",
+    "img_url": "https://cdn.rebrickable.com/media/sets/212116-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 26,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "57519",
+        "part_num": "3626cpr9951",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6214242.jpg",
+        "name": "Minifig Head Joker, Green Eyebrows, Red Lips, Wide Smile / Disgusted Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-005480"
+      },
+      {
+        "inventory_id": "57519",
+        "part_num": "64798",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4551249.jpg",
+        "name": "Hair Swept Back with Widow's Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-005480"
+      },
+      {
+        "inventory_id": "57519",
+        "part_num": "970c09",
+        "color_id": "85",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4226866.jpg",
+        "name": "Hips and Dark Purple Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Purple",
+        "fig_num": "fig-005480"
+      },
+      {
+        "inventory_id": "57519",
+        "part_num": "973c06h14pr4823",
+        "color_id": "85",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6273180.jpg",
+        "name": "Torso Vest, Magenta Collar, Orange Bow Tie, Green Shirt, Chain Print, Bright Green Arms, Light Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Purple",
+        "fig_num": "fig-005480"
+      }
+    ]
+  ]
+}

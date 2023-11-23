@@ -1,0 +1,174 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3061",
+      "part_num": "3003",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300321.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3003pr0053",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3003pe2.png",
+      "name": "Brick 2 x 2 with Eye with White Print on Two Sides, Offset",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3004",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300421.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3020",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302021.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3034",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303401.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3040b",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/304023.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3298",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329823.jpg",
+      "name": "Slope 33 3 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3741",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374128.jpg",
+      "name": "Plant, Flower Stem",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3742",
+      "color_id": "1",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "3747a",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374721.jpg",
+      "name": "Slope Inverted 33 3 x 2 [No Connections between Studs]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3061",
+      "part_num": "6215",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/621524.jpg",
+      "name": "Brick Curved 2 x 3 with Curved Top",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3061",
+      "part_num": "3742",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1839-1",
+    "name": "Freestyle Fish",
+    "year": "1995",
+    "theme_id": "399",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1839-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 1,
+  "countedStandardParts": 21,
+  "minfigSetParts": []
+}

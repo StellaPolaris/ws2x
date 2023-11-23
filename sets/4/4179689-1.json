@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "170982",
+      "part_num": "2486",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/248601.jpg",
+      "name": "Bar 1 x 8 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "3010pr9948",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3010p75.png",
+      "name": "Brick 1 x 4 with 'Octan' Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "30180",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113870.jpg",
+      "name": "Slope 45 10 x 2 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "3649",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4120108.jpg",
+      "name": "Technic Gear 40 Tooth",
+      "part_cat_id": "52",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "3749",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4184168.jpg",
+      "name": "Technic Axle Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "3835",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383526.jpg",
+      "name": "Weapon Axe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "3865",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179599.jpg",
+      "name": "Baseplate 8 x 16",
+      "part_cat_id": "1",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "3941",
+      "color_id": "57",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/611647.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "4328",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121703.jpg",
+      "name": "Tool Pipe Wrench / Adjustable Spanner",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "4349",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/434902.jpg",
+      "name": "Equipment Weapon, Loudhailer / Blaster / Space Gun",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "6126a",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4155537.jpg",
+      "name": "Wave / Flame Rounded with Base Pegs",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "6126a",
+      "color_id": "57",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/57/6126a.png",
+      "name": "Wave / Flame Rounded with Base Pegs",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "170982",
+      "part_num": "upn0560c12",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Clock Unit with Blue Minute Ring, Yellow Numbers, JACKSTONE print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4179689-1",
+    "name": "Jack Stone Fireman Clock",
+    "year": "2002",
+    "theme_id": "732",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4179689-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

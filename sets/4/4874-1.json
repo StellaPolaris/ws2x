@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "31366",
+      "part_num": "45449",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4197605.jpg",
+      "name": "Clikits Icon, Heart 2 x 2 Large with Pin",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "45450",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/45450-5-f4f2ddef-2bfd-46b1-a389-df7d02f811e1.jpg",
+      "name": "Clikits Icon, Heart 2 x 2 Small with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "45455",
+      "color_id": "212",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/212/45455-212-02907f0b-be6c-46fe-a25b-c16a42db8d38.jpg",
+      "name": "Clikits Icon, Flower 2 x 2 Large, 10 Petals with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "45456",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/45/45456-45-05a83a7a-014f-4629-a136-bd2b7651b714.jpg",
+      "name": "Clikits Icon, Flower 2 x 2 Small, 10 Petals with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "45462",
+      "color_id": "1007",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1007/45462-1007-477e282c-8b15-4e0c-8aef-9ceef8fda223.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Large with Pin",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Reddish Lilac"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "45463",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216072.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Small with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "48200",
+      "color_id": "1006",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217397.jpg",
+      "name": "Clikits Paper Clip / Hair Clip, 1 Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Royal Blue"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "48200",
+      "color_id": "230",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217389.jpg",
+      "name": "Clikits Paper Clip / Hair Clip, 1 Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Pink"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "48200",
+      "color_id": "1094",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217393.jpg",
+      "name": "Clikits Paper Clip / Hair Clip, 1 Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Medium Purple"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "clikupn0038",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Clikits Pencil 88mm",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "31366",
+      "part_num": "clikupn0039",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/clikupn0039-9999-dca79b8a-5943-4a85-9343-d3752e89c1c5.jpg",
+      "name": "Clikits Memo Pad with Pink with Dotted Lines and Blue Border, Heart, Star, and Flower Print",
+      "part_cat_id": "48",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4874-1",
+    "name": "Best Friend Notes",
+    "year": "2005",
+    "theme_id": "500",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4874-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

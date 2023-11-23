@@ -1,0 +1,227 @@
+{
+  "standard": [
+    {
+      "inventory_id": "12148",
+      "part_num": "2419",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241902.jpg",
+      "name": "Wedge Plate 3 x 6 Cut Corners",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "2555",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/255526.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3022",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302226.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3069bpr0045",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3069bp54.png",
+      "name": "Tile 1 x 2 with UFO Controls Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3298pr0025",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3298p6u.png",
+      "name": "Slope 33 3 x 2 with UFO Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3710",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371026.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3795",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379502.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3937",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/393702.jpg",
+      "name": "Hinge Brick 1 x 2 Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3938",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/393826.jpg",
+      "name": "Hinge Brick 1 x 2 Top Plate Thin",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3957a",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395702.jpg",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "3959",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395926.jpg",
+      "name": "Weapon Gun / Torch (Space) [with Grooves]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "4285b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4189129.jpg",
+      "name": "Dish 6 x 6 Inverted [Radar / Webbed / anti-studs at  90]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "4589",
+      "color_id": "42",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/618849.jpg",
+      "name": "Cone 1 x 1 [No Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "12148",
+      "part_num": "4859",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4859.png",
+      "name": "Wedge Plate 3 x 4 without Stud Notches",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3012-1",
+    "name": "Space Hover",
+    "year": "1999",
+    "theme_id": "144",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3012-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50899",
+        "part_num": "3626bpr0034",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3626bp6v.png",
+        "name": "Minifig Head Droid, Large Blue Mask Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000086"
+      },
+      {
+        "inventory_id": "50899",
+        "part_num": "970c03pr0021",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/73200bp6w.png",
+        "name": "Hips and Black Legs with Gold Circuitry and Silver Belt Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000086"
+      },
+      {
+        "inventory_id": "50899",
+        "part_num": "973c28h03pr0132",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/973px132c01-7-73ff77c6-4a33-41d0-aea4-cd03944e7b3f.jpg",
+        "name": "Torso UFO Silver and Gold Circuitry Print, Blue Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-000086"
+      }
+    ]
+  ]
+}

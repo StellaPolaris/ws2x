@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4389",
+      "part_num": "3004",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300421.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "3004",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107736.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "3004pr9993",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3004pt1.png",
+      "name": "Brick 1 x 2 with White '10', Red Marker Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "3022",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302221.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "3039",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303901.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "30488c01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142815.jpg",
+      "name": "Sports Soccer Minifig Stand with Spring and Green Pin [Complete Assembly]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "30492",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141119.jpg",
+      "name": "Sports Field Section 8 x 8",
+      "part_cat_id": "1",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "3069b",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306928.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "3832",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383228.jpg",
+      "name": "Plate 2 x 10",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "4033",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4033.png",
+      "name": "Window 1 x 4 x 3 Train with All Studs Hollow",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4389",
+      "part_num": "72824pr0006",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/72824p01.png",
+      "name": "Sports Soccer / Basket Ball with Black Pentagons Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1430-1",
+    "name": "Small Soccer Set 3 (Kabaya Box)",
+    "year": "2002",
+    "theme_id": "462",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1430-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51194",
+        "part_num": "3626bpr0005",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp03.png",
+        "name": "Minifig Head Biggs Darklighter / Soccer Player, Moustache Pointed with Standard Grin Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000381"
+      },
+      {
+        "inventory_id": "51194",
+        "part_num": "3901",
+        "color_id": "6",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/390125.jpg",
+        "name": "Hair, Smooth",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Brown",
+        "fig_num": "fig-000381"
+      },
+      {
+        "inventory_id": "51194",
+        "part_num": "970c28",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583501.jpg",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000381"
+      },
+      {
+        "inventory_id": "51194",
+        "part_num": "973c27h01pr0176",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973pb0176c01-15-dc91848f-37cd-4bc6-95a0-2fedd04c17dd.jpg",
+        "name": "Torso Soccer Shirt with Blue Chevron and '11' Front and Back Print, White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000381"
+      }
+    ]
+  ]
+}

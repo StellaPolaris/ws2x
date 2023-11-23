@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0002",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/penupn0002-179-9a141369-71cf-4678-b6f9-09c7af12eff4.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0002",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0002-0-33f6cb92-0cc4-40a6-ae17-7a7f829ee7a3.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0003",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/penupn0003-179-a3290400-c983-47c6-a3d1-4dd016c20dcd.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0003pr0019",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0003pr0019-0-591b6ccd-47d4-4179-b953-c8de7f1f27c7.jpg",
+      "name": "Pen Bead, Round Orb with 'STAR WARS' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0003pr0056",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Orb with 'DARTH MAUL' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0004pr0127",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0004pr0127-0-080b3a40-779d-4427-b875-a468b143502d.jpg",
+      "name": "Pen Bead, Square with Sith Infiltrator Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0004pr0128",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/PART-12017-4-4116cce6-0818-41ae-b78b-f9641ae395e1.jpg",
+      "name": "Pen Bead, Square with Darth Maul, Obi-Wan Kenobi Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0006",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/36/penupn0006-36-69e395cf-44c0-47bf-b066-7416623a6ec7.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0007",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0007-0-6937cce3-bced-4244-b682-a06772ad9f46.jpg",
+      "name": "Pen Bead, Round Curved, Hourglass",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0008",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/penupn0008-383-0b9de320-0b9c-4414-a6ee-b140c43d175e.jpg",
+      "name": "Pen Bead, Round Orb, 4 Discs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn0036c06pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Body, with Chrome Tip, Red Ends with White Mechanical Lines Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn9976",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "93391",
+      "part_num": "penupn9985",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Minifigure, Darth Maul",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1728-2",
+    "name": "Darth Maul Pen",
+    "year": "2002",
+    "theme_id": "739",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1728-2.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

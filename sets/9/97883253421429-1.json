@@ -1,0 +1,217 @@
+{
+  "standard": [
+    {
+      "inventory_id": "188918",
+      "part_num": "11477",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6047426.jpg",
+      "name": "Slope Curved 2 x 1 No Studs [1/2 Bow]",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "15571",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6075079.jpg",
+      "name": "Slope 45 2 x 1 Triple with Inside Stud Holder",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "15573",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092586.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "15706",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6054852.jpg",
+      "name": "Plate Special 4 Stud 45 Angle Plate",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "21459",
+      "color_id": "297",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6116596.jpg",
+      "name": "Weapon Sword / Katana / Shamshir with Capped Pommel [Square Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "3020",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211065.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "47458",
+      "color_id": "297",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6114676.jpg",
+      "name": "Wedge Curved 1 x 2 x 2/3 No Studs, Wing End",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "61252",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541978.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "61409",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540386.jpg",
+      "name": "Slope 18 2 x 1 x 2/3 with 4 Slots",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "99563",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6207933.jpg",
+      "name": "Tile Special 1 x 2 with Sloped Walls AKA Money / Gold Bar [Ingot]",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "188918",
+      "part_num": "99781",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6214341.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "97883253421429-1",
+    "name": "Ninjago: Nieustraszeni Ninja",
+    "year": "2023",
+    "theme_id": "497",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/97883253421429-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 22,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "178072",
+        "part_num": "2187",
+        "color_id": "10",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6437164.jpg",
+        "name": "Head Wrap Top Half",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Bright Green",
+        "fig_num": "fig-013771"
+      },
+      {
+        "inventory_id": "178072",
+        "part_num": "2188",
+        "color_id": "10",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6437162.jpg",
+        "name": "Minifig Neckwear Shoulder Guard with Hood and Katana Holder",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Bright Green",
+        "fig_num": "fig-013771"
+      },
+      {
+        "inventory_id": "178072",
+        "part_num": "28621pr9992",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/28621pr9992-14-9c2245a5-ee09-4f2b-985e-6f35ea8a015d.jpg",
+        "name": "Minifig Head Lloyd, Black and Yellow Eye Mask, Angry Grin / Dark Red Eyebrows, Green Eyes, Angry Stare print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-013771"
+      },
+      {
+        "inventory_id": "178072",
+        "part_num": "970c06pr0002",
+        "color_id": "10",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/10/970c06pr0002-10-e644e28c-e1a3-418b-86f2-3c883feea88e.jpg",
+        "name": "Hips and Bright Green Legs with Tan Belt, Dark Green Knee Caps, Toes print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Bright Green",
+        "fig_num": "fig-013771"
+      },
+      {
+        "inventory_id": "178072",
+        "part_num": "973c06h35pr0001",
+        "color_id": "10",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/10/973c06h35pr0001-10-036d23fa-54ed-4a4b-ba3c-b5584c30876e.jpg",
+        "name": "Torso Robe, Dark Green Trim, Gold Decorations print, Bright Green Arms, Dark Green Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Bright Green",
+        "fig_num": "fig-013771"
+      }
+    ]
+  ]
+}

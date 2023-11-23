@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "27855",
+      "part_num": "23229",
+      "color_id": "14",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u151.png",
+      "name": "Rubber Band 15mm [Square Cross Section]",
+      "part_cat_id": "31",
+      "part_material": "Rubber",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "3003",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300324.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "3139",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/313926.jpg",
+      "name": "Tyre 14 x 4 Smooth Small Single",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "33285pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/33285pr0001-14-88cd427c-38c2-441f-a481-389599678882.jpg",
+      "name": "Scala, Sports, Skateboard with Dog Print and Purple Arcs and Paw Print",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "33293c01",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/11/33293c01-11-d0167e38-84d9-449c-8602-d6c5672d5d11.jpg",
+      "name": "Scala, Shoe / Boot (Ski/Hiking) - Light Turquoise Sole",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "4624",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462401.jpg",
+      "name": "Wheel 8 x 6",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "6157",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/615726.jpg",
+      "name": "Plate Special 2 x 2 with Wheels Holder Wide",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "scafig0001",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Scala Figure Female Young (Marie with Long Hair)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "scalaupn0032",
+      "color_id": "22",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/22/PART-12904-22-fe3cd8ed-896f-4739-9c7c-6b0110b9b1dd.jpg",
+      "name": "Scala, Jacket with Hood with Orange Interior",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Purple"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "scalaupn0124",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/scalaupn0124-4-1911e8a5-74f3-439d-a29d-4db0e224ab3f.jpg",
+      "name": "Belville / Scala, Equipment Cordless Phone",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "scalaupn0150",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/272/PART-14736-272-944291f0-50bb-4699-ad48-2d341b9cde66.jpg",
+      "name": "Scala, Overalls with Light Blue Bottom Cuffs",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "27855",
+      "part_num": "scalaupn0151",
+      "color_id": "11",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/11/PART-14737-11-cb7a5800-eec5-4ffb-aa88-df5f5b1ba911.jpg",
+      "name": "Scala, Sweater with White Sleeves",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Light Turquoise"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3122-1",
+    "name": "1-2-3 Marie",
+    "year": "2001",
+    "theme_id": "668",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3122-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 27,
+  "minfigSetParts": []
+}

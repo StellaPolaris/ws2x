@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0074c01",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Extra Extra Long with Unikitty Upper Body",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0389",
+      "color_id": "158",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Yellowish Green"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0389",
+      "color_id": "29",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/29/upn0389-29-70d64cbf-211d-4499-9a67-bb3539dd8c1d.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0389",
+      "color_id": "5",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/upn0389-5-705749df-4f16-461a-8c64-0430269d6bbe.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0389",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/upn0437-15-1f0a97d4-4a1e-4c69-97b3-2d0db000f104.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0389",
+      "color_id": "212",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0389pr0005",
+      "color_id": "29",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/29/PART-12151-29-39a30c3d-9a30-4144-a95f-7d885f8a5317.jpg",
+      "name": "Watch, Link with White Stars Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0465pr0026",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'The LEGO Movie 2' Logo and Unikitty Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0466c07",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Extra Long with Unikitty Lower Body",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0472",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Clasp, Female, Square",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "31987",
+      "part_num": "upn0490",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Clasp, Male, Square",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5005701-1",
+    "name": "Unikitty Buildable Watch",
+    "year": "2019",
+    "theme_id": "732",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5005701-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": []
+}

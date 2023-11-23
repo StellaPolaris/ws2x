@@ -1,0 +1,278 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11850",
+      "part_num": "2654",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/265426.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "3004",
+      "color_id": "73",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179833.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "30173b",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/179/30173b.png",
+      "name": "Weapon Sword / Katana / Shamshir with Uncapped Pommel [Square Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "3022",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4193340.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "30374",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600267.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "3848",
+      "color_id": "1103",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4617221.jpg",
+      "name": "Weapon Halberd / Axe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Titanium"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "4643626",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643626-9999-f6b834bd-adf2-44ab-9eff-856a174e8a4f.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 20 - Kendo Zane - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "4643627",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643627-9999-640dcd13-1db6-4bd4-90d7-79e10bc0b9bf.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 102 - Anti-Venom - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "4643628",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643628-9999-7d8d9453-0a40-4d45-9c7d-d6a1606bcdad.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 89 - Chill Charge - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "4643629",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643629-9999-31c90fa7-06b0-4961-bfee-b4a2ff2e41fa.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 104 - Falcon Eye - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "4643630",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643630-9999-72b2416d-bb7e-474a-b49b-9a18bd117879.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 124 - Gate of Crowns! - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "64567",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539482.jpg",
+      "name": "Weapon Lightsaber Hilt with Bottom Ring",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "93058",
+      "color_id": "297",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600519.jpg",
+      "name": "Weapon Throwing Star / Shuriken with Smooth Grips",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "98341pr0002",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4654139.jpg",
+      "name": "Ring 4 x 4 with 2 x 2 Hole and 4 Arrow Ends with Blue Scales Print (Ninjago Spinner Crown)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "11850",
+      "part_num": "98354pr0009",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4654061.jpg",
+      "name": "Turntable 6 x 6 Round Flat Silver Base Serrated with White Faces on Blue Print (Ninjago Spinner)",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "11850",
+      "part_num": "93058",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600519.jpg",
+      "name": "Weapon Throwing Star / Shuriken with Smooth Grips",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    }
+  ],
+  "setInfo": {
+    "set_num": "9563-1",
+    "name": "Kendo Zane",
+    "year": "2012",
+    "theme_id": "435",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9563-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 1,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52180",
+        "part_num": "30174",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612797.jpg",
+        "name": "Minifig Neckwear Armour Ninja Style [Plain]",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-001365"
+      },
+      {
+        "inventory_id": "52180",
+        "part_num": "3626cpr0747",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611429.jpg",
+        "name": "Minifig Head Zane, Eyebrows, White Pupils, Thin Line Mouth Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001365"
+      },
+      {
+        "inventory_id": "52180",
+        "part_num": "970c27pr0190",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4667795.jpg",
+        "name": "Hips and White Legs with Gray and Black Belt Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001365"
+      },
+      {
+        "inventory_id": "52180",
+        "part_num": "973c27h03pr1715",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612637.jpg",
+        "name": "Torso Brown Rope, Gold Lion Medallion and Gray Undershirt Print, White Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001365"
+      },
+      {
+        "inventory_id": "52180",
+        "part_num": "98130pr0001",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4649635.jpg",
+        "name": "Mask, Kendo, White Grill",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-001365"
+      }
+    ]
+  ]
+}

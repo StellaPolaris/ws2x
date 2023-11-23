@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "146214",
+      "part_num": "649pr0002HO",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Tanker with 'SHELL' Print",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "651pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Box Truck",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "651pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Box Truck",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "652pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Box Trailer",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "653pr0001",
+      "color_id": "1131",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/653pr0001-4-5427df6e-ab98-486c-bf38-d69bedec9f70.jpg",
+      "name": "HO Scale Mercedes Open Bed Truck - Gray Flatbed",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "HO Sand Blue"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "653pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/653pr0001-4-5427df6e-ab98-486c-bf38-d69bedec9f70.jpg",
+      "name": "HO Scale Mercedes Open Bed Truck - Gray Flatbed",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "655pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Fire Engine",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "656pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Tow Truck",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "657pr0004",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Refrigerated Truck - Interfrigo, Twin Axle, Trailer Same Color as Truck",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "657pr0005",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Refrigerated Truck - Animals, Twin Axle, Trailer Same Color as Truck",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "upn0421c01",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Trailer for Open Bed Truck - Gray Flatbed",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "upn0422",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Box Truck Top",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "146214",
+      "part_num": "upn0423",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale Mercedes Box Trailer Top",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "699-2",
+    "name": "1:87 8 Trucks",
+    "year": "1965",
+    "theme_id": "368",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/699-2.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

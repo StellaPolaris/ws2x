@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26812",
+      "part_num": "3011",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301128.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "31059",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121576.jpg",
+      "name": "Duplo Plant Tree Leaves with 4 Top Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "31061",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100841.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 with Indented Sides (Tree Trunk)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "31218",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/31218-14-bb7b65b4-9548-426d-ba4a-a2dc3f204db3.jpg",
+      "name": "Duplo Plant, Flower 6 x 6 with 4 Top Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "31223",
+      "color_id": "117",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/117/31223-117-66a86c61-a6a3-4579-8672-39439e563c17.jpg",
+      "name": "Duplo Butterfly Wings with Studs 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Clear"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "31227pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/31227pr0001-14-6f745916-4e9f-42bc-8818-ffe8188a0b1c.jpg",
+      "name": "Duplo Animal Bee/Butterfly Body with Face and Black Stripes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "31233pr0004",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/92/31233pr0004-92-f4ee5c41-472e-49a9-bc37-7350cdf7b83c.jpg",
+      "name": "Duplo Figure Little Forest Friend, Male, Medium Violet Overalls with White Flower Necklace Print (Toot Bluebell)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "31234pr0004",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/92/31234pr0004-92-577a4bdf-b7a2-408c-9934-4124c461679b.jpg",
+      "name": "Duplo Figure Little Forest Friend, Female, Medium Violet Dress with Strawberries Print (Jingle Bluebell)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "4066pr0105",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4066pr0105-14-bc0a81aa-2a90-4a21-89b6-af653b9605e5.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Hazelnuts Cluster Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "4128030",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Book, Little Forest Friends 'A Tune For Toot'",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "6510",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100774.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26812",
+      "part_num": "6510",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121575.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2832-1",
+    "name": "The Bluebells",
+    "year": "1999",
+    "theme_id": "660",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2832-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2227",
+      "part_num": "264",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4463.png",
+      "name": "Window 1 x 4 x 5 Curved Top",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "3957a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "3962a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3962a.png",
+      "name": "Equipment Radio [Compact Handle]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "4362acx1",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4362ac01.png",
+      "name": "Fabuland, Vehicle Base, Car Chassis 12 x 6 with Tow Hook [Complete Assembly]",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "4452",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4452.png",
+      "name": "Box 6 x 6 Bottom",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "4461",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4461.png",
+      "name": "Box 4 x 4 x 2 Bottom with Semicircle Cut-out Ends",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "fabfig0002c09pr0001",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u9142p01c06.png",
+      "name": "Fabuland Figure Constable Clarke Bulldog with White Head, Blue Torso, Arms and Hands, Black Legs and Black Police Hat",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "fabfig0006c01pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u9153p01c02.png",
+      "name": "Fabuland Figure Crocodile 1",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "fabupn0011pr0003",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u9371p01.png",
+      "name": "Fabuland, Door with Oval Pane in 3 Sections with Police Lock Print",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "fabupn0039",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u609.png",
+      "name": "Brick Curved 1 x 4 x 2 Fabuland Bell Shape with Headlights",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2227",
+      "part_num": "upn0294",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u9484.png",
+      "name": "Fabuland, Door Frame 2 x 6 x 5",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3643-1",
+    "name": "Police Car",
+    "year": "1985",
+    "theme_id": "390",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3643-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

@@ -1,0 +1,289 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15828",
+      "part_num": "2460",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4258354.jpg",
+      "name": "Tile Special 2 x 2 with Top Pin",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "2479",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/247926.jpg",
+      "name": "Propeller 4 Blade 5 Diameter with Rounded Ends, Open Hub",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "2555",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211369.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "3003",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300326.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "3024",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302401.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "3839b",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4263176.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "4032a",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211475.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "4150",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/415001.jpg",
+      "name": "Tile Round 2 x 2 with Bottom Cross",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "43722",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4616557.jpg",
+      "name": "Wedge Plate 3 x 2 Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "43723",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4616558.jpg",
+      "name": "Wedge Plate 3 x 2 Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "44728",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4277928.jpg",
+      "name": "Bracket 1 x 2 - 2 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "53989",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4296948.jpg",
+      "name": "Arm Mechanical with Clip [Thin Support]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "87747",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566256.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Medium",
+      "part_cat_id": "28",
+      "part_material": "Rubber",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "92691",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600307.jpg",
+      "name": "Animal Body Part, Dog Bone [Long]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15828",
+      "part_num": "92692",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4604304.jpg",
+      "name": "Plate Special 1 x 2 with Angled Handles on Side",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "15828",
+      "part_num": "93061",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4609295.jpg",
+      "name": "Arm Skeleton Bent with Clips at 90 [Vertical Grip]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30081-1",
+    "name": "Skeleton Chopper",
+    "year": "2011",
+    "theme_id": "435",
+    "num_parts": "41",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30081-1.jpg"
+  },
+  "countedUniqueParts": 18,
+  "countedSpareParts": 1,
+  "countedStandardParts": 35,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "53154",
+        "part_num": "3626bpr0751",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612984.jpg",
+        "name": "Minifig Head Frakjaw, Cracked Skull with Metal Plates Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002324"
+      },
+      {
+        "inventory_id": "53154",
+        "part_num": "93060pr0001",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4602984.jpg",
+        "name": "Torso Skeleton, Angular Rib Cage with Black Holes and Cracks and Red Loincloth Print",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002324"
+      },
+      {
+        "inventory_id": "53154",
+        "part_num": "93061",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4609295.jpg",
+        "name": "Arm Skeleton Bent with Clips at 90 [Vertical Grip]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002324"
+      },
+      {
+        "inventory_id": "53154",
+        "part_num": "93062c01",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4602970.jpg",
+        "name": "Leg Skeleton with Black Square Foot",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002324"
+      }
+    ]
+  ]
+}

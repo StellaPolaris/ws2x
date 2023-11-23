@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "8358",
+      "part_num": "10563",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6030422.jpg",
+      "name": "Duplo Container Box 2 x 4 x 2 Door with Handle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "14222pr9997",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6122568.jpg",
+      "name": "Duplo Brick 1 x 3 x 2 Round Top, Cut Away Sides with Spider-Man Face Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "16265",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6057851.jpg",
+      "name": "Duplo Wrench with Handles",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "21238pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6117465.jpg",
+      "name": "Duplo Figure Spider-Man, Small Eyes, Blue and Red Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "3437pr0020",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6056419.jpg",
+      "name": "Duplo Brick 2 x 2 with Spider Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "45141",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624417.jpg",
+      "name": "Duplo Fuel Container 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "60775",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4515394.jpg",
+      "name": "Duplo Container Box 2 x 4 x 2 with Open Sides",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "6474",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4118928.jpg",
+      "name": "Duplo Brick 2 x 2 Slope 45",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "76371",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6040229.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Bottom Tube",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "85347",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4546220.jpg",
+      "name": "Duplo Engine Block 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "93702c02pr0006",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6117920.jpg",
+      "name": "Duplo Motorcycle with Rubber Wheels, Spider Web, Headlights and Spider-Man Logo Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8358",
+      "part_num": "98233",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6055100.jpg",
+      "name": "Duplo Plate 2 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10607-1",
+    "name": "Spider-Man Web-Bike Workshop",
+    "year": "2015",
+    "theme_id": "630",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10607-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

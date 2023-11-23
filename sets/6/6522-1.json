@@ -1,0 +1,252 @@
+{
+  "standard": [
+    {
+      "inventory_id": "498",
+      "part_num": "298c02",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73587.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3004pr9976",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3004p18.png",
+      "name": "Brick 1 x 2 with Thin Black 'POLICE' Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3020",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302001.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3020",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302026.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3024",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000843.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3039pr0012",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3039p12.png",
+      "name": "Slope 45 2 x 2 with White Phone Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3069bpr0058",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3069bp18.png",
+      "name": "Tile 1 x 2 with Groove and 'POLICE' Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3464",
+      "color_id": "47",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/3464.png",
+      "name": "Wheel Centre Small with Stub Axles (Pulley Wheel)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "3641",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/364126.jpg",
+      "name": "Tyre 15 x 6 Offset Tread Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "4480c01",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4480c01.png",
+      "name": "Vehicle Base, Motorcycle Chassis, Frame 3 x 6 x 3",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "4861",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/486101.jpg",
+      "name": "Slope 45 3 x 4 Double / 33",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "4864a",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/41/4864a.png",
+      "name": "Panel 1 x 2 x 2 [Solid Studs]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "498",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6522-1",
+    "name": "Highway Patrol",
+    "year": "1987",
+    "theme_id": "67",
+    "num_parts": "38",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6522-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 0,
+  "countedStandardParts": 30,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51949",
+        "part_num": "3626apr0001",
+        "color_id": "14",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626ap01.png",
+        "name": "Minifig Head Standard Grin Print [Solid Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001134"
+      },
+      {
+        "inventory_id": "51949",
+        "part_num": "3842b",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3842b.png",
+        "name": "Helmet Classic with Thick Chin Guard and Visor Dimples",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001134"
+      },
+      {
+        "inventory_id": "51949",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001134"
+      },
+      {
+        "inventory_id": "51949",
+        "part_num": "973c03h01pr0079",
+        "color_id": "0",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973pb0079c01-0-4e6a8550-fa59-4c24-a0a3-9d896b90d67d.jpg",
+        "name": "Torso Leather Jacket, White Police Badge, Curved Zipper Print, Black Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001134"
+      }
+    ]
+  ]
+}

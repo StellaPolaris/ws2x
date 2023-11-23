@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28006",
+      "part_num": "2302",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/230224.jpg",
+      "name": "Duplo Brick 2 x 3 with Curved Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "31036c02",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Toolo Brick 2 x 8 with 2 Screws in Holes 2 and 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "31037c01",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Toolo Wing with Screw",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "31038",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Toolo Plane Tail 4 x 3 with Angled Corners",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "31039c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Toolo Wing 4 x 2 Center Brick, with Two Raised 2 x 2 Wings with Cut Corners",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "4555c05pr0005",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/4555c05pr0005-15-01005143-10c7-436f-aec4-bdfbf6278f1a.jpg",
+      "name": "Duplo Figure, Early, Aviator Hat Blue, White Legs, Black Zipper and Racer #2 Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "6290",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/6290-0-5d7b4842-6695-4689-b29e-5ece28b4b8cf.jpg",
+      "name": "Duplo Toolo Wheel with Connector Pin",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "6292",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4514411.jpg",
+      "name": "Duplo Toolo Tyre / Tire",
+      "part_cat_id": "4",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "6474",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/647421.jpg",
+      "name": "Duplo Brick 2 x 2 Slope 45",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "6669c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/135/6669c01-135-fe5fa6f2-05b7-425b-a041-71d68d051bbe.jpg",
+      "name": "Duplo Toolo Propeller Small with Yellow Center Screw",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "74864",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/74864-0-8e0c3714-b9e7-412a-8155-eaef376b8a20.jpg",
+      "name": "Duplo Toolo Tool Screwdriver",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "74957",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/74957-14-e94ebe66-cb84-45f7-898c-725bdc3ad00e.jpg",
+      "name": "Duplo Toolo Brick 2 x 2 with Holes and Clip on Bottom",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28006",
+      "part_num": "dupupn0034",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/dupupn0034-1-b53d21bb-2512-47f5-9dae-5031c4e2b5b5.jpg",
+      "name": "Duplo Toolo Brick 2 x 8 with 10 Side Screw Sockets, Swivel Bracket End and Clip End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2917-1",
+    "name": "Aeroplane (Airplane)",
+    "year": "1996",
+    "theme_id": "664",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2917-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 20,
+  "minfigSetParts": []
+}

@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15640",
+      "part_num": "19011pr0001",
+      "color_id": "84",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6094084.jpg",
+      "name": "Duplo Animal Duck with Bright Light Orange Bill and Brown Feathers Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Nougat"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "19011pr0002",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6094090.jpg",
+      "name": "Duplo Animal Duck with Bright Light Orange Bill, Green Head and Feathers, Dark Red Chest",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "3437",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183780.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "3437pr0042",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6100060.jpg",
+      "name": "Duplo Brick 2 x 2 with 2 Ducks / Ducklings Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "47511pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6024501.jpg",
+      "name": "Duplo Figure Child with Cap Lime, with White Shirt under Blue Coveralls with Pocket - Freckles - Blue Legs",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "6497",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100729.jpg",
+      "name": "Duplo Fence 1 x 6 x 2 Paled (Picket)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "6510",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121575.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "6510",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100774.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "87084",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4559584.jpg",
+      "name": "Duplo Brick 2 x 3",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "98215",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6114698.jpg",
+      "name": "Duplo Cupcake / Muffin Cup with 2 x 2 Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "15640",
+      "part_num": "98233",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4657358.jpg",
+      "name": "Duplo Plate 2 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10581-1",
+    "name": "Forest: Ducks",
+    "year": "2015",
+    "theme_id": "504",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10581-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

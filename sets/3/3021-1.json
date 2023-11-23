@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10002",
+      "part_num": "2470",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4159392.jpg",
+      "name": "Wheel Wagon Small (27mm D.)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "2540",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254026.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "30153",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113954.jpg",
+      "name": "Rock 1 x 1 Jewel 24 Facet",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "3020",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302002.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "3020",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114309.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "3068bpr0406",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/19/3068bpx19-19-212870d7-644d-4842-b191-d31024c45805.jpg",
+      "name": "Tile 2 x 2 with Orange Map and Hieroglyphs, Anubis Head, 40 Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "3688",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114062.jpg",
+      "name": "Slope 75 2 x 2 x 2 Quadruple Convex",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "3957a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395721.jpg",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "4600",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/460026.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "6141",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614124.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "10002",
+      "part_num": "6141",
+      "color_id": "34",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005748.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3021-1",
+    "name": "King Pharaoh the Third",
+    "year": "1998",
+    "theme_id": "297",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3021-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51341",
+        "part_num": "30168pr0001",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/30168px1-14-a990c66a-bbf5-48af-bbcb-4ef57918d8d0.jpg",
+        "name": "Headdress Mummy [Type 1] with Blue and Gold Stripes Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000526"
+      },
+      {
+        "inventory_id": "51341",
+        "part_num": "3626bpr0046",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3626bpa2.png",
+        "name": "Minifig Head Pharaoh Hotep, Mummy, Eyebrows, Red around Eyes, Pupils Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-000526"
+      },
+      {
+        "inventory_id": "51341",
+        "part_num": "970c03pr0004",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/970x028pr0001-0-fcfd527e-d1bf-4aed-be65-0705c089ffd5.jpg",
+        "name": "Hips and Black Legs with Green Kilt & Toes Print (Hotep)",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-000526"
+      },
+      {
+        "inventory_id": "51341",
+        "part_num": "973c03h22pr0002",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973pa2c01-0-e323f7bc-cfd6-456d-a0e4-ed0bea275bcc.jpg",
+        "name": "Torso Pharaoh Breastplate Print (Hotep), Black Arms, Red Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000526"
+      }
+    ]
+  ]
+}

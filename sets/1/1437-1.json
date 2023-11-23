@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10460",
+      "part_num": "2625",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2625.png",
+      "name": "Boat Bow Plate 7 x 6 without Stud Notches",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "30145",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4116643.jpg",
+      "name": "Brick 2 x 2 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "3022",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4159007.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "30248",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4168824.jpg",
+      "name": "Helicopter Skid Rails 12 x 6",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "30332",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142731.jpg",
+      "name": "Propeller 3 Blade 9 Diameter",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "30640",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4168879.jpg",
+      "name": "Steering Wheel Holder 2 x 2",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "30663",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4153043.jpg",
+      "name": "Steering Wheel Small, 2 x 2",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "3475b",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4168877.jpg",
+      "name": "Engine - Smooth, Small 1 x 2 Side Plate [With Axle Holders]",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "4729",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4729.png",
+      "name": "Brick Special 2 x 2 No Studs, Top Pin",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "6239",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/623901.jpg",
+      "name": "Tail Shuttle",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10460",
+      "part_num": "jsfig0027",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/-1/js027--1-09e61761-0662-4582-8cb8-42365346c7cb.jpg",
+      "name": "Juniors Minifig, Jack Stone, Dark Turquoise Jumpsuit, Red Arms and Hands",
+      "part_cat_id": "13",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1437-1",
+    "name": "Turbo Chopper (Kabaya Promotional)",
+    "year": "2002",
+    "theme_id": "280",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1437-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15521",
+      "part_num": "2222",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4580723.jpg",
+      "name": "Duplo Crane Base 2 x 2 with Hook Holder",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "31213pr0030",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4580778.jpg",
+      "name": "Duplo Brick 2 x 4 x 2 Curved Top with 'TOW MATER' Tow Truck Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "3437",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4226194.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "4066",
+      "color_id": "70",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4261084.jpg",
+      "name": "Duplo Brick 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "40666",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4170795.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "44524",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183797.jpg",
+      "name": "Duplo Plate 2 x 8",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "4662",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4279235.jpg",
+      "name": "Duplo Hook",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "60777",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4580904.jpg",
+      "name": "Duplo Container Oil Drum 2 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "88760c01pr0002",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6049605.jpg",
+      "name": "Duplo Car Base 2 x 4 with Removable Metal Axles, Black Tires with Whitewall and Silver Hub Cap Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "88760c01pr0003",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/88760c01pr0003-0-118a3ea5-85e7-4d19-9d4d-051033368e20.jpg",
+      "name": "Duplo Car Base 2 x 4 with Black Tires and Dark Orange Sport and Light Bluish Gray Sport Wheels Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "88764pr0001",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4580565.jpg",
+      "name": "Duplo Car Body 2 Top Studs Truck with Cars Tow Mater Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "15521",
+      "part_num": "89187",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4580715.jpg",
+      "name": "Duplo Car Body, 2 Top Studs with Cars Sheriff Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5814-1",
+    "name": "Mater's Yard",
+    "year": "2010",
+    "theme_id": "506",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5814-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": []
+}

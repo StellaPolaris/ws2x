@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "118697",
+      "part_num": "10884",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6299808.jpg",
+      "name": "Plant, Leaves 6 x 5 Swordleaf with Clip  (thick open O clip)",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "20482",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6215539.jpg",
+      "name": "Tile Round 1 x 1 with Hollow Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "2450",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4208072.jpg",
+      "name": "Wedge Plate 3 x 3 Cut Corner",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "28192",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6248854.jpg",
+      "name": "Slope 45 2 x 1 with 2/3 Inverted Cutout and no stud",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "30089b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6476480.jpg",
+      "name": "Equipment Camera Handheld with Central Viewfinder",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "32607",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6229130.jpg",
+      "name": "Plant, Plate 1 x 1 Round with 3 Leaves",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "32828",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6233909.jpg",
+      "name": "Plate Round 1 x 1 with Hollow Stud and Horizontal Bar 1L",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "4274",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211483.jpg",
+      "name": "Technic Pin 1/2",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "6141",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005740.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "6541",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620075.jpg",
+      "name": "Technic Brick 1 x 1 with Hole",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "77307pr0001",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6343841.jpg",
+      "name": "Animal, Cat / Cub with Pink Nose and White Muzzle Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "118697",
+      "part_num": "85975",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4619597.jpg",
+      "name": "Cone 1.17 x 1.17 x 2/3 (Fez)",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "952112-1",
+    "name": "Jessica Sharpe and Lion Cub",
+    "year": "2021",
+    "theme_id": "52",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/952112-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "102188",
+        "part_num": "3626cpr9824",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626cpr9824-14-27f93437-1da1-44ad-bd14-59b10c4a536b.jpg",
+        "name": "Minifig Head Jessica Sharpe / Knight, Headband, Smirk",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-011424"
+      },
+      {
+        "inventory_id": "102188",
+        "part_num": "87990",
+        "color_id": "226",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018627.jpg",
+        "name": "Hair Ponytail and Swept Sideways Fringe",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Yellow",
+        "fig_num": "fig-011424"
+      },
+      {
+        "inventory_id": "102188",
+        "part_num": "970c20",
+        "color_id": "326",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6043605.jpg",
+        "name": "Hips and Olive Green Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Olive Green",
+        "fig_num": "fig-011424"
+      },
+      {
+        "inventory_id": "102188",
+        "part_num": "973c01h01pr5641",
+        "color_id": "84",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6350675.jpg",
+        "name": "Torso Vest, Sand Blue Handkerchief, Reddish Brown Bag Strap print, Yellow Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Medium Nougat",
+        "fig_num": "fig-011424"
+      }
+    ]
+  ]
+}

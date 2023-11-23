@@ -1,0 +1,252 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13610",
+      "part_num": "3004",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300424.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3010",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301024.jpg",
+      "name": "Brick 1 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3023",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302324.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3030",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303021.jpg",
+      "name": "Plate 4 x 10",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3040bpr0011",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3040p33.png",
+      "name": "Slope 45 2 x 1 with Bottom pin, with 9 Large + 3 Small White Buttons Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3069b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306926.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3660",
+      "color_id": "14",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366024.jpg",
+      "name": "Slope Inverted 45 2 x 2 [Ovoid Bottom Pin, Bar-sized Stud Holes]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3665",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366524.jpg",
+      "name": "Slope Inverted 45 2 x 1",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3710",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371024.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "3794a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "4079",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4079.png",
+      "name": "Seat / Chair 2 x 2",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "4719",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4719.png",
+      "name": "Bicycle Frame [Solid Stud]",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "4861",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4258405.jpg",
+      "name": "Slope 45 3 x 4 Double / 33",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "6141",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005740.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "13610",
+      "part_num": "92851",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550638.jpg",
+      "name": "Bicycle Wheel with Black Tire",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6613-1",
+    "name": "Telephone Booth",
+    "year": "1986",
+    "theme_id": "67",
+    "num_parts": "26",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6613-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 0,
+  "countedStandardParts": 22,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51161",
+        "part_num": "3626apr0001",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626ap01.png",
+        "name": "Minifig Head Standard Grin Print [Solid Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000348"
+      },
+      {
+        "inventory_id": "51161",
+        "part_num": "4485",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/448523.jpg",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000348"
+      },
+      {
+        "inventory_id": "51161",
+        "part_num": "970c28",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583501.jpg",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000348"
+      },
+      {
+        "inventory_id": "51161",
+        "part_num": "973c28h01pr0061",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973px61c01-15-4e48e54b-ab1c-4fe5-893c-269f6f3594ed.jpg",
+        "name": "Torso Horizontal Blue Stripes Print, Blue Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000348"
+      }
+    ]
+  ]
+}

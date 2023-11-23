@@ -1,0 +1,174 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3019",
+      "part_num": "197295",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Sticker Sheet for Sets 3636-1, 3792-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3009",
+      "color_id": "14",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300924.jpg",
+      "name": "Brick 1 x 6",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3010",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301024.jpg",
+      "name": "Brick 1 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3032",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303224.jpg",
+      "name": "Plate 4 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3062b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306221.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3062b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306226.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3741",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374128.jpg",
+      "name": "Plant, Flower Stem",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3742",
+      "color_id": "4",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "3852a",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/6/3852a.png",
+      "name": "Equipment Hairbrush Long Handle [14mm]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "4222",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4222a.png",
+      "name": "Fabuland, Chair",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "4336",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4336.png",
+      "name": "Fabuland, Bed",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3019",
+      "part_num": "fabfig0014c01pr0001",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u9140p01c03.png",
+      "name": "Fabuland Figure, Lisa Lamb (Blue Shirt)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3019",
+      "part_num": "3742",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3792-1",
+    "name": "Lisa Lamb's Bedroom",
+    "year": "1985",
+    "theme_id": "390",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3792-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 1,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

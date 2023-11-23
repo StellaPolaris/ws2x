@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0009",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0009-0-e62a5342-fbf1-490a-9240-83533eedda9a.jpg",
+      "name": "Large Figure Connector Block, 6 x 6 x 4, with 5 Sockets and 1 Dark Gray Pin",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0010",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure, Limb, Arm and Hand (Tager)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0011",
+      "color_id": "22",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure, Limb, Upper Arm (Tager)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Purple"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0011",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure, Limb, Upper Arm (Tager)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0012",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure Limb, Leg and Foot (Tager)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0013",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure Torso Cover, Armor (Tager)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0014",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/galupn0014-8-7fb76472-9607-4a3d-9f76-d2765498c416.jpg",
+      "name": "Large Figure Shield / Armor / Panel with 3 Recessed Sections",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0015",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure Head, Tager",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0016",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/73/galupn0016-73-274af2bf-1c91-4771-9896-82173641fac9.jpg",
+      "name": "Large Figure Limb, Mechanical Short, with 1 Light Gray Socket and 1 Light Gray Pin",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0017",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure Torso, Tager",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "44342",
+      "part_num": "galupn0018",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Large Figure Accessory, Drill",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "8325-1",
+    "name": "Tager",
+    "year": "2002",
+    "theme_id": "685",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8325-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 18,
+  "minfigSetParts": []
+}

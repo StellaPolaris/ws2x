@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9687",
+      "part_num": "2335pr0026",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/2335pr0026-0-7b2590dc-e77f-46ba-aef9-f61583c530a9.jpg",
+      "name": "Flag 2 x 2 Square [Thin Clips] with Black Dragon Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "2470",
+      "color_id": "6",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/6/2470.png",
+      "name": "Wheel Wagon Small (27mm D.)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "2540",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254002.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "2555",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/255521.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "30136",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114053.jpg",
+      "name": "Brick Special 1 x 2 Palisade [aka Log]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "30173a",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114206.jpg",
+      "name": "Weapon Sword / Katana [Octagonal Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "3020",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302023.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "3839b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383926.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "3848",
+      "color_id": "6",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/384825.jpg",
+      "name": "Weapon Halberd / Axe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "4085c",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408502.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "9687",
+      "part_num": "4488",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/448826.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3076-1",
+    "name": "White Ninja's Attack Cart",
+    "year": "1999",
+    "theme_id": "434",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3076-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50882",
+        "part_num": "30177",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121917.jpg",
+        "name": "Wrap, Ninja, with Clip",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000069"
+      },
+      {
+        "inventory_id": "50882",
+        "part_num": "3626bpr0137",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583092.jpg",
+        "name": "Minifig Head Ninja, Female, Red Lips, Eyelashes, Gray Headband with Red Circle Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000069"
+      },
+      {
+        "inventory_id": "50882",
+        "part_num": "970c27",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582628.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000069"
+      },
+      {
+        "inventory_id": "50882",
+        "part_num": "973c27h01pr0240",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973pb0240c02-15-d45d9139-5e56-40ec-b1eb-c54f59a5986e.jpg",
+        "name": "Torso Wrap, Brown Dagger, Gold Star, Gold Scale Mail Print, White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000069"
+      }
+    ]
+  ]
+}

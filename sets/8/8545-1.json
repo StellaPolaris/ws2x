@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2518",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32013",
+      "color_id": "8",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140503.jpg",
+      "name": "Technic Axle and Pin Connector Angled #1",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32015",
+      "color_id": "8",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106383.jpg",
+      "name": "Technic Axle and Pin Connector Angled #5 - 112.5",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32062",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32138",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119589.jpg",
+      "name": "Technic Pin Double with Axle Hole",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32140",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4120017.jpg",
+      "name": "Technic Beam 2 x 4 L-Shape Thick",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32553",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/32553.png",
+      "name": "Large Figure Head Connector Block 3 x 4 x 1 2/3",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32554",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/34/32554-34-beddb002-2001-4b8f-851f-ecb54083bdcd.jpg",
+      "name": "Large Figure Head Connector Block Eye/Brain Stalk",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "32567",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/32567-8-ed34d18f-3536-43f7-8bdb-2024f0204e70.jpg",
+      "name": "Large Figure Mask Ruru (Turaga)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "3749",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4184168.jpg",
+      "name": "Technic Axle Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "40340",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144521.jpg",
+      "name": "Large Figure Weapon Spear, Drill with Axle and Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "4519",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/451926.jpg",
+      "name": "Technic Axle 3",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "6536",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4173668.jpg",
+      "name": "Technic Axle and Pin Connector Perpendicular",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "6553",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107765.jpg",
+      "name": "Technic Axle 1.5 with Perpendicular Axle Connector (Technic Pole Reverser Handle)",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "71509",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107153.jpg",
+      "name": "Rubber Band Small 13mm (Square Cross Section)",
+      "part_cat_id": "31",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "2518",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2518",
+      "part_num": "71509",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107153.jpg",
+      "name": "Rubber Band Small 13mm (Square Cross Section)",
+      "part_cat_id": "31",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8545-1",
+    "name": "Whenua",
+    "year": "2001",
+    "theme_id": "324",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8545-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 2,
+  "countedStandardParts": 27,
+  "minfigSetParts": []
+}

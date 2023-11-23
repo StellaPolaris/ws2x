@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5734",
+      "part_num": "2335pr0026",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/2335pr0026-0-7b2590dc-e77f-46ba-aef9-f61583c530a9.jpg",
+      "name": "Flag 2 x 2 Square [Thin Clips] with Black Dragon Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "2431",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243123.jpg",
+      "name": "Tile 1 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "2555",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/255526.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "2873",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163971.jpg",
+      "name": "Hinge Train Gate 2 x 4",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "30173a",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114205.jpg",
+      "name": "Weapon Sword / Katana [Octagonal Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "30237a",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/30237.png",
+      "name": "Brick Special 1 x 2 with Vertical Clip [Thick U Clip]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "3031",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303126.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "3957a",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395702.jpg",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "4070",
+      "color_id": "8",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4108044.jpg",
+      "name": "Brick Special 1 x 1 with Headlight and No Slot",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "4315",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4315.png",
+      "name": "Hinge Vehicle Roof Holder 1 x 4",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "4865a",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/486523.jpg",
+      "name": "Panel 1 x 2 x 1 [Square Corners]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "5734",
+      "part_num": "6133",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106519.jpg",
+      "name": "Creature Body Part, Dragon Wing",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3074-1",
+    "name": "Red Ninja's Dragon Glider",
+    "year": "1999",
+    "theme_id": "434",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3074-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50969",
+        "part_num": "30177",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121918.jpg",
+        "name": "Wrap, Ninja, with Clip",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000156"
+      },
+      {
+        "inventory_id": "50969",
+        "part_num": "3626bpr9971",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx7-14-cdd312ef-10ec-4074-bcc2-9aa60502b1d2.jpg",
+        "name": "Minifig Head Ninja, Male Gray Bandana with Gold Dot, Eyebrows, Sideburns Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000156"
+      },
+      {
+        "inventory_id": "50969",
+        "part_num": "970c22",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582624.jpg",
+        "name": "Hips and Red Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000156"
+      },
+      {
+        "inventory_id": "50969",
+        "part_num": "973c22h01pr0240",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/973pb0240c01-4-6575bc2e-c835-489b-bdce-2665b66ef505.jpg",
+        "name": "Torso Robe, Brown Dagger, Gold Star, Gold Scale Mail Print, Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000156"
+      }
+    ]
+  ]
+}

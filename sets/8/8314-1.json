@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "44333",
+      "part_num": "32133bc02",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/32133bc02-7-f30bd26a-3557-4632-8a47-3a937e9b47cd.jpg",
+      "name": "Projectile, Arrow, Solid Shaft with Black Galidor Shield",
+      "part_cat_id": "68",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "4173636",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Poster, Galidor: Defenders of the Outer Dimension",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0040",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0040-0-02a3c7eb-ded1-4bd4-a2a3-f87a6323222e.jpg",
+      "name": "Large Figure Shield, 2 x 12 x 3 with Axle",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0040pr0002",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0040pr0002-0-3e93ec90-1378-490b-8d50-1fcfc894514e.jpg",
+      "name": "Large Figure Shield, 2 x 12 x 3 with Axle with Gold/Silver Spots print",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0042",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0042-0-4313c191-b2fb-4b4b-a15e-8c6dea6d18c7.jpg",
+      "name": "Large Figure Limb, Arm, Lower Section with Claw Hand, Pin (Gorm)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0044",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0044-0-7b18440b-7656-40ed-9a4b-ecb2c08749e1.jpg",
+      "name": "Large Figure Limb, Leg, Lower Section with Pin (Gorm)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0045",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0045-0-3c7e3702-4b99-4427-9f79-8b8c74d0a6d4.jpg",
+      "name": "Large Figure Limb, Leg, Top Section with Pin and Socket (Gorm)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0046c01",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0046c01-0-53507724-e519-48b6-8da3-e9c94582f1b0.jpg",
+      "name": "Large Figure Limb, Arm, Top Section with Dark Gray Pin and Socket",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0047pr0002",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0047pr0002-0-5664a849-65d8-46f7-b657-ab509438274d.jpg",
+      "name": "Large Figure Torso, Purple Sockets and Waste, with Gold/White Chest print (Gorm)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0062pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0062pr0001-0-bc2554b7-043d-4d64-9dac-da3c30379f8a.jpg",
+      "name": "Large Figure Head, with Pin, Gorm, Gold print",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "44333",
+      "part_num": "galupn0063",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/galupn0063-0-ccdcff41-d474-4792-a46c-0f5b28ddafbb.jpg",
+      "name": "Large Figure Limb, Arm with Spring Cannon (Gorm)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "8314-1",
+    "name": "Gorm Deluxe",
+    "year": "2002",
+    "theme_id": "685",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8314-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": []
+}

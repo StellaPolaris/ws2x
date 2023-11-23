@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "49411",
+      "part_num": "15429",
+      "color_id": "5",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6273204.jpg",
+      "name": "Animal Body Part, Cat Tail",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "15573",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6217794.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "15745",
+      "color_id": "45",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6058337.jpg",
+      "name": "Rock - Heart Jewel with Shaft",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "18852pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099712.jpg",
+      "name": "Animal, Rabbit / Bunny, Baby Sitting with Black Eyes and Black Nose Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "20310",
+      "color_id": "297",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6112307.jpg",
+      "name": "Brick Special 1 x 1 with Scroll with Open Stud",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "3032",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303201.jpg",
+      "name": "Plate 4 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "3068bpr0416",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6288537.jpg",
+      "name": "Tile 2 x 2 with Groove and Music Sheet Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "37352",
+      "color_id": "322",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6236578.jpg",
+      "name": "Brick Curved 1 x 2 x 1 No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "47457",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218699.jpg",
+      "name": "Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "47457",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4494474.jpg",
+      "name": "Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "87079",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6097042.jpg",
+      "name": "Tile 2 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "87087",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4618545.jpg",
+      "name": "Brick Special 1 x 1 with Stud on 1 Side",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "49411",
+      "part_num": "98138",
+      "color_id": "45",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6053876.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "302002-1",
+    "name": "Aurora's Rabbit",
+    "year": "2020",
+    "theme_id": "579",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/302002-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 25,
+  "minfigSetParts": []
+}

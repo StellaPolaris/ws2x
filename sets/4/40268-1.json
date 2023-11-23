@@ -1,0 +1,240 @@
+{
+  "standard": [
+    {
+      "inventory_id": "20581",
+      "part_num": "2431",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+      "name": "Tile 1 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "3021",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211043.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "3023",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302321.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "30414",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211636.jpg",
+      "name": "Brick Special 1 x 4 with 4 Studs on One Side",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "31572cbd01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6179148.jpg",
+      "name": "Display Card, Set 40268",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "31799",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/31799-9999-71323700-b701-47c4-9771-484cdce6fb46.jpg",
+      "name": "Sticker Sheet for Set 40268-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "32062",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142865.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "32064a",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211599.jpg",
+      "name": "Technic Brick 1 x 2 with Axle Hole Type 1 [+ Opening] and Bottom Pin",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "32123b",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271165.jpg",
+      "name": "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced",
+      "part_cat_id": "54",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "3623",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211133.jpg",
+      "name": "Plate 1 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "6541",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211535.jpg",
+      "name": "Technic Brick 1 x 1 with Hole",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "88646",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4571146.jpg",
+      "name": "Plate Special 3 x 4 with 1 x 4 Center Studs [Plain]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "20581",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "20581",
+      "part_num": "32123b",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271165.jpg",
+      "name": "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced",
+      "part_cat_id": "54",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "40268-1",
+    "name": "R3-M2",
+    "year": "2017",
+    "theme_id": "158",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/40268-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 2,
+  "countedStandardParts": 18,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "55345",
+        "part_num": "30361cpr1011",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6190253.jpg",
+        "name": "Brick Round 2 x 2 x 2 Robot Body with Dark Brown and Dark Orange Lines Pattern (R3-M2)",
+        "part_cat_id": "20",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-003829"
+      },
+      {
+        "inventory_id": "55345",
+        "part_num": "30362",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124113.jpg",
+        "name": "Leg Mechanical - Droid with Technic Pin",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-003829"
+      },
+      {
+        "inventory_id": "55345",
+        "part_num": "30367cpr1011",
+        "color_id": "40",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6190250.jpg",
+        "name": "Brick Round 2 x 2 Dome Top with Dark Brown with Silver Band around Dome Pattern (R3-M2)",
+        "part_cat_id": "20",
+        "part_material": "Plastic",
+        "colorName": "Trans-Brown",
+        "fig_num": "fig-003829"
+      }
+    ]
+  ]
+}

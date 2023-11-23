@@ -1,0 +1,242 @@
+{
+  "standard": [
+    {
+      "inventory_id": "23596",
+      "part_num": "18674",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6115080.jpg",
+      "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "27257",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6166891.jpg",
+      "name": "Weapon Pike / Spear Tip",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "30089b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6476480.jpg",
+      "name": "Equipment Camera Handheld with Central Viewfinder",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "3020",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302021.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "30374",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211628.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "30374",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4188537.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "3062b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306226.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "4740",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/474001.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "6141",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "64567",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6040333.jpg",
+      "name": "Weapon Lightsaber Hilt with Bottom Ring",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "92690",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4640844.jpg",
+      "name": "Bar 1L with Top Stud and Two Side Studs",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "23596",
+      "part_num": "98138",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650498.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9781338055603-1",
+    "name": "Nexo Knights: Stone Monster Attack!",
+    "year": "2017",
+    "theme_id": "497",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9781338055603-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52592",
+        "part_num": "22401",
+        "color_id": "57",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6161314.jpg",
+        "name": "Headwear Accessory Visor (Nexo Knights)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Neon Orange",
+        "fig_num": "fig-001777"
+      },
+      {
+        "inventory_id": "52592",
+        "part_num": "22402",
+        "color_id": "57",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6177817.jpg",
+        "name": "Minifig Neckwear Armor Breastplate with Shoulder Pads Large, Pentagonal Hole in Front and 4 Studs on Back",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Neon Orange",
+        "fig_num": "fig-001777"
+      },
+      {
+        "inventory_id": "52592",
+        "part_num": "2446",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106303.jpg",
+        "name": "Helmet, Standard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001777"
+      },
+      {
+        "inventory_id": "52592",
+        "part_num": "3626cpr1783",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6124911.jpg",
+        "name": "Minifig Head Lance, Dual Sided, Dark Tan Eyebrows, Cheek Lines, Smile with Right Eye Closed / Smile with Teeth Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001777"
+      },
+      {
+        "inventory_id": "52592",
+        "part_num": "970c14pr1127",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6164642.jpg",
+        "name": "Hips and Light Bluish Gray Legs with Gray Armor and Orange and Yellow Circuitry, Gray Hexagonal Knee Pads and Gray Boots Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001777"
+      },
+      {
+        "inventory_id": "52592",
+        "part_num": "973c27h14pr3559",
+        "color_id": "71",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6164525.jpg",
+        "name": "Torso Armor with Orange and Gold Circuitry and Emblem with White Horse Print, White Arms, Light Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Bluish Gray",
+        "fig_num": "fig-001777"
+      }
+    ]
+  ]
+}

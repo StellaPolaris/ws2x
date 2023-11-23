@@ -1,0 +1,291 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4676",
+      "part_num": "2420",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242023.jpg",
+      "name": "Plate 2 x 2 Corner",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "3021",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302123.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "30503",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4160215.jpg",
+      "name": "Wedge Plate 4 x 4 Cut Corner",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "3069b",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306923.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "3298pr0029",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578561.jpg",
+      "name": "Slope 33 3 x 2 with White Rocket and Black 'SR' Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "3700",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370001.jpg",
+      "name": "Technic Brick 1 x 2 [1 Hole]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "3829c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/9566.jpg",
+      "name": "Steering Stand 1 x 2 with Black Steering Wheel",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "43093",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206482.jpg",
+      "name": "Technic Axle Pin with Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "43713",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4180464.jpg",
+      "name": "Wedge Curved Inverted 6 x 4",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "43719",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4535206.jpg",
+      "name": "Wedge Plate 4 x 4 with 2 x 2 Cutout",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "4588",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4212352.jpg",
+      "name": "Brick Round 1 x 1 with Fins, Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "4871",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211517.jpg",
+      "name": "Slope Inverted 45 4 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "54200",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504372.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "54200",
+      "color_id": "85",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4255409.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "4676",
+      "part_num": "54200",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504372.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "4676",
+      "part_num": "54200",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4255409.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30073-1",
+    "name": "Buzz's Mini Ship",
+    "year": "2010",
+    "theme_id": "275",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30073-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 2,
+  "countedStandardParts": 20,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51303",
+        "part_num": "88062pr0001",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569543.jpg",
+        "name": "Minifig Head Special, Buzz Lightyear with Purple Hood Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-000489"
+      },
+      {
+        "inventory_id": "51303",
+        "part_num": "88064pr0001",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569506.jpg",
+        "name": "Minifig Neckwear Spacesuit with Lime Trim and Colored Buttons (Buzz Lightyear)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000489"
+      },
+      {
+        "inventory_id": "51303",
+        "part_num": "88065pr0001",
+        "color_id": "27",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569507.jpg",
+        "name": "Wing for Spacesuit with Red and White Stripes and Purple Wing Surface (Buzz Lightyear)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000489"
+      },
+      {
+        "inventory_id": "51303",
+        "part_num": "88066",
+        "color_id": "47",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566144.jpg",
+        "name": "Headwear Accessory Visor with Pins, Spacesuit (Buzz Lightyear)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Clear",
+        "fig_num": "fig-000489"
+      },
+      {
+        "inventory_id": "51303",
+        "part_num": "970c27pr0162",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578907.jpg",
+        "name": "Hips and White Legs with Lime Boots and Belt Print (Buzz Lightyear)",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000489"
+      },
+      {
+        "inventory_id": "51303",
+        "part_num": "973c27h27pr1552",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578800.jpg",
+        "name": "Torso Star Command Logo Print (Buzz Lightyear), White Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000489"
+      }
+    ]
+  ]
+}

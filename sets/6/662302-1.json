@@ -1,0 +1,256 @@
+{
+  "standard": [
+    {
+      "inventory_id": "169501",
+      "part_num": "18789",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104264.jpg",
+      "name": "Tool Pickaxe Blocky, Double",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "19729pr2183",
+      "color_id": "35",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6179172.jpg",
+      "name": "Minifig Head Special, Cube with Minecraft Slime, 3 Dark Green Squares Print",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Trans-Bright Green"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3001",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211385.jpg",
+      "name": "Brick 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3003",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211387.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3022",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211397.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3024",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211399.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3024",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302426.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3024",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000844.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3024",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4542673.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "3032",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211404.jpg",
+      "name": "Plate 4 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "6141",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218588.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "87580",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565393.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "169501",
+      "part_num": "87580",
+      "color_id": "72",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565322.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "662302-1",
+    "name": "Cave Explorer, Creeper and Slime",
+    "year": "2023",
+    "theme_id": "577",
+    "num_parts": "30",
+    "img_url": "https://cdn.rebrickable.com/media/sets/662302-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "59040",
+        "part_num": "19729pr0006",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104327.jpg",
+        "name": "Minifig Head Special, Cube with Creeper Face Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-006478"
+      },
+      {
+        "inventory_id": "59040",
+        "part_num": "19734",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6101877.jpg",
+        "name": "Creature Torso Blocky with Cube Feet (Minecraft Creeper)",
+        "part_cat_id": "13",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-006478"
+      },
+      {
+        "inventory_id": "59040",
+        "part_num": "3069b",
+        "color_id": "2",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/306928.jpg",
+        "name": "Tile 1 x 2 with Groove",
+        "part_cat_id": "19",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-006478"
+      }
+    ],
+    [
+      {
+        "inventory_id": "145054",
+        "part_num": "19729pr0058",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6406403.jpg",
+        "name": "Minifig Head Special, Cube with Nougat Face, Miners Lamp print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012912"
+      },
+      {
+        "inventory_id": "145054",
+        "part_num": "970c01",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6261448.jpg",
+        "name": "Hips and Yellow Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012912"
+      },
+      {
+        "inventory_id": "145054",
+        "part_num": "973c01h03pr6279",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6411764.jpg",
+        "name": "Torso, Pixellated Dark Turquoise, Light Bluish Grey, Black, and Dark Bluish Grey Harness print, Yellow Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012912"
+      }
+    ]
+  ]
+}

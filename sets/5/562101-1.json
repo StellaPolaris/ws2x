@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "84913",
+      "part_num": "15573",
+      "color_id": "26",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6101073.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "15712",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6071229.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "3023",
+      "color_id": "3",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121704.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Turquoise"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "3679",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211439.jpg",
+      "name": "Turntable 2 x 2 Plate - Top",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "3680",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/368001.jpg",
+      "name": "Turntable 2 x 2 Plate, Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "3795",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "60474",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6115115.jpg",
+      "name": "Plate Round 4 x 4 with Pin Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "60478",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4515368.jpg",
+      "name": "Plate Special 1 x 2 with Handle on End [Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "6141",
+      "color_id": "45",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4599535.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "6266",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249857.jpg",
+      "name": "Leg Skeleton",
+      "part_cat_id": "61",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "90370",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6088550.jpg",
+      "name": "Musical Instrument Microphone [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "84913",
+      "part_num": "93088pr0019",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6288369.jpg",
+      "name": "Animal, Dog, Small Standing with Blue Eyes, Black Nose, Light Bluish Grey Spots, Freckles",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "562101-1",
+    "name": "Performing Dog",
+    "year": "2021",
+    "theme_id": "494",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/562101-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

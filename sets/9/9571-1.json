@@ -1,0 +1,240 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5567",
+      "part_num": "3004",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121739.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "3022",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4159007.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "4643693",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 8 - Fangdam - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "4643694",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 63 - Crushing Bolt - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "4643695",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 26 - Crown of Fire - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "4643696",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 94 - Unsteady - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "4643697",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 34 - Fire Fields - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "53451",
+      "color_id": "297",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4618195.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "63965",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600270.jpg",
+      "name": "Bar 6L with Stop Ring",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "92690",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4640843.jpg",
+      "name": "Bar 1L with Top Stud and Two Side Studs",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "93787",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4613938.jpg",
+      "name": "Weapon Mace / Flail Spiked - Flexible Rubber",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "98136",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646642.jpg",
+      "name": "Animal, Snake with Straight Tail",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "98344pr0001",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6004591.jpg",
+      "name": "Ring 4 x 4 with 2 x 2 Hole and 2 Intertwined Snakes with White and Black Print (Ninjago Spinner Crown)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "5567",
+      "part_num": "98354pr0014",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6004309.jpg",
+      "name": "Turntable 6 x 6 Round Pearl Titanium Base Serrated with White Print (Ninjago Spinner)",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "5567",
+      "part_num": "53451",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4618195.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    }
+  ],
+  "setInfo": {
+    "set_num": "9571-1",
+    "name": "Fangdam",
+    "year": "2012",
+    "theme_id": "435",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9571-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 1,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50896",
+        "part_num": "970c22pr0270",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4648092.jpg",
+        "name": "Hips and Red Legs with White Scales Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000083"
+      },
+      {
+        "inventory_id": "50896",
+        "part_num": "973c27h27pr1884",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4647443.jpg",
+        "name": "Torso Snake with White and Small Black Scales Print, White Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000083"
+      },
+      {
+        "inventory_id": "50896",
+        "part_num": "98147pr0002",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4648360.jpg",
+        "name": "Minifig Head Special, Two-Headed Snake with Black Scales Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000083"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "standard": [
+    {
+      "inventory_id": "133994",
+      "part_num": "18788",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6089099.jpg",
+      "name": "Weapon Axe Blocky",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "19727pr0004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6103114.jpg",
+      "name": "Minifig Head Special, Cube with Rear Ledge, Pixelated Tan Face with Pink Mouth Print",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "24008pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6128659.jpg",
+      "name": "Animal Body Part, Cat Head 1 x 2 with Cube with Ears, Nose and Pixelated Face print (Ocelot)",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "3003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "3021",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302101.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "3023",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302301.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "3024",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4221744.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "3024",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302424.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "3623",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/362324.jpg",
+      "name": "Plate 1 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "4216",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6103001.jpg",
+      "name": "Brick Special 1 x 2 with Groove",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "60478",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4515367.jpg",
+      "name": "Plate Special 1 x 2 with Handle on End [Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "61252",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540040.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "6141",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614124.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "63864",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4558172.jpg",
+      "name": "Tile 1 x 3",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "64648",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611885.jpg",
+      "name": "Animal, Fish [Hollow Stud Mouth]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "133994",
+      "part_num": "88704",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569747.jpg",
+      "name": "Equipment Whip - Bent",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "662103-1",
+    "name": "Alex with Ocelot and Sheep",
+    "year": "2022",
+    "theme_id": "577",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/662103-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 0,
+  "countedStandardParts": 20,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52498",
+        "part_num": "19729pr0012",
+        "color_id": "25",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6128874.jpg",
+        "name": "Minifig Head Special, Cube with Alex Face Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Orange",
+        "fig_num": "fig-001683"
+      },
+      {
+        "inventory_id": "52498",
+        "part_num": "970c19",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4221886.jpg",
+        "name": "Hips and Reddish Brown Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-001683"
+      },
+      {
+        "inventory_id": "52498",
+        "part_num": "973c25h02pr3096",
+        "color_id": "378",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6121832.jpg",
+        "name": "Torso Pixelated Shirt with Orange, Olive Green, Light Nougat Squares, and Dark Green Belt Print, Sand Green Arms, Light Nougat Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Sand Green",
+        "fig_num": "fig-001683"
+      }
+    ]
+  ]
+}

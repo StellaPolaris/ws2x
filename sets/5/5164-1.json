@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "7359",
+      "part_num": "2508",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/250824.jpg",
+      "name": "Plate Special 1 x 2 with Long Towball",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3149bc01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3149ec01.png",
+      "name": "Hinge Plate 2 x 5 with Large Hole [Complete Assembly]",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3324ac01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3324ac01-4-c534db8f-9b31-4a45-bfc2-124ff5c30543.jpg",
+      "name": "Hinge Plate 2 x 9 with Hole Close to Hinge [Complete Assembly]",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3679",
+      "color_id": "7",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3679.png",
+      "name": "Turntable 2 x 2 Plate - Top",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3680",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/368001.jpg",
+      "name": "Turntable 2 x 2 Plate, Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3680",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/368026.jpg",
+      "name": "Turntable 2 x 2 Plate, Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3730",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/373021.jpg",
+      "name": "Plate Special 2 x 2 with Towball Socket, Short, 4 Slots",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3730",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/373026.jpg",
+      "name": "Plate Special 2 x 2 with Towball Socket, Short, 4 Slots",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3731",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/372921.jpg",
+      "name": "Plate 2 x 2 with Towball",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "3731",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124111.jpg",
+      "name": "Plate 2 x 2 with Towball",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "4275b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/427526.jpg",
+      "name": "Hinge Plate 1 x 2 with 3 Fingers and Hollow Studs",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7359",
+      "part_num": "4276b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4264363.jpg",
+      "name": "Hinge Plate 1 x 2 with 2 Fingers and Hollow Studs",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5164-1",
+    "name": "Hinges, Turntables and Couplings",
+    "year": "1991",
+    "theme_id": "443",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5164-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 20,
+  "minfigSetParts": []
+}

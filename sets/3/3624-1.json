@@ -1,0 +1,210 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3247",
+      "part_num": "264",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4463.png",
+      "name": "Window 1 x 4 x 5 Curved Top",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "3010",
+      "color_id": "1",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301023.jpg",
+      "name": "Brick 1 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "3741",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374128.jpg",
+      "name": "Plant, Flower Stem",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "3742",
+      "color_id": "14",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "3742",
+      "color_id": "15",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "3742",
+      "color_id": "4",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "4325",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4325.png",
+      "name": "Fabuland, Equipment Watering Can",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "4362acx1",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4362ac01.png",
+      "name": "Fabuland, Vehicle Base, Car Chassis 12 x 6 with Tow Hook [Complete Assembly]",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "4452",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4452.png",
+      "name": "Box 6 x 6 Bottom",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "4461",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4461.png",
+      "name": "Box 4 x 4 x 2 Bottom with Semicircle Cut-out Ends",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "fabfig0003c03pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/u9106p02c02.png",
+      "name": "Fabuland Figure Bunny 3",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "fabupn0038",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u608.png",
+      "name": "Brick Curved 1 x 4 x 2 Fabuland Bell Shape",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "fabupn0039",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u609.png",
+      "name": "Brick Curved 1 x 4 x 2 Fabuland Bell Shape with Headlights",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3247",
+      "part_num": "3742",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "3742",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3247",
+      "part_num": "3742",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3742.png",
+      "name": "Plant, Flower - Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3624-1",
+    "name": "Flower Car",
+    "year": "1985",
+    "theme_id": "390",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3624-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 4,
+  "countedStandardParts": 27,
+  "minfigSetParts": []
+}

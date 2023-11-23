@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1249",
+      "part_num": "32203",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/32203.png",
+      "name": "Znap Beam 7, 3 Holes",
+      "part_cat_id": "43",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32205",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/32205.png",
+      "name": "Znap Beam 1/2 Circle Radius 2L",
+      "part_cat_id": "43",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32209",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4120471.jpg",
+      "name": "Technic Axle 5.5 with Stop [Flat Short End]",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32210",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/32210.png",
+      "name": "Znap Beam 3, 1 Hole",
+      "part_cat_id": "43",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32211",
+      "color_id": "22",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/22/32211.png",
+      "name": "Znap Connector 3 x 3 - 4 way B (Beam)",
+      "part_cat_id": "43",
+      "part_material": "Plastic",
+      "colorName": "Purple"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32212",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/32212.png",
+      "name": "Znap Connector 1 x 3 - 2 way A",
+      "part_cat_id": "43",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32219",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/32219.png",
+      "name": "Wheel 32mm Znap Propeller",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32242",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/32242.png",
+      "name": "Znap Beam 4, 2 Holes, 2 Bends",
+      "part_cat_id": "43",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "32246",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/32246.png",
+      "name": "Znap Beam 8, 4 Holes, 3 Bends, Curved",
+      "part_cat_id": "43",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "3708",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4222794.jpg",
+      "name": "Technic Axle 12",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "3713",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125313.jpg",
+      "name": "Technic Bush",
+      "part_cat_id": "54",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "6581",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/658126.jpg",
+      "name": "Tyre 20 x 30 Balloon Medium 49.6 x 20",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1249",
+      "part_num": "6582",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4193785.jpg",
+      "name": "Wheel 20 x 30 Balloon Medium",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3521-1",
+    "name": "Racer",
+    "year": "1999",
+    "theme_id": "480",
+    "num_parts": "34",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3521-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 34,
+  "minfigSetParts": []
+}

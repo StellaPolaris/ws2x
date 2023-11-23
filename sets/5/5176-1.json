@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11087",
+      "part_num": "3005",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4227497.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "3024",
+      "color_id": "34",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000848.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "3024",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000841.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "3062b",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3006841.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "3065",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306543.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "3066",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/33/3066.png",
+      "name": "Brick 1 x 4 without Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "3067",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/46/3067a.png",
+      "name": "Brick 1 x 6 with No Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "3939",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/46/6208.png",
+      "name": "Slope 33 3 x 6",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "4213",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/33/4213.png",
+      "name": "Hinge Vehicle Roof 4 x 4",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "4315",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4214079.jpg",
+      "name": "Hinge Vehicle Roof Holder 1 x 4",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "4474",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/33/4474.png",
+      "name": "Windscreen 6 x 4 x 2 Canopy",
+      "part_cat_id": "47",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "11087",
+      "part_num": "4625",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4625.png",
+      "name": "Hinge Tile 1 x 4",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5176-1",
+    "name": "Transparent Bricks",
+    "year": "1987",
+    "theme_id": "443",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5176-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

@@ -1,0 +1,313 @@
+{
+  "standard": [
+    {
+      "inventory_id": "83943",
+      "part_num": "23950",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6211447.jpg",
+      "name": "Panel 1 x 3 x 1",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "2437",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243742.jpg",
+      "name": "Windscreen 3 x 4 x 1 1/3 with 2 Studs on Top",
+      "part_cat_id": "47",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "2441",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/244126.jpg",
+      "name": "Vehicle Base 4 x 7 x 2/3",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "2496",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/249626.jpg",
+      "name": "Wheel Skateboard / Trolley",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "3022",
+      "color_id": "321",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6206809.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "3023",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113917.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "3069b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306926.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "33909",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6219819.jpg",
+      "name": "Plate Special 2 x 2 with Only 2 studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "3623",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/362321.jpg",
+      "name": "Plate 1 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "3623",
+      "color_id": "321",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6153538.jpg",
+      "name": "Plate 1 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "3829c01",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4226995.jpg",
+      "name": "Steering Stand 1 x 2 with Black Steering Wheel",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "41682",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6250018.jpg",
+      "name": "Bracket 2 x 2 with 1 x 2 Vertical Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "42511",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6064097.jpg",
+      "name": "Sports Skateboard with Trolley Wheel Holders",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "50951",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4246901.jpg",
+      "name": "Tyre 14 x 6 Solid Smooth",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "60212",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600176.jpg",
+      "name": "Wheel Arch, Mudguard 2 x 4 Studded with Hole",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "93273",
+      "color_id": "321",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6282122.jpg",
+      "name": "Slope Curved 4 x 1 Double with No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "93274",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4616800.jpg",
+      "name": "Bracket 1 x 2 - 2 x 4",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "93595",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4613162.jpg",
+      "name": "Wheel 11 x 6 with 8 'Y' Spokes [Plain]",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "83943",
+      "part_num": "98138",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022171.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "83943",
+      "part_num": "98138",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022171.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30568-1",
+    "name": "Skater",
+    "year": "2021",
+    "theme_id": "52",
+    "num_parts": "40",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30568-1.jpg"
+  },
+  "countedUniqueParts": 20,
+  "countedSpareParts": 1,
+  "countedStandardParts": 36,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "84036",
+        "part_num": "11303",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6032178.jpg",
+        "name": "Hat / Cap Short Curved Bill with Seams and Hole on Top",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-010914"
+      },
+      {
+        "inventory_id": "84036",
+        "part_num": "3626cpr1662",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6112620.jpg",
+        "name": "Minifig Head Ferrari Engineer (Pit Crew) / Pirate, Beard Black Angular, Pupils, Teeth Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-010914"
+      },
+      {
+        "inventory_id": "84036",
+        "part_num": "970c24",
+        "color_id": "379",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4267425.jpg",
+        "name": "Hips and Sand Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Sand Blue",
+        "fig_num": "fig-010914"
+      },
+      {
+        "inventory_id": "84036",
+        "part_num": "973c01h01pr1720",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612153.jpg",
+        "name": "Torso Vest with Surfer Print, Yellow Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-010914"
+      }
+    ]
+  ]
+}

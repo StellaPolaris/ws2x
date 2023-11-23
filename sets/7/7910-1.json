@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3528",
+      "part_num": "2412b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "2540",
+      "color_id": "25",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140592.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "3020",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158355.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "30383",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210726.jpg",
+      "name": "Hinge Plate 1 x 2 Locking with 1 Finger On Top",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "30386",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4167106.jpg",
+      "name": "Hinge Brick 1 x 2 Locking with 1 Finger Vertical End and 2 Fingers Vertical End, 9 Teeth",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "30540",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144533.jpg",
+      "name": "Hinge Brick 1 x 2 Locking with 2 Fingers Horizontal End, 9 Teeth",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "3176",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/317626.jpg",
+      "name": "Plate Special 3 x 2 with Hole",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "3300",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107855.jpg",
+      "name": "Slope 33 2 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "3839b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383901.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "43722",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179874.jpg",
+      "name": "Wedge Plate 3 x 2 Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "43723",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179875.jpg",
+      "name": "Wedge Plate 3 x 2 Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "44301a",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183047.jpg",
+      "name": "Hinge Plate 1 x 2 Locking with 1 Finger On End, with Groove",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "4735",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210699.jpg",
+      "name": "Bar 1 x 3 [Clip / Anti-Stud]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "6019",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/601901.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3528",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3528",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "7910-1",
+    "name": "Robot",
+    "year": "2004",
+    "theme_id": "204",
+    "num_parts": "29",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7910-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 1,
+  "countedStandardParts": 29,
+  "minfigSetParts": []
+}

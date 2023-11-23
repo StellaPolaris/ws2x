@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "24901",
+      "part_num": "22307c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4536480.jpg",
+      "name": "Duplo Train Base 2 x 8 with 8 Blue Wheels & Moveable Hook",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "31300c03",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/72/31300c03-72-c4573211-1708-4256-8a3f-acfce681fb29.jpg",
+      "name": "Duplo Train Wagon Base 4 x 8 with Light Bluish Gray Wheels and Moveable Hook",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "3437",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343726.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "4195c02",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505874.jpg",
+      "name": "Duplo Train Base 2 x 4 with Blue Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "51547",
+      "color_id": "320",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506022.jpg",
+      "name": "Duplo Train Cab / Tender Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "51547pr0001",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506007.jpg",
+      "name": "Duplo Train Cab / Tender Base With Red Door (Thomas & Friends Gordon) Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "51547pr0007",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/51547pr0007-1-ffdb8960-609b-491e-84e4-a34f70c4a48a.jpg",
+      "name": "Duplo Train Cab / Tender Base with Bottom Tube, and Thomas & Friends Gordon #4 Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "51548pr0004",
+      "color_id": "226",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506023.jpg",
+      "name": "Duplo Train Cab Upper Section with Carriage Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Yellow"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "52055pr0002",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506009.jpg",
+      "name": "Duplo Train, Tender Top with 2 x 2 Recess, Thomas & Friends Gordon Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "59126pr0002",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506984.jpg",
+      "name": "Duplo Train Cab Top, Thomas & Friends, Gordon Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "24901",
+      "part_num": "59130",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505553.jpg",
+      "name": "Duplo Train Front, Thomas & Friends, Gordon Face",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3354-1",
+    "name": "Gordon's Express",
+    "year": "2007",
+    "theme_id": "631",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3354-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

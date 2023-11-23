@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4289",
+      "part_num": "2032",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6001908.jpg",
+      "name": "Duplo Train Wagon",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "3437",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4226194.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "3437",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183780.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "4543",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4205309.jpg",
+      "name": "Duplo Backhoe / Train Cabin Roof",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "4550",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541015.jpg",
+      "name": "Duplo Train Steam Engine Cow Catcher",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "4559c01",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541298.jpg",
+      "name": "Duplo Train Chassis 2 x 6 with Red Train Wheels and Moveable Hook",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "4570c01",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4177509.jpg",
+      "name": "Duplo Train Steam Engine Funnel Top, Red Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "4580c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4263157.jpg",
+      "name": "Duplo Train Chassis with Yellow Drive Rod and Red Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "64146pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6002426.jpg",
+      "name": "Duplo Animal Giraffe Baby, New Style",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "92453",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610745.jpg",
+      "name": "Duplo Train Cabin 3 x 3 x 3 1/2 Large Side Windows [Plain]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4289",
+      "part_num": "98465pr0051",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529992.jpg",
+      "name": "Duplo Figure with Police Style Hat Red, with Black Legs, Blue Jacket with Tie, Nougat Hands, Smile with Closed Mouth (Train Conductor)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6144-1",
+    "name": "Zoo Train",
+    "year": "2012",
+    "theme_id": "634",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6144-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

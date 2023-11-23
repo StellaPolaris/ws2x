@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "12557",
+      "part_num": "2377",
+      "color_id": "4",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140522.jpg",
+      "name": "Window 1 x 2 x 2 Plane",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3297",
+      "color_id": "4",
+      "quantity": "60",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329721.jpg",
+      "name": "Slope 33 3 x 4",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3298",
+      "color_id": "4",
+      "quantity": "25",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329821.jpg",
+      "name": "Slope 33 3 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3299",
+      "color_id": "4",
+      "quantity": "20",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329921.jpg",
+      "name": "Slope 33 2 x 4 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3300",
+      "color_id": "4",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/330021.jpg",
+      "name": "Slope 33 2 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3675",
+      "color_id": "4",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/367521.jpg",
+      "name": "Slope 33 3 x 3 Double Convex",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3853",
+      "color_id": "4",
+      "quantity": "20",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385321.jpg",
+      "name": "Window 1 x 4 x 3",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3854",
+      "color_id": "15",
+      "quantity": "40",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385401.jpg",
+      "name": "Window 1 x 2 x 3 Pane",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3856",
+      "color_id": "2",
+      "quantity": "40",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385628.jpg",
+      "name": "Window 1 x 2 x 3 Shutter",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "3861b",
+      "color_id": "4",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/386121.jpg",
+      "name": "Door 1 x 4 x 5 with 4 Panes, Squared Base",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "4862",
+      "color_id": "41",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/486242.jpg",
+      "name": "Glass for Window 1 x 2 x 2 Plane",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "12557",
+      "part_num": "73312",
+      "color_id": "4",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73312.jpg",
+      "name": "Door 1 x 4 x 5 Right with 6 Panes",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9243-1",
+    "name": "Doors Windows and Roof Tiles",
+    "year": "2002",
+    "theme_id": "528",
+    "num_parts": "270",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9243-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 270,
+  "minfigSetParts": []
+}

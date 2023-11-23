@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2090",
+      "part_num": "3024",
+      "color_id": "46",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000844.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3024",
+      "color_id": "36",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000841.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3024",
+      "color_id": "33",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000843.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3024",
+      "color_id": "34",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000848.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3067",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/46/3067a.png",
+      "name": "Brick 1 x 6 with No Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3067",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/33/3067a.png",
+      "name": "Brick 1 x 6 with No Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3823",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/382340.jpg",
+      "name": "Windscreen 2 x 4 x 2",
+      "part_cat_id": "47",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3939",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/33/6208.png",
+      "name": "Slope 33 3 x 6",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "3939",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/46/6208.png",
+      "name": "Slope 33 3 x 6",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "2090",
+      "part_num": "6141",
+      "color_id": "42",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005749.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "16-1",
+    "name": "Transparent Bricks",
+    "year": "1988",
+    "theme_id": "443",
+    "num_parts": "32",
+    "img_url": "https://cdn.rebrickable.com/media/sets/16-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 32,
+  "minfigSetParts": []
+}

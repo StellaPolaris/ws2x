@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "166111",
+      "part_num": "22889",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6131571.jpg",
+      "name": "Slope Inverted 45 6 x 2 Double with 2 x 4 Cutout",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "2412b",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4619636.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "26047",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6157554.jpg",
+      "name": "Plate Special 1 x 1 Rounded with Handle",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "29119",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6181713.jpg",
+      "name": "Slope Curved 2 x 1 with Stud Notch Right",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "29120",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6181720.jpg",
+      "name": "Slope Curved 2 x 1 with Stud Notch Left",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "3020",
+      "color_id": "85",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4224862.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "30602",
+      "color_id": "40",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217722.jpg",
+      "name": "Slope Curved 2 x 2 with Lip, No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "47458",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218581.jpg",
+      "name": "Wedge Curved 1 x 2 x 2/3 No Studs, Wing End",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "51739",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4531412.jpg",
+      "name": "Wedge Plate 2 x 4",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "60897",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4587212.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "85984pr0006",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6152814.jpg",
+      "name": "Slope 30 1 x 2 x 2/3 with Buttons And Red Screens Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "166111",
+      "part_num": "99781",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6214341.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "242316-1",
+    "name": "Black Panther with Jet",
+    "year": "2023",
+    "theme_id": "702",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/242316-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 21,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "132348",
+        "part_num": "25264",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6138812.jpg",
+        "name": "Head Top with Panther Ears [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-012417"
+      },
+      {
+        "inventory_id": "132348",
+        "part_num": "3626cpr3655",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6376567.jpg",
+        "name": "Minifig Head Black Panther, Armor, White Eyes, Silver and Pearl Titanium Lines Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-012417"
+      },
+      {
+        "inventory_id": "132348",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-012417"
+      },
+      {
+        "inventory_id": "132348",
+        "part_num": "973c03h03pr5930",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6384664.jpg",
+        "name": "Torso Scaly Armor with Silver Claw Necklace, Flat Silver Plate Lines Print, Black Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-012417"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "978",
+      "part_num": "3005",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300501.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "3008a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3008.png",
+      "name": "Brick 1 x 8 without Bottom Tubes, with Raised Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "3062c",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u9026.png",
+      "name": "Brick Round 1 x 1 Solid Stud, No Bottom Groove",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "3063a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3063a.png",
+      "name": "Brick Round Corner 2 x 2 Macaroni without Stud Notch",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "3063b",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306301.jpg",
+      "name": "Brick Round Corner 2 x 2 Macaroni with Stud Notch",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "3065",
+      "color_id": "15",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3065.png",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "31ac01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/31ac01.png",
+      "name": "Window 1 x 3 x 2 Classic with Solid Studs [Complete]",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "31c",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/31c.png",
+      "name": "Window 1 x 3 x 2 Classic with Short Sill, No Glass",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "32ac01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/32ac01.png",
+      "name": "Door 1 x 2 x 3 Left (old type) with Solid Studs and Fixed Glass",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "32c",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u8012.png",
+      "name": "Door 1 x 2 x 3 Left, without Glass for Slotted Bricks",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "978",
+      "part_num": "713a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/u8205.png",
+      "name": "Plate Round Corner Right 4 x 8 with Waffle Bottom",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1213-2",
+    "name": "Small House - Right Set",
+    "year": "1955",
+    "theme_id": "372",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1213-2.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": []
+}

@@ -1,0 +1,205 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10190",
+      "part_num": "30043",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4261605.jpg",
+      "name": "Plate Special 1 x 4 with Arm Down",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "3665",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366501.jpg",
+      "name": "Slope Inverted 45 2 x 1",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "41747",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4160106.jpg",
+      "name": "Wedge Curved 6 x 2 Right",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "41748",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4160128.jpg",
+      "name": "Wedge Curved 6 x 2 Left",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "4286",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/428601.jpg",
+      "name": "Slope 33 3 x 1",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "4519",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211815.jpg",
+      "name": "Technic Axle 3",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "4589",
+      "color_id": "34",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/618848.jpg",
+      "name": "Cone 1 x 1 [No Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "4623",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462321.jpg",
+      "name": "Plate Special 1 x 2 with Arm Up [Horizontal Arm 6mm]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "4868b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4188628.jpg",
+      "name": "Engine Smooth Large [2 x 2 Thin Top Plate]",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10190",
+      "part_num": "52107",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4253815.jpg",
+      "name": "Brick Special 1 x 2 with Studs on 2 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "10190",
+      "part_num": "4589",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/618848.jpg",
+      "name": "Cone 1 x 1 [No Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3871-1",
+    "name": "Ha-Ya-To Walker",
+    "year": "2007",
+    "theme_id": "389",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3871-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 1,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52156",
+        "part_num": "3626bpr0452",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4290452.jpg",
+        "name": "Minifig Head Ha-Ya-To, Dual Sided, Green Eyes, Smirk / Open Mouth Smirk Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001341"
+      },
+      {
+        "inventory_id": "52156",
+        "part_num": "53982",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4292017.jpg",
+        "name": "Hair Angular Swept Back",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-001341"
+      },
+      {
+        "inventory_id": "52156",
+        "part_num": "970c27",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582628.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001341"
+      },
+      {
+        "inventory_id": "52156",
+        "part_num": "973c27h03pr1311",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4503757.jpg",
+        "name": "Torso Gold Composite Armour with Violet Hoses Print, White Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-001341"
+      }
+    ]
+  ]
+}

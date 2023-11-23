@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11424",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "32013",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107085.jpg",
+      "name": "Technic Axle and Pin Connector Angled #1",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "32062",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142865.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "32174",
+      "color_id": "320",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4247655.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Sides",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "41670",
+      "color_id": "288",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4289875.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular 90, 4 x 4 x 2 with 2 Ball Joints, and Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "43857",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4177444.jpg",
+      "name": "Technic Beam 1 x 2 Thick",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "44033",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4178663.jpg",
+      "name": "Large Figure Weapon Blade, Air Katana",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "47296",
+      "color_id": "320",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4252394.jpg",
+      "name": "Technic Axle and Pin Connector 2 x 5 with Two Ball Joint Sockets",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "53542",
+      "color_id": "320",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4281237.jpg",
+      "name": "Large Figure Foot, Claws, Toa Inika",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "53582",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4494485.jpg",
+      "name": "Large Figure Mask Rode",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "11424",
+      "part_num": "6558",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/655826.jpg",
+      "name": "Technic Pin Long with Friction Ridges Lengthwise, 2 Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6944-1",
+    "name": "Good Guy 07",
+    "year": "2007",
+    "theme_id": "324",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6944-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 20,
+  "minfigSetParts": []
+}

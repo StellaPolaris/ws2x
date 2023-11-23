@@ -1,0 +1,245 @@
+{
+  "standard": [
+    {
+      "inventory_id": "275",
+      "part_num": "2419",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210984.jpg",
+      "name": "Wedge Plate 3 x 6 Cut Corners",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "3020",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211395.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "3068b",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4177046.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "3678b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4234525.jpg",
+      "name": "Slope 65 2 x 2 x 2 with Bottom Tube",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "3794a",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4176959.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "4070",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4070.png",
+      "name": "Brick Special 1 x 1 with Headlight and No Slot",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "47457",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218695.jpg",
+      "name": "Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "50745",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4259940.jpg",
+      "name": "Wheel Arch, Mudguard 4 x 2 1/2 x 2",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "57899",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4498712.jpg",
+      "name": "Weapon Gun / Blaster Long (Star Wars)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "59900",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529240.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "275",
+      "part_num": "upn0560c07",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Clock Unit with Red Minute Ring, LEGO STAR WARS, Chewbacca Stormtrooper print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4426075-1",
+    "name": "Star Wars Clock",
+    "year": "2008",
+    "theme_id": "732",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4426075-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50937",
+        "part_num": "30483pr0001",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4499888.jpg",
+        "name": "Minifig Head Special, Wookiee with Silver Bandolier / Black Nose Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-000124"
+      },
+      {
+        "inventory_id": "50937",
+        "part_num": "970c19",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4221886.jpg",
+        "name": "Hips and Reddish Brown Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-000124"
+      },
+      {
+        "inventory_id": "50937",
+        "part_num": "973c19h19",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4221771.jpg",
+        "name": "Torso, Reddish Brown Arms, Reddish Brown Hands [Plain]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-000124"
+      }
+    ],
+    [
+      {
+        "inventory_id": "55120",
+        "part_num": "30408pr0002",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142954.jpg",
+        "name": "Helmet Stormtrooper, Dotted Mouth Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-003697"
+      },
+      {
+        "inventory_id": "55120",
+        "part_num": "3626b",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3626b.png",
+        "name": "Minifig Head Plain [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-003697"
+      },
+      {
+        "inventory_id": "55120",
+        "part_num": "970c27",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582628.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-003697"
+      },
+      {
+        "inventory_id": "55120",
+        "part_num": "973c27h03pr0520",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4275255.jpg",
+        "name": "Torso Armour Stormtrooper Print, White Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-003697"
+      }
+    ]
+  ]
+}

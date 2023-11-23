@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28082",
+      "part_num": "2150c02",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Airplane Fuselage with Blue Bottom",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "2155",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2155-4-bb920d10-5035-4f88-b816-9dbca93d3e63.jpg",
+      "name": "Duplo Airplane / Jetliner Wings 4 x 16 x 1/2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "2156",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/2156-1-2365444d-c46e-4288-8f2d-524934c95a00.jpg",
+      "name": "Duplo Plate 8 x 3 without Corners (Airplane Wings)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "2157pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Airplane Tail with Red and Blue Stripes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "2161c01",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/2161c01-1-f16072a9-5db3-4967-b6f9-5f0d2ead7a48.jpg",
+      "name": "Duplo Airplane Engine",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "2218c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2218c01-4-60eebfad-698f-410a-a010-f9e957474dd2.jpg",
+      "name": "Duplo Car with 2 x 2 Studs and Yellow Base and Hubs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "4066pr0062",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4066bp19.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Suitcases Red and Dark Gray Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "4066pr0131",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4066bp0s.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Suitcases Yellow and Dark Gray Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "4555c02pr0004",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4555c02pr0004-1-f5fc2f7d-c4f7-45e7-a8fb-99f04de6927f.jpg",
+      "name": "Duplo Figure, Early, with Flat Cap Blue, White Legs, Jacket with Airplane Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "4555c02pr0005",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4555c02pr0005-14-a47df417-ee63-4080-bcbc-b15e6d1937ff.jpg",
+      "name": "Duplo Figure, Early, with Flat Cap Yellow, Blue Legs, Blue Overalls with Airplane Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "4555c03pr0020",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4555pr0020-14-1f024ec8-7e77-42d4-87e5-305778723ea4.jpg",
+      "name": "Duplo Figure, Early, Hair Bob Fabuland Brown, Red Legs, Red Buttons and Undershirt",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28082",
+      "part_num": "dupupn0080",
+      "color_id": "1",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/dupupn0080-4-b31d7575-00cc-4644-a4dc-f89ddba5734d.jpg",
+      "name": "Duplo Airplane Wheel with 4 Studs, with Two Wheels and Hitch",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2678-1",
+    "name": "Jumbo Jet",
+    "year": "1993",
+    "theme_id": "632",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2678-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

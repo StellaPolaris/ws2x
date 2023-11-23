@@ -1,0 +1,265 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1036",
+      "part_num": "2335",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/233524.jpg",
+      "name": "Flag 2 x 2 Square [Thin Clips]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "2479",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/247926.jpg",
+      "name": "Propeller 4 Blade 5 Diameter with Rounded Ends, Open Hub",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "2654",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/265426.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "2926",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/292626.jpg",
+      "name": "Plate Special 1 x 4 with Wheels Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "30148",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109921.jpg",
+      "name": "Equipment Camera / Camcorder [Movie Style]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "3023",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4111983.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "30374",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124424.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "30602",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144412.jpg",
+      "name": "Slope Curved 2 x 2 with Lip, No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "3795",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379502.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "3942c",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/394224.jpg",
+      "name": "Cone 2 x 2 x 2 with Completely Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "4274",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/427402.jpg",
+      "name": "Technic Pin 1/2",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "4623",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462326.jpg",
+      "name": "Plate Special 1 x 2 with Arm Up [Horizontal Arm 6mm]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "4624",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462402.jpg",
+      "name": "Wheel 8 x 6",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "4735",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141579.jpg",
+      "name": "Bar 1 x 3 [Clip / Anti-Stud]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "1036",
+      "part_num": "6636",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106326.jpg",
+      "name": "Tile 1 x 6 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "1036",
+      "part_num": "4274",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/427402.jpg",
+      "name": "Technic Pin 1/2",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1421-1",
+    "name": "Director's Copter (Kabaya Promotional)",
+    "year": "2001",
+    "theme_id": "273",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1421-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 1,
+  "countedStandardParts": 18,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50942",
+        "part_num": "3626bpr0126",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4116809.jpg",
+        "name": "Minifig Head Doc / Director / Engineer, Gray Eyebrows, Glasses, Beard and Moustache Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000129"
+      },
+      {
+        "inventory_id": "50942",
+        "part_num": "4485",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/448526.jpg",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000129"
+      },
+      {
+        "inventory_id": "50942",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000129"
+      },
+      {
+        "inventory_id": "50942",
+        "part_num": "973c27h01pr0065",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973px65c01-15-e1e59b2b-ba67-4648-aea4-88680c3af002.jpg",
+        "name": "Torso Brown Vest, ID / Clapboard on Back Print (Director), White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000129"
+      }
+    ]
+  ]
+}

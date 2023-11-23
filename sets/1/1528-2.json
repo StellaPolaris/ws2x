@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0003",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0003-4-5e3ca544-7066-4062-93c8-b11da4686ac2.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0003pr0005",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/penupn0003pr0005-15-71d78f04-1f8a-4d17-b3a5-58e0342fc3af.jpg",
+      "name": "Pen Bead, Round Orb with Baseball with Vertical Seam Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0004pr0019",
+      "color_id": "22",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/22/PART-11684-22-a385e7c2-1837-4a80-bc33-53fb844f231c.jpg",
+      "name": "Pen Bead, Square with 'GRAND SLAM', 'HOME RUN' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Purple"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0004pr0020",
+      "color_id": "9",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Baseball Glove and Mask Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Blue"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0004pr0021",
+      "color_id": "9",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Baseball Bat Hitting Ball Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Blue"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0004pr0022",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Baseball Diamond, Score Board Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0004pr0023",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with '9' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0005",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/penupn0005-2-3b58b9a7-8352-4c47-acb7-0c23488cf77a.jpg",
+      "name": "Pen Bead, Gear",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0005pr0001",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Gear, Blue Edges Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0006pr0015",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Black Sunblock Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0006pr0016",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/PART-11683-14-b39ee771-3e4f-48c4-8ecd-d73edbb7ce0b.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Long Moustache Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn0036c12",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/penupn0036c12-7-8302a970-9659-4553-a194-80822993720d.jpg",
+      "name": "Pen Body, with Chrome Tip, Blue Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "93341",
+      "part_num": "penupn9976",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1528-2",
+    "name": "Baseball Pen",
+    "year": "2001",
+    "theme_id": "739",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1528-2.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

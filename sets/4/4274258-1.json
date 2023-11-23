@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/penupn0003-14-4dfd40c0-d752-435f-b591-a21874e30687.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0003pr0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/118/PART-11642-118-a22239f5-5b83-4ad9-a52e-af4a13e06466.jpg",
+      "name": "Pen Bead, Round Orb with Classic LEGO Logo Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0004",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0004-4-a5caf2d7-07cc-4282-9a63-269a9bd45884.jpg",
+      "name": "Pen Bead, Square",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0004",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/penupn0004-2-ed3252d2-0cbe-4bc8-921a-f570fa49b025.jpg",
+      "name": "Pen Bead, Square",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0004pr0005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/PART-11643-0-47d46d46-7b53-4128-a7b9-49285c8cff91.jpg",
+      "name": "Pen Bead, Square with Brick Stud Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0006",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/penupn0006-1-c0d01098-46d9-4c3f-8c97-391a3b5d1764.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0006",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/47/penupn0006-47-cf2c3bc8-6489-4906-aa7e-31048d32b978.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0007",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0007-0-6937cce3-bced-4244-b682-a06772ad9f46.jpg",
+      "name": "Pen Bead, Round Curved, Hourglass",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0007",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0007-4-6b3a05df-adce-416c-8cc2-36d8efbc6964.jpg",
+      "name": "Pen Bead, Round Curved, Hourglass",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0007",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0007-0-6937cce3-bced-4244-b682-a06772ad9f46.jpg",
+      "name": "Pen Bead, Round Curved, Hourglass",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn0036c04",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/penupn0036c04-14-c01e0b21-979b-4b6a-9a61-f21b68d9d47c.jpg",
+      "name": "Pen Body, with Chrome Tip, Black Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "94369",
+      "part_num": "penupn9976",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4274258-1",
+    "name": "Vintage Pen (Yellow)",
+    "year": "2005",
+    "theme_id": "739",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4274258-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

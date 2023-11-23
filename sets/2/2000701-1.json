@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "31731",
+      "part_num": "10197",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6005331.jpg",
+      "name": "Technic Pin Connector Hub with 2 Perpendicular Axles",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "2736",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211375.jpg",
+      "name": "Technic Axle Towball",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "32039",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107081.jpg",
+      "name": "Technic Axle Connector with Axle Hole",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "41677",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211741.jpg",
+      "name": "Technic Beam 1 x 2 Thin",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "41677",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164133.jpg",
+      "name": "Technic Beam 1 x 2 Thin",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "42610",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211758.jpg",
+      "name": "Wheel 11 x 8 with Center Groove",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "43857",
+      "color_id": "71",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211862.jpg",
+      "name": "Technic Beam 1 x 2 Thick",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "59900",
+      "color_id": "36",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4544720.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "6587",
+      "color_id": "28",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566927.jpg",
+      "name": "Technic Axle 3 with Stud",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "6628",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4184169.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Towball",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "31731",
+      "part_num": "98138",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646864.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2000701-1",
+    "name": "Mindstorms EV3 Replacement Pack 2",
+    "year": "2015",
+    "theme_id": "518",
+    "num_parts": "32",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2000701-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 32,
+  "minfigSetParts": []
+}

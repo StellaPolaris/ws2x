@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "24972",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "3011",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301128.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "31365",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4197266.jpg",
+      "name": "Duplo Mountain / Tunnel",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "4066pr0060",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4066pr0060-14-ff734489-78c8-444f-91f8-7ea36a6f383f.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Picnic Basket with Carrots and Drinks Bottle Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "4066pr9995",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100631.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Train Tunnel Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "4555c02pr0054",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4555c02pr0054-4-d945ef84-a63c-4345-987f-ed210f072ced.jpg",
+      "name": "Duplo Figure, Early, with Flat Cap Brown, Green Legs, Plaid Shirt Print (Farmer)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "4913",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4913.png",
+      "name": "Duplo Sign Post Tall",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "6510",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100774.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "24972",
+      "part_num": "dupupn0124",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/6/dupupn0124-6-7db2d076-ad20-43f7-a3fc-a3d86a8537a8.jpg",
+      "name": "Duplo Backpack with Armholes",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "Brown"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2938-1",
+    "name": "Train Tunnel",
+    "year": "2000",
+    "theme_id": "634",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2938-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

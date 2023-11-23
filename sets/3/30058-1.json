@@ -1,0 +1,265 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14337",
+      "part_num": "12825",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6030711.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "2540",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210660.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "30359b",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164065.jpg",
+      "name": "Bar 1 x 8 with Brick 1 x 2 Curved Top End (Axle Holder Inside Small End)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "3839b",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4263176.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "3960",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125240.jpg",
+      "name": "Dish 4 x 4 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "42022",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505840.jpg",
+      "name": "Brick Curved 6 x 1",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "4349",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210698.jpg",
+      "name": "Equipment Weapon, Loudhailer / Blaster / Space Gun",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "44675",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4267917.jpg",
+      "name": "Slope Curved 2 x 2 No Studs - 3 Recessed Side Ports",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "44676",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4215387.jpg",
+      "name": "Flag 2 x 2 Trapezoid with Flat Area between Clips",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "4697b",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211508.jpg",
+      "name": "Pneumatic T-Piece (T Bar) [New Style]",
+      "part_cat_id": "22",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "4733",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210700.jpg",
+      "name": "Brick Special 1 x 1 Studs on 4 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "6141",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216581.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "64567",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539481.jpg",
+      "name": "Weapon Lightsaber Hilt with Bottom Ring",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "14337",
+      "part_num": "30377",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142793.jpg",
+      "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "4697b",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211508.jpg",
+      "name": "Pneumatic T-Piece (T Bar) [New Style]",
+      "part_cat_id": "22",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "14337",
+      "part_num": "6141",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216581.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30058-1",
+    "name": "STAP",
+    "year": "2012",
+    "theme_id": "158",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30058-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 3,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "55005",
+        "part_num": "30375",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143659.jpg",
+        "name": "Torso Mechanical, Battle Droid",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003612"
+      },
+      {
+        "inventory_id": "55005",
+        "part_num": "30376",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125230.jpg",
+        "name": "Legs Mechanical, Battle Droid",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003612"
+      },
+      {
+        "inventory_id": "55005",
+        "part_num": "30377",
+        "color_id": "19",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142793.jpg",
+        "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003612"
+      },
+      {
+        "inventory_id": "55005",
+        "part_num": "30378",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125232.jpg",
+        "name": "Minifig Head Special with Clip, Mechanical (Battle Droid) [Plain]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003612"
+      }
+    ]
+  ]
+}

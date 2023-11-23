@@ -1,0 +1,217 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1611",
+      "part_num": "2654",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/265426.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "3062b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306201.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "4032a",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403221.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "4095",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/409501.jpg",
+      "name": "Bar 6.6L with Stop Ring [Umbrella Stand]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "6075",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6175655.jpg",
+      "name": "Sports Surfboard [Long]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "6076",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4258452.jpg",
+      "name": "Bar 12L with Open Stud, Towball, and Top Slit [Boat Mast]",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "6141",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614121.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "6141",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005748.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "6141",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614101.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1611",
+      "part_num": "upn0306pr0006",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/u66p01.png",
+      "name": "Sail, Triangular, 6 x 12 with Blue Lines and Red & Blue Triangle Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1958-1",
+    "name": "Windsurfer",
+    "year": "1993",
+    "theme_id": "67",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1958-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51223",
+        "part_num": "2610",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4260843.jpg",
+        "name": "Minifig Neckwear Life Jacket [Old Style]",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000409"
+      },
+      {
+        "inventory_id": "51223",
+        "part_num": "3626bpr0048",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp7e.png",
+        "name": "Minifig Head, Blue Sunglasses and Wide-Spaced Stubble Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000409"
+      },
+      {
+        "inventory_id": "51223",
+        "part_num": "3901",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/390126.jpg",
+        "name": "Hair, Smooth",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000409"
+      },
+      {
+        "inventory_id": "51223",
+        "part_num": "970c31",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569120.jpg",
+        "name": "Hips and Green Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-000409"
+      },
+      {
+        "inventory_id": "51223",
+        "part_num": "973c27h01pr0073",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/973p73c01-2-9d789a2b-ee79-4ff4-840a-e66f88194c99.jpg",
+        "name": "Torso Vest with Patch Pockets over White Shirt Print, White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-000409"
+      }
+    ]
+  ]
+}

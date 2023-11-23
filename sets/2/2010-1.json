@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "153528",
+      "part_num": "31000",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31000",
+      "color_id": "1",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31000",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/31000.png",
+      "name": "Primo Brick 1 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31000pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/31000p01.png",
+      "name": "Primo Brick 1 x 1 with Lego Logo Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31000pr0022",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/-1/31000p1y.png",
+      "name": "Primo Brick 1 x 1 x 1 with Three Yellow Dots",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31001",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/31001.png",
+      "name": "Primo Brick 1 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/31001.png",
+      "name": "Primo Brick 1 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31002",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/31002.png",
+      "name": "Primo Brick 1 x 3",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31005pr0006",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/31005pr0006-2-69af4226-ef27-4941-83f8-10b6f2feb67f.jpg",
+      "name": "Primo Brick 1 x 1 with Round Rattle, Frog Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "31013",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/31013-1-09467e9a-4320-4f87-8deb-c40823e35bb7.jpg",
+      "name": "Primo Plate 4 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "33109c01",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Storage Vehicle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "71527",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Storage Vehicle - Lid",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "153528",
+      "part_num": "upn0040c02pr0008",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Primo Figure Boy with Red Base, Dark Orange Hair",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2010-1",
+    "name": "Baby Walker",
+    "year": "1997",
+    "theme_id": "440",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2010-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

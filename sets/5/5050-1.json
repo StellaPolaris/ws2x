@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4217",
+      "part_num": "2340",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/234001.jpg",
+      "name": "Tail 4 x 1 x 3",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "2413",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241301.jpg",
+      "name": "Wedge Plate 4 x 9 without Stud Notches",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "2415",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241502.jpg",
+      "name": "Wheel Holder 2 x 2 Thin with Clips, Plane Single",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "2421",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242126.jpg",
+      "name": "Propeller 3 Blade Small",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "2460",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/246021.jpg",
+      "name": "Tile Special 2 x 2 with Top Pin",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "2479",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/247926.jpg",
+      "name": "Propeller 4 Blade 5 Diameter with Rounded Ends, Open Hub",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "3139",
+      "color_id": "0",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/313926.jpg",
+      "name": "Tyre 14 x 4 Smooth Small Single",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "3464",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/3464.png",
+      "name": "Wheel Centre Small with Stub Axles (Pulley Wheel)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "4488",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4488.png",
+      "name": "Plate Special 2 x 2 with Wheel Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "4624",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462402.jpg",
+      "name": "Wheel 8 x 6",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "4868a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4868a.png",
+      "name": "Engine Smooth Large, Cone Back [1 x 2 Thin Top Plate]",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "4869",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/486902.jpg",
+      "name": "Engine Centre - Smooth Large",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "4217",
+      "part_num": "4870",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/487002.jpg",
+      "name": "Wheel Holder 2 x 2 Thin with Split Wheel Clip Pins",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5050-1",
+    "name": "Plane Accessories",
+    "year": "1993",
+    "theme_id": "443",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5050-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 27,
+  "minfigSetParts": []
+}

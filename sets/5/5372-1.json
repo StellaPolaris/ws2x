@@ -1,0 +1,228 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15333",
+      "part_num": "2431",
+      "color_id": "320",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164220.jpg",
+      "name": "Tile 1 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "2555",
+      "color_id": "320",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4182850.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "2555",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/255501.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "2926",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/292626.jpg",
+      "name": "Plate Special 1 x 4 with Wheels Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "3021",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211043.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "30414",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4162443.jpg",
+      "name": "Brick Special 1 x 4 with 4 Studs on One Side",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "3665",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366526.jpg",
+      "name": "Slope Inverted 45 2 x 1",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "3794a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "4095",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/409526.jpg",
+      "name": "Bar 6.6L with Stop Ring [Umbrella Stand]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "43899",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210886.jpg",
+      "name": "Weapon Pike / Spear [4 Side Blades]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "4489b",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211279.jpg",
+      "name": "Wheel Wagon Large (33mm D.), hole notched for wheels holder pin",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "59228",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505107.jpg",
+      "name": "Creature, Horse / Thestral, Skeletal / Skeleton",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15333",
+      "part_num": "59229",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4509194.jpg",
+      "name": "Weapon Sword Scythe Blade with Clip Pommel",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5372-1",
+    "name": "Skeleton Chariot",
+    "year": "2008",
+    "theme_id": "193",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5372-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "53155",
+        "part_num": "3626bpr0494",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506829.jpg",
+        "name": "Minifig Head Skeleton, Skull, Evil with Scowl Black Print, Red Eyes Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002325"
+      },
+      {
+        "inventory_id": "53155",
+        "part_num": "59230",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505109.jpg",
+        "name": "Arm Mechanical Straight (Droid) [2 Clips at 90]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002325"
+      },
+      {
+        "inventory_id": "53155",
+        "part_num": "60115",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4508143.jpg",
+        "name": "Torso - Skeleton Thick Shoulder Pins",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002325"
+      },
+      {
+        "inventory_id": "53155",
+        "part_num": "6266",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6038450.jpg",
+        "name": "Leg Skeleton",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002325"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "19431",
+      "part_num": "12592c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6048910.jpg",
+      "name": "Duplo Car Base 2 x 4 with Fixed Axles - 27.5 Silver Wheels and Black Tires",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "15272pr0003",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6186697.jpg",
+      "name": "Duplo Brick 2 x 2 x 2 Curved Top with Ears with Gas / Fuel Pump Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "19818c02pr0036",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6206125.jpg",
+      "name": "Duplo Figure Mickey Mouse, Red Race Driver Jumpsuit, Helmet",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "33365",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6186666.jpg",
+      "name": "Duplo Race Car Body, Black Windshield with Wide Yellow Stripe, with '28' & Mickey Mouse Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "40666",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4160152.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "58498c02",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6032984.jpg",
+      "name": "Duplo Hose with Rubber End and Black Nozzle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "76371",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6030817.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Bottom Tube",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "76371",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6040230.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Bottom Tube",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "89398",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6137424.jpg",
+      "name": "Duplo Rear Spoiler",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "98223pr0026",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6186705.jpg",
+      "name": "Duplo Brick 2 x 4 Curved Top with Yellow '28' with Black and White Checkered Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "98233",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4651779.jpg",
+      "name": "Duplo Plate 2 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "19431",
+      "part_num": "98233",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6021311.jpg",
+      "name": "Duplo Plate 2 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10843-1",
+    "name": "Mickey Racer",
+    "year": "2017",
+    "theme_id": "641",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10843-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

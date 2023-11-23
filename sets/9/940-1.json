@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "8191",
+      "part_num": "003432",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Sticker Sheet for Sets 357-1, 355-1, 940-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "004159",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4159-9999-85efb400-8922-48f0-9212-17d3a547294e.jpg",
+      "name": "Sticker Sheet 2 for Sets 939-1, 940-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "3350pr0005",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3350p01.png",
+      "name": "Road Sign Round with No Thoroughfare / No Entry Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "3596",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3596.png",
+      "name": "Flag on Flagpole, Straight",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "649pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3351ap01.png",
+      "name": "Road Sign Triangle with Level Crossing Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "649pr0006",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3351ap07.png",
+      "name": "Road Sign Triangle with Train Engine Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "649pr0008",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3351ap09.png",
+      "name": "Road Sign Triangle with Children Playing Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "649pr0009",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3351ap04.png",
+      "name": "Road Sign Triangle with Skidding Car Print (Old Car with Tire on Back)",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "649pr0012",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3351ap10.png",
+      "name": "Road Sign Triangle with Roadworks Print - 2 Dirt Piles - undetermined",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "675pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3349p02.png",
+      "name": "Road Sign Square Tall with Parking 'P' Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "739pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3570p01.png",
+      "name": "Road Sign Octagon with Stop Sign Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "81294",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/81294.png",
+      "name": "Road Sign Triangle with Dangerous Intersection Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8191",
+      "part_num": "upn0094",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/gtfruit-2-8a2aecec-01b7-4df6-856e-cbb79df07fe9.jpg",
+      "name": "Plant, Granulated Fruit Tree",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "940-1",
+    "name": "Flags, Signs and Trees",
+    "year": "1973",
+    "theme_id": "473",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/940-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

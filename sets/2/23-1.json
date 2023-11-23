@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14551",
+      "part_num": "132a",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u9131.png",
+      "name": "Tyre Smooth Old Style - Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "3007mia",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3007mia-4-1c7d65ff-8ace-4a71-9fc5-4d4f8f8c2b0c.jpg",
+      "name": "Minitalia Brick 2 x 8 with Bottom X Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "3007mia",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3007mia-4-1c7d65ff-8ace-4a71-9fc5-4d4f8f8c2b0c.jpg",
+      "name": "Minitalia Brick 2 x 8 with Bottom X Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "carbasemia",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Vehicle Base, Minitalia Brick Special 16 x 6 with 4 Wheels for 132-old Tires",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3001",
+      "color_id": "47",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3001",
+      "color_id": "15",
+      "quantity": "20",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3001",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3001",
+      "color_id": "4",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3003",
+      "color_id": "15",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/u8101.png",
+      "name": "Minitalia Brick 2 x 2 with Bottom X Support",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3003",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/u8101.png",
+      "name": "Minitalia Brick 2 x 2 with Bottom X Support",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3003",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u8101.png",
+      "name": "Minitalia Brick 2 x 2 with Bottom X Support",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14551",
+      "part_num": "m3003",
+      "color_id": "4",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u8101.png",
+      "name": "Minitalia Brick 2 x 2 with Bottom X Support",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "23-1",
+    "name": "Delivery Truck Set",
+    "year": "1971",
+    "theme_id": "433",
+    "num_parts": "64",
+    "img_url": "https://cdn.rebrickable.com/media/sets/23-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 64,
+  "minfigSetParts": []
+}

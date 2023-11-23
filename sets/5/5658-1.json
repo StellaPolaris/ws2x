@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "8451",
+      "part_num": "2302pr9999",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581356.jpg",
+      "name": "Duplo Brick 2 x 3 with Curved Top and Pizza Planet Logo Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "4066",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100634.jpg",
+      "name": "Duplo Brick 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "40666",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4170795.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "41970pr0010",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581375.jpg",
+      "name": "Duplo Brick 1 x 3 x 2 Round Top with Red Dinosaur and 'DINOCO' Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "47440c01pr0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581357.jpg",
+      "name": "Duplo Truck Pickup Flatbed with Dark Bluish Gray Base with Pizza Planet Logo Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "51546",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581377.jpg",
+      "name": "Duplo Train Locomotive Cabin Roof 2 x 4 Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "58498c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4548111.jpg",
+      "name": "Duplo Hose with Rubber End and Light Bluish Gray Nozzle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "6474",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4583530.jpg",
+      "name": "Duplo Brick 2 x 2 Slope 45",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "89618",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4580316.jpg",
+      "name": "Duplo Figure with White Legs and Lime Space Suit, Nougat Face Print (Buzz Lightyear)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8451",
+      "part_num": "89619",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4644701.jpg",
+      "name": "Duplo Figure Alien Head with 3 Eyes, Blue Legs, Arms, and Hands, Purple Belt and Buckle Print (Toy Story Alien)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5658-1",
+    "name": "Pizza Planet Truck",
+    "year": "2010",
+    "theme_id": "633",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5658-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

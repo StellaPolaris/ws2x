@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "66959",
+      "part_num": "22388",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6312449.jpg",
+      "name": "Slope 45 1 x 1 x 2/3 Quadruple Convex [Pyramid]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3003",
+      "color_id": "378",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4155059.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3005",
+      "color_id": "3",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6213776.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Turquoise"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3023",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302328.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3068bpr0426",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6323871.jpg",
+      "name": "Tile 2 x 2 with Groove with Fuzzy Face Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3068bpr9966",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315739.jpg",
+      "name": "Tile 2 x 2 with Groove with Fuzzy and Barcode Print (Sticker)",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3070b",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307026.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "37352",
+      "color_id": "378",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6278541.jpg",
+      "name": "Brick Curved 1 x 2 x 1 No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3937",
+      "color_id": "378",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286649.jpg",
+      "name": "Hinge Brick 1 x 2 Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3938",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211470.jpg",
+      "name": "Hinge Brick 1 x 2 Top Plate Thin",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "4032a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403226.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "49307",
+      "color_id": "3",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6295358.jpg",
+      "name": "Brick Curved 1 x 1 x 2/3 Double Curved Top, No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Turquoise"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "66792",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6308875.jpg",
+      "name": "Plate Round Corners 4 x 4 x 2/3 Circle with Reduced Knobs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "67329",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6314192.jpg",
+      "name": "Brick Special 1 x 2 x 1 2/3 with 8 Studs on 3 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "87544",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6010737.jpg",
+      "name": "Panel 1 x 2 x 3 [Side Supports / Hollow Studs]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "66959",
+      "part_num": "22388",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6312449.jpg",
+      "name": "Slope 45 1 x 1 x 2/3 Quadruple Convex [Pyramid]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "66959",
+      "part_num": "3070b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307026.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "71361-2",
+    "name": "Fuzzy",
+    "year": "2020",
+    "theme_id": "690",
+    "num_parts": "30",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71361-2.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 2,
+  "countedStandardParts": 29,
+  "minfigSetParts": []
+}

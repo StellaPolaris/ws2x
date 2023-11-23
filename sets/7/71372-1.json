@@ -1,0 +1,150 @@
+{
+  "standard": [
+    {
+      "inventory_id": "62528",
+      "part_num": "3003",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211210.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "3020",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302028.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "32606",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6212994.jpg",
+      "name": "Plant, Flower, Minifig Accessory with 7 Thick Petals and Pin",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "32607",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6229130.jpg",
+      "name": "Plant, Plate 1 x 1 Round with 3 Leaves",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "66792",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6308875.jpg",
+      "name": "Plate Round Corners 4 x 4 x 2/3 Circle with Reduced Knobs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "68626pr0002",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6317330.jpg",
+      "name": "Nintendo Figure, Cap, Large with Cat Ears",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "68958pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6309054.jpg",
+      "name": "Nintendo Figure, Legs and Overalls with Two Front Studs and White Belly and White Feet, with Internal Prongs for Cat Suit",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "87580",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565321.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "98138",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6070714.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "62528",
+      "part_num": "32606",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6212994.jpg",
+      "name": "Plant, Flower, Minifig Accessory with 7 Thick Petals and Pin",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "62528",
+      "part_num": "98138",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6070714.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "71372-1",
+    "name": "Cat Mario Power-Up Pack",
+    "year": "2020",
+    "theme_id": "690",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71372-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 2,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

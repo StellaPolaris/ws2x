@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0068",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0430-0-e8202b86-5dff-4442-b00b-b1ea8835e572.jpg",
+      "name": "Watch, Clasp, Male",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0182",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0426-0-14e7dc52-1ce7-4141-9b27-7f4af931fe7f.jpg",
+      "name": "Watch, Clasp, Female",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0389",
+      "color_id": "5",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/upn0389-5-705749df-4f16-461a-8c64-0430269d6bbe.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0389",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0389",
+      "color_id": "29",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/29/upn0389-29-70d64cbf-211d-4499-9a67-bb3539dd8c1d.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0389pr0001",
+      "color_id": "85",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/45/upn0389pr0001-45-479d2226-757f-44fd-b5c5-f8127753c758.jpg",
+      "name": "Watch, Link with Flowers Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0389pr0002",
+      "color_id": "27",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link with Paw Prints Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0389pr0004",
+      "color_id": "4",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/upn0437-4-9c75f80a-54f6-4b6d-9c66-caa38b64b88c.jpg",
+      "name": "Watch, Link with Bright Pink Hearts Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0465pr0025",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'LEGO Friends' Logo and Olivia with Bricks Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0466c05",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Extra Long with Dog",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "94816",
+      "part_num": "upn0466c06",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Extra Long with Cat",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5001368-1",
+    "name": "Olivia Buildable Watch",
+    "year": "2012",
+    "theme_id": "732",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5001368-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": []
+}

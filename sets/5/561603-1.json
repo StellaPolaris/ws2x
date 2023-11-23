@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "8998",
+      "part_num": "15573",
+      "color_id": "26",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6101073.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "3039",
+      "color_id": "26",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550362.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "4740",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211512.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "60474",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4515350.jpg",
+      "name": "Plate Round 4 x 4 with Pin Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "6141",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614101.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "61485",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611927.jpg",
+      "name": "Turntable 4 x 4 Square Base, Locking",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "6266",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249857.jpg",
+      "name": "Leg Skeleton",
+      "part_cat_id": "61",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "90370pr0005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104328.jpg",
+      "name": "Musical Instrument Microphone with Metallic Gold Top Half Screen Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "93088pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6113032.jpg",
+      "name": "Animal, Dog, Small Standing with Lavender Eyes and Black Dalmatian Spots and Notes Print [Cookie]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "98138",
+      "color_id": "45",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6053876.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "8998",
+      "part_num": "98138",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022171.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "561603-1",
+    "name": "Cookie The Superstar",
+    "year": "2016",
+    "theme_id": "494",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/561603-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 20,
+  "minfigSetParts": []
+}

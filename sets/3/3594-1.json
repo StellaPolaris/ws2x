@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3038",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "3011",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4167177.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "31111pr0024",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4293070.jpg",
+      "name": "Duplo Brick 2 x 4 x 2 with Tools on Yellow Background Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "3437",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4166960.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "4066",
+      "color_id": "73",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4292781.jpg",
+      "name": "Duplo Brick 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "40666",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4160152.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "44524",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540650.jpg",
+      "name": "Duplo Plate 2 x 8",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "47202pr0006",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273319.jpg",
+      "name": "Duplo Figure with Construction Helmet Yellow, with Orange Long Sleeve Jacket, Medium Blue Legs",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "4860c05",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540649.jpg",
+      "name": "Duplo Roofpieyce Slope 30 4 x 4 Shingleyd with a Medium Blue Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "54007c02",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4545656.jpg",
+      "name": "Duplo Car Base 2 x 6 with Four Black Wheels & Metal Blue Hubs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3038",
+      "part_num": "55886c01pr0001",
+      "color_id": "1070",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4293154.jpg",
+      "name": "Duplo Quad Bike Top 4 x 8 x 2 - Black Handlebars and Eyes Print (Scrambler)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Pearl Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3594-1",
+    "name": "Bob's Workshop",
+    "year": "2009",
+    "theme_id": "626",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3594-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10757",
+      "part_num": "2458",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/245802.jpg",
+      "name": "Brick Special 1 x 2 with Pin",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "2540",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254021.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "30195pr0001",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/30195pb01-8-987647c2-ce83-4f3c-8db8-60c95d2edbea.jpg",
+      "name": "Plate Special 2 x 6 with 4 x 8 Half Saucer and Stingray Print",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "3021",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302126.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "3022",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302226.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "30385",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119342.jpg",
+      "name": "Rock 1 x 1 Crystal 5 Point",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "3039",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303902.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "3069bpr0053",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/3069bpa2.png",
+      "name": "Tile 1 x 2 with Groove and Copper and White Circuitry, Red Rectangle and 4 Squares Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "37",
+      "color_id": "383",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/70749.jpg",
+      "name": "Weapon Dagger / Knife",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "59275",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/59275a.png",
+      "name": "Minifig Footwear Flipper [Thin]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "6019",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/601902.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick U Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10757",
+      "part_num": "6041",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109665.jpg",
+      "name": "Propeller 3 Blade 3 Diameter with Axle Cross",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6107-1",
+    "name": "Recon Ray",
+    "year": "1998",
+    "theme_id": "313",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6107-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51857",
+        "part_num": "30202",
+        "color_id": "8",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/30202.png",
+        "name": "Helmet Underwater, Breathing Apparatus",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Gray",
+        "fig_num": "fig-001042"
+      },
+      {
+        "inventory_id": "51857",
+        "part_num": "3626bpr0102",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpb0108-14-680c1a50-3213-42ed-ba99-d9748424892f.jpg",
+        "name": "Minifig Head Stingray, Red Eyes, Frown and Gills Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001042"
+      },
+      {
+        "inventory_id": "51857",
+        "part_num": "970c22",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582624.jpg",
+        "name": "Hips and Red Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001042"
+      },
+      {
+        "inventory_id": "51857",
+        "part_num": "973c08h22pr0046",
+        "color_id": "8",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/973pb0046c01-8-d86d7ae9-85b1-45c9-9189-21009aa2aa67.jpg",
+        "name": "Torso Stingray Dark Turquoise, Black, and Gold Print, Dark Gray Arms, Red Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Gray",
+        "fig_num": "fig-001042"
+      }
+    ]
+  ]
+}

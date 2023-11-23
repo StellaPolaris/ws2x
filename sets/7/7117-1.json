@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9930",
+      "part_num": "60176",
+      "color_id": "288",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/288/60176.png",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Closed Sides, Squared Ends",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "60894",
+      "color_id": "288",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565600.jpg",
+      "name": "Large Figure Skeletal, Torso with 5 Ball Joints (Av-Matoran Type 1)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "60896",
+      "color_id": "288",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4526002.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular with Ball Joint and Ball Socket (Av-Matoran)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "60899",
+      "color_id": "288",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539144.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular with Ball Joint, and Ball Socket (Av-Matoran)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "64251",
+      "color_id": "288",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4542715.jpg",
+      "name": "Large Figure Hand, Fist with Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "64258",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565601.jpg",
+      "name": "Large Figure Mask Gresh [Plain]",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "64262",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4543428.jpg",
+      "name": "Large Figure Head Connector Block (Glatorian)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "64264",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/135/64264-135-d43ece22-a8d7-411e-991e-64e2bf4f1131.jpg",
+      "name": "Large Figure Shield, Half Ribbed Narrow",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "87789",
+      "color_id": "27",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4563546.jpg",
+      "name": "Large Figure Limb Cover, Armor with 2 Small Claws",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "87790",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569233.jpg",
+      "name": "Large Figure Torso Cover, Armor, Small Triangular with Pincer End",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "9930",
+      "part_num": "87791",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565608.jpg",
+      "name": "Large Figure Foot, Small with Axle Connector",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7117-1",
+    "name": "Gresh",
+    "year": "2010",
+    "theme_id": "324",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7117-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

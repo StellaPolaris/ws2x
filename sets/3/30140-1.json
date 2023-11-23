@@ -1,0 +1,278 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3331",
+      "part_num": "3022",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211397.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "3023",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302323.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "3710",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211001.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "3839b",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4263176.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "47457",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4496366.jpg",
+      "name": "Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "54200",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504381.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "59900",
+      "color_id": "57",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4567341.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "60478",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4521187.jpg",
+      "name": "Plate Special 1 x 2 with Handle on End [Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "61252",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541978.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "61409",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4597338.jpg",
+      "name": "Slope 18 2 x 1 x 2/3 with 4 Slots",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "63868",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4535740.jpg",
+      "name": "Plate Special 1 x 2 with Clip Horizontal on End",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "64644",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4538456.jpg",
+      "name": "Equipment Telescope / Torch / Spyglass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "92280",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4598526.jpg",
+      "name": "Plate Special 1 x 2 [Top Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "92946",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620297.jpg",
+      "name": "Slope 45 2 x 1 with 2/3 Cutout [Original Version]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3331",
+      "part_num": "2447",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4626724.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "3331",
+      "part_num": "54200",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504381.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30140-1",
+    "name": "ADU Walker",
+    "year": "2011",
+    "theme_id": "127",
+    "num_parts": "34",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30140-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 2,
+  "countedStandardParts": 29,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52157",
+        "part_num": "2447",
+        "color_id": "47",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4626724.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Clear",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "3626cpr0807",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4640010.jpg",
+        "name": "Minifig Head Soldier, Snarling / Raised Eyebrows Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "87781",
+        "color_id": "321",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4626452.jpg",
+        "name": "Helmet Space",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Azure",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "970c04pr0232",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624619.jpg",
+        "name": "Hips and Dark Azure Legs with 2 Pockets and Kneepads Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "973c04h12pr1785",
+        "color_id": "321",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624753.jpg",
+        "name": "Torso Protection Vest with 'ADU' Print, Dark Azure Arms, Dark Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Azure",
+        "fig_num": "fig-001342"
+      }
+    ]
+  ]
+}

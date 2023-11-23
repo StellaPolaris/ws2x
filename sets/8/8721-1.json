@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4966",
+      "part_num": "32174",
+      "color_id": "86",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4247769.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Sides",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Light Brown"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "3706",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370626.jpg",
+      "name": "Technic Axle 6",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "41668",
+      "color_id": "86",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/86/41668.png",
+      "name": "Large Figure Foot, with Ball Joint Socket 2 x 3 x 5",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Light Brown"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "41669",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163574.jpg",
+      "name": "Technic Tooth 1 x 3 with Axle Hole [Rounded Underside]",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "4519",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211815.jpg",
+      "name": "Technic Axle 3",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "47296",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217826.jpg",
+      "name": "Technic Axle and Pin Connector 2 x 5 with Two Ball Joint Sockets",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "47300",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219217.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular 90, 3 x 3 x 2 with 2 Ball Joints, and Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "47309",
+      "color_id": "86",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/86/47309-86-4a145fb8-3c3c-46a1-85d5-af487e1f6547.jpg",
+      "name": "Large Figure Mask Komau (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Light Brown"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "47312",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278473.jpg",
+      "name": "Large Figure Head Connector Block (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "47315",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218527.jpg",
+      "name": "Large Figure Weapon Claw, Earthshock Drill",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "4966",
+      "part_num": "50923",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4289258.jpg",
+      "name": "Technic Beam 1 x 2 with Ball Joint Angled",
+      "part_cat_id": "55",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "4966",
+      "part_num": "4519",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211815.jpg",
+      "name": "Technic Axle 3",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8721-1",
+    "name": "Velika",
+    "year": "2006",
+    "theme_id": "324",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8721-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 1,
+  "countedStandardParts": 21,
+  "minfigSetParts": []
+}

@@ -1,0 +1,264 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5431",
+      "part_num": "2654",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650250.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "3004",
+      "color_id": "272",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249891.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "3022",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302223.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "30374",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600267.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "4643683",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643683-9999-0da22bc0-400a-44eb-b1ac-2e323f0ca1e0.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 12 - Spitta - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "4643684",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643684-9999-db027036-08d3-4258-b8d7-b08061913666.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 116 - Use Surroundings - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "4643685",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643685-9999-8dc8163f-2d68-45e5-ba16-3b69fde6c3df.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 54 - Panic Stations - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "4643686",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4643686-9999-be19ff18-6bcf-4393-a7d9-913392336acb.jpg",
+      "name": "Trading Card, Ninjago Deck #2: 62 - Electric Maelstrom - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "4643687",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 45 - Assist - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "58176",
+      "color_id": "35",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570481.jpg",
+      "name": "Light Cover with Internal Bar / Bionicle Barraki Eye",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Bright Green"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "59229",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4509194.jpg",
+      "name": "Weapon Sword Scythe Blade with Clip Pommel",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "92690",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4640843.jpg",
+      "name": "Bar 1L with Top Stud and Two Side Studs",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "98136",
+      "color_id": "52",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6000824.jpg",
+      "name": "Animal, Snake with Straight Tail",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Trans-Purple"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "98344pr0003",
+      "color_id": "52",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6004597.jpg",
+      "name": "Ring 4 x 4 with 2 x 2 Hole and 2 Intertwined Snakes with Lime Green Print (Ninjago Spinner Crown)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Purple"
+    },
+    {
+      "inventory_id": "5431",
+      "part_num": "98354pr0013",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6004308.jpg",
+      "name": "Turntable 6 x 6 Round Pearl Titanium Base Serrated with Green with Red Spots Print (Ninjago Spinner)",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "5431",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "9569-1",
+    "name": "Spitta",
+    "year": "2012",
+    "theme_id": "435",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9569-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 1,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51069",
+        "part_num": "970c18pr0268",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6001078.jpg",
+        "name": "Hips and Lime Legs with Green Scales Print (Spitta)",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000256"
+      },
+      {
+        "inventory_id": "51069",
+        "part_num": "973c35h03pr1893",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4647769.jpg",
+        "name": "Torso Snake with Dark Green Straps and Red Vials Print (Spitta), Dark Green Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000256"
+      },
+      {
+        "inventory_id": "51069",
+        "part_num": "98150pr0001",
+        "color_id": "288",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6016732.jpg",
+        "name": "Minifig Head Special, Snake with 4 Yellow Eyes and Lime Scales Print (Spitta)",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Dark Green",
+        "fig_num": "fig-000256"
+      }
+    ]
+  ]
+}

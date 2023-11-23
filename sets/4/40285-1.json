@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26535",
+      "part_num": "15573",
+      "color_id": "320",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092597.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "24085",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6153596.jpg",
+      "name": "Equipment Mop Head",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "24866",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6206150.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "26604",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6175968.jpg",
+      "name": "Brick Special 1 x 1 with Studs on 2 Adjacent Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "30136",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4666352.jpg",
+      "name": "Brick Special 1 x 2 Palisade [aka Log]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "30237b",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4215496.jpg",
+      "name": "Brick Special 1 x 2 with Vertical Clip [Open O Clip]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "3032",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4271874.jpg",
+      "name": "Plate 4 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "30374",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4262974.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "33183",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119479.jpg",
+      "name": "Plant, Carrot Top",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "3626c",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4511896.jpg",
+      "name": "Minifig Head Plain [Hollow Stud]",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "3942c",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539089.jpg",
+      "name": "Cone 2 x 2 x 2 with Completely Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "3957b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395726.jpg",
+      "name": "Antenna 1 x 4 with Flat Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "40234",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4225169.jpg",
+      "name": "Animal, Rodent, Rat / Mouse [Plain]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "51739",
+      "color_id": "28",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6003379.jpg",
+      "name": "Wedge Plate 2 x 4",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "6131",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106559.jpg",
+      "name": "Hat, Wizard",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "26535",
+      "part_num": "24866",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6206150.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "26535",
+      "part_num": "33183",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119479.jpg",
+      "name": "Plant, Carrot Top",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    }
+  ],
+  "setInfo": {
+    "set_num": "40285-1",
+    "name": "Scarecrow",
+    "year": "2018",
+    "theme_id": "409",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/40285-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 2,
+  "countedStandardParts": 24,
+  "minfigSetParts": []
+}

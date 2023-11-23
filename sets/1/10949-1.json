@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "84984",
+      "part_num": "17865pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6112706.jpg",
+      "name": "Duplo Animal Cat / Kitten Sitting with Gray Nose and Chest Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "19011pr0003",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6327535.jpg",
+      "name": "Duplo Animal Duck with Bright Light Orange Bill, Medium Azure Head and Feathers, Dark Blue Chest",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "25549",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6208515.jpg",
+      "name": "Duplo Plate 4 x 6",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "61649",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529256.jpg",
+      "name": "Duplo Door / Window Frame Flat Front Surface, Completely Open Back",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "61896",
+      "color_id": "323",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6329923.jpg",
+      "name": "Duplo Container Box 2 x 4 (Horse Trough New Style)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "6510",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100853.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "69716",
+      "color_id": "226",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6323952.jpg",
+      "name": "Duplo Brick 2 x 2, Hay Bale Pattern",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Yellow"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "69719pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6327534.jpg",
+      "name": "Duplo Animal Sheep / Lamb with Light Bluish Gray Legs and Head",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "69897",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6323953.jpg",
+      "name": "Duplo Door / Gate / Window with 'X' Supports",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "70679pr0001",
+      "color_id": "78",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6327497.jpg",
+      "name": "Duplo Animal Pig, Short, Semi-Circular Eyes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Nougat"
+    },
+    {
+      "inventory_id": "84984",
+      "part_num": "70683",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6323972.jpg",
+      "name": "Duplo Brick 2 x 4 x 2, Roof with Angled Sides",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10949-1",
+    "name": "Farm Animal Care",
+    "year": "2021",
+    "theme_id": "632",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10949-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

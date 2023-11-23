@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "14",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6195183.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "25",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6173925.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "322",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6150307.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "10",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6275873.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "98138",
+      "color_id": "26",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6322816.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "98138",
+      "color_id": "1000",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6009088.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glow in Dark White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6173925.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6275873.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6195183.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "25269",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6150307.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "98138",
+      "color_id": "26",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6322816.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "100259",
+      "part_num": "98138",
+      "color_id": "1000",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6009088.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glow in Dark White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "41932-1",
+    "name": "Extra DOTS - Series 5",
+    "year": "2021",
+    "theme_id": "688",
+    "num_parts": "110",
+    "img_url": "https://cdn.rebrickable.com/media/sets/41932-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 6,
+  "countedStandardParts": 110,
+  "minfigSetParts": []
+}

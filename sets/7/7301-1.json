@@ -1,0 +1,266 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3726",
+      "part_num": "2412b",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241223.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "2540",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254002.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "2817",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/281726.jpg",
+      "name": "Plate Special 2 x 2 with 2 Pin Holes",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "298c02",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73588.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "3020",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302002.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "30237a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/30237.png",
+      "name": "Brick Special 1 x 2 with Vertical Clip [Thick U Clip]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "30367a",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/30367a.png",
+      "name": "Brick Round 2 x 2 Dome Top - Blocked Open Stud without Bottom Axle Holder",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "3749",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4184168.jpg",
+      "name": "Technic Axle Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "3829c01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/9551.jpg",
+      "name": "Steering Stand 1 x 2 with Black Steering Wheel",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "3957a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "4032a",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403226.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "4349",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/434926.jpg",
+      "name": "Equipment Weapon, Loudhailer / Blaster / Space Gun",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "4740",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/474001.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3726",
+      "part_num": "2447",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/244743.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "3726",
+      "part_num": "298c02",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73588.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "7301-1",
+    "name": "Rover",
+    "year": "2001",
+    "theme_id": "135",
+    "num_parts": "29",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7301-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 2,
+  "countedStandardParts": 24,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51007",
+        "part_num": "2446",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129576.jpg",
+        "name": "Helmet, Standard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-000194"
+      },
+      {
+        "inventory_id": "51007",
+        "part_num": "2447",
+        "color_id": "33",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/244743.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Dark Blue",
+        "fig_num": "fig-000194"
+      },
+      {
+        "inventory_id": "51007",
+        "part_num": "3626bpr0322",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx24-14-a9e48bc9-8d52-4ab3-a18b-2ea2e30da3aa.jpg",
+        "name": "Minifig Head, Blue Glasses and Headset Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000194"
+      },
+      {
+        "inventory_id": "51007",
+        "part_num": "970c28",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600197.jpg",
+        "name": "Hips and Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000194"
+      },
+      {
+        "inventory_id": "51007",
+        "part_num": "973c28h01pr0056",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/973px57c01-7-660b8d36-0162-4242-89b8-21c45bb82140.jpg",
+        "name": "Torso Spacesuit with Gold Triangular Machinery and Belt Print, Blue Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-000194"
+      }
+    ]
+  ]
+}

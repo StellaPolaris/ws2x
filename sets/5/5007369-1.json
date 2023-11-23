@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "100901",
+      "part_num": "15068",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6105976.jpg",
+      "name": "Slope Curved 2 x 2 x 2/3",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "15391",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6076599.jpg",
+      "name": "Launcher, Weapon Gun / Blaster / Shooter Mini",
+      "part_cat_id": "68",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "15392",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6051334.jpg",
+      "name": "Launcher Trigger, Weapon Gun Trigger",
+      "part_cat_id": "68",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "18674",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6132541.jpg",
+      "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "19220",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6100054.jpg",
+      "name": "Equipment Radio [Extended Handle, Expanded Speaker Grille]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "20482",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6258831.jpg",
+      "name": "Tile Round 1 x 1 with Hollow Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "3020",
+      "color_id": "226",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6109926.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Yellow"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "34337",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6194809.jpg",
+      "name": "Wheel 8 x 6 with Slot",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "4600",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/460026.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "6141",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163917.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "100901",
+      "part_num": "99780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6020193.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5007369-1",
+    "name": "City: Stop the Fire!",
+    "year": "2021",
+    "theme_id": "497",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5007369-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "100902",
+        "part_num": "3626cpr2972",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271746.jpg",
+        "name": "Minifig Head Freya McCloud, Green Glasses, Peach Lips, and Smile / Raised Eyebrow",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-011285"
+      },
+      {
+        "inventory_id": "100902",
+        "part_num": "53117pat0002",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6291785.jpg",
+        "name": "Hair and Helmet, Fire, Long Dark Red Hair Pattern",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-011285"
+      },
+      {
+        "inventory_id": "100902",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-011285"
+      },
+      {
+        "inventory_id": "100902",
+        "part_num": "973c10h01pr4818",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271751.jpg",
+        "name": "Torso Jacket, Zipper, Pocket, Fire Marshall Badge, Dark Tan Utility Belt Print, Dark Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-011285"
+      }
+    ]
+  ]
+}

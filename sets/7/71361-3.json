@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "70284",
+      "part_num": "15395",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6138698.jpg",
+      "name": "Brick Round 2 x 2 Dome Bottom [Open Stud]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "3062b",
+      "color_id": "70",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211183.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "3068bpr9961",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315741.jpg",
+      "name": "Tile 2 x 2 with Groove with Spiny and Barcode Print (Sticker)",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "3941",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4251378.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "3957b",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4538252.jpg",
+      "name": "Antenna 1 x 4 with Flat Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "66792",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6308875.jpg",
+      "name": "Plate Round Corners 4 x 4 x 2/3 Circle with Reduced Knobs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "66858pr0001",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6308953.jpg",
+      "name": "Feet, 2 x 2 x 2/3 with 4 Studs on Top and Black Toes Print",
+      "part_cat_id": "61",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "67931pat0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6302720.jpg",
+      "name": "Wedge Sloped 4 x 4 with Diamond Spikes with White Underside Pattern",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "85984",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550348.jpg",
+      "name": "Slope 30 1 x 2 x 2/3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "85984pr0018",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6308952.jpg",
+      "name": "Slope 30 1 x 2 x 2/3 with Angry Eyes (Spiny Face) Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "70284",
+      "part_num": "99781",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6016172.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "71361-3",
+    "name": "Spiny",
+    "year": "2020",
+    "theme_id": "690",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71361-3.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 20,
+  "minfigSetParts": []
+}

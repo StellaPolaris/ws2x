@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26329",
+      "part_num": "2159c04",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/25/2159c01-25-1c01bb53-c463-4058-a836-a0ddaa095b80.jpg",
+      "name": "Duplo Airplane, High Small Wings, with Black Underside and Yellow Propeller",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "2214",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100714.jpg",
+      "name": "Duplo Fence / Rail 1 x 6 with 5 Rails",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "2218c04pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2218c01-4-60eebfad-698f-410a-a010-f9e957474dd2.jpg",
+      "name": "Duplo Car with 2 x 2 Studs and Dark Gray Base and 'FIRE' Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "2223",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4192604.jpg",
+      "name": "Duplo Ladder Stand",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "2224",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4192605.jpg",
+      "name": "Duplo Ladder 8 Rung",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "31168",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143615.jpg",
+      "name": "Duplo Fire / Grass / Ice 1 x 4 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "40666",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4157606.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "4555c05pr0018",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4555c05pr0018-14-f4371696-4c69-4541-bca1-563e0c84627d.jpg",
+      "name": "Duplo Figure, Early, Aviator Hat Blue, Black Legs, Orange Harness with Fire Badge, Headset Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "4555c16pr0011",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Figure, Early, Fire Helmet White, Black Legs, Orange Harness with Fire Badge, Moustache Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "6353",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/6353-14-e598397e-1a25-47a2-a264-5d935178c03d.jpg",
+      "name": "Duplo Helicopter Skids Small",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "6414",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6251748.jpg",
+      "name": "Duplo Fire Hydrant",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26329",
+      "part_num": "6425c03",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/6425c03-0-72f8a689-46ee-4aa9-afad-f0eb32ea3bc0.jpg",
+      "name": "Duplo Hose with Yellow Nozzle and Stud Holder",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3655-1",
+    "name": "Fire Action (Explore)",
+    "year": "2003",
+    "theme_id": "632",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3655-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

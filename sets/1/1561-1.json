@@ -1,0 +1,278 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14687",
+      "part_num": "2421",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242126.jpg",
+      "name": "Propeller 3 Blade Small",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "2460",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4258354.jpg",
+      "name": "Tile Special 2 x 2 with Top Pin",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "2479",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/247902.jpg",
+      "name": "Propeller 4 Blade 5 Diameter with Rounded Ends, Open Hub",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3004",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300424.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3023",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302324.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3039",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303924.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3070b",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307002.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3176",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/317626.jpg",
+      "name": "Plate Special 3 x 2 with Hole",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3666",
+      "color_id": "7",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366602.jpg",
+      "name": "Plate 1 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3794a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "4287a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4287a.png",
+      "name": "Slope Inverted 34 3 x 1 without Internal Stopper",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "4488",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4488.png",
+      "name": "Plate Special 2 x 2 with Wheel Holder",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "4859",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4859.png",
+      "name": "Wedge Plate 3 x 4 without Stud Notches",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "6140",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614026.jpg",
+      "name": "Bar 1 x 6 [Closed Studs]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "14687",
+      "part_num": "2447",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/244742.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "14687",
+      "part_num": "3070b",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307002.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1561-1",
+    "name": "Stunt Chopper",
+    "year": "1990",
+    "theme_id": "67",
+    "num_parts": "30",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1561-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 2,
+  "countedStandardParts": 25,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51239",
+        "part_num": "2446",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106303.jpg",
+        "name": "Helmet, Standard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000425"
+      },
+      {
+        "inventory_id": "51239",
+        "part_num": "2447",
+        "color_id": "41",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/244742.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Light Blue",
+        "fig_num": "fig-000425"
+      },
+      {
+        "inventory_id": "51239",
+        "part_num": "3626apr0001",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626ap01.png",
+        "name": "Minifig Head Standard Grin Print [Solid Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000425"
+      },
+      {
+        "inventory_id": "51239",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000425"
+      },
+      {
+        "inventory_id": "51239",
+        "part_num": "973c03h01pr0002",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973p0ac02-0-4939138e-38cb-455c-b779-4f89fb69cafd.jpg",
+        "name": "Torso Jacket with Curved Zipper and Pocket Print, Black Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000425"
+      }
+    ]
+  ]
+}

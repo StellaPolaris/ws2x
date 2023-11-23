@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28922",
+      "part_num": "2324",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/2324-15-2f5c9cc2-b506-40b4-9795-5bc17273b350.jpg",
+      "name": "Duplo Building Wall with Shelf Compartments and 5 Studs On Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4066pr0036",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4066bp1d.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Teddy Bear and Ball Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4066pr0037",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4066bp1c.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Stacking Rings Toy Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4375",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/437524.jpg",
+      "name": "Duplo Sign Post Short",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "45896pr0002",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/dupupn0008pr0001-15-96b47846-02dd-469a-b02f-1e31a3fb0627.jpg",
+      "name": "Duplo, Sleeping Bag / Baby Pouch with Red, Blue, Yellow and Lime Flowers Print",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "45896pr0004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/dupupn0008pr0004-15-f1689d7e-b0df-49e1-8dd9-3c45cc28bb02.jpg",
+      "name": "Duplo, Sleeping Bag / Baby Pouch with Blue, Lime, Red and Yellow Bunny Print",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4839",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4839.png",
+      "name": "Duplo Chair 2 x 2 x 2 with One Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4886",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114724.jpg",
+      "name": "Duplo Bed, Bunk",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4890",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4171339.jpg",
+      "name": "Duplo Cabinet 2 x 2 x 1.5",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4891",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4171348.jpg",
+      "name": "Duplo Drawer 2 x 2 with Pull Handle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4895",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6000805.jpg",
+      "name": "Duplo Bed 3 x 5 x 1 2/3",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "4943pr0002",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4943pr0002-14-70c07b20-7de1-4ba5-80db-409c9d882cb0.jpg",
+      "name": "Duplo Figure, Early with Joined Legs Red, with Red and Green Geometric Print, Green Collar, and Brown Hair",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28922",
+      "part_num": "dupupn0009",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/dupupn0009-4-cf87b22e-bbc4-4239-a9de-c0474504973e.jpg",
+      "name": "Duplo Cone 2 x 2 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2776-1",
+    "name": "Bedroom",
+    "year": "1991",
+    "theme_id": "652",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2776-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

@@ -1,0 +1,313 @@
+{
+  "standard": [
+    {
+      "inventory_id": "30269",
+      "part_num": "11090",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6015891.jpg",
+      "name": "Bar Holder with Clip",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "11476",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6132731.jpg",
+      "name": "Plate Special 1 x 2 with Clip Horizontal on Side",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "11477",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6029946.jpg",
+      "name": "Slope Curved 2 x 1 No Studs [1/2 Bow]",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "11833",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6045912.jpg",
+      "name": "Plate Round 4 x 4 with 2 x 2 Round Opening",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "14769pr0015",
+      "color_id": "297",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6212640.jpg",
+      "name": "Tile Round 2 x 2 with Bottom Stud Holder with Black Circular Lines on Red Background Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "21459",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6208752.jpg",
+      "name": "Weapon Sword / Katana / Shamshir with Capped Pommel [Square Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "21459",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6116593.jpg",
+      "name": "Weapon Sword / Katana / Shamshir with Capped Pommel [Square Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "24201",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6147050.jpg",
+      "name": "Slope Curved 2 x 1 Inverted",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "2654",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163711.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "35480",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6210269.jpg",
+      "name": "Plate Special 1 x 2 Rounded with 2 Open Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "36840",
+      "color_id": "72",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6225494.jpg",
+      "name": "Bracket 1 x 1 - 1 x 1 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "40923pat0001",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6253914.jpg",
+      "name": "Cone Reverse with 4 Handles, Spinner, with Marbled Red Pattern",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "48336",
+      "color_id": "297",
+      "quantity": "12",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4585493.jpg",
+      "name": "Plate Special 1 x 2 [Side Handle Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "49668",
+      "color_id": "182",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104016.jpg",
+      "name": "Plate Special 1 x 1 with Tooth",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "60470b",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4556156.jpg",
+      "name": "Plate Special 1 x 2 with Clips Horizontal [Open O Clips]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "60897",
+      "color_id": "4",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4588003.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "6126b",
+      "color_id": "182",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4261397.jpg",
+      "name": "Wave / Flame Rounded with Base Rim",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "87747",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6172746.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Medium",
+      "part_cat_id": "28",
+      "part_material": "Rubber",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30269",
+      "part_num": "99207",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6001806.jpg",
+      "name": "Bracket 1 x 2 - 2 x 2 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "30269",
+      "part_num": "87747",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6172746.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Medium",
+      "part_cat_id": "28",
+      "part_material": "Rubber",
+      "colorName": "Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "70659-1",
+    "name": "Spinjitzu Kai",
+    "year": "2019",
+    "theme_id": "435",
+    "num_parts": "97",
+    "img_url": "https://cdn.rebrickable.com/media/sets/70659-1.jpg"
+  },
+  "countedUniqueParts": 20,
+  "countedSpareParts": 1,
+  "countedStandardParts": 93,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52741",
+        "part_num": "3626cpr9975",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6190411.jpg",
+        "name": "Minifig Head Kai, Reddish Brown Eyebrows, Medium Nougat Scar, Bandage, Lopsided Grin with Teeth / Determined Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001926"
+      },
+      {
+        "inventory_id": "52741",
+        "part_num": "40925pat0001",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6250874.jpg",
+        "name": "Wrap with Long Back Knot, Dark Red Band Pattern",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-001926"
+      },
+      {
+        "inventory_id": "52741",
+        "part_num": "970c22pr1604",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6251154.jpg",
+        "name": "Hips and Red Legs with Dark Red Sash, Knee Bands, Gold Trim",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-001926"
+      },
+      {
+        "inventory_id": "52741",
+        "part_num": "973c22h03pr4515",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6251152.jpg",
+        "name": "Torso Robe, Dark Red Shirt, Black Trim, Gold Dragon Print, Red Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-001926"
+      }
+    ]
+  ]
+}

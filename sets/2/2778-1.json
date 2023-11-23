@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26591",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4066pr0138",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4066bp07.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Carton and Bottle Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4121",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/4121.png",
+      "name": "Duplo Plate 2 x 4 x 1/3 with 4 Center Studs [Thin]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4555c03pr0008",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4555pr0008-4-a5d83714-3d9c-4399-8579-3eb84ca650aa.jpg",
+      "name": "Duplo Figure, Early, Hair Bob Brown, Yellow Legs, Yellow 'V's, and Nose Pointing Down Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4839",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4839.png",
+      "name": "Duplo Chair 2 x 2 x 2 with One Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4904",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/4904-15-946734fe-2fe6-4824-8347-0f24efbe989a.jpg",
+      "name": "Duplo Teapot / Coffeepot, Round Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4905",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4905-4-525c8086-d88c-43d1-beb6-f051e511566f.jpg",
+      "name": "Duplo Saucepan, Round Bottom, Smooth Handle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4906pr0002",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4906pr0002-1-9e9199b8-a59d-43d1-86a1-7e05e144cccf.jpg",
+      "name": "Duplo Sink with Cabinet Doors Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4907pr0002",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4907pr0002-1-415df995-1a06-4624-adc9-8d8e1a3e7b80.jpg",
+      "name": "Duplo Oven Range with 2 Top Studs and Doors Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4914",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4914-1-b5959c58-3968-412a-9daf-164b123bb506.jpg",
+      "name": "Duplo Cabinet Refrigerator",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26591",
+      "part_num": "4915",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/4915-15-05e192e8-4c9c-4dbd-8d94-5a1b5b8aca2b.jpg",
+      "name": "Duplo Door, Refrigerator",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2778-1",
+    "name": "Kitchen",
+    "year": "1991",
+    "theme_id": "652",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2778-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "12965",
+      "part_num": "2344",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2344.png",
+      "name": "Train Wheel / Propeller Pin",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "264",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4463.png",
+      "name": "Window 1 x 4 x 5 Curved Top",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4461",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4461.png",
+      "name": "Box 4 x 4 x 2 Bottom with Semicircle Cut-out Ends",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4466",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4466.png",
+      "name": "Exhaust Pipe Twin Inlet 11L Left",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4467",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4467.png",
+      "name": "Exhaust Pipe Twin Inlet 11L Right",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4607",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4607.png",
+      "name": "Plate Special 4 x 16 with 24 studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4612",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4612.png",
+      "name": "Fabuland Airplane Tail",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4613c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4613c01.png",
+      "name": "Fabuland Airplane Base 10 x 4 with Light Gray Wheels",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4616a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4616a.png",
+      "name": "Fabuland, Motor / Engine Block, Airplane",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "4617a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4617a.png",
+      "name": "Propeller 3 Blade 5.5 Diameter, Small Pin Hole",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "12965",
+      "part_num": "fabfig0007c03pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u586p02c04.png",
+      "name": "Fabuland Figure Crow 3 with Aviator Helmet",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3625-1",
+    "name": "Aeroplane",
+    "year": "1985",
+    "theme_id": "390",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3625-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

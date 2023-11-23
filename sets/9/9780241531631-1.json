@@ -1,0 +1,241 @@
+{
+  "standard": [
+    {
+      "inventory_id": "187181",
+      "part_num": "2412b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "28974",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6277181.jpg",
+      "name": "Minifig Neckwear Bracket [One Stud] - Reinforced",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "30304",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6122729.jpg",
+      "name": "Equipment Space Binoculars / Scanner / Electrobinoculars",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "3039pr0025",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6309297.jpg",
+      "name": "Slope 45 2 x 2 with Computer Screen, Radar print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "3069bpr0276",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6291791.jpg",
+      "name": "Tile 1 x 2 with Groove and Controls print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "3070b",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307001.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "34076",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6192778.jpg",
+      "name": "Equipment Paint Roller Brush Handle Smooth Handle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "4006",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/400626.jpg",
+      "name": "Tool Screwdriver and Spanner / Wrench",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "4740",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211512.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "48336",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4225201.jpg",
+      "name": "Plate Special 1 x 2 [Side Handle Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "85861",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6231765.jpg",
+      "name": "Plate Round 1 x 1 with Open Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "187181",
+      "part_num": "99780",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6000606.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9780241531631-1",
+    "name": "Star Wars: Galaxy Mission",
+    "year": "2023",
+    "theme_id": "497",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9780241531631-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "192632",
+        "part_num": "3626cpr3314",
+        "color_id": "84",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6319985.jpg",
+        "name": "Minifig Head Ajak, Eyelashes, Dark Red Lips, Smile / Angry Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Medium Nougat",
+        "fig_num": "fig-014398"
+      },
+      {
+        "inventory_id": "192632",
+        "part_num": "46304",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4549059.jpg",
+        "name": "Headwear Accessory Visor Snow Goggles",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-014398"
+      },
+      {
+        "inventory_id": "192632",
+        "part_num": "87555",
+        "color_id": "28",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6139517.jpg",
+        "name": "Hat / Cap Hoth Rebel Trooper",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Tan",
+        "fig_num": "fig-014398"
+      },
+      {
+        "inventory_id": "192632",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-014398"
+      },
+      {
+        "inventory_id": "192632",
+        "part_num": "973c27h14pr5911",
+        "color_id": "28",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6382944.jpg",
+        "name": "Torso Jacket Vest with Seam Lines and ID Badge Print, White Arms, Light Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Tan",
+        "fig_num": "fig-014398"
+      }
+    ]
+  ]
+}

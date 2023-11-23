@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1157",
+      "part_num": "3001",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
+      "name": "Brick 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "3001",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300123.jpg",
+      "name": "Brick 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "3002a",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3002.png",
+      "name": "Brick 2 x 3 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "3004",
+      "color_id": "14",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300424.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "3888ac01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3888ac01.png",
+      "name": "Fabuland, Vehicle Base, Car Chassis 14 x 6.5 with Tow-Hook and Light-Gray Wheels",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "4006",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/400626.jpg",
+      "name": "Tool Screwdriver and Spanner / Wrench",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "4086",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4086.png",
+      "name": "Fabuland, Car Roof, Fixed Curve",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "4088pr0003",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4088ap02.png",
+      "name": "Brick Curved 1 x 4 x 2 Centre Stud Top with Car Grill Fabuland Yellow / Red Print",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "691",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3996.png",
+      "name": "Fabuland, Door 1 x 6 x 2 Left",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "692",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3995.png",
+      "name": "Fabuland, Door 1 x 6 x 2 Right",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "fabfig0001c02pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u9107p01c03.png",
+      "name": "Fabuland Figure Barney Bear with Brown Head, Red Torso, Yellow Arms and Hands and Black Legs Bear 2 [Barney]",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1157",
+      "part_num": "fabupn0034",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u9160.png",
+      "name": "Fabuland, Window Squared Small",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3629-1",
+    "name": "Barney Bear",
+    "year": "1981",
+    "theme_id": "390",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3629-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

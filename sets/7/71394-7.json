@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "107676",
+      "part_num": "3004pr0076",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6353879.jpg",
+      "name": "Brick 1 x 2 with White Dot on Short Side print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "3020",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302026.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "3065",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306540.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "3068bpr9739",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6354039.jpg",
+      "name": "Tile 2 x 2 with Groove with Crowber and Barcode Print (Sticker)",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "35470",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6223667.jpg",
+      "name": "Plate Special 3 x 5 Cloud with 3 Center Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "4032a",
+      "color_id": "321",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6226919.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "43722",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4180508.jpg",
+      "name": "Wedge Plate 3 x 2 Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "43723",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4180536.jpg",
+      "name": "Wedge Plate 3 x 2 Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "60470b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4556158.jpg",
+      "name": "Plate Special 1 x 2 with Clips Horizontal [Open O Clips]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "6215",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6360929.jpg",
+      "name": "Brick Curved 2 x 3 with Curved Top",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "66792",
+      "color_id": "321",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6360930.jpg",
+      "name": "Plate Round Corners 4 x 4 x 2/3 Circle with Reduced Knobs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "107676",
+      "part_num": "87544",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6010737.jpg",
+      "name": "Panel 1 x 2 x 3 [Side Supports / Hollow Studs]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "71394-7",
+    "name": "Crowber",
+    "year": "2021",
+    "theme_id": "690",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71394-7.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

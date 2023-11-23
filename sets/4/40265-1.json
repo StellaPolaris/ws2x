@@ -1,0 +1,150 @@
+{
+  "standard": [
+    {
+      "inventory_id": "18019",
+      "part_num": "18852pr0001",
+      "color_id": "15",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099712.jpg",
+      "name": "Animal, Rabbit / Bunny, Baby Sitting with Black Eyes and Black Nose Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "24183pr0003",
+      "color_id": "71",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6151210.jpg",
+      "name": "Animal, Hamster, Black Eyes, Whiskers, Magenta Nose",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "2431",
+      "color_id": "322",
+      "quantity": "12",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624705.jpg",
+      "name": "Tile 1 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "3030",
+      "color_id": "27",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6112967.jpg",
+      "name": "Plate 4 x 10",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "3069b",
+      "color_id": "322",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4649741.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "3070b",
+      "color_id": "26",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099364.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "3666",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366601.jpg",
+      "name": "Plate 1 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "3710",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371001.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "18019",
+      "part_num": "87580",
+      "color_id": "85",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4659770.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "18019",
+      "part_num": "3070b",
+      "color_id": "26",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6099364.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    }
+  ],
+  "setInfo": {
+    "set_num": "40265-1",
+    "name": "Friends Tic-Tac-Toe",
+    "year": "2017",
+    "theme_id": "494",
+    "num_parts": "58",
+    "img_url": "https://cdn.rebrickable.com/media/sets/40265-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 1,
+  "countedStandardParts": 58,
+  "minfigSetParts": []
+}

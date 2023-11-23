@@ -1,0 +1,240 @@
+{
+  "standard": [
+    {
+      "inventory_id": "23718",
+      "part_num": "11213",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6133836.jpg",
+      "name": "Plate Round 6 x 6 with Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "11477",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6034044.jpg",
+      "name": "Slope Curved 2 x 1 No Studs [1/2 Bow]",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "2343",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505990.jpg",
+      "name": "Equipment Goblet / Glass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "29630pr0004",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/322/29630pr0004-322-d6840ab6-c769-4b1e-8104-772958f464a9.jpg",
+      "name": "Pod, Round, Half Front with Friends Snow Resort Sticker",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "29632pr0004",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/322/29632pr0004-322-7bb19fa3-9987-4289-bc1b-995121035261.jpg",
+      "name": "Pod, Round, Half, Back with 1 x 2 Plate White with Ski Hut Window Sticker",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "30171",
+      "color_id": "26",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6060733.jpg",
+      "name": "Hat / Helmet, Aviator Cap",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "3062b",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620909.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "3070b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307001.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "46304",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4549059.jpg",
+      "name": "Headwear Accessory Visor Snow Goggles",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "87580",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565324.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "90509",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4621314.jpg",
+      "name": "Sports Ski 6L",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "90540",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4621313.jpg",
+      "name": "Bar 3L, with Handle, Stop Ring and Side Stops (Minifig Ski Pole)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "92280",
+      "color_id": "15",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4598527.jpg",
+      "name": "Plate Special 1 x 2 [Top Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "23718",
+      "part_num": "99780",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6070698.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5004920-1",
+    "name": "Ski Pod",
+    "year": "2017",
+    "theme_id": "494",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5004920-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52593",
+        "part_num": "92198pr0005",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6017048.jpg",
+        "name": "Minidoll Head with Green Eyes, Pink Lips and Closed Mouth Print",
+        "part_cat_id": "62",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-001778"
+      },
+      {
+        "inventory_id": "52593",
+        "part_num": "92258",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4596243.jpg",
+        "name": "Hair Long Wavy, Partially Tied Back [2 Holes]",
+        "part_cat_id": "65",
+        "part_material": "Rubber",
+        "colorName": "Black",
+        "fig_num": "fig-001778"
+      },
+      {
+        "inventory_id": "52593",
+        "part_num": "92456c04pr9999",
+        "color_id": "323",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "",
+        "name": "Minidoll Torso Girl with Magenta and Light Aqua Ski Hoodie with Orange Trim, Magenta Arms and White Hands",
+        "part_cat_id": "63",
+        "part_material": "Plastic",
+        "colorName": "Light Aqua",
+        "fig_num": "fig-001778"
+      },
+      {
+        "inventory_id": "52593",
+        "part_num": "92820c01pr0016",
+        "color_id": "323",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6201166.jpg",
+        "name": "Minidoll Hips and Short Skirt with Blue Legs and Yellow Laced Boots Print",
+        "part_cat_id": "64",
+        "part_material": "Plastic",
+        "colorName": "Light Aqua",
+        "fig_num": "fig-001778"
+      }
+    ]
+  ]
+}

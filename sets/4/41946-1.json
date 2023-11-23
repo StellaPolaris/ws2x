@@ -1,0 +1,210 @@
+{
+  "standard": [
+    {
+      "inventory_id": "118929",
+      "part_num": "25269",
+      "color_id": "1",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6302961.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "25269",
+      "color_id": "31",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240465.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "25269",
+      "color_id": "42",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6378116.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "77813",
+      "color_id": "322",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371552.jpg",
+      "name": "Tile Round 1 x 1 Special with Clip-Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "77814",
+      "color_id": "85",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6381320.jpg",
+      "name": "Pendant, Heart",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "77817",
+      "color_id": "226",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371553.jpg",
+      "name": "Pendant, Lightning Bolt",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Yellow"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "98138",
+      "color_id": "5",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6322821.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "98138",
+      "color_id": "158",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6284598.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellowish Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "118929",
+      "part_num": "25269",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6378116.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "25269",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6302961.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "25269",
+      "color_id": "31",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240465.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "77813",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371552.jpg",
+      "name": "Tile Round 1 x 1 Special with Clip-Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "77814",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6381320.jpg",
+      "name": "Pendant, Heart",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "77817",
+      "color_id": "226",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371553.jpg",
+      "name": "Pendant, Lightning Bolt",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Yellow"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "98138",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6322821.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "118929",
+      "part_num": "98138",
+      "color_id": "158",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6284598.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellowish Green"
+    }
+  ],
+  "setInfo": {
+    "set_num": "41946-1",
+    "name": "Extra DOTS - Series 6",
+    "year": "2022",
+    "theme_id": "688",
+    "num_parts": "108",
+    "img_url": "https://cdn.rebrickable.com/media/sets/41946-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 8,
+  "countedStandardParts": 108,
+  "minfigSetParts": []
+}

@@ -1,0 +1,266 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1513",
+      "part_num": "2654",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278274.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "3004",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "3022",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302201.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "3841",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600316.jpg",
+      "name": "Tool Pickaxe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "4612946",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 9 - Bonezai - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "4612947",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 55 - Pick 'n' Choose - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "4612948",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 43 - Limbo - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "4612949",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 67 - Gravity Drop - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "4612950",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #1: 37 - Spiral Vortex - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "53705",
+      "color_id": "132",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273965.jpg",
+      "name": "Weapon Axe Head, Clip-on (Viking) [Thin Clip]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Speckle Black-Silver"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "59232",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611880.jpg",
+      "name": "Weapon Mace / Flail Spiked",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "92547pr0005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612293.jpg",
+      "name": "Turntable 6 x 6 Round Dark Bluish Gray Base with Black Top with Blue Skulls on White Print (Ninjago Spinner)",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "92691",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4600307.jpg",
+      "name": "Animal Body Part, Dog Bone [Long]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "1513",
+      "part_num": "93062c01",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4602970.jpg",
+      "name": "Leg Skeleton with Black Square Foot",
+      "part_cat_id": "61",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1513",
+      "part_num": "93609",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611446.jpg",
+      "name": "Arm Skeleton [Bent / 2 Clips]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "2115-1",
+    "name": "Bonezai",
+    "year": "2011",
+    "theme_id": "435",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2115-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 4,
+  "countedStandardParts": 14,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "53841",
+        "part_num": "3626bpr0752",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612985.jpg",
+        "name": "Minifig Head Bonezai, Skull Cracked with Red Eyes and Grin Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002781"
+      },
+      {
+        "inventory_id": "53841",
+        "part_num": "93056pr0001",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612394.jpg",
+        "name": "Minifig Neckwear Armour Breastplate with Shoulder Spikes White and Ninjago Cracked Red Skull Print",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-002781"
+      },
+      {
+        "inventory_id": "53841",
+        "part_num": "93060pr0004",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612347.jpg",
+        "name": "Torso Skeleton - Angular Rib Cage with Black Holes and Cracks and White Loincloth Print",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002781"
+      },
+      {
+        "inventory_id": "53841",
+        "part_num": "93062c01",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4602970.jpg",
+        "name": "Leg Skeleton with Black Square Foot",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002781"
+      },
+      {
+        "inventory_id": "53841",
+        "part_num": "93609",
+        "color_id": "15",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611446.jpg",
+        "name": "Arm Skeleton [Bent / 2 Clips]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-002781"
+      }
+    ]
+  ]
+}

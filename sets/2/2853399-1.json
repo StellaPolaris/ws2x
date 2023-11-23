@@ -1,0 +1,241 @@
+{
+  "standard": [
+    {
+      "inventory_id": "94169",
+      "part_num": "3069b",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6107197.jpg",
+      "name": "Tile 1 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "3069bpr0100",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4295260.jpg",
+      "name": "Tile 1 x 2 with Groove and '100' Banknote Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "61482",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4518282.jpg",
+      "name": "Equipment Handcuffs",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0068",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0430-0-e8202b86-5dff-4442-b00b-b1ea8835e572.jpg",
+      "name": "Watch, Clasp, Male",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0182",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0426-0-14e7dc52-1ce7-4141-9b27-7f4af931fe7f.jpg",
+      "name": "Watch, Clasp, Female",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0277",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0277-179-1680aaa9-7d37-448d-b242-b33e1ffdd623.jpg",
+      "name": "Watch, Bezel Round, No Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0323",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0323-179-1d4643f3-b701-4d94-8e01-32c4def46a14.jpg",
+      "name": "Watch, Link, with 1 x 2 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0382",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/watch0001-0-a1139792-7e3f-413c-897e-7cd656020ade.jpg",
+      "name": "Watch, Bezel Round, 8 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0389",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/upn0437-4-9c75f80a-54f6-4b6d-9c66-caa38b64b88c.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0389",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/upn0437-15-1f0a97d4-4a1e-4c69-97b3-2d0db000f104.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0389",
+      "color_id": "1",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/upn0437-1-92eb3b82-57fa-4fce-a49f-f1ffed220e95.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0389",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94169",
+      "part_num": "upn0465pr0015",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'LEGO Space Police' Logo Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2853399-1",
+    "name": "Space Police Buildable Watch with Toy",
+    "year": "2009",
+    "theme_id": "732",
+    "num_parts": "35",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2853399-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 30,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52914",
+        "part_num": "2447",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/244726.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-002099"
+      },
+      {
+        "inventory_id": "52914",
+        "part_num": "30171",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144530.jpg",
+        "name": "Hat / Helmet, Aviator Cap",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-002099"
+      },
+      {
+        "inventory_id": "52914",
+        "part_num": "3626bpr0136",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4293394.jpg",
+        "name": "Minifig Head Aquaraider / Soccer Player, Male Red-Brown Hair over Eye, One Eyebrow, Stubble, White Pupils Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-002099"
+      },
+      {
+        "inventory_id": "52914",
+        "part_num": "970c12pr0127",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4551179.jpg",
+        "name": "Hips and Dark Bluish Gray Legs with Space Police 3 Pockets Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-002099"
+      },
+      {
+        "inventory_id": "52914",
+        "part_num": "973c12h03pr1490",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4551188.jpg",
+        "name": "Torso Spacesuit with Red Police Badge, Belt with Pouches / Radio on Back Print, Dark Bluish Gray Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-002099"
+      }
+    ]
+  ]
+}

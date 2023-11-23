@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "131739",
+      "part_num": "3149ac01",
+      "color_id": "4",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3149dc01.png",
+      "name": "Hinge Plate 2 x 5 with Small Hole [Complete Assembly]",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3190",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3190.png",
+      "name": "Door 1 x 3 x 3 Right",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3191",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3191.png",
+      "name": "Door 1 x 3 x 3 Left",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3192a",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/826a.png",
+      "name": "Door 1 x 3 x 4 Right with Thin Handle",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3192a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/826a.png",
+      "name": "Door 1 x 3 x 4 Right with Thin Handle",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3193a",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/825a.png",
+      "name": "Door 1 x 3 x 4 Left with Thin Handle",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3193a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/825a.png",
+      "name": "Door 1 x 3 x 4 Left with Thin Handle",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3194",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3194.png",
+      "name": "Door 1 x 5 x 4 Right",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3194",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3194.png",
+      "name": "Door 1 x 5 x 4 Right",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3195",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3195.png",
+      "name": "Door 1 x 5 x 4 Left",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "131739",
+      "part_num": "3195",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3195.png",
+      "name": "Door 1 x 5 x 4 Left",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "906-1",
+    "name": "12 doors and 5 hinges",
+    "year": "1969",
+    "theme_id": "371",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/906-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

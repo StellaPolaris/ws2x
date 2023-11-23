@@ -1,0 +1,190 @@
+{
+  "standard": [
+    {
+      "inventory_id": "73994",
+      "part_num": "11476",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6179329.jpg",
+      "name": "Plate Special 1 x 2 with Clip Horizontal on Side",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "18674",
+      "color_id": "5",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6223767.jpg",
+      "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "23986pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6152341.jpg",
+      "name": "Equipment Teapot with Eyes Print (Mrs Potts)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "24866",
+      "color_id": "31",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6214235.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "2496",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/249626.jpg",
+      "name": "Wheel Skateboard / Trolley",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "2655",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211373.jpg",
+      "name": "Wheel Holder, Plate, Round 2 x 2 Thin with Clips",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "27448",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6238334.jpg",
+      "name": "Turntable 2 x 2 Female",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "3001",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4229356.jpg",
+      "name": "Brick 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "3023",
+      "color_id": "191",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6028736.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "35442",
+      "color_id": "85",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6238330.jpg",
+      "name": "Plate Special 2 x 2 Splat Gear with 6 Teeth",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "38014pr1005",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6288534.jpg",
+      "name": "Equipment Cup / Teacup with Face and Crack Print (Chip)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "73994",
+      "part_num": "98397",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4644102.jpg",
+      "name": "Handlebars with Angular Handles",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "302006-1",
+    "name": "Mrs Potts and Chip",
+    "year": "2020",
+    "theme_id": "579",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/302006-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 18,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "133819",
+        "part_num": "23986pr0001",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6152341.jpg",
+        "name": "Equipment Teapot with Eyes Print (Mrs Potts)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-012467"
+      },
+      {
+        "inventory_id": "133819",
+        "part_num": "24866",
+        "color_id": "31",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6214235.jpg",
+        "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+        "part_cat_id": "28",
+        "part_material": "Plastic",
+        "colorName": "Lavender",
+        "fig_num": "fig-012467"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "93541",
+      "part_num": "50231",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124171.jpg",
+      "name": "Neckwear Cape, Standard [Traditional Starched Fabric]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0002",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/33/penupn0002-33-905a2d86-3f53-469f-ac34-1a11420cf573.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0002",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0002-0-33f6cb92-0cc4-40a6-ae17-7a7f829ee7a3.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0002",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0002-0-33f6cb92-0cc4-40a6-ae17-7a7f829ee7a3.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0003",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/penupn0003-383-6932c775-afa4-4c25-ace0-1b814c75dadd.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0003pr0002",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/25/penupn0003pr0002-25-e8b185f3-701e-4b9b-a71c-35a55d2ff358.jpg",
+      "name": "Pen Bead, Round Orb with Darth Vader Head Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0004pr0004",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0004pr0004-0-efd8ebc8-91b8-45c8-886c-921ddf4ce0a2.jpg",
+      "name": "Pen Bead, Square with 'Vader' and 'V' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0006pr0004",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Darth Vader Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0010",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/110/penupn0010-110-3f195839-8e32-42cb-b82f-924a4b722a4d.jpg",
+      "name": "Pen Bead, Minifigure Legs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0011pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0011pr0001-0-756f03da-22af-4680-b12f-65f94ddda6aa.jpg",
+      "name": "Pen Bead, Minifigure Torso, Darth Vader Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0015",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0015-0-d67d6f88-d381-422e-b388-0826cc3e9eba.jpg",
+      "name": "Pen Bead, Helmet, Darth Vader",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn0039c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0039c01-4-b149e1cd-8dc2-46ef-9a3c-478778400827.jpg",
+      "name": "Pen Body, with Black Tip, Chrome Silver Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "93541",
+      "part_num": "penupn9976",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2155-2",
+    "name": "Darth Vader Pen",
+    "year": "2006",
+    "theme_id": "739",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2155-2.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": []
+}

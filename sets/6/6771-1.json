@@ -1,0 +1,303 @@
+{
+  "standard": [
+    {
+      "inventory_id": "997",
+      "part_num": "2432",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243221.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "2625",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2625.png",
+      "name": "Boat Bow Plate 7 x 6 without Stud Notches",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "298c02",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/74335.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "30359a",
+      "color_id": "8",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124064.jpg",
+      "name": "Bar 1 x 8 with Brick 1 x 2 Curved Top End (Original, No Axle Holder)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "30407",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144510.jpg",
+      "name": "Hinge Plate 1 x 8 with Angled Side Extensions, Rounded Plate Underside",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "30552",
+      "color_id": "8",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142724.jpg",
+      "name": "Hinge Cylinder 1 x 2 Locking with 1 Finger and Axle Hole On Ends",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "3673",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/367302.jpg",
+      "name": "Technic Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "3795",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379502.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "3956",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/395626.jpg",
+      "name": "Bracket 2 x 2 - 2 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "4083",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408302.jpg",
+      "name": "Bar 1 x 4 x 2 with Studs",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "4285b",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144509.jpg",
+      "name": "Dish 6 x 6 Inverted [Radar / Webbed / anti-studs at  90]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "4617b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4536184.jpg",
+      "name": "Propeller  3 Blade  5.5 Diameter with Hole for Technic Pin",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "4740",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3006347.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "6126a",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/57/6126a.png",
+      "name": "Wave / Flame Rounded with Base Pegs",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "6140",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614026.jpg",
+      "name": "Bar 1 x 6 [Closed Studs]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "997",
+      "part_num": "298c02",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/74335.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "997",
+      "part_num": "3673",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/367302.jpg",
+      "name": "Technic Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "6771-1",
+    "name": "Ogel Command Striker",
+    "year": "2001",
+    "theme_id": "304",
+    "num_parts": "29",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6771-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 2,
+  "countedStandardParts": 23,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51556",
+        "part_num": "2446",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106307.jpg",
+        "name": "Helmet, Standard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000741"
+      },
+      {
+        "inventory_id": "51556",
+        "part_num": "30121",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/30121.png",
+        "name": "Minifig Neckwear Armour Breastplate with Shoulder Protection Layered",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000741"
+      },
+      {
+        "inventory_id": "51556",
+        "part_num": "3626bpr0358",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx40-14-fcfde073-eff1-4aae-8095-355a9aa4c769.jpg",
+        "name": "Minifig Head Ogel, Angry Eyebrows and 1 Red Eye Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000741"
+      },
+      {
+        "inventory_id": "51556",
+        "part_num": "769",
+        "color_id": "334",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/769.png",
+        "name": "Headwear Accessory Visor Large",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Chrome Gold",
+        "fig_num": "fig-000741"
+      },
+      {
+        "inventory_id": "51556",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000741"
+      },
+      {
+        "inventory_id": "51556",
+        "part_num": "973c03h03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4647383.jpg",
+        "name": "Torso, Black Arms and Hands [Plain]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000741"
+      }
+    ]
+  ]
+}

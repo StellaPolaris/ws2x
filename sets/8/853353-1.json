@@ -1,0 +1,302 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4699",
+      "part_num": "2420",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4157120.jpg",
+      "name": "Plate 2 x 2 Corner",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "2436",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243621.jpg",
+      "name": "Bracket 1 x 2 - 1 x 4 [Square Corners]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3005",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211242.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3021",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302101.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3023",
+      "color_id": "15",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302301.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3023",
+      "color_id": "73",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4179825.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3023",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302328.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3024",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302428.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3069bpr0055",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119410.jpg",
+      "name": "Tile 1 x 2 with Letter with Script and Seal Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3623",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107758.jpg",
+      "name": "Plate 1 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "3832",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383201.jpg",
+      "name": "Plate 2 x 10",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "4162",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/416221.jpg",
+      "name": "Tile 1 x 8 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "54200",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244366.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "12",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "90754",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611441.jpg",
+      "name": "Brick Magnet 2 x 4 with Round Plate 2 x 2",
+      "part_cat_id": "39",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "92590",
+      "color_id": "28",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4598955.jpg",
+      "name": "Minifig Neckwear Backpack [Open]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "4699",
+      "part_num": "stickerupn0022",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/853353stk01-9999-a3f2c0fb-379a-443b-a025-4c89a85c65a8.jpg",
+      "name": "Sticker Sheet for Set 853353-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "4699",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "853353-1",
+    "name": "Holiday Scene Magnet",
+    "year": "2011",
+    "theme_id": "227",
+    "num_parts": "48",
+    "img_url": "https://cdn.rebrickable.com/media/sets/853353-1.jpg"
+  },
+  "countedUniqueParts": 18,
+  "countedSpareParts": 1,
+  "countedStandardParts": 43,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51675",
+        "part_num": "2543",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/254321.jpg",
+        "name": "Hat Rag Wrap / Bandana",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000860"
+      },
+      {
+        "inventory_id": "51675",
+        "part_num": "3626cpr0677",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4584727.jpg",
+        "name": "Minifig Head Lil' Nelson / Boy / Girl / Elf, Brown Eyebrows and Freckles, Open Smile Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000860"
+      },
+      {
+        "inventory_id": "51675",
+        "part_num": "6132",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/613201.jpg",
+        "name": "Minifig Neckwear Beard",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000860"
+      },
+      {
+        "inventory_id": "51675",
+        "part_num": "970c22",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582624.jpg",
+        "name": "Hips and Red Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000860"
+      },
+      {
+        "inventory_id": "51675",
+        "part_num": "973c22h01",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4275872.jpg",
+        "name": "Torso, Red Arms, Yellow Hands [Plain]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000860"
+      }
+    ]
+  ]
+}

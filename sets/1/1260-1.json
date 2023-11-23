@@ -1,0 +1,210 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13836",
+      "part_num": "2744",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/2744.png",
+      "name": "Technic Slope Long 1 x 6 with 3 Holes",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "2850a",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109610.jpg",
+      "name": "Technic Engine Cylinder with Side Slots",
+      "part_cat_id": "25",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "2851",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112203.jpg",
+      "name": "Technic Engine Piston Round",
+      "part_cat_id": "25",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "2852",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/285202.jpg",
+      "name": "Technic Engine Connecting Rod",
+      "part_cat_id": "25",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "2853",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119475.jpg",
+      "name": "Technic Engine Crankshaft",
+      "part_cat_id": "25",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "2905",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142543.jpg",
+      "name": "Technic Beam Triangle Thin [Type I]",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "32002",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109854.jpg",
+      "name": "Technic Pin 3/4",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "32056",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112287.jpg",
+      "name": "Technic Beam 3 x 3 L-Shape Thin",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "32062",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "32123a",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/32123a.png",
+      "name": "Technic Bush 1/2 Smooth with Axle Hole Reduced",
+      "part_cat_id": "54",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "32193",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/32193.png",
+      "name": "Wheel Full Rubber Flat with Axle hole",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "3705",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370526.jpg",
+      "name": "Technic Axle 4",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "6536",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107766.jpg",
+      "name": "Technic Axle and Pin Connector Perpendicular",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "6558",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/655826.jpg",
+      "name": "Technic Pin Long with Friction Ridges Lengthwise, 2 Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "13836",
+      "part_num": "32002",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109854.jpg",
+      "name": "Technic Pin 3/4",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "13836",
+      "part_num": "32123a",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/32123a.png",
+      "name": "Technic Bush 1/2 Smooth with Axle Hole Reduced",
+      "part_cat_id": "54",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1260-1",
+    "name": "Car",
+    "year": "1999",
+    "theme_id": "1",
+    "num_parts": "26",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1260-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 2,
+  "countedStandardParts": 26,
+  "minfigSetParts": []
+}

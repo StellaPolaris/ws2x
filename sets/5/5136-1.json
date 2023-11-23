@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4944",
+      "part_num": "2343",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3000240.jpg",
+      "name": "Equipment Goblet / Glass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "30112c",
+      "color_id": "20",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/20/30112c-20-abc66c9b-4b96-45e4-a013-57b3e48cbd80.jpg",
+      "name": "Belville, Equipment, Bow Small",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Light Violet"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "30112c",
+      "color_id": "351",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/30112c-5-3f0011a3-aef4-41e2-858d-405cfdde9f75.jpg",
+      "name": "Belville, Equipment, Bow Small",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "3852b",
+      "color_id": "74",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/385229.jpg",
+      "name": "Equipment Hairbrush Short Handle [10mm]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Medium Green"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "6176a",
+      "color_id": "20",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/20/hairband1-20-9137b20b-ac3f-4ef2-9080-f2228ae180a6.jpg",
+      "name": "Belville, Equipment, Hair Band with Hearts",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Light Violet"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "6176a",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/hairband1-5-818301e5-4967-4a8a-a982-13d6b6258538.jpg",
+      "name": "Belville, Equipment, Hair Band with Hearts",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "6186",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4166038.jpg",
+      "name": "Belville / Scala, Animal, Teddy Bear - Arms Up",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "6203",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/6203-5-a3e586a9-29b3-4796-a943-efaa9fd815fe.jpg",
+      "name": "Belville / Scala, Bag / Case, Oval",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "6206",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4499698.jpg",
+      "name": "Belville / Scala, Equipment Baby Bottle / Water Bottle",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "belupn0011pr0001",
+      "color_id": "13",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/77/bel002-77-977f9b83-a6e6-42bc-aa88-7802a5b1e07c.jpg",
+      "name": "Belville, Skirt, Short, White Flowers Print",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Pink"
+    },
+    {
+      "inventory_id": "4944",
+      "part_num": "belupn0011pr0002",
+      "color_id": "18",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/18/belupn0011-18-36cae43e-f5f1-445e-9c97-2a8e8746d456.jpg",
+      "name": "Belville, Skirt, Short, Pink Flowers Print",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Light Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5136-1",
+    "name": "Belville Accessories",
+    "year": "1995",
+    "theme_id": "443",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5136-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 18,
+  "minfigSetParts": []
+}

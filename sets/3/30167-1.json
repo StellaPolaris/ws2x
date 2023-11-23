@@ -1,0 +1,278 @@
+{
+  "standard": [
+    {
+      "inventory_id": "6232",
+      "part_num": "2412b",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210631.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "2817",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/281726.jpg",
+      "name": "Plate Special 2 x 2 with 2 Pin Holes",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "298c02",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73587.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "30194",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211080.jpg",
+      "name": "Tool Circular Saw",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "3021",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211396.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "30602",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143875.jpg",
+      "name": "Slope Curved 2 x 2 with Lip, No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "3062b",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183544.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "3794a",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/72/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "44674",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4186773.jpg",
+      "name": "Mudguard 2 x 4 with Molded Headlights",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "58176",
+      "color_id": "35",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570481.jpg",
+      "name": "Light Cover with Internal Bar / Bionicle Barraki Eye",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Bright Green"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "61184",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4520320.jpg",
+      "name": "Technic Pin 1/2 with 2L Bar Extension",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "61252",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4579354.jpg",
+      "name": "Plate Special 1 x 1 with Clip Horizontal [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "6141",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163917.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "6141",
+      "color_id": "34",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005748.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "6232",
+      "part_num": "298c02",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/73587.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6232",
+      "part_num": "6141",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163917.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30167-1",
+    "name": "Iron Man vs. Fighting Drone",
+    "year": "2013",
+    "theme_id": "705",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30167-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 2,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52187",
+        "part_num": "10907",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6008350.jpg",
+        "name": "Helmet Space with Open Face Rounded, Top Hinge",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-001372"
+      },
+      {
+        "inventory_id": "52187",
+        "part_num": "10908pr0001",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6008352.jpg",
+        "name": "Headwear Accessory Visor Top Hinge with Gold Face Shield and White Eyes Print (Iron Man)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-001372"
+      },
+      {
+        "inventory_id": "52187",
+        "part_num": "3626cpr0961",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6003610.jpg",
+        "name": "Minifig Head Iron Man (Tony Stark), Dual Sided, Moustache, Goatee and Cheek Lines, Determined / Angry Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-001372"
+      },
+      {
+        "inventory_id": "52187",
+        "part_num": "970c10pr0344",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6023546.jpg",
+        "name": "Hips and Dark Red Legs with Iron Man Gold Knee Plates Print 1",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-001372"
+      },
+      {
+        "inventory_id": "52187",
+        "part_num": "973c10h10pr2041",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6023378.jpg",
+        "name": "Torso Armor with White Triangle Print, Dark Red Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-001372"
+      }
+    ]
+  ]
+}

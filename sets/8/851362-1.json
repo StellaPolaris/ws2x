@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "17375",
+      "part_num": "3004",
+      "color_id": "26",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206360.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "3004",
+      "color_id": "322",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6004945.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "3004",
+      "color_id": "30",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4623598.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Medium Lavender"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "3005",
+      "color_id": "27",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4220634.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "33291",
+      "color_id": "26",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6078932.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 4 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "33291",
+      "color_id": "191",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624184.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 4 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "3957b",
+      "color_id": "85",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6057451.jpg",
+      "name": "Antenna 1 x 4 with Flat Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "4495b",
+      "color_id": "5",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6268863.jpg",
+      "name": "Flag 4 x 1 Wavy [First Wave Right]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "51739",
+      "color_id": "27",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6025027.jpg",
+      "name": "Wedge Plate 2 x 4",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "85984",
+      "color_id": "15",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4547489.jpg",
+      "name": "Slope 30 1 x 2 x 2/3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "90194",
+      "color_id": "15",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4649049.jpg",
+      "name": "Wedge Plate 3 x 4 with Stud Notches [Reinforced Underside]",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "17375",
+      "part_num": "99206",
+      "color_id": "71",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4654577.jpg",
+      "name": "Plate Special 2 x 2 x 2/3 with Two Studs On Side and Two Raised",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "851362-1",
+    "name": "Friends Party Set",
+    "year": "2015",
+    "theme_id": "494",
+    "num_parts": "60",
+    "img_url": "https://cdn.rebrickable.com/media/sets/851362-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 60,
+  "minfigSetParts": []
+}

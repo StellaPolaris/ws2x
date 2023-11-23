@@ -1,0 +1,242 @@
+{
+  "standard": [
+    {
+      "inventory_id": "136286",
+      "part_num": "11090",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6015890.jpg",
+      "name": "Bar Holder with Clip",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "15068",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6047220.jpg",
+      "name": "Slope Curved 2 x 2 x 2/3",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "18674",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6115080.jpg",
+      "name": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "20482",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6167933.jpg",
+      "name": "Tile Round 1 x 1 with Hollow Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "2540",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254001.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "3941",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614301.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "4081b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408101.jpg",
+      "name": "Plate Special 1 x 1 with Clip Light [Thick Ring]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "43898",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211787.jpg",
+      "name": "Dish 3 x 3 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "48336",
+      "color_id": "297",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4585493.jpg",
+      "name": "Plate Special 1 x 2 [Side Handle Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "65886pr0008",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6331694.jpg",
+      "name": "Tile Special 2 x 3 with 2 Clips without Tab between Clips with Solar Panel print",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "90540",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6250678.jpg",
+      "name": "Bar 3L, with Handle, Stop Ring and Side Stops (Minifig Ski Pole)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "136286",
+      "part_num": "98138",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022171.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "952205-1",
+    "name": "Sally Stardust's Satellite",
+    "year": "2022",
+    "theme_id": "52",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/952205-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "136291",
+        "part_num": "3626cpr2948",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6270320.jpg",
+        "name": "Minifig Head, Open Mouth Smile, Peach Lips",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-012594"
+      },
+      {
+        "inventory_id": "136291",
+        "part_num": "41811",
+        "color_id": "321",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6390121.jpg",
+        "name": "Minifig Neckwear Front Harness with 4 Back Studs",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Dark Azure",
+        "fig_num": "fig-012594"
+      },
+      {
+        "inventory_id": "136291",
+        "part_num": "49663pat0001",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6259946.jpg",
+        "name": "Helmet, Space with Black Neck Pattern",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-012594"
+      },
+      {
+        "inventory_id": "136291",
+        "part_num": "89159",
+        "color_id": "82",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6051839.jpg",
+        "name": "Headwear Accessory Visor [Large with Trapezoid Top]",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Metallic Gold",
+        "fig_num": "fig-012594"
+      },
+      {
+        "inventory_id": "136291",
+        "part_num": "970c38pr2252",
+        "color_id": "321",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6384566.jpg",
+        "name": "Hips and Bright Light Orange Legs with Dark Azure Straps, Dark Orange Knee Pads Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Azure",
+        "fig_num": "fig-012594"
+      },
+      {
+        "inventory_id": "136291",
+        "part_num": "973c38h04pr5974",
+        "color_id": "191",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6389826.jpg",
+        "name": "Torso Spacesuit, Classic Space Logo, Dark Azure Trim Print, Bright Light Orange Arms, Dark Azure Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Orange",
+        "fig_num": "fig-012594"
+      }
+    ]
+  ]
+}

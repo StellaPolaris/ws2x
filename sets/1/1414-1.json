@@ -1,0 +1,241 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11768",
+      "part_num": "2412b",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125254.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "2419",
+      "color_id": "378",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143042.jpg",
+      "name": "Wedge Plate 3 x 6 Cut Corners",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "2540",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109721.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "2654",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/265426.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "2877",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124092.jpg",
+      "name": "Brick Special 1 x 2 with Grill",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "30383",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142992.jpg",
+      "name": "Hinge Plate 1 x 2 Locking with 1 Finger On Top",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "30407",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143114.jpg",
+      "name": "Hinge Plate 1 x 8 with Angled Side Extensions, Rounded Plate Underside",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "3069bpr0046",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/3069bp55.png",
+      "name": "Tile 1 x 2 with Groove and Elliptical Display Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "3795",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379528.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "3795",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379527.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "3937",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/393702.jpg",
+      "name": "Hinge Brick 1 x 2 Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "3938",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/393826.jpg",
+      "name": "Hinge Brick 1 x 2 Top Plate Thin",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11768",
+      "part_num": "3960pr9974",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/3960pr9974-7-e0de73e5-3adf-4d89-be48-03bb804ae79e.jpg",
+      "name": "Dish 4 x 4 Inverted [Radar] with Life On Mars Machinery Print",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "11768",
+      "part_num": "30377",
+      "color_id": "3",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142991.jpg",
+      "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Dark Turquoise"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1414-1",
+    "name": "Double Hover (Kabaya Promotional)",
+    "year": "2001",
+    "theme_id": "135",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1414-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 1,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "59814",
+        "part_num": "30375",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144309.jpg",
+        "name": "Torso Mechanical, Battle Droid",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-006966"
+      },
+      {
+        "inventory_id": "59814",
+        "part_num": "30377",
+        "color_id": "3",
+        "quantity": "2",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142991.jpg",
+        "name": "Arm Mechanical with 2 Clips [Battle Droid]",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Turquoise",
+        "fig_num": "fig-006966"
+      },
+      {
+        "inventory_id": "59814",
+        "part_num": "30529pr0001",
+        "color_id": "3",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/3/30529p01.png",
+        "name": "Minifig Head Special with Clip and Eyes Plain Print (Martian)",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Dark Turquoise",
+        "fig_num": "fig-006966"
+      },
+      {
+        "inventory_id": "59814",
+        "part_num": "30530",
+        "color_id": "25",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/25/30530.png",
+        "name": "Legs Martian",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Orange",
+        "fig_num": "fig-006966"
+      }
+    ]
+  ]
+}

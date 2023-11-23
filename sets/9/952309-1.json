@@ -1,0 +1,241 @@
+{
+  "standard": [
+    {
+      "inventory_id": "188863",
+      "part_num": "11153",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6052823.jpg",
+      "name": "Slope Curved 4 x 1 No Studs [Stud Holder with Symmetric Ridges]",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "11476",
+      "color_id": "71",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6028812.jpg",
+      "name": "Plate Special 1 x 2 with Clip Horizontal on Side",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "19220",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6100054.jpg",
+      "name": "Equipment Radio [Extended Handle, Expanded Speaker Grille]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "30031",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4261908.jpg",
+      "name": "Handlebars",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "3022",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4625032.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "35480",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6210270.jpg",
+      "name": "Plate Special 1 x 2 Rounded with 2 Open Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "3795",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4187343.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "43713",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4180470.jpg",
+      "name": "Wedge Curved Inverted 6 x 4",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "47755",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529745.jpg",
+      "name": "Wheel Arch, Wedge 4 x 3 Open with Cutout and Four Studs",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "4871",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211076.jpg",
+      "name": "Slope Inverted 45 4 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "51739",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6025385.jpg",
+      "name": "Wedge Plate 2 x 4",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "93273",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650977.jpg",
+      "name": "Slope Curved 4 x 1 Double with No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "188863",
+      "part_num": "99781",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4654582.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "952309-1",
+    "name": "Jet-Ski",
+    "year": "2023",
+    "theme_id": "614",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/952309-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "188875",
+        "part_num": "35458",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6207255.jpg",
+        "name": "Helmet Dirt Bike",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-014270"
+      },
+      {
+        "inventory_id": "188875",
+        "part_num": "3626cpr0933",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4657964.jpg",
+        "name": "Minifig Head, Beard Stubble, Raised Eyebrow, White Pupils Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-014270"
+      },
+      {
+        "inventory_id": "188875",
+        "part_num": "38781",
+        "color_id": "25",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6231925.jpg",
+        "name": "Minifig Neckwear Life Jacket",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Orange",
+        "fig_num": "fig-014270"
+      },
+      {
+        "inventory_id": "188875",
+        "part_num": "970c05",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4162916.jpg",
+        "name": "Hips and Dark Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-014270"
+      },
+      {
+        "inventory_id": "188875",
+        "part_num": "973c42h01pr6594",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6441062.jpg",
+        "name": "Torso, Wet Suit, Orange Stripes, Belt, Pressure Gauge, Breathing Hose print, Medium Azure Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-014270"
+      }
+    ]
+  ]
+}

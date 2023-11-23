@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "178001",
+      "part_num": "11568pr0011",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6416486.jpg",
+      "name": "Animal, Squirrel with Brown Eyes, Winking Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "15470",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6060731.jpg",
+      "name": "Plate Round 1 x 1 Swirled Top",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "24086",
+      "color_id": "84",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6182225.jpg",
+      "name": "Equipment Net",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Medium Nougat"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "2496",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/249626.jpg",
+      "name": "Wheel Skateboard / Trolley",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "30089b",
+      "color_id": "321",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6425512.jpg",
+      "name": "Equipment Camera Handheld with Central Viewfinder",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "3068bpr0019",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6175184.jpg",
+      "name": "Tile 2 x 2 with Groove and Pizza Box Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "3069bpr0302",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6329586.jpg",
+      "name": "Tile 1 x 2 with Groove with Cell Phone, Phone, Speech Bubble, Note, Play Button, Signal Strength and Battery Level Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "42511",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6030185.jpg",
+      "name": "Sports Skateboard with Trolley Wheel Holders",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "46303",
+      "color_id": "1050",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6397831.jpg",
+      "name": "Helmet, Sports, with Vent Holes [Plain]",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Coral"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "53019",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6263451.jpg",
+      "name": "Sports Tennis Racket - Round Holes",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "79743",
+      "color_id": "323",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6361352.jpg",
+      "name": "Cupcake",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "178001",
+      "part_num": "98138pr0074",
+      "color_id": "84",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6179569.jpg",
+      "name": "Tile Round 1 x 1 with Acorn Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Medium Nougat"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5007945-1",
+    "name": "Friends: Play Stories",
+    "year": "2023",
+    "theme_id": "497",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5007945-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "160407",
+        "part_num": "2241c01pr0039",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6422987.jpg",
+        "name": "Minidoll Hips and Short Skirt with Medium Brown Legs, Metallic Pink Shoes print [Thin Hinge]",
+        "part_cat_id": "64",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-013295"
+      },
+      {
+        "inventory_id": "160407",
+        "part_num": "2644",
+        "color_id": "308",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6409768.jpg",
+        "name": "Hair Big Curly, Braids",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Brown",
+        "fig_num": "fig-013295"
+      },
+      {
+        "inventory_id": "160407",
+        "part_num": "92198pr0338",
+        "color_id": "1088",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6416663.jpg",
+        "name": "Minidoll Head Black Eyebrows, Light Brown Eyes print",
+        "part_cat_id": "62",
+        "part_material": "Plastic",
+        "colorName": "Medium Brown",
+        "fig_num": "fig-013295"
+      },
+      {
+        "inventory_id": "160407",
+        "part_num": "92456c16pr0467",
+        "color_id": "1088",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6422985.jpg",
+        "name": "Minidoll Torso Girl with Dark Blue Jacket, Lavender Stripes, Gold 'U', White Shirt print, Medium Brown Arms and Hands",
+        "part_cat_id": "63",
+        "part_material": "Plastic",
+        "colorName": "Medium Brown",
+        "fig_num": "fig-013295"
+      }
+    ]
+  ]
+}

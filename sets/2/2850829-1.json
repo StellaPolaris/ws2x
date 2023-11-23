@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "69",
+      "part_num": "upn0068",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0430-0-e8202b86-5dff-4442-b00b-b1ea8835e572.jpg",
+      "name": "Watch, Clasp, Male",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0182",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0426-0-14e7dc52-1ce7-4141-9b27-7f4af931fe7f.jpg",
+      "name": "Watch, Clasp, Female",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0277",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0277-179-1680aaa9-7d37-448d-b242-b33e1ffdd623.jpg",
+      "name": "Watch, Bezel Round, No Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0323",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0323-179-1d4643f3-b701-4d94-8e01-32c4def46a14.jpg",
+      "name": "Watch, Link, with 1 x 2 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0382",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/watch0001-0-a1139792-7e3f-413c-897e-7cd656020ade.jpg",
+      "name": "Watch, Bezel Round, 8 Studs",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0389",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/upn0437-15-1f0a97d4-4a1e-4c69-97b3-2d0db000f104.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0389",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0389",
+      "color_id": "73",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0389",
+      "color_id": "1",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/upn0437-1-92eb3b82-57fa-4fce-a49f-f1ffed220e95.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0389",
+      "color_id": "42",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0437-0-99dd2a9b-b844-4380-b484-2785a1a5f4a7.jpg",
+      "name": "Watch, Link",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "69",
+      "part_num": "upn0465pr0020",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'LEGO Star Wars' Logo and Luke Skywalker Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2850829-1",
+    "name": "Luke Skywalker Buildable Watch with Toy",
+    "year": "2011",
+    "theme_id": "732",
+    "num_parts": "32",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2850829-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 28,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "54875",
+        "part_num": "3626bpr0635",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4291337.jpg",
+        "name": "Minifig Head Luke Skywalker / Obi-Wan Kenobi, Brown Eyebrows and Chin Dimple Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-003552"
+      },
+      {
+        "inventory_id": "54875",
+        "part_num": "3901",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124069.jpg",
+        "name": "Hair, Smooth",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-003552"
+      },
+      {
+        "inventory_id": "54875",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-003552"
+      },
+      {
+        "inventory_id": "54875",
+        "part_num": "973c03h02pr1133",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4275225.jpg",
+        "name": "Torso Jedi Robe, Waist Sash Print, Black Arms, Light Nougat Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-003552"
+      }
+    ]
+  ]
+}

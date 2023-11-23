@@ -1,0 +1,252 @@
+{
+  "standard": [
+    {
+      "inventory_id": "21879",
+      "part_num": "11438",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6164283.jpg",
+      "name": "Minifig Neckwear Armour Breastplate with Shoulder Ridges",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "15712",
+      "color_id": "297",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6071259.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "25269",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6172383.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "29630pr0012",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/29630pr0012-1-24d7ded2-d28f-4fb6-a29a-c794def05796.jpg",
+      "name": "Pod, Round, Half Front with Ninjago Zane Logo Sticker",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "29632pr0012",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/29632pr0012-1-de6df925-c7d7-46d2-99a2-133f11ee0831.jpg",
+      "name": "Pod, Round, Half, Back with 1 x 2 Plate Blue with Dojo Sticker",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "3626c",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211585.jpg",
+      "name": "Minifig Head Plain [Hollow Stud]",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "37",
+      "color_id": "297",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/297/44658.png",
+      "name": "Weapon Dagger / Knife",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "60115",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6064022.jpg",
+      "name": "Torso - Skeleton Thick Shoulder Pins",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "85984",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4651236.jpg",
+      "name": "Slope 30 1 x 2 x 2/3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "87580",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4565319.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "87747",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6195495.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Medium",
+      "part_cat_id": "28",
+      "part_material": "Rubber",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "87994",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4633032.jpg",
+      "name": "Bar 3L",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "92280",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4598528.jpg",
+      "name": "Plate Special 1 x 2 [Top Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "92338",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4655313.jpg",
+      "name": "Chain 5 links",
+      "part_cat_id": "31",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "21879",
+      "part_num": "98130pr0004",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/98130p07.png",
+      "name": "Mask, Kendo, Gold Grille, Blue Trim",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "853758-1",
+    "name": "Jay's Kendo Training Pod",
+    "year": "2018",
+    "theme_id": "435",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/853758-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 0,
+  "countedStandardParts": 24,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "54354",
+        "part_num": "25412",
+        "color_id": "308",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/308/25412.png",
+        "name": "Hair Tousled and Sticking Out on Both Sides",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Brown",
+        "fig_num": "fig-003154"
+      },
+      {
+        "inventory_id": "54354",
+        "part_num": "3626cpr2257",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6191858.jpg",
+        "name": "Minifig Head Jay, Reddish Brown Eyebrows and Freckles, Lopsided Grin / Frown Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-003154"
+      },
+      {
+        "inventory_id": "54354",
+        "part_num": "970c03pr1283",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6213362.jpg",
+        "name": "Hips and Black Legs with Black Ninja Belt with Yellow Outlines Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-003154"
+      },
+      {
+        "inventory_id": "54354",
+        "part_num": "973c03h01pr4148",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6214552.jpg",
+        "name": "Torso Robe with Gold Trim, Wu Logo Print, Black Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-003154"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28243",
+      "part_num": "2324",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/2324-15-2f5c9cc2-b506-40b4-9795-5bc17273b350.jpg",
+      "name": "Duplo Building Wall with Shelf Compartments and 5 Studs On Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "3808",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3808.png",
+      "name": "Duplo Plate 2 x 4 x 1/3 Half Circle with 2 Studs [Thin]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4375",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4375.png",
+      "name": "Duplo Sign Post Short",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4555c01pr0005",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4555pr0005-1-1a59c134-cc46-4bc6-85e9-e14432e6799f.jpg",
+      "name": "Duplo Figure, Early, with Short Parted Hair Black, Dark Gray Legs, White Shirt, Light Blue Tie Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4885",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4885-4-8a6d1975-ada6-4b6d-894a-475b4bbb19e0.jpg",
+      "name": "Duplo Chair with 1 Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4888",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4888-4-f970f1d6-b73b-4349-8471-87d678861d84.jpg",
+      "name": "Duplo Couch / Sofa 2 x 6, with Two Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4909pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4909pr0001-14-01c5a737-73eb-45bc-bc3d-abdee054da42.jpg",
+      "name": "Duplo Mirror with Clock with Hands at 10:10 Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4913",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4913.png",
+      "name": "Duplo Sign Post Tall",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4916pr0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4916pr0001-4-6130f599-39e8-4366-b941-39811493a5c7.jpg",
+      "name": "Duplo Television 1 x 2.5 x 1.3 with Red and Yellow Ship Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "4918c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4918c01-4-19e2e4fc-1003-43ab-8e62-b4727b579e4b.jpg",
+      "name": "Duplo Fireplace with Black Top with 2 Top Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28243",
+      "part_num": "dupupn0009",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/19/dupupn0009-19-8d60696d-d1af-436b-949b-b2ac388e6e37.jpg",
+      "name": "Duplo Cone 2 x 2 x 1",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2777-1",
+    "name": "Living Room",
+    "year": "1991",
+    "theme_id": "652",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2777-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

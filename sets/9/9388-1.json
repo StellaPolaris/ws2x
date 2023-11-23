@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11582",
+      "part_num": "3028",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4264669.jpg",
+      "name": "Plate 6 x 12",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "3028",
+      "color_id": "28",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4266897.jpg",
+      "name": "Plate 6 x 12",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "3028",
+      "color_id": "288",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4264818.jpg",
+      "name": "Plate 6 x 12",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "3028",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4256149.jpg",
+      "name": "Plate 6 x 12",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "91405",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611777.jpg",
+      "name": "Plate 16 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "91405",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610305.jpg",
+      "name": "Plate 16 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "91405",
+      "color_id": "28",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4613196.jpg",
+      "name": "Plate 16 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "92438",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4598523.jpg",
+      "name": "Plate 8 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "92438",
+      "color_id": "10",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610353.jpg",
+      "name": "Plate 8 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "92438",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4609726.jpg",
+      "name": "Plate 8 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "11582",
+      "part_num": "92438",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610354.jpg",
+      "name": "Plate 8 x 16",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9388-1",
+    "name": "Small Building Plates",
+    "year": "2012",
+    "theme_id": "528",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9388-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 22,
+  "minfigSetParts": []
+}

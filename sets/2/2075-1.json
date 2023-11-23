@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14688",
+      "part_num": "3002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300201.jpg",
+      "name": "Brick 2 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "3003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "3009",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300924.jpg",
+      "name": "Brick 1 x 6",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "3031",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114428.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "3034",
+      "color_id": "351",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112241.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "3039",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303901.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "30474pr0006",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/30474pb06-5-3b33963f-ff7a-4ab3-a1ce-da2f4839a0d5.jpg",
+      "name": "Slope 33 3 x 2 Smooth with McDonald's Girl Pigtails Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "3298",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329824.jpg",
+      "name": "Slope 33 3 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "3747a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/374701.jpg",
+      "name": "Slope Inverted 33 3 x 2 [No Connections between Studs]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "4617b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4536184.jpg",
+      "name": "Propeller  3 Blade  5.5 Diameter with Hole for Technic Pin",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14688",
+      "part_num": "6232",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143137.jpg",
+      "name": "Brick Special 2 x 2 with Pin and Axle Hole",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2075-1",
+    "name": "Prop Plane",
+    "year": "1999",
+    "theme_id": "470",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2075-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

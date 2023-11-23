@@ -1,0 +1,301 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13542",
+      "part_num": "2343",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/626924.jpg",
+      "name": "Equipment Goblet / Glass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "2530",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106923.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "2562",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/256225.jpg",
+      "name": "Weapon Gun / Pistol Flintlock",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "3004",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300402.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "3020",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302002.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "3022",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302202.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "3024",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302402.jpg",
+      "name": "Plate 1 x 1",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "3031",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303124.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "3068b",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306802.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "3622",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/362202.jpg",
+      "name": "Brick 1 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "4275b",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/427502.jpg",
+      "name": "Hinge Plate 1 x 2 with 3 Fingers and Hollow Studs",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "4276b",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/427602.jpg",
+      "name": "Hinge Plate 1 x 2 with 2 Fingers and Hollow Studs",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "4864a",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4864a.png",
+      "name": "Panel 1 x 2 x 2 [Solid Studs]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "57503",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501a.png",
+      "name": "Money / Coin with 10 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "57504",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501b.png",
+      "name": "Money / Coin with 20 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "57505",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501c.png",
+      "name": "Money / Coin with 30 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "57506",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501d.png",
+      "name": "Money / Coin with 40 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "13542",
+      "part_num": "6148",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4160980.jpg",
+      "name": "Plant, Palm Leaf Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "13542",
+      "part_num": "2530",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106923.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1802-1",
+    "name": "Tidy Treasure",
+    "year": "1996",
+    "theme_id": "148",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1802-1.jpg"
+  },
+  "countedUniqueParts": 19,
+  "countedSpareParts": 1,
+  "countedStandardParts": 21,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52051",
+        "part_num": "2544",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/254426.jpg",
+        "name": "Hat Pirate Tricorne / Triangle",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001236"
+      },
+      {
+        "inventory_id": "52051",
+        "part_num": "3626bpr0017",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp39.png",
+        "name": "Minifig Head Cavalry / Pirate, Beard with Gray Facial Hair Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001236"
+      },
+      {
+        "inventory_id": "52051",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001236"
+      },
+      {
+        "inventory_id": "52051",
+        "part_num": "973c28h01pr0039",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/973p39c01-1-3a12a846-9e7e-4164-a379-a8b64a728965.jpg",
+        "name": "Torso Jacket, Open, Brown Shirt, Silver Buttons Print, Blue Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-001236"
+      }
+    ]
+  ]
+}

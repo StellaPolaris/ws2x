@@ -1,0 +1,229 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3224",
+      "part_num": "11055",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6011794.jpg",
+      "name": "Flag 2 x 2 Square, Flat Clip Edge [Thick Clips]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "2530",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210789.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "2555",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211069.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "3022",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216695.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "3023",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113917.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "3794a",
+      "color_id": "70",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/70/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "44676",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4272616.jpg",
+      "name": "Flag 2 x 2 Trapezoid with Flat Area between Clips",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "4855",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550004.jpg",
+      "name": "Wedge Sloped Inverted 4 x 4 Triple [2 Connections between Front Studs]",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "59900",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529242.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "63965",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4533907.jpg",
+      "name": "Bar 6L with Stop Ring",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "90194",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4649052.jpg",
+      "name": "Wedge Plate 3 x 4 with Stud Notches [Reinforced Underside]",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "3224",
+      "part_num": "95228",
+      "color_id": "40",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620380.jpg",
+      "name": "Equipment Bottle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3224",
+      "part_num": "2530",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210789.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30131-1",
+    "name": "Jack Sparrow's Boat",
+    "year": "2011",
+    "theme_id": "263",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30131-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 1,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52089",
+        "part_num": "3626bpr0789",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4619544.jpg",
+        "name": "Minifig Head Captain Jack Sparrow, Moustache Smiling / Scared Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-001274"
+      },
+      {
+        "inventory_id": "52089",
+        "part_num": "95220pr0001",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6019746.jpg",
+        "name": "Hair and Hat, Dreadlocks with Beads, Dark Red Bandana Print and Tricorne",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001274"
+      },
+      {
+        "inventory_id": "52089",
+        "part_num": "970c19pr0217",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4619510.jpg",
+        "name": "Hips and Reddish Brown Legs with Dark Brown Coat Tails, Blue Vest Tails and Red and White Sash Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-001274"
+      },
+      {
+        "inventory_id": "52089",
+        "part_num": "973c07h02pr1770",
+        "color_id": "308",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4619456.jpg",
+        "name": "Torso Jacket over White Open Shirt with Belts and White Sash Print, Dark Brown Arms, Light Nougat Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Brown",
+        "fig_num": "fig-001274"
+      }
+    ]
+  ]
+}

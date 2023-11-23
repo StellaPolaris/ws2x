@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5020",
+      "part_num": "3037",
+      "color_id": "4",
+      "quantity": "24",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303721.jpg",
+      "name": "Slope 45 2 x 4",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3038",
+      "color_id": "4",
+      "quantity": "18",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303821.jpg",
+      "name": "Slope 45 2 x 3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3039",
+      "color_id": "4",
+      "quantity": "32",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
+      "name": "Slope 45 2 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3040b",
+      "color_id": "4",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121934.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3041",
+      "color_id": "4",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144003.jpg",
+      "name": "Slope 45 2 x 4 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3043",
+      "color_id": "4",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/304321.jpg",
+      "name": "Slope 45 2 x 2 Double",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3044c",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4157124.jpg",
+      "name": "Slope 45 2 x 1 Double with Inside Stud Holder",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3045",
+      "color_id": "4",
+      "quantity": "18",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163087.jpg",
+      "name": "Slope 45 2 x 2 Double Convex",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3046a",
+      "color_id": "4",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4200489.jpg",
+      "name": "Slope 45 2 x 2 Double Concave",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3048c",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4195004.jpg",
+      "name": "Slope 45 2 x 1 Triple with Ovoid Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "5020",
+      "part_num": "3049d",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4258056.jpg",
+      "name": "Slope 45 2 x 1 Double / Inverted with Bottom Stud Holder",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6119-1",
+    "name": "Roof Tiles",
+    "year": "2008",
+    "theme_id": "35",
+    "num_parts": "150",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6119-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 150,
+  "minfigSetParts": []
+}

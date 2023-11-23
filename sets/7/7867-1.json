@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10689",
+      "part_num": "266bc01",
+      "color_id": "15",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/266bc01.png",
+      "name": "Light Brick 2 x 2 Type 2 12V with Clear Diffusor",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "3021",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302102.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "3023",
+      "color_id": "7",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302302.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "3651",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3651.png",
+      "name": "Technic Axle and Pin Connector",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "3705",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370526.jpg",
+      "name": "Technic Axle 4",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "3713",
+      "color_id": "7",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125313.jpg",
+      "name": "Technic Bush",
+      "part_cat_id": "54",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "3795",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379527.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "3960",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143013.jpg",
+      "name": "Dish 4 x 4 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "4168",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4168.png",
+      "name": "Support 1 x 16 Lattice (Train Signal Mast)",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "4169",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4169.png",
+      "name": "Bracket 2 x 3 - 1 x 3 (Train Signal Stand)",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10689",
+      "part_num": "765c96",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/765c96-7-504ecbe3-2b40-4459-853b-d77f36dd11aa.jpg",
+      "name": "Wire with 1-Prong Connectors, 12V / 4.5V 96L",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7867-1",
+    "name": "12V Train Light Posts",
+    "year": "1983",
+    "theme_id": "234",
+    "num_parts": "52",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7867-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 52,
+  "minfigSetParts": []
+}

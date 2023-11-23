@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28113",
+      "part_num": "11602pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022447.jpg",
+      "name": "Animal, Cat, Sitting with Light Green Eyes, Dark Pink Nose and White Markings Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "2877",
+      "color_id": "19",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4655900.jpg",
+      "name": "Brick Special 1 x 2 with Grill",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "3020",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4655256.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "3023",
+      "color_id": "30",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4619512.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Lavender"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "3031",
+      "color_id": "26",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163594.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "30357",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4124071.jpg",
+      "name": "Plate Round Corner 3 x 3",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "3045",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6036493.jpg",
+      "name": "Slope 45 2 x 2 Double Convex",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "3062b",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4117070.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "32474",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4290718.jpg",
+      "name": "Technic Ball Joint",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "33291",
+      "color_id": "5",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216479.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 4 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "3852b",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4243668.jpg",
+      "name": "Equipment Hairbrush Short Handle [10mm]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "28113",
+      "part_num": "87580",
+      "color_id": "26",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6056292.jpg",
+      "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9780241198056-1",
+    "name": "Friends: Fairground Fun",
+    "year": "2015",
+    "theme_id": "497",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9780241198056-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0003",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0003-0-027fb02a-72cf-42a7-bf4d-347c5b207006.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0003pr0006",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/25/PART-11663-25-0ea2c62b-58a2-4bb2-af55-209d5b6870bb.jpg",
+      "name": "Pen Bead, Round Orb with Basketball, Black Lines Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0004pr0028",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/PART-11696-1-8037b7ca-50f4-473d-b9ad-29becbddbfdd.jpg",
+      "name": "Pen Bead, Square with Basketball and Hoop Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0004pr0029",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/penupn0004-14-ec167cf3-7f43-4d54-b194-93275a0cdf2f.jpg",
+      "name": "Pen Bead, Square with Basketball Jerseys Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0004pr0030",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/penupn0004pr0030-1-fe73d0fa-abc6-4acc-8aff-5b1870ca097a.jpg",
+      "name": "Pen Bead, Square with Fans, Cheerleader Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0004pr0031",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/PART-11699-2-f7d8d6a6-9a1b-47b7-82f8-b633ce85d181.jpg",
+      "name": "Pen Bead, Square with 'SHOOT' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0004pr0032",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0004-4-a5caf2d7-07cc-4282-9a63-269a9bd45884.jpg",
+      "name": "Pen Bead, Square with Basketball Court, Scoreboard Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/penupn0005-7-06e01bf4-f5af-4cdf-bbfb-468b0afcc80c.jpg",
+      "name": "Pen Bead, Gear",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0005pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Gear, Black Edges Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0006pr0017",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/PART-11701-14-8ec58140-fa0f-4fbc-be83-ec87272a0fb6.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Black Hair and Blue Headband Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0006pr0018",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0006-4-8ec028bf-e584-433c-9ec3-fde3a6d99b76.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Goggles Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn0036c04",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/25/penupn0036c04-25-67d2b677-51d8-45ed-9aa8-18f0753b42b5.jpg",
+      "name": "Pen Body, with Chrome Tip, Black Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "93343",
+      "part_num": "penupn9976",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1529-2",
+    "name": "Basketball Pen",
+    "year": "2001",
+    "theme_id": "739",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1529-2.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

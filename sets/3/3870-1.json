@@ -1,0 +1,289 @@
+{
+  "standard": [
+    {
+      "inventory_id": "7566",
+      "part_num": "2555",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/255521.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "2817",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/281721.jpg",
+      "name": "Plate Special 2 x 2 with 2 Pin Holes",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "3021",
+      "color_id": "72",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211043.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "32530",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4207715.jpg",
+      "name": "Technic Pin Connector Plate 1 x 2 x 1 2/3 [Two Holes On Top]",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "3894",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/389421.jpg",
+      "name": "Technic Brick 1 x 6 [5 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "4070",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4070.png",
+      "name": "Brick Special 1 x 1 with Headlight and No Slot",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "4349",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/434926.jpg",
+      "name": "Equipment Weapon, Loudhailer / Blaster / Space Gun",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "43710",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4180409.jpg",
+      "name": "Wedge Sloped 4 x 2 Triple Left",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "43711",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4180419.jpg",
+      "name": "Wedge Sloped 4 x 2 Triple Right",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "4740",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107622.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "47458",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4220516.jpg",
+      "name": "Wedge Curved 1 x 2 x 2/3 No Studs, Wing End",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "6070",
+      "color_id": "40",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4204624.jpg",
+      "name": "Windscreen 5 x 2 x 1 2/3",
+      "part_cat_id": "47",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "7566",
+      "part_num": "2555",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/255521.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "4740",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107622.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "7566",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3870-1",
+    "name": "Takeshi Walker 1",
+    "year": "2007",
+    "theme_id": "389",
+    "num_parts": "29",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3870-1.jpg"
+  },
+  "countedUniqueParts": 18,
+  "countedSpareParts": 4,
+  "countedStandardParts": 25,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51678",
+        "part_num": "3626bpr0446",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286377.jpg",
+        "name": "Minifig Head Takeshi, Dual Sided, Green Eyes, Frown, Scar / Open Mouth Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000863"
+      },
+      {
+        "inventory_id": "51678",
+        "part_num": "53982",
+        "color_id": "10",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4288258.jpg",
+        "name": "Hair Angular Swept Back",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Bright Green",
+        "fig_num": "fig-000863"
+      },
+      {
+        "inventory_id": "51678",
+        "part_num": "970c10",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4501556.jpg",
+        "name": "Hips and Dark Red Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-000863"
+      },
+      {
+        "inventory_id": "51678",
+        "part_num": "973c10h03pr1302",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4501543.jpg",
+        "name": "Torso Armor, Gold with Four Stars and Composite Armor Print, Dark Red Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-000863"
+      }
+    ]
+  ]
+}

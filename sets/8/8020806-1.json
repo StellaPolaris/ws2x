@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0063c01",
+      "color_id": "30",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Long with Minifigure Legs [PLAIN]",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Medium Lavender"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0063c06pr0001",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Long with Minifigure Head and Hair Swept Sideways Fringe with Open Mouth Smile Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0063c06pr0002",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Long with Minifigure Head and Hair Swept Sideways Fringe with Open Mouth Teeth and Closed Eyes Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0063c06pr0003",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Long with Minifigure Head and Hair Swept Sideways Fringe with Open Mouth and Tongue Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0379",
+      "color_id": "45",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0379",
+      "color_id": "29",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0379",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0379",
+      "color_id": "5",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0465pr0008",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'LEGOLAND' and Towers Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0466ct05",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Extra Long with Minifigure Torso with Trim and Flowers Print, Bright Pink Arms, Yellow Hands",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0472",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Clasp, Female, Square",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "71132",
+      "part_num": "upn0490",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Clasp, Male, Square",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "8020806-1",
+    "name": "LEGOLAND Buildable Watch [Female]",
+    "year": "2018",
+    "theme_id": "732",
+    "num_parts": "26",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8020806-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 26,
+  "minfigSetParts": []
+}

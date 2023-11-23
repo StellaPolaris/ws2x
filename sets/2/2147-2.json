@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0002",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0002-0-33f6cb92-0cc4-40a6-ae17-7a7f829ee7a3.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0002",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/penupn0002-1-ef8394e9-6d33-49b1-9ca5-c7dabc463c4b.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0003pr0019",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0003pr0019-0-591b6ccd-47d4-4179-b953-c8de7f1f27c7.jpg",
+      "name": "Pen Bead, Round Orb with 'STAR WARS' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0003pr0057",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/PART-12022-0-957e2129-93a5-40f5-893a-10cf6d714d20.jpg",
+      "name": "Pen Bead, Round Orb with 'Stormtrooper' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0003pr0058",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/penupn0003pr0058-383-1b9e4ba8-dc7f-459b-af2c-ceff80b16cc4.jpg",
+      "name": "Pen Bead, Round Orb with Imperial Logo Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0008",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/penupn0008-383-0b9de320-0b9c-4414-a6ee-b140c43d175e.jpg",
+      "name": "Pen Bead, Round Orb, 4 Discs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0010",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/110/penupn0010-110-3f195839-8e32-42cb-b82f-924a4b722a4d.jpg",
+      "name": "Pen Bead, Minifigure Legs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0011pr0009",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Minifigure Torso with Armor, Stormtrooper Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn0036c12",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/penupn0036c12-15-98b66d7c-d1cb-4991-b38a-c4913127720b.jpg",
+      "name": "Pen Body, with Chrome Tip, Blue Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn9976",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "95798",
+      "part_num": "penupn9984pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Helmet, Stormtrooper with Azure Vents Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2147-2",
+    "name": "Stormtrooper Pen",
+    "year": "2009",
+    "theme_id": "739",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2147-2.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

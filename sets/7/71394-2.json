@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "107669",
+      "part_num": "11601",
+      "color_id": "46",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6360934.jpg",
+      "name": "Tool Saw with Handle and Tooth",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "15712",
+      "color_id": "379",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6364367.jpg",
+      "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "27256",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6211795.jpg",
+      "name": "Wave / Lightning Angular, Single",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "3068b",
+      "color_id": "379",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4167490.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "3068bpr0548",
+      "color_id": "379",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6353878.jpg",
+      "name": "Tile 2 x 2 with Yellow Eyes, Open Red Mouth, Laughing print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "3068bpr9724",
+      "color_id": "379",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6354038.jpg",
+      "name": "Tile 2 x 2 with Groove with Amp and Barcode Print (Sticker)",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "3070b",
+      "color_id": "379",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4173698.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "4032a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403221.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "4032a",
+      "color_id": "379",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4169479.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "66792",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6301842.jpg",
+      "name": "Plate Round Corners 4 x 4 x 2/3 Circle with Reduced Knobs",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "67329",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6314192.jpg",
+      "name": "Brick Special 1 x 2 x 1 2/3 with 8 Studs on 3 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "85861",
+      "color_id": "182",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6134722.jpg",
+      "name": "Plate Round 1 x 1 with Open Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "87544",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6010737.jpg",
+      "name": "Panel 1 x 2 x 3 [Side Supports / Hollow Studs]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "98138",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650260.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "107669",
+      "part_num": "3070b",
+      "color_id": "379",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4173698.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Sand Blue"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "85861",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6134722.jpg",
+      "name": "Plate Round 1 x 1 with Open Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "107669",
+      "part_num": "98138",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650260.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "71394-2",
+    "name": "Amp",
+    "year": "2021",
+    "theme_id": "690",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/71394-2.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 3,
+  "countedStandardParts": 28,
+  "minfigSetParts": []
+}

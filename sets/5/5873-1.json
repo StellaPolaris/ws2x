@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10540",
+      "part_num": "22667",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114585.jpg",
+      "name": "Plant, Cherries",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "30078",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4181996.jpg",
+      "name": "Propeller 6 Blade Fan 8 x 8",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "3031",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129848.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "3040b",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164024.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "33320",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129845.jpg",
+      "name": "Animal, Frog",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "3659",
+      "color_id": "13",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218195.jpg",
+      "name": "Brick Arch 1 x 4",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Pink"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "3837",
+      "color_id": "115",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4120346.jpg",
+      "name": "Equipment Shovel [Rounded Stem End]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Medium Lime"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "3853",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4184093.jpg",
+      "name": "Window 1 x 4 x 3",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "3854",
+      "color_id": "73",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4513985.jpg",
+      "name": "Window 1 x 2 x 3 Pane",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "4032a",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6138624.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "4150pr0032",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4150p06.png",
+      "name": "Tile, Round 2 x 2 with Orange Dots (Flower Center) and Red Ladybug Print (Belville)",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "4523",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4128572.jpg",
+      "name": "Minifig Neckwear Basket [D Style]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "4727",
+      "color_id": "115",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143561.jpg",
+      "name": "Plant, Flower 2 x 2 Leaves - Angular",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Medium Lime"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "4728",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142943.jpg",
+      "name": "Plant, Flower 2 x 2 - Round [Open Stud]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "6186",
+      "color_id": "13",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/13/6186-13-f262150d-0b6f-4cfc-9d91-92f22e759b7f.jpg",
+      "name": "Belville / Scala, Animal, Teddy Bear - Arms Up",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Pink"
+    },
+    {
+      "inventory_id": "10540",
+      "part_num": "75c09",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119412.jpg",
+      "name": "Hose Rigid 3mm D. 9L / 7.2cm",
+      "part_cat_id": "30",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "10540",
+      "part_num": "22667",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114585.jpg",
+      "name": "Plant, Cherries",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "5873-1",
+    "name": "Fairyland",
+    "year": "2003",
+    "theme_id": "318",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5873-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 1,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

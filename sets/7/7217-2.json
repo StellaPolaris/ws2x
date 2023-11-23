@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11365",
+      "part_num": "32062",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "32174",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217829.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Sides",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "32476",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4194116.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular with Ball Joint, and Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "32506",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158029.jpg",
+      "name": "Large Figure Weapon, Claw, Triple, with Axle",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "32551",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4175939.jpg",
+      "name": "Large Figure Weapon, Claw Hook with Axle",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "43093",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206482.jpg",
+      "name": "Technic Axle Pin with Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "4519",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211815.jpg",
+      "name": "Technic Axle 3",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "47296",
+      "color_id": "72",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217826.jpg",
+      "name": "Technic Axle and Pin Connector 2 x 5 with Two Ball Joint Sockets",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "47313",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238919.jpg",
+      "name": "Large Figure Head Connector Block Eye/Brain Stalk (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "47330",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4225235.jpg",
+      "name": "Large Figure Skeletal, Torso, Lower, with 2 Ball Joints, 2 Axle Holes. and 4 Holes (Vahki)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11365",
+      "part_num": "53565pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4290480.jpg",
+      "name": "Large Figure Head (Piraka) with Glow In Dark Teeth Print",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7217-2",
+    "name": "Braca (Duracell 8 pack AA battery promotion)",
+    "year": "2006",
+    "theme_id": "324",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7217-2.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": []
+}

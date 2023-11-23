@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "25029",
+      "part_num": "2302",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/230223.jpg",
+      "name": "Duplo Brick 2 x 3 with Curved Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "2312c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100750.jpg",
+      "name": "Duplo Car Base 2 x 6 with Yellow Wheels and Open Hitch End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "2312c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107137.jpg",
+      "name": "Duplo Car Base 2 x 6 with Yellow Wheels and Open Hitch End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "2327c01pr0015",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/2327pr0010-0-64fae3a0-dcd1-4713-bd65-ee8001432b57.jpg",
+      "name": "Duplo 2 x 2 x 2 Figure Brick, Spiky Bangs, White Head, Light Gray Hair, Two White Buttons, Moustache Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "2327c02pr0004",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/2327c02pr0004-14-5c800456-d8be-496e-a684-c72c265e49a0.jpg",
+      "name": "Duplo 2 x 2 x 2 Figure Brick, Rounded Bangs, White Head, Red Hair, Red Collar and Heart Buttons, Freckles Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "3011",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301124.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "3437",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343723.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "4066",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100633.jpg",
+      "name": "Duplo Brick 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "4066pr0076",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4066bp1a.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Suitcases, Yellow and Light Gray Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "4550",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4550-1-6e8ac3c8-5bc6-4d62-80e4-8ab5fcfa8bdd.jpg",
+      "name": "Duplo Train Steam Engine Cow Catcher",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25029",
+      "part_num": "4570c02",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4570c02-1-73b47240-1aa4-48df-b8f9-f92f487c8709.jpg",
+      "name": "Duplo Train Steam Engine Funnel Top, Yellow Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2452-1",
+    "name": "Choo Choo Train",
+    "year": "1993",
+    "theme_id": "634",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2452-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

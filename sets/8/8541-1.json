@@ -1,0 +1,198 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5566",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "32013",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144298.jpg",
+      "name": "Technic Axle and Pin Connector Angled #1",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "32015",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144296.jpg",
+      "name": "Technic Axle and Pin Connector Angled #5 - 112.5",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "32138",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119589.jpg",
+      "name": "Technic Pin Double with Axle Hole",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "32140",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4120017.jpg",
+      "name": "Technic Beam 2 x 4 L-Shape Thick",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "32553",
+      "color_id": "2",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/32553.png",
+      "name": "Large Figure Head Connector Block 3 x 4 x 1 2/3",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "32554",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/42/32554-42-cd84a966-4e85-433c-8cb5-c7740dcf7eb9.jpg",
+      "name": "Large Figure Head Connector Block Eye/Brain Stalk",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "32575",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/27/32575-27-da8b4250-8273-4929-828c-f09f84abfc2a.jpg",
+      "name": "Large Figure Mask Mahiki (Turaga)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "3749",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4184168.jpg",
+      "name": "Technic Axle Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "40341",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/40341.png",
+      "name": "Large Figure Weapon Staff, Long Axle Circular Saw with Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "4519",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/451926.jpg",
+      "name": "Technic Axle 3",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "6553",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4144295.jpg",
+      "name": "Technic Axle 1.5 with Perpendicular Axle Connector (Technic Pole Reverser Handle)",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "6553",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107765.jpg",
+      "name": "Technic Axle 1.5 with Perpendicular Axle Connector (Technic Pole Reverser Handle)",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5566",
+      "part_num": "71509",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107153.jpg",
+      "name": "Rubber Band Small 13mm (Square Cross Section)",
+      "part_cat_id": "31",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "5566",
+      "part_num": "71509",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107153.jpg",
+      "name": "Rubber Band Small 13mm (Square Cross Section)",
+      "part_cat_id": "31",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8541-1",
+    "name": "Matau",
+    "year": "2001",
+    "theme_id": "324",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8541-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 1,
+  "countedStandardParts": 25,
+  "minfigSetParts": []
+}

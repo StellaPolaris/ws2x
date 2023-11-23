@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "57567",
+      "part_num": "24246pr0003",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315582.jpg",
+      "name": "Tile 1 x 1 Half Circle with Lavender Flower print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269",
+      "color_id": "288",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315608.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269",
+      "color_id": "158",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240468.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellowish Green"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269",
+      "color_id": "29",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240463.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269pr0012",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315592.jpg",
+      "name": "Tile Round 1 x 1 Quarter with Lavender, Bright Light Orange Decoration print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "3070b",
+      "color_id": "82",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6264167.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Metallic Gold"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "65092",
+      "color_id": "1054",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315603.jpg",
+      "name": "Plate Special 8-Sided Crystal/Gem 1 x 1 x 2/3",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink Opal"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "66821",
+      "color_id": "31",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315607.jpg",
+      "name": "DOTS Bracelet 2 Stud Wide",
+      "part_cat_id": "56",
+      "part_material": "Rubber",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "98138",
+      "color_id": "1000",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6009088.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glow in Dark White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "57567",
+      "part_num": "24246pr0003",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315582.jpg",
+      "name": "Tile 1 x 1 Half Circle with Lavender Flower print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269",
+      "color_id": "158",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240468.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Yellowish Green"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269",
+      "color_id": "288",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315608.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240463.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "25269pr0012",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315592.jpg",
+      "name": "Tile Round 1 x 1 Quarter with Lavender, Bright Light Orange Decoration print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "3070b",
+      "color_id": "82",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6264167.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Metallic Gold"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "65092",
+      "color_id": "1054",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6315603.jpg",
+      "name": "Plate Special 8-Sided Crystal/Gem 1 x 1 x 2/3",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink Opal"
+    },
+    {
+      "inventory_id": "57567",
+      "part_num": "98138",
+      "color_id": "1000",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6009088.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glow in Dark White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "41917-1",
+    "name": "Magic Forest",
+    "year": "2020",
+    "theme_id": "688",
+    "num_parts": "33",
+    "img_url": "https://cdn.rebrickable.com/media/sets/41917-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 8,
+  "countedStandardParts": 33,
+  "minfigSetParts": []
+}

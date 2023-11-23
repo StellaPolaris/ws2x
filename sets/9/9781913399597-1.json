@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "113723",
+      "part_num": "15573",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092592.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "24866",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6209681.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "3023",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164037.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "3023",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302301.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "3626cpr0677",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4584727.jpg",
+      "name": "Minifig Head Lil' Nelson / Boy / Girl / Elf, Brown Eyebrows and Freckles, Open Smile Print",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "3626cpr1635",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6105708.jpg",
+      "name": "Minifig Head Sally, Girl, Eyelashes, Freckles, Smile",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "41879a",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4530129.jpg",
+      "name": "Legs Short",
+      "part_cat_id": "61",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "6124",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119527.jpg",
+      "name": "Equipment Magic Wand",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "87990",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4636983.jpg",
+      "name": "Hair Ponytail and Swept Sideways Fringe",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "87991",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569106.jpg",
+      "name": "Hair Tousled with Side Part",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "113723",
+      "part_num": "973c29h01pr3434",
+      "color_id": "212",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6153141.jpg",
+      "name": "Torso Hooded Sweatshirt Open with Purple Shirt, Silver Star Print, Bright Light Blue Arms, Yellow Hands",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9781913399597-1",
+    "name": "Party Time",
+    "year": "2020",
+    "theme_id": "497",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9781913399597-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

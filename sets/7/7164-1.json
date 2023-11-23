@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9828",
+      "part_num": "60176",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4519244.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Closed Sides, Squared Ends",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "64251",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539157.jpg",
+      "name": "Large Figure Hand, Fist with Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "64262",
+      "color_id": "143",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4537503.jpg",
+      "name": "Large Figure Head Connector Block (Glatorian)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Medium Blue"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87794",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578958.jpg",
+      "name": "Large Figure Skeletal, Torso, Angular with Ball Joints",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87796",
+      "color_id": "1",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582131.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular with Ball Joint and Ball Socket",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87797",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582136.jpg",
+      "name": "Large Figure Foot, Type 1",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87798",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582146.jpg",
+      "name": "Large Figure Limb Cover, Leg Guard",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87799",
+      "color_id": "143",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581516.jpg",
+      "name": "Large Figure Chest Badge with 'H' Hero Factory Logo in Spiked Circle",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Medium Blue"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87800pat0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578971.jpg",
+      "name": "Large Figure Weapon, Ice Arm with Trans-Light Blue Icicle Blade",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87801",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578972.jpg",
+      "name": "Large Figure Chest Cover, Armour with Triple Spiked Shoulders",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9828",
+      "part_num": "87802",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578973.jpg",
+      "name": "Large Figure Mask, Stormer",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7164-1",
+    "name": "Preston Stormer",
+    "year": "2010",
+    "theme_id": "401",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7164-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

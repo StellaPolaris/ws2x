@@ -1,0 +1,198 @@
+{
+  "standard": [
+    {
+      "inventory_id": "8851",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "32062",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "32073",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211639.jpg",
+      "name": "Technic Axle 5",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "32174",
+      "color_id": "191",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4248305.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Sides",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "41668",
+      "color_id": "320",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219221.jpg",
+      "name": "Large Figure Foot, with Ball Joint Socket 2 x 3 x 5",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "41669",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4177440.jpg",
+      "name": "Technic Tooth 1 x 3 with Axle Hole [Rounded Underside]",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "44033",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4178663.jpg",
+      "name": "Large Figure Weapon Blade, Air Katana",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "47300",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219217.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular 90, 3 x 3 x 2 with 2 Ball Joints, and Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "47308",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218956.jpg",
+      "name": "Large Figure Mask Huna (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "47311",
+      "color_id": "320",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278744.jpg",
+      "name": "Large Figure Skeletal, Limb, with 2 Ball Joints, and Hole (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "47312",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278473.jpg",
+      "name": "Large Figure Head Connector Block (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "50898",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4242036.jpg",
+      "name": "Technic Axle and Pin Connector 2 x 7 with Two Ball Joint Sockets",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "6536",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4173668.jpg",
+      "name": "Technic Axle and Pin Connector Perpendicular",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "8851",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8851",
+      "part_num": "32062",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8725-1",
+    "name": "Balta",
+    "year": "2006",
+    "theme_id": "324",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8725-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 3,
+  "countedStandardParts": 22,
+  "minfigSetParts": []
+}

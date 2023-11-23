@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "6740",
+      "part_num": "12651",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6040235.jpg",
+      "name": "Duplo Chair with 4 Studs and Rounded Back",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "15454pr0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6109014.jpg",
+      "name": "Duplo Car Body Truck 4 x 4 Flatbed with 4 Top Studs - Headlights and LEGO Logo Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "18857pr0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6109017.jpg",
+      "name": "Duplo Door / Window Frame 4 x 4 x 3 - Thin Top with Bunny / Rabbit Holding Brick Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "24911c01",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6056593.jpg",
+      "name": "Duplo Car Base 4 x 8 with Four Black Wheels and Yellow Hubs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "25081c01",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6137083.jpg",
+      "name": "Duplo Trailer Flatbed 4 x 8 with Hook and 4 Yellow Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "3437",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4159527.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "3437",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6054619.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "3437",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4183780.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "61649",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4595171.jpg",
+      "name": "Duplo Door / Window Frame Flat Front Surface, Completely Open Back",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "63710pr0013",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6063877.jpg",
+      "name": "Duplo Figure with Cap Red, with Tan Shirt and Orange Bandana (Scarf) under Blue Coveralls - Medium Blue Legs",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "6740",
+      "part_num": "98459",
+      "color_id": "27",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6109010.jpg",
+      "name": "Duplo Door / Lid, Wood Effect",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10601-1",
+    "name": "Delivery Vehicle",
+    "year": "2015",
+    "theme_id": "632",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10601-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

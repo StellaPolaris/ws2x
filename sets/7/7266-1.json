@@ -1,0 +1,244 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2205",
+      "part_num": "2540",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254024.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "3020",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211065.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "3062b",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306224.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "3835",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383502.jpg",
+      "name": "Weapon Axe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "3941",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614324.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "4032b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4032b.png",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 2 (X Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "4599a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/459924.jpg",
+      "name": "Tap 1 x 1 with Hole in Spout",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "6020",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/602026.jpg",
+      "name": "Bar 7 x 3 with Double Clips (Ladder)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "6126a",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/57/6126a.png",
+      "name": "Wave / Flame Rounded with Base Pegs",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "2205",
+      "part_num": "2447",
+      "color_id": "40",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163306.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown"
+    },
+    {
+      "inventory_id": "2205",
+      "part_num": "4599a",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/459924.jpg",
+      "name": "Tap 1 x 1 with Hole in Spout",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "7266-1",
+    "name": "Fireman",
+    "year": "2005",
+    "theme_id": "58",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7266-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 2,
+  "countedStandardParts": 12,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51595",
+        "part_num": "2447",
+        "color_id": "40",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163306.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Brown",
+        "fig_num": "fig-000780"
+      },
+      {
+        "inventory_id": "51595",
+        "part_num": "3626bpr0279",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp8j.png",
+        "name": "Minifig Head, Glasses with Orange Sunglasses and Smirk Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000780"
+      },
+      {
+        "inventory_id": "51595",
+        "part_num": "3834",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/383401.jpg",
+        "name": "Helmet Fire",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000780"
+      },
+      {
+        "inventory_id": "51595",
+        "part_num": "3838",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/383824.jpg",
+        "name": "Minifig Neckwear Airtanks",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000780"
+      },
+      {
+        "inventory_id": "51595",
+        "part_num": "6158",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4261469.jpg",
+        "name": "Minifig Neckwear Helmet Breathing Apparatus",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-000780"
+      },
+      {
+        "inventory_id": "51595",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000780"
+      },
+      {
+        "inventory_id": "51595",
+        "part_num": "973c03h12pr1667",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4595443.jpg",
+        "name": "Torso Fire Uniform Badge and Stripes Print with Radio Print, Black Arms, Dark Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000780"
+      }
+    ]
+  ]
+}

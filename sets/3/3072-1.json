@@ -1,0 +1,242 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5330",
+      "part_num": "3023",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4111983.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "3069bpr0044",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3069bp53.png",
+      "name": "Tile 1 x 2 with Mars Orbit Display Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "3298pr0035",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/3298p67.png",
+      "name": "Slope 33 3 x 2 with Insectoid Scope Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "3475b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/347526.jpg",
+      "name": "Engine - Smooth, Small 1 x 2 Side Plate [With Axle Holders]",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "3795",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379523.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "3839b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383926.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "4032a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403226.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "4588",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163774.jpg",
+      "name": "Brick Round 1 x 1 with Fins, Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "4589",
+      "color_id": "42",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/618849.jpg",
+      "name": "Cone 1 x 1 [No Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "4590",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/459026.jpg",
+      "name": "Plate Special 1 x 4 Offset",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "4598",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112237.jpg",
+      "name": "Bracket 3 x 2 - 2 x 2 [aka Space Seat]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5330",
+      "part_num": "6141",
+      "color_id": "42",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005749.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "5330",
+      "part_num": "6141",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005749.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3072-1",
+    "name": "Mega Tack",
+    "year": "1999",
+    "theme_id": "134",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3072-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 1,
+  "countedStandardParts": 18,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51887",
+        "part_num": "30214",
+        "color_id": "42",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114435.jpg",
+        "name": "Helmet Round Bubble",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Trans-Neon Green",
+        "fig_num": "fig-001072"
+      },
+      {
+        "inventory_id": "51887",
+        "part_num": "3626bpr0316",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3626bp55.png",
+        "name": "Minifig Head Insectoid, Silver Hair, Copper Glasses and Headset Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-001072"
+      },
+      {
+        "inventory_id": "51887",
+        "part_num": "3838",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6069889.jpg",
+        "name": "Minifig Neckwear Airtanks",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-001072"
+      },
+      {
+        "inventory_id": "51887",
+        "part_num": "970c08pr0001",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/970c10pb01-8-44985af4-6744-4340-b1ea-9e646eeaba55.jpg",
+        "name": "Hips and Dark Gray Legs with Insectoid Blue Circuitry over Black and Silver Background Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-001072"
+      },
+      {
+        "inventory_id": "51887",
+        "part_num": "973c03h28pr0092",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973px92c01-0-b410703b-d884-4ba2-ad4d-84b26ce7b6c0.jpg",
+        "name": "Torso Insectoids Silver Circuitry, Lightning Bolts over Blue Circle Print, Black Arms, Blue Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001072"
+      }
+    ]
+  ]
+}

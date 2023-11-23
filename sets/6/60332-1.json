@@ -1,0 +1,218 @@
+{
+  "standard": [
+    {
+      "inventory_id": "135622",
+      "part_num": "2447pr0029",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371556.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet with Curved Eyes Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "30031",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4261908.jpg",
+      "name": "Handlebars",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "30169",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6200668.jpg",
+      "name": "Animal, Scorpion",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "50861",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244953.jpg",
+      "name": "Tyre 21 x 6 City Motorcycle",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "50862",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4259653.jpg",
+      "name": "Wheel Centre 15 x 6 City Motorcycle",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "53451",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504476.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "69869c01",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6391389.jpg",
+      "name": "Vehicle Base, Motorcycle Chassis with Light Bluish Gray Flywheel",
+      "part_cat_id": "44",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "75522",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6397659.jpg",
+      "name": "Fairing, Motorcycle, Dirt Bike with 1 x 2 Studs",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "82252",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6397588.jpg",
+      "name": "Helmet, Standard, 2 Horn Holes",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "135622",
+      "part_num": "2447pr0029",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371556.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet with Curved Eyes Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "135622",
+      "part_num": "53451",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504476.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "60332-1",
+    "name": "Reckless Scorpion Stunt Bike",
+    "year": "2022",
+    "theme_id": "744",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/60332-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 2,
+  "countedStandardParts": 10,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "139440",
+        "part_num": "18166",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6088065.jpg",
+        "name": "Hair Long Mullet with Banded Top Knot (Hunter Orc)",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-012767"
+      },
+      {
+        "inventory_id": "139440",
+        "part_num": "3626cpr3723",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6371557.jpg",
+        "name": "Minifig Head Scorpion Luchadora, Face Mask, Eyelashes, Peach Lips / Crossed Ties Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-012767"
+      },
+      {
+        "inventory_id": "139440",
+        "part_num": "41637",
+        "color_id": "10",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6397621.jpg",
+        "name": "Minifig Neckwear Armor Shoulder Pads",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Bright Green",
+        "fig_num": "fig-012767"
+      },
+      {
+        "inventory_id": "139440",
+        "part_num": "970c27pr2310",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6395409.jpg",
+        "name": "Hips and White Legs with Red Swimming Trunks/Suit print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-012767"
+      },
+      {
+        "inventory_id": "139440",
+        "part_num": "973c27h06pr6091",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6397620.jpg",
+        "name": "Torso Light Bluish Grey Scorpion Symbol, Bright Green Tears print, White Arms, Bright Green Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-012767"
+      }
+    ]
+  ]
+}

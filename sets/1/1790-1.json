@@ -1,0 +1,241 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15226",
+      "part_num": "2432",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243221.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "2445",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/244502.jpg",
+      "name": "Plate 2 x 12",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "2486",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/248621.jpg",
+      "name": "Bar 1 x 8 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "2547",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/2547a.png",
+      "name": "Animal Body Part, Shark Body, without Bottom Tube",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "2548",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/2548.png",
+      "name": "Animal Body Part, Shark Head",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "2614",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/261426.jpg",
+      "name": "Equipment Fishing Rod 12L",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "3003",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300302.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "3004",
+      "color_id": "7",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300402.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "3010",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301002.jpg",
+      "name": "Brick 1 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "3035",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303502.jpg",
+      "name": "Plate 4 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "4081b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408121.jpg",
+      "name": "Plate Special 1 x 1 with Clip Light [Thick Ring]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "56823",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/56823.png",
+      "name": "String Cord Thin [Undetermined Length]",
+      "part_cat_id": "31",
+      "part_material": "Cloth",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15226",
+      "part_num": "6141",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614102.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1790-1",
+    "name": "Shark Fisherman",
+    "year": "1994",
+    "theme_id": "67",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1790-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51213",
+        "part_num": "2610",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4260843.jpg",
+        "name": "Minifig Neckwear Life Jacket [Old Style]",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000399"
+      },
+      {
+        "inventory_id": "51213",
+        "part_num": "3626bpr0048",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp7e.png",
+        "name": "Minifig Head, Blue Sunglasses and Wide-Spaced Stubble Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000399"
+      },
+      {
+        "inventory_id": "51213",
+        "part_num": "4485",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/448523.jpg",
+        "name": "Hat / Cap Long Peak [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-000399"
+      },
+      {
+        "inventory_id": "51213",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000399"
+      },
+      {
+        "inventory_id": "51213",
+        "part_num": "973c27h01pr0073",
+        "color_id": "2",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/973p73c01-2-9d789a2b-ee79-4ff4-840a-e66f88194c99.jpg",
+        "name": "Torso Vest with Patch Pockets over White Shirt Print, White Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Green",
+        "fig_num": "fig-000399"
+      }
+    ]
+  ]
+}

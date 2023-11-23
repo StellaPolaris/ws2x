@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "153765",
+      "part_num": "11203",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6013867.jpg",
+      "name": "Tile Special 2 x 2 Inverted",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "13547",
+      "color_id": "70",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092566.jpg",
+      "name": "Slope Curved 4 x 1 Inverted",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "13564",
+      "color_id": "0",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6312496.jpg",
+      "name": "Animal Body Part, Horn (Cattle) / Tentacle / Vine / Branch / Tongue - Long",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "15068",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6053077.jpg",
+      "name": "Slope Curved 2 x 2 x 2/3",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "15070",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6046905.jpg",
+      "name": "Plate Special 1 x 1 with Vertical Tooth",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "26047",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6157554.jpg",
+      "name": "Plate Special 1 x 1 Rounded with Handle",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "3020",
+      "color_id": "70",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211186.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "3023",
+      "color_id": "26",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4623160.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "3023",
+      "color_id": "308",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6058221.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Brown"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "32803",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6223906.jpg",
+      "name": "Slope Curved 2 x 2 x 2/3 Inverted",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "3795",
+      "color_id": "26",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206365.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "50950",
+      "color_id": "308",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022199.jpg",
+      "name": "Slope Curved 3 x 1 No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Brown"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "92692",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4604304.jpg",
+      "name": "Plate Special 1 x 2 with Angled Handles on Side",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "98313",
+      "color_id": "0",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650022.jpg",
+      "name": "Arm Mechanical with Clip [Thick Support]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "153765",
+      "part_num": "13564",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6312496.jpg",
+      "name": "Animal Body Part, Horn (Cattle) / Tentacle / Vine / Branch / Tongue - Long",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "153765",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "11968-1",
+    "name": "Spider",
+    "year": "2022",
+    "theme_id": "22",
+    "num_parts": "40",
+    "img_url": "https://cdn.rebrickable.com/media/sets/11968-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 2,
+  "countedStandardParts": 40,
+  "minfigSetParts": []
+}

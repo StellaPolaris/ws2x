@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15204",
+      "part_num": "2415",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241502.jpg",
+      "name": "Wheel Holder 2 x 2 Thin with Clips, Plane Single",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "3034",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303401.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "30389b",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/30389b.png",
+      "name": "Hinge Brick 2 x 2 Locking with 1 Finger Vertical and Axle Hole [+ Opening]",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "30407",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4169044.jpg",
+      "name": "Hinge Plate 1 x 8 with Angled Side Extensions, Rounded Plate Underside",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "3139",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/313926.jpg",
+      "name": "Tyre 14 x 4 Smooth Small Single",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "3464",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/47/3464.png",
+      "name": "Wheel Centre Small with Stub Axles (Pulley Wheel)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "3795",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121741.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "4617b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4536184.jpg",
+      "name": "Propeller  3 Blade  5.5 Diameter with Hole for Technic Pin",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "6232",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143137.jpg",
+      "name": "Brick Special 2 x 2 with Pin and Axle Hole",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "6239",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/623901.jpg",
+      "name": "Tail Shuttle",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15204",
+      "part_num": "jsfig0004",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/-1/js008--1-3ce3a783-620d-400f-aa3b-8b6327bb4ec3.jpg",
+      "name": "Juniors Minifig, Jack Stone",
+      "part_cat_id": "13",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4614-1",
+    "name": "Ultralight Flyer",
+    "year": "2002",
+    "theme_id": "280",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4614-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 16,
+  "minfigSetParts": []
+}

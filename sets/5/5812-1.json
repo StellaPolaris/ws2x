@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3389",
+      "part_num": "30151a",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113949.jpg",
+      "name": "Brick Round 2 x 2 x 1 2/3 Dome Top [Blocked Open Stud]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "30153",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113954.jpg",
+      "name": "Rock 1 x 1 Jewel 24 Facet",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "4032a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/403201.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "57503",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501a.png",
+      "name": "Money / Coin with 10 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "57504",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501b.png",
+      "name": "Money / Coin with 20 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "57505",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501c.png",
+      "name": "Money / Coin with 30 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "57506",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/70501d.png",
+      "name": "Money / Coin with 40 Sans-serif Type",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "59",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4649842.jpg",
+      "name": "Weapon Sword / Greatsword Round",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "72515",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/72515-383-2a75c646-8bfa-4177-8065-7c562484d7ac.jpg",
+      "name": "Belville, Headwear, Crown",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "belfig0003c01pr0009",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/belvmale7-9999-adbe4262-b1a1-4d2b-a63b-8990bca83857.jpg",
+      "name": "Belville Figure Articulated Elbows, Male, White Hair, White and Red Pants, Shirt Insignia Print (King)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "3389",
+      "part_num": "belupn0017",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/belvcloak1-4-94e055dd-ef56-4525-a774-acd0550c5599.jpg",
+      "name": "Belville, Cloak for King with White and Black Satin Trim and Stiff Collar",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5812-1",
+    "name": "King",
+    "year": "1999",
+    "theme_id": "318",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5812-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

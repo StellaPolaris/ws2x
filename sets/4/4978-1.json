@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26482",
+      "part_num": "2318c02",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4519404.jpg",
+      "name": "Duplo Siren / Flashing Light - Trans-Orange",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "3437",
+      "color_id": "28",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4196360.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "3437",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4166963.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "3437pr0051",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4271461.jpg",
+      "name": "Duplo Brick 2 x 2 with Apples in Crate Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "40637",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4543245.jpg",
+      "name": "Duplo Brick 2 x 2 Digger Bucket Arm Holder",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "51265",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244406.jpg",
+      "name": "Duplo Garbage Can [Dustbin]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "51269",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244408.jpg",
+      "name": "Duplo Shovel / Spade with 'D' Handle",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "59178",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4561351.jpg",
+      "name": "Duplo Digger / Sweeper Arm, with Handle 8 x 7 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "59389c01",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4561330.jpg",
+      "name": "Duplo Street Sweeper Brush with Yellow Bristles",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "59522c01",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506396.jpg",
+      "name": "Duplo Street Sweeper, with Wheel",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "26482",
+      "part_num": "75115pr9995",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4530043.jpg",
+      "name": "Duplo Figure with Parted Wavy Hair Black, Nougat Hands, Green Recycling Logo, Brown Eyes Print (Garbage Collector)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4978-1",
+    "name": "Road Sweeper",
+    "year": "2007",
+    "theme_id": "650",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4978-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

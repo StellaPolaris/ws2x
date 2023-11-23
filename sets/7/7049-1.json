@@ -1,0 +1,343 @@
+{
+  "standard": [
+    {
+      "inventory_id": "6612",
+      "part_num": "2436",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243626.jpg",
+      "name": "Bracket 1 x 2 - 1 x 4 [Square Corners]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "2540",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210660.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "298c02",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/74335.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "3020",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211065.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "3710",
+      "color_id": "27",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4187743.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "3794a",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/27/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "4081b",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211477.jpg",
+      "name": "Plate Special 1 x 1 with Clip Light [Thick Ring]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "50950",
+      "color_id": "71",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4251163.jpg",
+      "name": "Slope Curved 3 x 1 No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "59900",
+      "color_id": "42",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4567334.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "60897",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4594238.jpg",
+      "name": "Plate Special 1 x 1 with Clip Vertical [Thick Open O Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "61409",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4540386.jpg",
+      "name": "Slope 18 2 x 1 x 2/3 with 4 Slots",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "6141",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163917.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "6141",
+      "color_id": "85",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566522.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "95199",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4623236.jpg",
+      "name": "Weapon Gun / Pistol Two Barrel",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "6612",
+      "part_num": "2447",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4626724.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "298c02",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/74335.jpg",
+      "name": "Lever Small Base with Black Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "6141",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566522.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "6612",
+      "part_num": "6141",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163917.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    }
+  ],
+  "setInfo": {
+    "set_num": "7049-1",
+    "name": "Alien Striker",
+    "year": "2011",
+    "theme_id": "127",
+    "num_parts": "42",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7049-1.jpg"
+  },
+  "countedUniqueParts": 18,
+  "countedSpareParts": 4,
+  "countedStandardParts": 34,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "52157",
+        "part_num": "2447",
+        "color_id": "47",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4626724.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Clear",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "3626cpr0807",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4640010.jpg",
+        "name": "Minifig Head Soldier, Snarling / Raised Eyebrows Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "87781",
+        "color_id": "321",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4626452.jpg",
+        "name": "Helmet Space",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Azure",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "970c04pr0232",
+        "color_id": "72",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624619.jpg",
+        "name": "Hips and Dark Azure Legs with 2 Pockets and Kneepads Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Bluish Gray",
+        "fig_num": "fig-001342"
+      },
+      {
+        "inventory_id": "52157",
+        "part_num": "973c04h12pr1785",
+        "color_id": "321",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624753.jpg",
+        "name": "Torso Protection Vest with 'ADU' Print, Dark Azure Arms, Dark Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Azure",
+        "fig_num": "fig-001342"
+      }
+    ],
+    [
+      {
+        "inventory_id": "59835",
+        "part_num": "95203pr0002",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4625828.jpg",
+        "name": "Minifig Head Special, Alien with 4 Fangs and Brain Tissue Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-006985"
+      },
+      {
+        "inventory_id": "59835",
+        "part_num": "970c03pr0231",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624618.jpg",
+        "name": "Hips and Black Legs with Purple Leg and Knee Protection Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-006985"
+      },
+      {
+        "inventory_id": "59835",
+        "part_num": "973c37h18pr1775",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4623600.jpg",
+        "name": "Torso Spacesuit, Three Lime Bars , Tubes, Magenta Circle Print, Magenta Arms, Lime Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-006985"
+      }
+    ]
+  ]
+}

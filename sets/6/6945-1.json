@@ -1,0 +1,210 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2302",
+      "part_num": "32013",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107085.jpg",
+      "name": "Technic Axle and Pin Connector Angled #1",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "32039",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211553.jpg",
+      "name": "Technic Axle Connector with Axle Hole",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "32062",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142865.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "32174",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217829.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Sides",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "32476",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4194116.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular with Ball Joint, and Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "32580",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163389.jpg",
+      "name": "Axle Hose, Soft 7L",
+      "part_cat_id": "30",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "41668",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4162076.jpg",
+      "name": "Large Figure Foot, with Ball Joint Socket 2 x 3 x 5",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "4274",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143005.jpg",
+      "name": "Technic Pin 1/2",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "53549",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4292528.jpg",
+      "name": "Large Figure Foot, Toa Inika Elliptical",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "54271",
+      "color_id": "148",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4288099.jpg",
+      "name": "Large Figure Weapon, Zamor Sphere Launcher",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Dark Gray"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "54821pat0002",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/10/54821pat0002-10-2d434e91-8df6-4d4f-9901-5f95bf268c1a.jpg",
+      "name": "Projectile, Large Figure Weapon, Zamor Sphere / Ball with Marbled Trans-Bright Green Pattern",
+      "part_cat_id": "68",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "57563",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4497138.jpg",
+      "name": "Large Figure Weapon Blade, Mahri Matoran",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "57565",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/135/57565.png",
+      "name": "Large Figure Weapon Claw, Barraki Mantax Pincer",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "58176",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4497943.jpg",
+      "name": "Light Cover with Internal Bar / Bionicle Barraki Eye",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "2302",
+      "part_num": "59426",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4508553.jpg",
+      "name": "Technic Axle 5.5 with Stop [Rounded Short End]",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "2302",
+      "part_num": "58176",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4497943.jpg",
+      "name": "Light Cover with Internal Bar / Bionicle Barraki Eye",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "6945-1",
+    "name": "Bad Guy",
+    "year": "2007",
+    "theme_id": "324",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6945-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 1,
+  "countedStandardParts": 25,
+  "minfigSetParts": []
+}

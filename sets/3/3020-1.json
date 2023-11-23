@@ -1,0 +1,217 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14383",
+      "part_num": "2436",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243626.jpg",
+      "name": "Bracket 1 x 2 - 1 x 4 [Square Corners]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "2540",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254026.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "2542",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106940.jpg",
+      "name": "Equipment Oar / Paddle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "30104",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106728.jpg",
+      "name": "Chain 17L",
+      "part_cat_id": "31",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "30132",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4105286.jpg",
+      "name": "Weapon Gun / Pistol / Revolver Large Barrel, Long Grip",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "30137",
+      "color_id": "19",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114055.jpg",
+      "name": "Brick Special 1 x 4 Palisade [aka Log]",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "30169",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109969.jpg",
+      "name": "Animal, Scorpion",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "3710",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371026.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "3710",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371002.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "4081b",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/408102.jpg",
+      "name": "Plate Special 1 x 1 with Clip Light [Thick Ring]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "14383",
+      "part_num": "2542",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106940.jpg",
+      "name": "Equipment Oar / Paddle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "14383",
+      "part_num": "30132",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4105286.jpg",
+      "name": "Weapon Gun / Pistol / Revolver Large Barrel, Long Grip",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3020-1",
+    "name": "Jones' Raft",
+    "year": "1998",
+    "theme_id": "297",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3020-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 2,
+  "countedStandardParts": 14,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51172",
+        "part_num": "30167",
+        "color_id": "6",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/6/30167.png",
+        "name": "Hat Wide Brim Flat",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Brown",
+        "fig_num": "fig-000359"
+      },
+      {
+        "inventory_id": "51172",
+        "part_num": "3626bpr0045",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bpa3.png",
+        "name": "Minifig Head Johnny Thunder / Shadow Knight / Soccer Player, Moustache Black Bangs, Striped Sideburns Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000359"
+      },
+      {
+        "inventory_id": "51172",
+        "part_num": "970c03",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4569093.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000359"
+      },
+      {
+        "inventory_id": "51172",
+        "part_num": "973c26h01pr0391",
+        "color_id": "19",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/19/973pb0391c67-19-29ca23fe-2f86-4874-a2c0-77da2b14f02f.jpg",
+        "name": "Torso Shirt, Yellow Neck, Red Bandana, Gun Print, Tan Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Tan",
+        "fig_num": "fig-000359"
+      }
+    ]
+  ]
+}

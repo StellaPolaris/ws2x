@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "25042",
+      "part_num": "2130",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/2130-14-ed4fb71d-dd98-4843-969a-cdafedf99389.jpg",
+      "name": "Duplo Trailer, Open Bars, Animal Transporter",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "3437",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343728.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "40554",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4153052.jpg",
+      "name": "Duplo Umbrella with Stop Ring",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "4543",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4205309.jpg",
+      "name": "Duplo Backhoe / Train Cabin Roof",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "4544pr0002",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/454421.jpg",
+      "name": "Duplo Train Cab with Multi Colored 'CIRCUS' and 5 Dots Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "4550",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4550-1-6e8ac3c8-5bc6-4d62-80e4-8ab5fcfa8bdd.jpg",
+      "name": "Duplo Train Steam Engine Cow Catcher",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "4555c17pr0007",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Figure, Early, Short Afro Hair Red, Red Legs, with 2 Buttons, Blue Arms, Clown Face Paint",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "4559c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4263156.jpg",
+      "name": "Duplo Train Chassis 2 x 6 with Red Train Wheels and Moveable Hook",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "4570c01",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4570c01-14-caa1632c-b1f7-4e34-b3c6-5cdcee307e4d.jpg",
+      "name": "Duplo Train Steam Engine Funnel Top, Red Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "4580c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4263157.jpg",
+      "name": "Duplo Train Chassis with Yellow Drive Rod and Red Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25042",
+      "part_num": "74705pr0002",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/elephc01pb01-7-e485afc4-0373-4b6d-a9f6-4ec6ed46322d.jpg",
+      "name": "Duplo Animal Elephant Baby Standing, Round Eye Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2931-1",
+    "name": "Push Locomotive",
+    "year": "2000",
+    "theme_id": "634",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2931-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

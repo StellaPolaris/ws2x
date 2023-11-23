@@ -1,0 +1,253 @@
+{
+  "standard": [
+    {
+      "inventory_id": "16480",
+      "part_num": "3062b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306221.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "4081b",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211477.jpg",
+      "name": "Plate Special 1 x 1 with Clip Light [Thick Ring]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "4697b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104209.jpg",
+      "name": "Pneumatic T-Piece (T Bar) [New Style]",
+      "part_cat_id": "22",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "6141",
+      "color_id": "80",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249039.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Metallic Silver"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "64567",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539482.jpg",
+      "name": "Weapon Lightsaber Hilt with Bottom Ring",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "88704",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092878.jpg",
+      "name": "Equipment Whip - Bent",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "98138",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646865.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "98313",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6014032.jpg",
+      "name": "Arm Mechanical with Clip [Thick Support]",
+      "part_cat_id": "60",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "98375",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4652446.jpg",
+      "name": "Equipment Winder Key [Toy]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "99781",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4654582.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "16480",
+      "part_num": "4697b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6104209.jpg",
+      "name": "Pneumatic T-Piece (T Bar) [New Style]",
+      "part_cat_id": "22",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "6141",
+      "color_id": "80",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249039.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Metallic Silver"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "64567",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539482.jpg",
+      "name": "Weapon Lightsaber Hilt with Bottom Ring",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "98138",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646865.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "16480",
+      "part_num": "98375",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4652446.jpg",
+      "name": "Equipment Winder Key [Toy]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30603-1",
+    "name": "Batman Classic TV Series - Mr. Freeze",
+    "year": "2016",
+    "theme_id": "697",
+    "num_parts": "16",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30603-1.jpg"
+  },
+  "countedUniqueParts": 15,
+  "countedSpareParts": 5,
+  "countedStandardParts": 12,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "56415",
+        "part_num": "18986",
+        "color_id": "47",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6100958.jpg",
+        "name": "Minifig Neckwear Bracket with 2 Back Studs",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Clear",
+        "fig_num": "fig-004615"
+      },
+      {
+        "inventory_id": "56415",
+        "part_num": "3626cpr1915",
+        "color_id": "212",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6151138.jpg",
+        "name": "Minifig Head Mr Freeze, Dark Orange Eyebrows, Blue Wrinkles and Crows Feet, Open Mouth Smile with Teeth and Tongue Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Blue",
+        "fig_num": "fig-004615"
+      },
+      {
+        "inventory_id": "56415",
+        "part_num": "970c32",
+        "color_id": "73",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4255808.jpg",
+        "name": "Hips and Medium Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Medium Blue",
+        "fig_num": "fig-004615"
+      },
+      {
+        "inventory_id": "56415",
+        "part_num": "973c32h14pr3371",
+        "color_id": "73",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6151192.jpg",
+        "name": "Torso Shirt with Front Pockets under Silver Control Unit with 3 Gauges and Belt with Silver Buckle print, Medium Blue Arms, Light Bluish Gray Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Medium Blue",
+        "fig_num": "fig-004615"
+      }
+    ]
+  ]
+}

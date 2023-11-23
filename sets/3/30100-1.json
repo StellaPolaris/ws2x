@@ -1,0 +1,277 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9089",
+      "part_num": "3032",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114001.jpg",
+      "name": "Plate 4 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "33121",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4277338.jpg",
+      "name": "Animal, Crab",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "3837",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211006.jpg",
+      "name": "Equipment Shovel [Rounded Stem End]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "4032a",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140562.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "4495b",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6268863.jpg",
+      "name": "Flag 4 x 1 Wavy [First Wave Right]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "48245",
+      "color_id": "5",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4618603.jpg",
+      "name": "Bucket with Handle Holes and 5 Bottom Holes - Center Bottom Stud Holder",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "59275",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/27/59275a.png",
+      "name": "Minifig Footwear Flipper [Thin]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "59900",
+      "color_id": "19",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529237.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "6141",
+      "color_id": "33",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005743.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "6141",
+      "color_id": "41",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163917.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "6141",
+      "color_id": "19",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4161734.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "64644",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4538126.jpg",
+      "name": "Equipment Telescope / Torch / Spyglass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "64648",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4623481.jpg",
+      "name": "Animal, Fish [Hollow Stud Mouth]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "9089",
+      "part_num": "59275",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/27/59275a.png",
+      "name": "Minifig Footwear Flipper [Thin]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "6141",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163917.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "6141",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4161734.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "9089",
+      "part_num": "6141",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005743.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30100-1",
+    "name": "Andrea on the Beach",
+    "year": "2012",
+    "theme_id": "494",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30100-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 6,
+  "countedStandardParts": 24,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51854",
+        "part_num": "92198pr0001",
+        "color_id": "84",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6017034.jpg",
+        "name": "Minidoll Head with Green Eyes, Pale Pink Lips and Open Mouth Print",
+        "part_cat_id": "62",
+        "part_material": "Plastic",
+        "colorName": "Medium Nougat",
+        "fig_num": "fig-001039"
+      },
+      {
+        "inventory_id": "51854",
+        "part_num": "92456c02pr0060",
+        "color_id": "84",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6019764.jpg",
+        "name": "Minidoll Torso Girl with Bright Light Orange Vest Top with Music Notes and Circles Print, Medium Nougat Arms and Hands",
+        "part_cat_id": "63",
+        "part_material": "Plastic",
+        "colorName": "Medium Nougat",
+        "fig_num": "fig-001039"
+      },
+      {
+        "inventory_id": "51854",
+        "part_num": "92818c01pr0006",
+        "color_id": "323",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018848.jpg",
+        "name": "Minidoll Hips and Layered Skirt with Medium Nougat Legs and Magenta Shoes Print",
+        "part_cat_id": "64",
+        "part_material": "Plastic",
+        "colorName": "Light Aqua",
+        "fig_num": "fig-001039"
+      },
+      {
+        "inventory_id": "51854",
+        "part_num": "93352",
+        "color_id": "308",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620880.jpg",
+        "name": "Hair Long with Curls",
+        "part_cat_id": "65",
+        "part_material": "Rubber",
+        "colorName": "Dark Brown",
+        "fig_num": "fig-001039"
+      }
+    ]
+  ]
+}

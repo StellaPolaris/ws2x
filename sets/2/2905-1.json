@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26776",
+      "part_num": "6277",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/6277-1-cc799a8d-0f76-4444-b1c0-c6200174ca6c.jpg",
+      "name": "Duplo Toolo Arm 2 x 6 with Clip at Both Ends",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "6284c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/6284c01-1-a963f5fa-b0c6-40c9-9d56-7c29fe3bcc63.jpg",
+      "name": "Duplo Toolo Brick 2 x 2 with Angled Bracket with Forks and 2 Screws",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "6285",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/6285-4-2074ab21-5a4b-4a0f-8571-0766eadf4ec6.jpg",
+      "name": "Duplo Toolo Brick with Screw 2 x 2, with Angled Arm with Clip",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "6288c01",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/6288c01-1-62fb8e9e-0e4e-4930-8830-fb15e29fd246.jpg",
+      "name": "Duplo Toolo Brick 2 x 5 with 8 Side Screw Sockets, Swivel Bracket End and Clip End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "6290",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/6290-0-5d7b4842-6695-4689-b29e-5ece28b4b8cf.jpg",
+      "name": "Duplo Toolo Wheel with Connector Pin",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "6292",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4514411.jpg",
+      "name": "Duplo Toolo Tyre / Tire",
+      "part_cat_id": "4",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "6295",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/6295-14-daeab9e6-b7fd-43a2-b35f-a4a172378522.jpg",
+      "name": "Duplo Toolo Arm with Fake Pulley and Hook",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "74844",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6039900.jpg",
+      "name": "Duplo Toolo Arm 2 x 11 with Triangular Set Screw End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "74847",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/74847-1-f9ca8ad3-73f7-47d9-bde3-f65aa9adf365.jpg",
+      "name": "Duplo Toolo Arm 2 x  6 with Triangular Set Screw and Clip Ends",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "74864",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/74864-0-8e0c3714-b9e7-412a-8155-eaef376b8a20.jpg",
+      "name": "Duplo Toolo Tool Screwdriver",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "26776",
+      "part_num": "74957",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/74957-14-e94ebe66-cb84-45f7-898c-725bdc3ad00e.jpg",
+      "name": "Duplo Toolo Brick 2 x 2 with Holes and Clip on Bottom",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2905-1",
+    "name": "Accessory Pack",
+    "year": "1993",
+    "theme_id": "664",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2905-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

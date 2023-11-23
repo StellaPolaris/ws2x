@@ -1,0 +1,254 @@
+{
+  "standard": [
+    {
+      "inventory_id": "30120",
+      "part_num": "2335pr0005",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2335p04.png",
+      "name": "Flag 2 x 2 Square [Thin Clips] with Imperial Soldier Black Symbol over White Cross on Blue Background Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "2527",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/252725.jpg",
+      "name": "Launcher Base, Weapon Cannon Base 2 x 4",
+      "part_cat_id": "68",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "2530",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106923.jpg",
+      "name": "Weapon Sword / Cutlass",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "2542",
+      "color_id": "6",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106940.jpg",
+      "name": "Equipment Oar / Paddle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "2551",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/2551.png",
+      "name": "Boat / Rowing Boat 14 x 5 x 2 with Oarlocks [2 Hollow Inside Studs]",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "2562",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/256225.jpg",
+      "name": "Weapon Gun / Pistol Flintlock",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "3020",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302002.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "3022",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302202.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "3023",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302302.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "3062b",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306226.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "3403c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3403c01.png",
+      "name": "Turntable 4 x 4 Square Base with Top, Complete Assembly",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "3957a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "30120",
+      "part_num": "84943a",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/84943a-8-7e732d25-75b3-4361-b2d4-2f5cf2bc538c.jpg",
+      "name": "Weapon Cannon Non Shooting Black Handle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "30120",
+      "part_num": "2526",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/252624.jpg",
+      "name": "Minifig Neckwear Epaulette",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "setInfo": {
+    "set_num": "6245-1",
+    "name": "Harbor Sentry",
+    "year": "1989",
+    "theme_id": "148",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6245-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 1,
+  "countedStandardParts": 20,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50950",
+        "part_num": "2526",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/252624.jpg",
+        "name": "Minifig Neckwear Epaulette",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000137"
+      },
+      {
+        "inventory_id": "50950",
+        "part_num": "2528",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4512716.jpg",
+        "name": "Hat Pirate Bicorne",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000137"
+      },
+      {
+        "inventory_id": "50950",
+        "part_num": "3626bpr0012",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp42.png",
+        "name": "Minifig Head Cavalry / Knight, Beard Vertical Lines with Messy Hair, Moustache Brown Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000137"
+      },
+      {
+        "inventory_id": "50950",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000137"
+      },
+      {
+        "inventory_id": "50950",
+        "part_num": "973c28h01pr0204",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/973c28h01pr0204-15-b27495ef-d6f7-4539-87c5-452aaa59b696.jpg",
+        "name": "Torso Jacket with White Cross Straps Print (Imperial Soldier), Blue Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000137"
+      }
+    ]
+  ]
+}

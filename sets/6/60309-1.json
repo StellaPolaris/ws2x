@@ -1,0 +1,218 @@
+{
+  "standard": [
+    {
+      "inventory_id": "104797",
+      "part_num": "26139",
+      "color_id": "226",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6357791.jpg",
+      "name": "Hair Short Wavy with Center Part",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Yellow"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "30031",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4261908.jpg",
+      "name": "Handlebars",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "30089b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6476480.jpg",
+      "name": "Equipment Camera Handheld with Central Viewfinder",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "50861",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244953.jpg",
+      "name": "Tyre 21 x 6 City Motorcycle",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "50862",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4259653.jpg",
+      "name": "Wheel Centre 15 x 6 City Motorcycle",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "69869c01",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6391389.jpg",
+      "name": "Vehicle Base, Motorcycle Chassis with Light Bluish Gray Flywheel",
+      "part_cat_id": "44",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "75533pr0003",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6351350.jpg",
+      "name": "Fairing, Motorcycle, Racing (Sport) Bike with 1 x 2 Studs and Dark Purple and White Checks, '1' with Crown Print",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "87618",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4623113.jpg",
+      "name": "Bar 5L with Handle (Friction Ram)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "98138",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650498.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "104797",
+      "part_num": "2447",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6357787.jpg",
+      "name": "Headwear Accessory Visor For Standard Helmet",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "104797",
+      "part_num": "98138",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650498.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    }
+  ],
+  "setInfo": {
+    "set_num": "60309-1",
+    "name": "Selfie Stunt Bike",
+    "year": "2021",
+    "theme_id": "744",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/60309-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 2,
+  "countedStandardParts": 9,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "113544",
+        "part_num": "2446pr9998",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6351347.jpg",
+        "name": "Helmet, Standard with Dark Purple Shooting Stars, Gray Checks, and Gold Crown Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-011824"
+      },
+      {
+        "inventory_id": "113544",
+        "part_num": "2447",
+        "color_id": "297",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6357787.jpg",
+        "name": "Headwear Accessory Visor For Standard Helmet",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Pearl Gold",
+        "fig_num": "fig-011824"
+      },
+      {
+        "inventory_id": "113544",
+        "part_num": "3626cpr3539",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6351348.jpg",
+        "name": "Minifig Head Spotlight, Dark Purple Crown Glasses, Nougat Eyebrows, Open Mouth Smile / Pursed Lips Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-011824"
+      },
+      {
+        "inventory_id": "113544",
+        "part_num": "970c09",
+        "color_id": "85",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4226866.jpg",
+        "name": "Hips and Dark Purple Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Purple",
+        "fig_num": "fig-011824"
+      },
+      {
+        "inventory_id": "113544",
+        "part_num": "973c09h27pr5756",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6357802.jpg",
+        "name": "Torso Vest Jacket, with Light Bluish Gray Checks and Pockets, Dark Purple Dice, Yellow Neck Print, Dark Purple Arms, White Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-011824"
+      }
+    ]
+  ]
+}

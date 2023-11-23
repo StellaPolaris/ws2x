@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2502",
+      "part_num": "141ac96",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/141ac96-15-b5bebc29-54ab-4731-a5e1-0062ac6642d3.jpg",
+      "name": "Wire with Light Gray 2-Prong Connectors, 4.5V, Type 1 Connectors, 96L",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "265ac01",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/265ac01.png",
+      "name": "Light Brick 2 x 2 Type 1 - 4.5V [Complete]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3065",
+      "color_id": "34",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306548.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3065",
+      "color_id": "33",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306543.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3065",
+      "color_id": "46",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306544.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3065",
+      "color_id": "36",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306541.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3067pr0001",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/36/3067ap10.png",
+      "name": "Brick 1 x 6 with No Bottom Tubes with White 'STATION' Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3067pr0002",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/34/3067ap11.png",
+      "name": "Brick 1 x 6 with No Bottom Tubes with 'TAXI' Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3067pr0003",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/33/3067ap12.png",
+      "name": "Brick 1 x 6 with No Bottom Tubes with 'POLICE' Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "3134",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3134.png",
+      "name": "Brick Special 1 x 2 with Cable Holding Cutout",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2502",
+      "part_num": "upn0143c14",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Wire with Light Gray 2-Prong Connectors, 4.5V, Type 1 Connectors, 14L",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "970-1",
+    "name": "Lighting Bricks",
+    "year": "1978",
+    "theme_id": "473",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/970-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

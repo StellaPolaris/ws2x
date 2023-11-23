@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "23145",
+      "part_num": "11833",
+      "color_id": "30",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6109764.jpg",
+      "name": "Plate Round 4 x 4 with 2 x 2 Round Opening",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Medium Lavender"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "15573",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6092604.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "24866",
+      "color_id": "26",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6209682.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "3031",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4504850.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "3040b",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4619655.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "3062b",
+      "color_id": "85",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6070305.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "35074pr0002",
+      "color_id": "26",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6211857.jpg",
+      "name": "Animal, Bird, Feet Joined, Bright Light Orange Beak, Magenta Body, Orange Eyes Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Magenta"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "3710",
+      "color_id": "323",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6141592.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Aqua"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "85080",
+      "color_id": "322",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4655336.jpg",
+      "name": "Brick Round Corner 2 x 2 Macaroni with Stud Notch and Reinforced Underside [New Style]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "95343",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6003001.jpg",
+      "name": "Bucket 1 x 1 x 1",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "95344",
+      "color_id": "28",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4626884.jpg",
+      "name": "Bucket 1 x 1 x 1 Handle",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "23145",
+      "part_num": "98138pr0024",
+      "color_id": "179",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6078241.jpg",
+      "name": "Tile Round 1 x 1 with Black Coin Print with 5 Mark",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "561801-1",
+    "name": "Wishing Well with Andrea's Little Bird",
+    "year": "2018",
+    "theme_id": "494",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/561801-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 21,
+  "minfigSetParts": []
+}

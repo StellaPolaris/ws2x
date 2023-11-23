@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "165358",
+      "part_num": "18980",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6292824.jpg",
+      "name": "Plate Round Corners 2 x 6 Double",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "2432",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211357.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "24946",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6143595.jpg",
+      "name": "Food Egg with 1.5mm Hole [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "3004",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211388.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "3005pr0024",
+      "color_id": "182",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6308322.jpg",
+      "name": "Brick 1 x 1 with Mosquito Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "32828",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6227897.jpg",
+      "name": "Plate Round 1 x 1 with Hollow Stud and Horizontal Bar 1L",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "43898",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4186513.jpg",
+      "name": "Dish 3 x 3 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "6141",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005744.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "68325",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6303438.jpg",
+      "name": "Brick Round 4 x 4 with Recessed Center",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "72869",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6338384.jpg",
+      "name": "Bar Holder with Clip and 90 Angle (Mechanical Leg)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "165358",
+      "part_num": "85984pr0006",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6152814.jpg",
+      "name": "Slope 30 1 x 2 x 2/3 with Buttons And Red Screens Print",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9788325341510-1",
+    "name": "Jurassic World: Nowa Era Dinozaur�w",
+    "year": "2023",
+    "theme_id": "497",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9788325341510-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "134058",
+        "part_num": "3626cpr3512",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6344507.jpg",
+        "name": "Minifig Head Ellie Sattler, Dark Tan Eyebrows and Lines, Dark Orange Lips, Smile / Determined with Clenched Teeth Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-012503"
+      },
+      {
+        "inventory_id": "134058",
+        "part_num": "85974",
+        "color_id": "226",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4549990.jpg",
+        "name": "Hair Mid-Length with Part over Front of Right Shoulder",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Yellow",
+        "fig_num": "fig-012503"
+      },
+      {
+        "inventory_id": "134058",
+        "part_num": "970c20",
+        "color_id": "326",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6043605.jpg",
+        "name": "Hips and Olive Green Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Olive Green",
+        "fig_num": "fig-012503"
+      },
+      {
+        "inventory_id": "134058",
+        "part_num": "973c41h02pr5709",
+        "color_id": "484",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6354065.jpg",
+        "name": "Torso Shirt, Pockets, Tied at Midriff, Sand Blue Undershirt Print, Dark Orange Arms, Light Nougat Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Orange",
+        "fig_num": "fig-012503"
+      }
+    ]
+  ]
+}

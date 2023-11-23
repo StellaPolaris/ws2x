@@ -1,0 +1,217 @@
+{
+  "standard": [
+    {
+      "inventory_id": "171550",
+      "part_num": "11214",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6015356.jpg",
+      "name": "Technic Axle Pin 3L with Friction Ridges Lengthwise and 1L Axle",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "11458",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6225230.jpg",
+      "name": "Plate Special 1 x 2 with Pin Hole on Top",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "18654",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6392879.jpg",
+      "name": "Technic Pin Connector Round 1L [Beam]",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "2412b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
+      "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "2432",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211357.jpg",
+      "name": "Tile Special 1 x 2 with Handle",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "3022",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302223.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "32013",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107797.jpg",
+      "name": "Technic Axle and Pin Connector Angled #1",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "3673",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211807.jpg",
+      "name": "Technic Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "37829pr0127",
+      "color_id": "378",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6344444.jpg",
+      "name": "Animal, Dinosaur, Raptor, Baby, Dark Green Top, Dark Red Stripes Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Sand Green"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "92842",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4599984.jpg",
+      "name": "Propeller 3 Blades 5 Diameter",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "171550",
+      "part_num": "99780",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6004990.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "122328-1",
+    "name": "Owen with Jet Pack and Raptor",
+    "year": "2023",
+    "theme_id": "602",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/122328-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 18,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "171624",
+        "part_num": "23186",
+        "color_id": "84",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6145528.jpg",
+        "name": "Hair Swept Left Tousled [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Medium Nougat",
+        "fig_num": "fig-013697"
+      },
+      {
+        "inventory_id": "171624",
+        "part_num": "3626cpr2579",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6223239.jpg",
+        "name": "Minifig Head Owen Grady / Starlord, Stoppled Beard, Sideburns, Mustache, Raised Left Eyebrow and Smile / Firm Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-013697"
+      },
+      {
+        "inventory_id": "171624",
+        "part_num": "41811",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6248533.jpg",
+        "name": "Minifig Neckwear Front Harness with 4 Back Studs",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-013697"
+      },
+      {
+        "inventory_id": "171624",
+        "part_num": "970c05pr1518",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6226515.jpg",
+        "name": "Hips and Dark Blue Legs with Uniform Overall Brown Belt, Pockets",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-013697"
+      },
+      {
+        "inventory_id": "171624",
+        "part_num": "973c14h02pr4886",
+        "color_id": "71",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6279123.jpg",
+        "name": "Torso Shirt with Light Nougat Neck Print, Light Bluish Gray Arms, Light Nougat Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Bluish Gray",
+        "fig_num": "fig-013697"
+      }
+    ]
+  ]
+}

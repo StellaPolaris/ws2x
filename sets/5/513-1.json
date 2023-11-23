@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "25137",
+      "part_num": "3001a",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3001.png",
+      "name": "Brick 2 x 4 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "3001a",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3001.png",
+      "name": "Brick 2 x 4 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "3001a",
+      "color_id": "4",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3001.png",
+      "name": "Brick 2 x 4 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "3001a",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3001.png",
+      "name": "Brick 2 x 4 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "3001b",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3001b-4-4b30c368-348c-4b0f-8d6d-f2c0a4f3f46f.jpg",
+      "name": "Brick 2 x 4 without Cross Supports, with Hole in Top",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "3011",
+      "color_id": "1",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301123.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "3011",
+      "color_id": "14",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301124.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "dupupn0047c95",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo String, Cord Thick Flat (2mm) 95cm",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "dupupn0125",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/dupupn0125-1-08f56201-f4b1-4350-97cf-c81847b9ce76.jpg",
+      "name": "Duplo Car Base 4 x 8 x 1/3 with Old Style Closed Hitch End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25137",
+      "part_num": "dupupn0125",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/dupupn0125-4-fe3cd138-f35a-4c82-b6f3-af93816579ef.jpg",
+      "name": "Duplo Car Base 4 x 8 x 1/3 with Old Style Closed Hitch End",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "513-1",
+    "name": "Building Set",
+    "year": "1970",
+    "theme_id": "505",
+    "num_parts": "31",
+    "img_url": "https://cdn.rebrickable.com/media/sets/513-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 31,
+  "minfigSetParts": []
+}

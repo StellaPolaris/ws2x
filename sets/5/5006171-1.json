@@ -1,0 +1,312 @@
+{
+  "standard": [
+    {
+      "inventory_id": "45377",
+      "part_num": "11212",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6174917.jpg",
+      "name": "Plate 3 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "3021",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302126.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "34103",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199908.jpg",
+      "name": "Plate Special 1 x 3 with 2 Studs with Groove and Inside Stud Holder (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "3622",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/362226.jpg",
+      "name": "Brick 1 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "3623",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/362326.jpg",
+      "name": "Plate 1 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "4162",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/416226.jpg",
+      "name": "Tile 1 x 8 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "4460b",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/446026.jpg",
+      "name": "Slope 75 2 x 1 x 3 with Hollow Stud",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "49311",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6264130.jpg",
+      "name": "Brick 1 x 4 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "60581",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4558209.jpg",
+      "name": "Panel 1 x 4 x 3 [Side Supports / Hollow Studs]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "45377",
+      "part_num": "60581pr9998",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Panel 1 x 4 x 3 [Side Supports / Hollow Studs] with Gold THE UNITED TRINITY on Line 1 in Mixed Height and Gold BEST LAW CHARLTON on Line 2 in Mixed Height Print",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5006171-1",
+    "name": "The United Trinity Statue",
+    "year": "2020",
+    "theme_id": "598",
+    "num_parts": "37",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5006171-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 25,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "65095",
+        "part_num": "20597",
+        "color_id": "308",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6121804.jpg",
+        "name": "Hair Short Tousled with Side Part and Lock Sticking Up",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Brown",
+        "fig_num": "fig-009238"
+      },
+      {
+        "inventory_id": "65095",
+        "part_num": "3626cpr1147",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6021844.jpg",
+        "name": "Minifig Head Bluecoat Soldier / Driver / Garbage Man Dan, Eyebrows and Lopsided Grin Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-009238"
+      },
+      {
+        "inventory_id": "65095",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-009238"
+      },
+      {
+        "inventory_id": "65095",
+        "part_num": "973c22h01pr9789",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4275872.jpg",
+        "name": "Torso White '7' on Back Print (George Best), Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-009238"
+      }
+    ],
+    [
+      {
+        "inventory_id": "65096",
+        "part_num": "21268",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6123038.jpg",
+        "name": "Hair Short Swept Back with Sideburns and Widow's Peak",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-009239"
+      },
+      {
+        "inventory_id": "65096",
+        "part_num": "3626cpr1738",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6121896.jpg",
+        "name": "Minifig Head, Brown Eyebrows, Freckles, Smile Open Mouth / Scared Crooked Mouth",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-009239"
+      },
+      {
+        "inventory_id": "65096",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-009239"
+      },
+      {
+        "inventory_id": "65096",
+        "part_num": "973c22h01pr9787",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4275872.jpg",
+        "name": "Torso with White '10' on Back Print (Bobby Charlton), Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-009239"
+      }
+    ],
+    [
+      {
+        "inventory_id": "65097",
+        "part_num": "3626cpr1579",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6100222.jpg",
+        "name": "Minifig Head Bluecoat Soldier / Driver, Brown Eyebrows, Black Eyes with White Pupils, Crooked Smile with Brown Dimple Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-009240"
+      },
+      {
+        "inventory_id": "65097",
+        "part_num": "970c27",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570434.jpg",
+        "name": "Hips and White Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-009240"
+      },
+      {
+        "inventory_id": "65097",
+        "part_num": "973c22h01pr9788",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4275872.jpg",
+        "name": "Torso White '9' on Back Print (Denis Law), Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-009240"
+      },
+      {
+        "inventory_id": "65097",
+        "part_num": "99930",
+        "color_id": "28",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6162275.jpg",
+        "name": "Hair Smooth Combed Sideways",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Tan",
+        "fig_num": "fig-009240"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15562",
+      "part_num": "18031",
+      "color_id": "1103",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6093534.jpg",
+      "name": "Weapon Sword / Greatsword Pointed with Thick Crossguard",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Titanium"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "22385pr9974",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/33/22385p022.png",
+      "name": "Tile Special 2 x 3 Pentagonal with Nexo Power Shield Print - Shrink Surprise",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "22408",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6129534.jpg",
+      "name": "Minifig Shield Pentagonal",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "3626cpr1785",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6125244.jpg",
+      "name": "Minifig Head Bot, Yellow Robot Eyes, Mask with Metal Bolts, Closed Mouth / Open Mouth Print",
+      "part_cat_id": "59",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "3844",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6037507.jpg",
+      "name": "Helmet Castle with Neck Protector",
+      "part_cat_id": "65",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "3846",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211465.jpg",
+      "name": "Minifig Shield Triangular",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "4740",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107619.jpg",
+      "name": "Dish 2 x 2 Inverted [Radar]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "47905",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550236.jpg",
+      "name": "Brick Special 1 x 1 with Studs on 2 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "48729b",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4289538.jpg",
+      "name": "Bar 1L with Clip [Cut Edges and One Side Hole] [Gap in Clip]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "59900",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529234.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "76764",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6020190.jpg",
+      "name": "Weapon Sword / Shortsword Elaborate Hilt",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "15562",
+      "part_num": "85861",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6124825.jpg",
+      "name": "Plate Round 1 x 1 with Open Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "271608-1",
+    "name": "Kid Clay",
+    "year": "2016",
+    "theme_id": "605",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/271608-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "54403",
+        "part_num": "3626cpr1782",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6124891.jpg",
+        "name": "Minifig Head Clay, Thick Eyebrows, Orange Chin Dimple, Thin Line Smile / Angry Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-003199"
+      },
+      {
+        "inventory_id": "54403",
+        "part_num": "41879a",
+        "color_id": "71",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4520155.jpg",
+        "name": "Legs Short",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Light Bluish Gray",
+        "fig_num": "fig-003199"
+      },
+      {
+        "inventory_id": "54403",
+        "part_num": "973c30h05pr3151",
+        "color_id": "71",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6124899.jpg",
+        "name": "Torso Armor, Blue and White Shield with Falcon, Yellow and Orange Lightning Print, Flat Silver Arms, Dark Blue Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Bluish Gray",
+        "fig_num": "fig-003199"
+      },
+      {
+        "inventory_id": "54403",
+        "part_num": "98385",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4652797.jpg",
+        "name": "Hair Spiked",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-003199"
+      }
+    ]
+  ]
+}

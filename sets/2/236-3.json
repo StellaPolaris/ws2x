@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "9924",
+      "part_num": "3004",
+      "color_id": "4",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300421.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "3004",
+      "color_id": "15",
+      "quantity": "24",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "3005",
+      "color_id": "15",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300501.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "3008",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300801.jpg",
+      "name": "Brick 1 x 8",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "3008pr0004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3008p03.png",
+      "name": "Brick 1 x 8 with 'GARAGE' with Plain 'G' Sans-Serif Thick Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "3034",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303401.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "3036",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303601.jpg",
+      "name": "Plate 6 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "645bc01",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/645bc01.png",
+      "name": "Window 1 x 6 x 2 [Old Style Extended Lip & Glass]",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "820",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/820.png",
+      "name": "Baseplate Raised 8 x 18 with Garage Floor Plate (Old style)",
+      "part_cat_id": "1",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "821",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/821.png",
+      "name": "Garage Door Frame (Old style) - Studs",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "9924",
+      "part_num": "822bc01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/822dc01p01.png",
+      "name": "Garage Door Solid Assembly with Trans Clear Counterweights - Old (Hinge Pins on Door)",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "236-3",
+    "name": "Garage with Automatic Door (Gray base and door frame)",
+    "year": "1968",
+    "theme_id": "372",
+    "num_parts": "59",
+    "img_url": "https://cdn.rebrickable.com/media/sets/236-3.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 59,
+  "minfigSetParts": []
+}

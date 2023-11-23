@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "24595",
+      "part_num": "132a",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/u9131.png",
+      "name": "Tyre Smooth Old Style - Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3001a",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3001.png",
+      "name": "Brick 2 x 4 without Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3005",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300526.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3005",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3007140.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3005pr9891",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3005pty.png",
+      "name": "Brick 1 x 1 with Blue Y Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3005pr9985",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3005pt3.png",
+      "name": "Brick 1 x 1 with Blue '3' Print",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3035",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303501.jpg",
+      "name": "Plate 4 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3065",
+      "color_id": "0",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3065.png",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3065",
+      "color_id": "47",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306540.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "3087bc01",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3087bc01.png",
+      "name": "Window 1 x 1 x 1 Classic with Long Sill [Complete]",
+      "part_cat_id": "16",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "7039",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/7039.png",
+      "name": "Wheel Old with 4 Studs",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "24595",
+      "part_num": "7049a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/7049a.png",
+      "name": "Brick Special 2 x 4 with Wheel Holder Old, Opaque Bottom",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "315-4",
+    "name": "European Taxi",
+    "year": "1968",
+    "theme_id": "373",
+    "num_parts": "48",
+    "img_url": "https://cdn.rebrickable.com/media/sets/315-4.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 48,
+  "minfigSetParts": []
+}

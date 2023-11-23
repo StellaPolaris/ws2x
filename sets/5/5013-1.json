@@ -1,0 +1,264 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3725",
+      "part_num": "3005",
+      "color_id": "15",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300501.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3020",
+      "color_id": "462",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158360.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Orange"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3023",
+      "color_id": "462",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163632.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Orange"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3031",
+      "color_id": "462",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4243827.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Orange"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "32014",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106377.jpg",
+      "name": "Technic Axle and Pin Connector Angled #6 - 90",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3666",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/366601.jpg",
+      "name": "Plate 1 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3707",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370726.jpg",
+      "name": "Technic Axle 8",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3710",
+      "color_id": "462",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163782.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Medium Orange"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3794a",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "3941",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/614326.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "4215b",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129534.jpg",
+      "name": "Panel 1 x 4 x 3 [Hollow Studs]",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "43373",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4174045.jpg",
+      "name": "Sports Hoop with 2 Studs and Axle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "43374",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4174044.jpg",
+      "name": "Sports Basketball Net",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "43702pr0001",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4186831.jpg",
+      "name": "Sports Basketball with Black Lines Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "3725",
+      "part_num": "6636",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/663601.jpg",
+      "name": "Tile 1 x 6 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3725",
+      "part_num": "43702pr0001",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4186831.jpg",
+      "name": "Sports Basketball with Black Lines Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    }
+  ],
+  "setInfo": {
+    "set_num": "5013-1",
+    "name": "Basketball",
+    "year": "2003",
+    "theme_id": "459",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5013-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 1,
+  "countedStandardParts": 22,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50963",
+        "part_num": "3626bpr0062",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpb0022-14-4fab2532-43ed-4ee2-a2d9-9e7cd4b14955.jpg",
+        "name": "Minifig Head, Open Mouth and Teeth, Long Black Hair, One Closed Eye Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000150"
+      },
+      {
+        "inventory_id": "50963",
+        "part_num": "43220c01",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/43743-f1.png",
+        "name": "Hips and Spring Legs with Silver Springs (Weak)",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000150"
+      },
+      {
+        "inventory_id": "50963",
+        "part_num": "973b01pr0159",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/973bpb159c01-7-0442b18e-bb27-4ea5-9b24-3130b4ab257e.jpg",
+        "name": "Torso Basketball Jersey with 3 Squares Print, Long One Piece Arms Yellow (NBA)",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-000150"
+      }
+    ]
+  ]
+}

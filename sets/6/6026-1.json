@@ -1,0 +1,270 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3103",
+      "part_num": "3004",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300402.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "3004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "3005",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300502.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "3023",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302301.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "30246",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4118878.jpg",
+      "name": "Panel 3 x 4 x 6 with Arched Window",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "3846pr0022",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3846p4e.png",
+      "name": "Minifig Shield Triangular with Lion Head, Blue and Yellow Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "3847",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/384727.jpg",
+      "name": "Weapon Sword / Shortsword",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "3849",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/384927.jpg",
+      "name": "Weapon Lance",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "4491b",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4491b.png",
+      "name": "Animal / Creature Accessory, Saddle [Two Clips]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "4493c01pr0011",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121830.jpg",
+      "name": "Animal, Horse, Movable Head, Black Eyes, White Pupils, Brown Bridle Print",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "4495a",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4495a.png",
+      "name": "Flag 4 x 1 Wavy [First Wave Left]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3103",
+      "part_num": "59",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4649842.jpg",
+      "name": "Weapon Sword / Greatsword Round",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6026-1",
+    "name": "King Leo",
+    "year": "2000",
+    "theme_id": "197",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6026-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51817",
+        "part_num": "3626bpr9969",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx71-14-d2ff632e-dc74-4f3f-98a5-115a3d5ee1a1.jpg",
+        "name": "Minifig Head King Leo, Beard with White Beard and Moustache, Crow's Feet Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001002"
+      },
+      {
+        "inventory_id": "51817",
+        "part_num": "71015",
+        "color_id": "334",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100457.jpg",
+        "name": "Crown",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Chrome Gold",
+        "fig_num": "fig-001002"
+      },
+      {
+        "inventory_id": "51817",
+        "part_num": "970c17pr0002",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/970x026pr0001-7-f3082b9a-feab-493f-9ae0-de516bc20473.jpg",
+        "name": "Hips and Light Gray Legs with Blue/Yellow on Legs, Belt Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001002"
+      },
+      {
+        "inventory_id": "51817",
+        "part_num": "973c28h01pr0118",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/973c28h01pr0118-7-280b3cdb-b2f1-4a3e-a0dc-86f70e38c9b1.jpg",
+        "name": "Torso Vest, Shield and Lion Head Print, Blue Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-001002"
+      }
+    ],
+    [
+      {
+        "inventory_id": "61038",
+        "part_num": "30273",
+        "color_id": "8",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4116850.jpg",
+        "name": "Helmet with Chinstrap and Wide Brim",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Gray",
+        "fig_num": "fig-007678"
+      },
+      {
+        "inventory_id": "61038",
+        "part_num": "3626bpr9973",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx68-14-a9bbf915-75ff-4498-9e4c-d058afc2603d.jpg",
+        "name": "Minifig Head Knight, Moustache Curly, Gray Streaks in Hair Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-007678"
+      },
+      {
+        "inventory_id": "61038",
+        "part_num": "970c03pr0014",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/970c03pr0014-0-8afc8b48-1363-4fbf-b573-0118d2a1d7f5.jpg",
+        "name": "Hips and Black Legs with Armor, Green and Silver Belt Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-007678"
+      },
+      {
+        "inventory_id": "61038",
+        "part_num": "973c22h01pr0115",
+        "color_id": "8",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/973px115c01-8-0d1318f0-6c66-44ab-a5d4-ad7f8306b27f.jpg",
+        "name": "Torso Armor with Silver Plates Print, Red Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Gray",
+        "fig_num": "fig-007678"
+      }
+    ]
+  ]
+}

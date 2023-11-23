@@ -1,0 +1,241 @@
+{
+  "standard": [
+    {
+      "inventory_id": "6390",
+      "part_num": "2362a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113027.jpg",
+      "name": "Panel 1 x 2 x 3 - Solid Studs",
+      "part_cat_id": "23",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "2489",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/248925.jpg",
+      "name": "Barrel 2 x 2 x 2",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "30103",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106513.jpg",
+      "name": "Animal, Bat",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "30106",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106556.jpg",
+      "name": "Equipment Crystal Ball Globe 2 x 2 x 2",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "3020",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302021.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "3031",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303102.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "3048c",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/304826.jpg",
+      "name": "Slope 45 2 x 1 Triple with Ovoid Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "3062b",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3006848.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "4460a",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/4460a.png",
+      "name": "Slope 75 2 x 1 x 3 with Open Stud",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "6124",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106561.jpg",
+      "name": "Equipment Magic Wand",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "6141",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005747.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "6390",
+      "part_num": "6251",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100380.jpg",
+      "name": "Animal, Cat, Kitten Crouching [Plain]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "6390",
+      "part_num": "6141",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005747.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    }
+  ],
+  "setInfo": {
+    "set_num": "2872-1",
+    "name": "Witch and Fireplace",
+    "year": "1997",
+    "theme_id": "195",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2872-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 1,
+  "countedStandardParts": 15,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "59141",
+        "part_num": "3626bpr0324",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp4f.png",
+        "name": "Minifig Head Witch, Hair Framed Face, Eyebrows and 1 Tooth in Mouth Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-006551"
+      },
+      {
+        "inventory_id": "59141",
+        "part_num": "3678apr0001",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3678ap01.png",
+        "name": "Slope 65 2 x 2 x 2 Smooth without Bottom Tube with Witch's Dress Print",
+        "part_cat_id": "3",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-006551"
+      },
+      {
+        "inventory_id": "59141",
+        "part_num": "6131",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106559.jpg",
+        "name": "Hat, Wizard",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-006551"
+      },
+      {
+        "inventory_id": "59141",
+        "part_num": "973c03h01pr0035",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973px35c01-0-a49ec6df-3026-48ab-93c7-e360ddcb420f.jpg",
+        "name": "Torso Red Spider Medal Print (Fright Knights), Black Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-006551"
+      }
+    ]
+  ]
+}

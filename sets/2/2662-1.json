@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "25544",
+      "part_num": "2214",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100710.jpg",
+      "name": "Duplo Fence / Rail 1 x 6 with 5 Rails",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "2263pr0002",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/2263pr0002-0-d9243581-978d-4ae0-bc69-042e75151c91.jpg",
+      "name": "Duplo Animal Seal with Eyes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "2284",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/2284-2-8bae0ece-16e4-4795-8dff-42c99f7b8b75.jpg",
+      "name": "Duplo Animal Alligator",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "2292c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2292c01-4-584e2b79-dbb9-4ead-ab85-30295c4cdbc7.jpg",
+      "name": "Duplo Wheelbarrow with Yellow Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "3011",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301121.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "4066pr0113",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4066bp12.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Bucket of Fish Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "4199",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/419921.jpg",
+      "name": "Duplo Brick 2 x 8",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "4555c02pr0079",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/4555pr0079-2-c036fd84-b584-467a-919a-cdebccb5e1ec.jpg",
+      "name": "Duplo Figure, Early, with Flat Cap Yellow, Green Legs, 'ZOO' Print (Zoo Keeper)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "4572",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/4572-7-f88b8636-2e43-4dbc-99d0-cb38c5638ee4.jpg",
+      "name": "Duplo Shovel (Old Style)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "25544",
+      "part_num": "74587",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/74587.png",
+      "name": "Duplo Plant Bush or Tree Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2662-1",
+    "name": "Crocodile and Sea Lion",
+    "year": "1990",
+    "theme_id": "632",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2662-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "30562",
+      "part_num": "33016",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/33016-14-6827532f-75e6-4a0b-bf43-936d7a1ecc05.jpg",
+      "name": "Belville / Scala, Equipment Clothes Hanger",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "33021",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/33021-14-5d887daa-1b61-47a7-b7d9-f76e055fbbc9.jpg",
+      "name": "Scala, Shoe, Child Type 1",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "33021",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/33021-15-c789d6b3-cf65-4e8f-8ebb-a0518b7724a0.jpg",
+      "name": "Scala, Shoe, Child Type 1",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "33062",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/33062.png",
+      "name": "Scala, Plate 4 x 4",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "72965",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/72965-14-8ddfccaa-5946-4a26-88b7-8ee4e0c3e37a.jpg",
+      "name": "Belville / Scala, Blanket / Towel 14 x 5 with Edging",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "scalaupn0012",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/scalaupn0012-4-c3814954-45b6-4eb9-b129-25ceed03be87.jpg",
+      "name": "Scala, Trousers / Pants / Leggings Knee Length",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "scalaupn0026pat0002",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/scalaupn0070-4-481ca0fb-ba06-4a09-bbcf-b2af94499de3.jpg",
+      "name": "Scala, Leotard, Child, with Yellow Dots Pattern",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "scalaupn0046pat0001",
+      "color_id": "74",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/74/scalaupn0046-74-b5c26ce6-b8f3-44d2-ad8d-66066fc99388.jpg",
+      "name": "Scala, Crop Top with Short Sleeves with White Flowers Pattern",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Medium Green"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "scalaupn0047",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/272/scalaupn0047-272-84068c3b-50db-4c07-8c02-240da1fce805.jpg",
+      "name": "Scala, Trousers / Pants, Child",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "scalaupn0071",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/74/scalaupn0071-74-6c85b0b7-5149-4ad3-b73f-7d1ae5e502b3.jpg",
+      "name": "Scala, Skirt",
+      "part_cat_id": "42",
+      "part_material": "Cloth",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "scalaupn0123",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/scalaupn0123-14-3a7b27e6-0f6a-4b15-bc01-24cee0ffbc2b.jpg",
+      "name": "Scala, Hair Clip, Round Type",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30562",
+      "part_num": "scalaupn0123",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/scalaupn0123-4-7f0b6728-1101-42d4-b03d-af8015928055.jpg",
+      "name": "Scala, Hair Clip, Round Type",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3100-1",
+    "name": "Sporty Scala Girl",
+    "year": "1998",
+    "theme_id": "668",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3100-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

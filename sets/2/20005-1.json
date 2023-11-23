@@ -1,0 +1,210 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3375",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "32062",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4142865.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "32073",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211639.jpg",
+      "name": "Technic Axle 5",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "43093",
+      "color_id": "1",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206482.jpg",
+      "name": "Technic Axle Pin with Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "47306",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278499.jpg",
+      "name": "Large Figure Skeletal, Torso with Beam, 2 Ball Joints, and 7 Tooth Half Gear",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "47312",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278473.jpg",
+      "name": "Large Figure Head Connector Block (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "49423",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4247224.jpg",
+      "name": "Large Figure Chest Cover (Toa Metru)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "53545",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4506532.jpg",
+      "name": "Large Figure Skeletal, Torso, Upper, with 2 Ball Joints (Toa Inika)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "57527",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/135/57527-135-b4f159f3-24d8-4004-a644-b106af792220.jpg",
+      "name": "Large Figure Weapon Blade, Aqua Warblade (Hewkii Mahri)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "57536",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505191.jpg",
+      "name": "Large Figure Head Connector Block Eye/Brain Stalk - Short",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "60176",
+      "color_id": "72",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4519225.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Closed Sides, Squared Ends",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "60919pat0001",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4521319.jpg",
+      "name": "Large Figure Wing, Makuta Marbled Pearl Light Gray Pattern",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "61801",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4525712.jpg",
+      "name": "Large Figure Engine / Jet Pack (Rahi Sonic Jet)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "61806",
+      "color_id": "135",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/135/61806-135-86ddbcd6-983b-436f-a140-9cb918c7239a.jpg",
+      "name": "Large Figure Weapon, Claw, Triple, Small with Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "3375",
+      "part_num": "6536",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4173668.jpg",
+      "name": "Technic Axle and Pin Connector Perpendicular",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3375",
+      "part_num": "2780",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121715.jpg",
+      "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "setInfo": {
+    "set_num": "20005-1",
+    "name": "Winged Rahi (Klakk)",
+    "year": "2008",
+    "theme_id": "324",
+    "num_parts": "38",
+    "img_url": "https://cdn.rebrickable.com/media/sets/20005-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 1,
+  "countedStandardParts": 38,
+  "minfigSetParts": []
+}

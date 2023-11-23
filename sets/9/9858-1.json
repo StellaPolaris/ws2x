@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1045",
+      "part_num": "3700",
+      "color_id": "4",
+      "quantity": "24",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370021.jpg",
+      "name": "Technic Brick 1 x 2 [1 Hole]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3700",
+      "color_id": "1",
+      "quantity": "24",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370023.jpg",
+      "name": "Technic Brick 1 x 2 [1 Hole]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3701",
+      "color_id": "1",
+      "quantity": "24",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370123.jpg",
+      "name": "Technic Brick 1 x 4 [3 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3701",
+      "color_id": "4",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370121.jpg",
+      "name": "Technic Brick 1 x 4 [3 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3702",
+      "color_id": "4",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370221.jpg",
+      "name": "Technic Brick 1 x 8 [7 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3702",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370223.jpg",
+      "name": "Technic Brick 1 x 8 [7 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3703",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370321.jpg",
+      "name": "Technic Brick 1 x 16 [15 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3703",
+      "color_id": "1",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/370323.jpg",
+      "name": "Technic Brick 1 x 16 [15 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3894",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/389421.jpg",
+      "name": "Technic Brick 1 x 6 [5 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3894",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/389423.jpg",
+      "name": "Technic Brick 1 x 6 [5 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3895",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/389523.jpg",
+      "name": "Technic Brick 1 x 12 [11 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "1045",
+      "part_num": "3895",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/389521.jpg",
+      "name": "Technic Brick 1 x 12 [11 Holes]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9858-1",
+    "name": "Assortment of Beams",
+    "year": "1992",
+    "theme_id": "525",
+    "num_parts": "126",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9858-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 126,
+  "minfigSetParts": []
+}

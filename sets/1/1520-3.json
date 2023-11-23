@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0003",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/36/penupn0003-36-d5d59931-12ba-4649-a395-706aceb52f74.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0003",
+      "color_id": "33",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/36/penupn0003-36-d5d59931-12ba-4649-a395-706aceb52f74.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Blue"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0003pr0001",
+      "color_id": "18",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/18/penupn0003pr0001-18-8358bf9a-8259-4c4e-a35e-9525d94f7ddd.jpg",
+      "name": "Pen Bead, Round Orb with Snake Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Yellow"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0004pr0001",
+      "color_id": "18",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Spiders Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Yellow"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0004pr0002",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Wooden Crate Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0004pr0003",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Treasure Map Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0005",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/penupn0005-7-06e01bf4-f5af-4cdf-bbfb-468b0afcc80c.jpg",
+      "name": "Pen Bead, Gear",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0006pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/penupn0006pr0001-14-be7dd2b0-1320-41fc-b9a8-c1157a2cb9f6.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with White Glasses, Beard Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0006pr0002",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/penupn0006pr0002-14-c59ff450-7b51-49e2-8a40-de0da8cc5c62.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Monocle, Moustache Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0006pr0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifig Head with Moustache, Stubble, and Sideburns Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn0036c09",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/6/penupn0036c09-6-0a9c1cd8-3fb1-4037-9b41-37703ed1a820.jpg",
+      "name": "Pen Body, with Chrome Tip, Orange Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "68044",
+      "part_num": "penupn9976",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1520-3",
+    "name": "Adventure Pen",
+    "year": "1999",
+    "theme_id": "739",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1520-3.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

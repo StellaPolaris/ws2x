@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0001",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup- Blue Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup- Blue Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup- Green Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0002",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup- Green Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup- Red Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup- Red Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0004",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup - White Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0004",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup - White Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0004",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup - White Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0006",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup - Yellow Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0006",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup - Yellow Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "145912",
+      "part_num": "259pr0006",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "HO Scale VW Pickup - Yellow Base",
+      "part_cat_id": "50",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "259-1-DBASE-1",
+    "name": "Database Set for 259-1",
+    "year": "1958",
+    "theme_id": "746",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/259-1-dbase-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

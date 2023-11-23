@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0063c01pr0002",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Long with Minifigure Legs with Silver and Green Armor Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0063c04",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Long with Minifigure Knight Helmet",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0068",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0430-0-e8202b86-5dff-4442-b00b-b1ea8835e572.jpg",
+      "name": "Watch, Clasp, Male",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0182",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0426-0-14e7dc52-1ce7-4141-9b27-7f4af931fe7f.jpg",
+      "name": "Watch, Clasp, Female",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0379",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0379",
+      "color_id": "2",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0379",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0379",
+      "color_id": "182",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/upn0379-0-7e03b117-83e7-4f17-ad7b-6f11bc0188a4.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0379",
+      "color_id": "179",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/upn0379-179-03958dfc-be40-42d4-8061-c9e728de971e.jpg",
+      "name": "Watch, Link, Rounded",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0465pr0003",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch Face with 'LEGO Nexo Knights' Logo and Aaron Print",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "28558",
+      "part_num": "upn0466ct03",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Watch, Link, Extra Long with Minifigure Torso with Silver and Green Armour Print, Dark Bluish Gray Arms, Green Hands",
+      "part_cat_id": "24",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5005114-1",
+    "name": "Aaron Buildable Watch",
+    "year": "2017",
+    "theme_id": "732",
+    "num_parts": "24",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5005114-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 24,
+  "minfigSetParts": []
+}

@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5690",
+      "part_num": "3001",
+      "color_id": "8",
+      "quantity": "14",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113855.jpg",
+      "name": "Brick 2 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3002",
+      "color_id": "8",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114320.jpg",
+      "name": "Brick 2 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3003",
+      "color_id": "8",
+      "quantity": "12",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4110008.jpg",
+      "name": "Brick 2 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3004",
+      "color_id": "8",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4113909.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3005",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114079.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3006",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114307.jpg",
+      "name": "Brick 2 x 10",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3007",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4116649.jpg",
+      "name": "Brick 2 x 8",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3008",
+      "color_id": "8",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114081.jpg",
+      "name": "Brick 1 x 8",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3009",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114082.jpg",
+      "name": "Brick 1 x 6",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3010",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114308.jpg",
+      "name": "Brick 1 x 4",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "5690",
+      "part_num": "3622",
+      "color_id": "8",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114313.jpg",
+      "name": "Brick 1 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "5690",
+      "part_num": "3005",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114079.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "10146-1",
+    "name": "Assorted Dark Gray Bricks",
+    "year": "2004",
+    "theme_id": "254",
+    "num_parts": "62",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10146-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 1,
+  "countedStandardParts": 62,
+  "minfigSetParts": []
+}

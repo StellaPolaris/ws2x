@@ -1,0 +1,277 @@
+{
+  "standard": [
+    {
+      "inventory_id": "16388",
+      "part_num": "2654",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4650250.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "3004",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164022.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "3022",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4203892.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "3848",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4656382.jpg",
+      "name": "Weapon Halberd / Axe",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "3957a",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "4643621",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 11 - Lasha - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "4643622",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 66 - Toxic Venom - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "4643623",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 112 - Armory - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "4643624",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 120 - Lazy Ninja - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "4643625",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Trading Card, Ninjago Deck #2: 83 - Close Call - North American Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "58176",
+      "color_id": "35",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4570481.jpg",
+      "name": "Light Cover with Internal Bar / Bionicle Barraki Eye",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Trans-Bright Green"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "92338",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4613397.jpg",
+      "name": "Chain 5 links",
+      "part_cat_id": "31",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "98136",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4646644.jpg",
+      "name": "Animal, Snake with Straight Tail",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "98342pr0001",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4654146.jpg",
+      "name": "Ring 4 x 4 with 2 x 2 Hole and 4 Snake Head Ends and Black Scales Snake Print (Ninjago Spinner Crown)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "16388",
+      "part_num": "98354pr0003",
+      "color_id": "85",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4654036.jpg",
+      "name": "Turntable 6 x 6 Round Pearl Titanium Base Serrated with Yellow, White and Dark Green Print (Ninjago Spinner)",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Dark Purple"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "16388",
+      "part_num": "53451",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4273397.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "9562-1",
+    "name": "Lasha",
+    "year": "2012",
+    "theme_id": "435",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9562-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 1,
+  "countedStandardParts": 17,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51694",
+        "part_num": "3626cpr0869",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4651603.jpg",
+        "name": "Minifig Head Lasha, Yellow Snake Eyes and Mouth with Fangs Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000879"
+      },
+      {
+        "inventory_id": "51694",
+        "part_num": "970c18pr0269",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4647765.jpg",
+        "name": "Hips and Lime Legs with Green and Dark Green Scales Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000879"
+      },
+      {
+        "inventory_id": "51694",
+        "part_num": "973c18h03pr1894",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4647900.jpg",
+        "name": "Torso Snake with Dark Green Belt and Red Vials Print, Lime Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000879"
+      },
+      {
+        "inventory_id": "51694",
+        "part_num": "98153pr0002",
+        "color_id": "27",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018878.jpg",
+        "name": "Snake / Cobra Hood and Tail with Dark Green Snake Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Lime",
+        "fig_num": "fig-000879"
+      }
+    ]
+  ]
+}

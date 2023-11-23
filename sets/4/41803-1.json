@@ -1,0 +1,210 @@
+{
+  "standard": [
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "0",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6172383.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "29",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240463.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "321",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199887.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "1056",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6429567.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown Opal"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "65092",
+      "color_id": "1055",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6287309.jpg",
+      "name": "Plate Special 8-Sided Crystal/Gem 1 x 1 x 2/3",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear Opal"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "72046pat0001",
+      "color_id": "212",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6429735.jpg",
+      "name": "Tile Round 1 x 1 with Molded Trans-Bright Pink Star",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "98138",
+      "color_id": "52",
+      "quantity": "15",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6065505.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Purple"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "98138",
+      "color_id": "117",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6313555.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Clear"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "321",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6199887.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Dark Azure"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6240463.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6172383.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "25269",
+      "color_id": "1056",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6429567.jpg",
+      "name": "Tile Round 1 x 1 Quarter",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown Opal"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "65092",
+      "color_id": "1055",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6287309.jpg",
+      "name": "Plate Special 8-Sided Crystal/Gem 1 x 1 x 2/3",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear Opal"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "72046pat0001",
+      "color_id": "212",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6429735.jpg",
+      "name": "Tile Round 1 x 1 with Molded Trans-Bright Pink Star",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "98138",
+      "color_id": "52",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6065505.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Purple"
+    },
+    {
+      "inventory_id": "152357",
+      "part_num": "98138",
+      "color_id": "117",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6313555.jpg",
+      "name": "Tile Round 1 x 1",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Clear"
+    }
+  ],
+  "setInfo": {
+    "set_num": "41803-1",
+    "name": "Extra DOTS Series 8  Glitter and Shine",
+    "year": "2023",
+    "theme_id": "688",
+    "num_parts": "105",
+    "img_url": "https://cdn.rebrickable.com/media/sets/41803-1.jpg"
+  },
+  "countedUniqueParts": 16,
+  "countedSpareParts": 9,
+  "countedStandardParts": 105,
+  "minfigSetParts": []
+}

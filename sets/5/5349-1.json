@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "31209",
+      "part_num": "48138",
+      "color_id": "14",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217467.jpg",
+      "name": "Quatro Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48138",
+      "color_id": "69",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4225997.jpg",
+      "name": "Quatro Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Light Purple"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48138",
+      "color_id": "4",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217462.jpg",
+      "name": "Quatro Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48201",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219179.jpg",
+      "name": "Quatro Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48201",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219181.jpg",
+      "name": "Quatro Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48287",
+      "color_id": "10",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219186.jpg",
+      "name": "Quatro Brick 1 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48287",
+      "color_id": "25",
+      "quantity": "20",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4224234.jpg",
+      "name": "Quatro Brick 1 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48287",
+      "color_id": "1",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219184.jpg",
+      "name": "Quatro Brick 1 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48411",
+      "color_id": "10",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219190.jpg",
+      "name": "Quatro Brick 1 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "48411",
+      "color_id": "1",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219188.jpg",
+      "name": "Quatro Brick 1 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "49465",
+      "color_id": "1",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4223862.jpg",
+      "name": "Quatro Brick 2 x 2 with Curve",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "31209",
+      "part_num": "49465",
+      "color_id": "10",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4223864.jpg",
+      "name": "Quatro Brick 2 x 2 with Curve",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5349-1",
+    "name": "Quatro 100",
+    "year": "2004",
+    "theme_id": "441",
+    "num_parts": "100",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5349-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 100,
+  "minfigSetParts": []
+}

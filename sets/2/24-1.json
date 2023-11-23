@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3487",
+      "part_num": "132a",
+      "color_id": "0",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u9131.png",
+      "name": "Tyre Smooth Old Style - Small",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "3001mib",
+      "color_id": "0",
+      "quantity": "14",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Minitalia Brick 2 x 4 with Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "3003mib",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3003mib-4-60fc3fe6-b3fc-474a-a887-3de367339b34.jpg",
+      "name": "Minitalia Brick 2 x 2 with Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "3183a",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3183a.png",
+      "name": "Plate Special 1 x 4 with Towball Socket, Long, 2 Slots",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "3184",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3184.png",
+      "name": "Plate Special 1 x 4 with Towball",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "3185",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/318521.jpg",
+      "name": "Fence 1 x 4 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "3297mia",
+      "color_id": "4",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/3297mia-2-2e0fcf45-26eb-45d2-89e4-302c966362b0.jpg",
+      "name": "Minitalia Slope 33 3 x 4 with Bottom X Supports",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "3298mia",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/3298mia-2-94cdd67a-5f98-463a-b440-46d183bb7222.jpg",
+      "name": "Minitalia Slope 33 3 x 2 with Bottom X Supports",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "carbasemia",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Vehicle Base, Minitalia Brick Special 16 x 6 with 4 Wheels for 132-old Tires",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "m3001",
+      "color_id": "14",
+      "quantity": "11",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "m3003",
+      "color_id": "0",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u8101.png",
+      "name": "Minitalia Brick 2 x 2 with Bottom X Support",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3487",
+      "part_num": "m3003",
+      "color_id": "14",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u8101.png",
+      "name": "Minitalia Brick 2 x 2 with Bottom X Support",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "24-1",
+    "name": "Minitalia Train",
+    "year": "1971",
+    "theme_id": "433",
+    "num_parts": "77",
+    "img_url": "https://cdn.rebrickable.com/media/sets/24-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 77,
+  "minfigSetParts": []
+}

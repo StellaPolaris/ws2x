@@ -1,0 +1,204 @@
+{
+  "standard": [
+    {
+      "inventory_id": "6951",
+      "part_num": "3020",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112232.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "3023",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "3034",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303426.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "32064b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/32064d.png",
+      "name": "Technic Brick 1 x 2 with Axle Hole Type 2 [X Opening]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "3710",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/371026.jpg",
+      "name": "Plate 1 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "3794a",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3794a.png",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "4195292",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4195292-9999-1cce6b8f-63df-4ae1-b57f-ef1160d3deae.jpg",
+      "name": "Backdrop, Set 3549, Basketball Backboard",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "43373",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4174045.jpg",
+      "name": "Sports Hoop with 2 Studs and Axle",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "43374",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4174044.jpg",
+      "name": "Sports Basketball Net",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "43702",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4185103.jpg",
+      "name": "Sports Basketball [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "6951",
+      "part_num": "45522",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4191726.jpg",
+      "name": "Plate Special 6 x 6 x 2/3 with 4 Studs and Embossed 'SPORTS'",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "3549-1",
+    "name": "Practice Shooting",
+    "year": "2003",
+    "theme_id": "459",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3549-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51966",
+        "part_num": "30608",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4167774.jpg",
+        "name": "Hair Flat Top, Tall",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-001151"
+      },
+      {
+        "inventory_id": "51966",
+        "part_num": "3626bpr0062",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpb0022-14-4fab2532-43ed-4ee2-a2d9-9e7cd4b14955.jpg",
+        "name": "Minifig Head, Open Mouth and Teeth, Long Black Hair, One Closed Eye Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001151"
+      },
+      {
+        "inventory_id": "51966",
+        "part_num": "43220c01",
+        "color_id": "272",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/272/43743-f1.png",
+        "name": "Hips and Spring Legs with Silver Springs (Weak)",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Blue",
+        "fig_num": "fig-001151"
+      },
+      {
+        "inventory_id": "51966",
+        "part_num": "973b01pr0159",
+        "color_id": "7",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/973bpb159c01-7-0442b18e-bb27-4ea5-9b24-3130b4ab257e.jpg",
+        "name": "Torso Basketball Jersey with 3 Squares Print, Long One Piece Arms Yellow (NBA)",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Light Gray",
+        "fig_num": "fig-001151"
+      }
+    ]
+  ]
+}

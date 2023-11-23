@@ -1,0 +1,254 @@
+{
+  "standard": [
+    {
+      "inventory_id": "12235",
+      "part_num": "2336pr0005",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2336p01.png",
+      "name": "Brick Special, Cockpit Space Nose with Aquazone Aquashark Blue Shark with Red X Print",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "2476a",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/247623.jpg",
+      "name": "Plate Special 2 x 2 with Pin on Bottom",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "2540",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/254026.jpg",
+      "name": "Plate Special 1 x 2 Side Handle [Free Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "298c03",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/73587p03.png",
+      "name": "Lever Small Base with Light Gray Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "3020",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302026.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "3021",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302123.jpg",
+      "name": "Plate 2 x 3",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "3023",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302323.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "3062b",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306223.jpg",
+      "name": "Brick Round 1 x 1 Open Stud",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "3795",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379523.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "4598",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/459826.jpg",
+      "name": "Bracket 3 x 2 - 2 x 2 [aka Space Seat]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "57467",
+      "color_id": "383",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/383/57467.png",
+      "name": "Weapon Harpoon [4 Grooves on Shaft]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "59275",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/59275a.png",
+      "name": "Minifig Footwear Flipper [Thin]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "12235",
+      "part_num": "6041",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4165521.jpg",
+      "name": "Propeller 3 Blade 3 Diameter with Axle Cross",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "12235",
+      "part_num": "298c03",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/73587p03.png",
+      "name": "Lever Small Base with Light Gray Lever",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    }
+  ],
+  "setInfo": {
+    "set_num": "6115-1",
+    "name": "Shark Scout",
+    "year": "1995",
+    "theme_id": "311",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6115-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 1,
+  "countedStandardParts": 23,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "57987",
+        "part_num": "3626bpr0031",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bp7a.png",
+        "name": "Minifig Head, Male, Brown Hair over Eye, Eyebrows Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-005774"
+      },
+      {
+        "inventory_id": "57987",
+        "part_num": "6089",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6089.png",
+        "name": "Helmet Underwater, Chestplate",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-005774"
+      },
+      {
+        "inventory_id": "57987",
+        "part_num": "6090",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/6090.png",
+        "name": "Headwear Accessory Visor / Divers Mask (Underwater)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-005774"
+      },
+      {
+        "inventory_id": "57987",
+        "part_num": "970c03",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/970x024-0-454404b2-a9f1-410c-818b-5a2caa0d2797.jpg",
+        "name": "Hips and Black Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-005774"
+      },
+      {
+        "inventory_id": "57987",
+        "part_num": "973c03h03pr0075",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973pb0075c01-0-2755aea4-c104-4722-ba0e-f9222f7ff44f.jpg",
+        "name": "Torso Aquashark Blue Shark with Red X Print, Black Arms and Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-005774"
+      }
+    ]
+  ]
+}

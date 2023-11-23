@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14310",
+      "part_num": "1",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/1.png",
+      "name": "Homemaker Bookcase 2 x 4 x 4",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "2",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/2.png",
+      "name": "Homemaker Cupboard 4 x 4 x 4",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "3",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3.png",
+      "name": "Homemaker Drawer 4 x 4 x 2",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "3008",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300823.jpg",
+      "name": "Brick 1 x 8",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "3069a",
+      "color_id": "1",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3069a.png",
+      "name": "Tile 1 x 2 without Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "3069a",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3069a.png",
+      "name": "Tile 1 x 2 without Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "3069a",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3069a.png",
+      "name": "Tile 1 x 2 without Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "3297",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329723.jpg",
+      "name": "Slope 33 3 x 4",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "3298",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/329823.jpg",
+      "name": "Slope 33 3 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "837",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/837.png",
+      "name": "Homemaker Cupboard 4 x 4 x 4 with Door Holder Holes",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14310",
+      "part_num": "838",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/838.png",
+      "name": "Homemaker Cupboard Door 4 x 4",
+      "part_cat_id": "7",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "273-1",
+    "name": "Bureau",
+    "year": "1973",
+    "theme_id": "405",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/273-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": []
+}

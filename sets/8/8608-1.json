@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "7177",
+      "part_num": "32062",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4109810.jpg",
+      "name": "Technic Axle 2 Notched",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "32174",
+      "color_id": "72",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217829.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Sides",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "32533pr0226",
+      "color_id": "21",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/21/32533pb226-21-6252c89a-fd07-4fc6-b3fc-f0c660471e70.jpg",
+      "name": "Large Figure Throwing Disc, Kanoka, Ga-Metru 226 Print",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Glow In Dark Opaque"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "32553",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/72/32553.png",
+      "name": "Large Figure Head Connector Block 3 x 4 x 1 2/3",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "32554",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143501.jpg",
+      "name": "Large Figure Head Connector Block Eye/Brain Stalk",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "32572pat0001",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/272/32572pb01-272-db8818e3-d7e0-418a-8b4b-fb849d2b6b69.jpg",
+      "name": "Large Figure Mask, Komau with Marbled Pearl Light Gray Pattern (Vhisola)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "41668",
+      "color_id": "272",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219219.jpg",
+      "name": "Large Figure Foot, with Ball Joint Socket 2 x 3 x 5",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "43093",
+      "color_id": "1",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206482.jpg",
+      "name": "Technic Axle Pin with Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "47295",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219213.jpg",
+      "name": "Large Figure Skeletal, Torso with 6 Holes (Matoran)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "47300",
+      "color_id": "72",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219217.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular 90, 3 x 3 x 2 with 2 Ball Joints, and Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "47304",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/179/47304-179-c9aee3a6-866b-407f-b172-d282e0023c2f.jpg",
+      "name": "Launcher, Large Figure Weapon, Kanoka Disk Launcher (Matoran)",
+      "part_cat_id": "68",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "6553",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107765.jpg",
+      "name": "Technic Axle 1.5 with Perpendicular Axle Connector (Technic Pole Reverser Handle)",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7177",
+      "part_num": "6558",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/655826.jpg",
+      "name": "Technic Pin Long with Friction Ridges Lengthwise, 2 Center Slots",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "8608-1",
+    "name": "Vhisola",
+    "year": "2004",
+    "theme_id": "324",
+    "num_parts": "27",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8608-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 27,
+  "minfigSetParts": []
+}

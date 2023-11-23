@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10535",
+      "part_num": "2376",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4222123.jpg",
+      "name": "Tile Round 2 x 2 - Thin Lifting Ring",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "2584",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/258421.jpg",
+      "name": "String Reel 2 x 2 Holder",
+      "part_cat_id": "31",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "2585",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/258526.jpg",
+      "name": "String Reel 2 x 2 Drum",
+      "part_cat_id": "31",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "2648",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/2648.png",
+      "name": "Crane Grab Jaw",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "2649",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2649.png",
+      "name": "Crane Grab Grip",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "3127",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3127a.png",
+      "name": "Hook, Plate, Modified 1 x 2 with Crane Hook Left",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "3176",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/317621.jpg",
+      "name": "Plate Special 3 x 2 with Hole",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "3464",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/346421.jpg",
+      "name": "Wheel Centre Small with Stub Axles (Pulley Wheel)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "73037",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/73037.png",
+      "name": "String Reel Winch 2 x 4 x 2 (Light Gray Drum)",
+      "part_cat_id": "31",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "upn0370",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/rb00164-0-2bc201c2-f28b-4af4-b8bb-71f5c4a8efc3.jpg",
+      "name": "String Cord [Undetermined Type]",
+      "part_cat_id": "31",
+      "part_material": "Cloth",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "10535",
+      "part_num": "2649",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2649.png",
+      "name": "Crane Grab Grip",
+      "part_cat_id": "34",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10535",
+      "part_num": "3464",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/346421.jpg",
+      "name": "Wheel Centre Small with Stub Axles (Pulley Wheel)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "5078-1",
+    "name": "Crane Accessories",
+    "year": "1993",
+    "theme_id": "443",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5078-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 2,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

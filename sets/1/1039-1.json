@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10042",
+      "part_num": "3020",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302002.jpg",
+      "name": "Plate 2 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3034",
+      "color_id": "7",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303402.jpg",
+      "name": "Plate 2 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3036",
+      "color_id": "7",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/303602.jpg",
+      "name": "Plate 6 x 8",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3068b",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306823.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3068b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306801.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3068b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306821.jpg",
+      "name": "Tile 2 x 2 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3068bpr0050",
+      "color_id": "15",
+      "quantity": "7",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3068bp18.png",
+      "name": "Tile 2 x 2 with Groove and Black Wide Arrow Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3068bpr0050",
+      "color_id": "4",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3068bp18.png",
+      "name": "Tile 2 x 2 with Groove and Black Wide Arrow Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "3068bpr0050",
+      "color_id": "1",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3068bp18.png",
+      "name": "Tile 2 x 2 with Groove and Black Wide Arrow Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "4350c01",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/4350c01-7-ea495d51-47f5-4cdc-ab64-3bdd4aca2915.jpg",
+      "name": "Battery Box, 4.5V, 4 x 22, 3 x C-Cell without Switch [Complete Assembly]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "4707c03",
+      "color_id": "7",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/4707c03.png",
+      "name": "Control Unit, Train 12V, 8 x 10 with Rotating Arrows Print",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "765c28",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/765c28-7-ba4f22dd-349c-4ab7-a47d-8bc56b50e6ef.jpg",
+      "name": "Wire with 1-Prong Connectors, 12V / 4.5V 28L",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10042",
+      "part_num": "765c96",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/7/765c96-7-504ecbe3-2b40-4459-853b-d77f36dd11aa.jpg",
+      "name": "Wire with 1-Prong Connectors, 12V / 4.5V 96L",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1039-1",
+    "name": "Manual Control Set 1",
+    "year": "1986",
+    "theme_id": "1",
+    "num_parts": "39",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1039-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 39,
+  "minfigSetParts": []
+}

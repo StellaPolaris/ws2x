@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1095",
+      "part_num": "45463",
+      "color_id": "73",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/73/clikits086pb03-73-e6247b43-67d6-48e2-8764-422569392093.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Small with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "45463pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/45463pr0002-15-c8b22d1b-4710-4e19-b869-b2c698aadd60.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Small with Pin [Frosted] Dark Blue Star and 3 Dark Red Stripes Print",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "46286",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/36/46286-36-ae6b2589-7c48-4465-b20a-e408696149ec.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Small, with Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "46286",
+      "color_id": "1006",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1006/46286-1006-fe9f4741-af24-48ba-9a1d-32588a346804.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Small, with Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Royal Blue"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "46296",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/36/46296.png",
+      "name": "Clikits Bead, Ring, Thick Small with Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "51509a",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4254689.jpg",
+      "name": "Clikits Icon, Round 2 x 2 Small with Hole [Polished]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "51509a",
+      "color_id": "1006",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4260627.jpg",
+      "name": "Clikits Icon, Round 2 x 2 Small with Hole [Polished]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Royal Blue"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "clikupn0003c04",
+      "color_id": "43",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/43/clikupn0003c04-43-f53aa210-747c-4e21-a959-629e69a36bed.jpg",
+      "name": "Clikits Cord, Jelly String, 170mm, with Trans-Light Royal Blue Colored Caps",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Very Lt Blue"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "clikupn0063pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/clikupn0063pr0002-15-29fc4c28-2180-409e-a86f-f0990b58b99c.jpg",
+      "name": "Clikits Icon, Round 2 x 2 Large with Pin, Soccer Ball Print",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "clikupn0063pr0003",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/73/clikits086pb03-73-7f67d2d6-049f-47ba-9951-db78c862a7ea.jpg",
+      "name": "Clikits Icon, Round 2 x 2 Large with Pin, Black Star on Silver Print",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "1095",
+      "part_num": "clikupn0063pr0004",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/clikits086pb04-15-0b453c08-3017-4731-96a9-0c9d15711d4e.jpg",
+      "name": "Clikits Icon, Round 2 x 2 Large with Pin, Blue '1' Print",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7559-1",
+    "name": "Sports & Stars",
+    "year": "2005",
+    "theme_id": "500",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7559-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}

@@ -1,0 +1,218 @@
+{
+  "standard": [
+    {
+      "inventory_id": "791",
+      "part_num": "2586pr0015",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/2586p4g.png",
+      "name": "Minifig Shield Ovoid with Bull Head Print",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6027",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6027.png",
+      "name": "Animal Body Part, Alligator / Crocodile / Dragon Upper Jaw / Dinosaur Tongue",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6028",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6028.png",
+      "name": "Animal Body Part, Alligator / Crocodile / Dragon / Dinosaur Tail",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6123",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/6123.png",
+      "name": "Weapon Halberd / Axe Elaborate",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6126a",
+      "color_id": "57",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/57/6126a.png",
+      "name": "Wave / Flame Rounded with Base Pegs",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6127",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6127.png",
+      "name": "Animal / Creature Body Part, Dinosaur / Dragon Arm, Right",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6128",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/6128.png",
+      "name": "Animal / Creature Body Part, Dinosaur / Dragon  Arm, Left",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6129c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/75174.png",
+      "name": "Creature Body Part, Dragon Body [Complete Assembly] [Plain]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "6133",
+      "color_id": "57",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106519.jpg",
+      "name": "Creature Body Part, Dragon Wing",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "791",
+      "part_num": "87695",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/87695.png",
+      "name": "Animal Body Part, Horn, Cattle",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "791",
+      "part_num": "87696",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/87696.png",
+      "name": "Headwear Accessory Plume / Feather Headdress",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "setInfo": {
+    "set_num": "4818-1",
+    "name": "Dragon Rider",
+    "year": "2000",
+    "theme_id": "197",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4818-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 2,
+  "countedStandardParts": 10,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50910",
+        "part_num": "3626bpr9967",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3626bpx73-14-fe580908-6059-429f-837c-6d256cc5b413.jpg",
+        "name": "Minifig Head Cedric the Bull, Moustache Gray Eyes, Frown Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000097"
+      },
+      {
+        "inventory_id": "50910",
+        "part_num": "6122",
+        "color_id": "383",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/383/6122.png",
+        "name": "Helmet Castle - Dragon Crown Top",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Chrome Silver",
+        "fig_num": "fig-000097"
+      },
+      {
+        "inventory_id": "50910",
+        "part_num": "87695",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/87695.png",
+        "name": "Animal Body Part, Horn, Cattle",
+        "part_cat_id": "28",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-000097"
+      },
+      {
+        "inventory_id": "50910",
+        "part_num": "970c03pr0015",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/970c00pb015-0-bebbd752-935b-44a6-b3e6-0ef4bd7e7a2f.jpg",
+        "name": "Hips and Black Legs with Red and Gold Belt Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000097"
+      },
+      {
+        "inventory_id": "50910",
+        "part_num": "973c08h22pr0120",
+        "color_id": "0",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/973px120c01-0-b543b398-e956-487d-93ef-c460b2cf0468.jpg",
+        "name": "Torso Bull's Head on Brown Shield Print, Dark Gray Arms, Red Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Black",
+        "fig_num": "fig-000097"
+      }
+    ]
+  ]
+}

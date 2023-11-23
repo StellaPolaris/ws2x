@@ -1,0 +1,267 @@
+{
+  "standard": [
+    {
+      "inventory_id": "3859",
+      "part_num": "2420",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/242023.jpg",
+      "name": "Plate 2 x 2 Corner",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "2470",
+      "color_id": "6",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/6/2470.png",
+      "name": "Wheel Wagon Small (27mm D.)",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "2555",
+      "color_id": "0",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/255526.jpg",
+      "name": "Tile Special 1 x 1 with Clip and Straight Tips",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "30173a",
+      "color_id": "7",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114205.jpg",
+      "name": "Weapon Sword / Katana [Octagonal Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "3022",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302226.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "3023",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302323.jpg",
+      "name": "Plate 1 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "3040b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/304001.jpg",
+      "name": "Slope 45 2 x 1 with Bottom Pin",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "3298",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114323.jpg",
+      "name": "Slope 33 3 x 2",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "3794a",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379402.jpg",
+      "name": "Plate Special 1 x 2 with 1 Stud without Groove (Jumper)",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "3795",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "3839b",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/383923.jpg",
+      "name": "Plate Special 1 x 2 with Handles [Flat Ends / Low Attachment]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "4600",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/460002.jpg",
+      "name": "Plate Special 2 x 2 with Wheel Holders",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "3859",
+      "part_num": "6016",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/6/6016.png",
+      "name": "Bar 1 x 4 x 3 Window [Side Tabs]",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "3859",
+      "part_num": "529",
+      "color_id": "334",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/71591.png",
+      "name": "Headwear Accessory Horn to Clip to Helmet (Samurai)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Chrome Gold"
+    }
+  ],
+  "setInfo": {
+    "set_num": "1186-1",
+    "name": "Cart",
+    "year": "1999",
+    "theme_id": "434",
+    "num_parts": "25",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1186-1.jpg"
+  },
+  "countedUniqueParts": 14,
+  "countedSpareParts": 1,
+  "countedStandardParts": 19,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51826",
+        "part_num": "30174",
+        "color_id": "8",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114334.jpg",
+        "name": "Minifig Neckwear Armour Ninja Style [Plain]",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Dark Gray",
+        "fig_num": "fig-001011"
+      },
+      {
+        "inventory_id": "51826",
+        "part_num": "30175",
+        "color_id": "8",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114208.jpg",
+        "name": "Helmet Ninja, Samurai",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Gray",
+        "fig_num": "fig-001011"
+      },
+      {
+        "inventory_id": "51826",
+        "part_num": "3626bpr0261",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3626bpn1.png",
+        "name": "Minifig Head Ninja, White Hair, Eyebrows, and Moustache Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-001011"
+      },
+      {
+        "inventory_id": "51826",
+        "part_num": "529",
+        "color_id": "334",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/334/71591.png",
+        "name": "Headwear Accessory Horn to Clip to Helmet (Samurai)",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Chrome Gold",
+        "fig_num": "fig-001011"
+      },
+      {
+        "inventory_id": "51826",
+        "part_num": "970c03pr0005",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/970c11pb02b-0-9203cc38-0448-4134-a635-1f26a92fc113.jpg",
+        "name": "Hips and Black Legs with Armour Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-001011"
+      },
+      {
+        "inventory_id": "51826",
+        "part_num": "973c03h01pr0001",
+        "color_id": "1",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/973pn1c01-1-ae9a2c34-f0e7-4943-95da-0b51f8af11a5.jpg",
+        "name": "Torso Samurai Robe, Sash and Dagger Print (Shogun), Black Arms, Yellow Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Blue",
+        "fig_num": "fig-001011"
+      }
+    ]
+  ]
+}

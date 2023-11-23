@@ -1,0 +1,313 @@
+{
+  "standard": [
+    {
+      "inventory_id": "13466",
+      "part_num": "11477",
+      "color_id": "308",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6046943.jpg",
+      "name": "Slope Curved 2 x 1 No Studs [1/2 Bow]",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Dark Brown"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "11833",
+      "color_id": "84",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018928.jpg",
+      "name": "Plate Round 4 x 4 with 2 x 2 Round Opening",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Medium Nougat"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "2420",
+      "color_id": "28",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4550168.jpg",
+      "name": "Plate 2 x 2 Corner",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "2423",
+      "color_id": "326",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6006425.jpg",
+      "name": "Plant, Leaves 4 x 3",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Olive Green"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "30357",
+      "color_id": "288",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6001836.jpg",
+      "name": "Plate Round Corner 3 x 3",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "3700",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211252.jpg",
+      "name": "Technic Brick 1 x 2 [1 Hole]",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "3937",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211469.jpg",
+      "name": "Hinge Brick 1 x 2 Base",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "4070",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/19/4070.png",
+      "name": "Brick Special 1 x 1 with Headlight and No Slot",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "48336",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217562.jpg",
+      "name": "Plate Special 1 x 2 [Side Handle Closed Ends]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "54200",
+      "color_id": "326",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6002841.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Olive Green"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "59900",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4529242.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "61184",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4520320.jpg",
+      "name": "Technic Pin 1/2 with 2L Bar Extension",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "6134",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211881.jpg",
+      "name": "Hinge Brick 2 x 2 Top Plate Thin",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "6141",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4161734.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "85984",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624086.jpg",
+      "name": "Slope 30 1 x 2 x 2/3",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "92280",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4598526.jpg",
+      "name": "Plate Special 1 x 2 [Top Clip]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "93231",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610041.jpg",
+      "name": "Weapon Bow and Arrow Long",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "93273",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4658005.jpg",
+      "name": "Slope Curved 4 x 1 Double with No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "13466",
+      "part_num": "54200",
+      "color_id": "326",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6002841.jpg",
+      "name": "Slope 30 1 x 1 x 2/3 (Cheese Slope)",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Olive Green"
+    },
+    {
+      "inventory_id": "13466",
+      "part_num": "6141",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4161734.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    }
+  ],
+  "setInfo": {
+    "set_num": "30215-1",
+    "name": "Legolas Greenleaf",
+    "year": "2013",
+    "theme_id": "562",
+    "num_parts": "33",
+    "img_url": "https://cdn.rebrickable.com/media/sets/30215-1.jpg"
+  },
+  "countedUniqueParts": 20,
+  "countedSpareParts": 2,
+  "countedStandardParts": 29,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "50935",
+        "part_num": "10055pr0001",
+        "color_id": "226",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6016973.jpg",
+        "name": "Hair Long Straight with Light Nougat Elf Ears Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Yellow",
+        "fig_num": "fig-000122"
+      },
+      {
+        "inventory_id": "50935",
+        "part_num": "3626cpr1116",
+        "color_id": "78",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6029342.jpg",
+        "name": "Minifig Head, Chin and Cheek Lines, Calm Closed Mouth / Clenched Teeth Print",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Nougat",
+        "fig_num": "fig-000122"
+      },
+      {
+        "inventory_id": "50935",
+        "part_num": "970c07pr0455",
+        "color_id": "308",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6023063.jpg",
+        "name": "Hips and Dark Brown Legs with Elven Armour Tails Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Brown",
+        "fig_num": "fig-000122"
+      },
+      {
+        "inventory_id": "50935",
+        "part_num": "973c21h02pr2294",
+        "color_id": "70",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6029344.jpg",
+        "name": "Torso Elven Armour with Gold Collar Print, Pearl Gold Arms, Light Nougat Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Reddish Brown",
+        "fig_num": "fig-000122"
+      }
+    ]
+  ]
+}

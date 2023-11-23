@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "2382",
+      "part_num": "43559",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4203394.jpg",
+      "name": "Large Figure Shoulder Cover, Armour",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "43559",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4201206.jpg",
+      "name": "Large Figure Shoulder Cover, Armour",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "43559",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4210593.jpg",
+      "name": "Large Figure Shoulder Cover, Armour",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "43559",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4194636.jpg",
+      "name": "Large Figure Shoulder Cover, Armour",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "43559",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4194640.jpg",
+      "name": "Large Figure Shoulder Cover, Armour",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "43559",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4201224.jpg",
+      "name": "Large Figure Shoulder Cover, Armour",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "44791",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/44791-15-9609045d-741e-47af-9907-9e6764fa8808.jpg",
+      "name": "Large Figure Armor Hockey Chest Protector",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "47851",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/PART-4835-9999-c775cf5c-386e-4fbf-b42e-f8f3a66bc664.jpg",
+      "name": "Sticker Sheet 2 for Sets 10127-1, 65182-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "47852",
+      "color_id": "9999",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/47852-9999-07a85e52-0807-4edc-a2d2-5101a4bcb514.jpg",
+      "name": "Sticker Sheet 1 for Sets 10127-1, 65182-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "47853",
+      "color_id": "9999",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/47853-9999-e3a2788f-669e-4097-860c-aefe006aacac.jpg",
+      "name": "Sticker Sheet 3 for Sets 10127-1, 65182-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "rb00184",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Playmat, Sports Hockey Action Rink",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "2382",
+      "part_num": "stickerupn0033",
+      "color_id": "9999",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Sticker Sheet 4 for Set 65182-1",
+      "part_cat_id": "58",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "65182-1",
+    "name": "Slammer Stadium",
+    "year": "2003",
+    "theme_id": "461",
+    "num_parts": "22",
+    "img_url": "https://cdn.rebrickable.com/media/sets/65182-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 22,
+  "minfigSetParts": []
+}

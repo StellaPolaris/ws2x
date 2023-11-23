@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "272",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257262.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Blue"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257264.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257255.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257240.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257266.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257243.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257245.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257252.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257267.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257255.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "179297",
+      "part_num": "50899pat0001",
+      "color_id": "78",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257255.jpg",
+      "name": "Large Figure Spinner / Propeller without Code, Marbled Pearl Light Gray Pattern (Rhotuka)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Light Nougat"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "8748-1-DBASE-1",
+    "name": "Database Set for 8748-1",
+    "year": "2005",
+    "theme_id": "746",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8748-1-dbase-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

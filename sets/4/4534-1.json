@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15260",
+      "part_num": "2868b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2869c02.png",
+      "name": "Hub / Controller, Train Speed Regulator 9V",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "2871a",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2871a.png",
+      "name": "Train Motor Decorative Side with Closed Hub Points (for 9V Train Motor)",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "3004",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300426.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "5306b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100355.jpg",
+      "name": "Wire with Brick 2 x 2 x 2/3 Pair [Undetermined Length]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "5306c01",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/8/5306c01-8-6517c3e7-da43-4ca1-97a5-0a3f34fbeafe.jpg",
+      "name": "Wire with Brick 2 x 2 x 2/3 and Train Track Contacts",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "6035",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4603220.jpg",
+      "name": "Light Brick 1 x 2 with Single Side Light",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "70358",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/70358.jpg",
+      "name": "Motor, Train Base, 9V [Complete Assembly]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "70931",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/70931-0-5b6589c9-b1ea-4736-879f-ff5d6e5cc8ae.jpg",
+      "name": "Electric Adapter / Transformer, 120V 60Hz, Train Speed Regulator 9V",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "71128",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/383/902.png",
+      "name": "Dish 2 x 2 x 2/3 Light Reflector",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "74746",
+      "color_id": "8",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/74746.png",
+      "name": "Vehicle Track, Train, 9V Straight",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "15260",
+      "part_num": "74747",
+      "color_id": "8",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/8/74747.png",
+      "name": "Vehicle Track, Train, 9V Curved",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4534-1",
+    "name": "LEGO Express",
+    "year": "2002",
+    "theme_id": "236",
+    "num_parts": "34",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4534-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 34,
+  "minfigSetParts": []
+}

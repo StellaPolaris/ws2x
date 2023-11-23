@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "42596",
+      "part_num": "18783",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6145930.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 Log Effect",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "29303pr0003",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6295979.jpg",
+      "name": "Duplo Brick 4 x 2 Double Slope 45 with Cup and Two Cakes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "31333pr0006",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6263053.jpg",
+      "name": "Duplo Dish with Cake, Cupcake, and Pie Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "3437",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343701.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "3437",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4158454.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "35735",
+      "color_id": "31",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6295973.jpg",
+      "name": "Duplo Teapot [Plain]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Lavender"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "40666",
+      "color_id": "322",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6211342.jpg",
+      "name": "Duplo Plate 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "52350",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6264045.jpg",
+      "name": "Duplo Cape and Skirt with White Lines and Stars on Medium Azure Background Print",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "52388",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6263019.jpg",
+      "name": "Duplo Figure Snowman (Olaf)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "53048pr0094",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6269877.jpg",
+      "name": "Duplo Figure with Hair with Braid over Left Shoulder, Medium Azure Legs, White Icicles on Chest Print (Elsa)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "6474",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6295975.jpg",
+      "name": "Duplo Brick 2 x 2 Slope 45",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "65188c01",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6287591.jpg",
+      "name": "Duplo Food, Two Cakes on Plate Pink",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "42596",
+      "part_num": "65273",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6287578.jpg",
+      "name": "Duplo Chair with no Back / Stool",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "10920-1",
+    "name": "Elsa & Olaf's Tea Party",
+    "year": "2020",
+    "theme_id": "640",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/10920-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

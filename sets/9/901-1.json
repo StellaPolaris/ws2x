@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10041",
+      "part_num": "242c01",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/242c01.png",
+      "name": "Wheel Spoked with Stud",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "3058b",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3058b.png",
+      "name": "Plate Special 6 x 16 with Motor Cutout Wide",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "3482",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/3482.png",
+      "name": "Wheel with Split Axle hole",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "3483",
+      "color_id": "0",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/348326.jpg",
+      "name": "Tyre Offset Tread 24 x 8",
+      "part_cat_id": "29",
+      "part_material": "Rubber",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "3706",
+      "color_id": "79",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/79/3706.png",
+      "name": "Technic Axle 6",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Milky White"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "3709a",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/7/3709a.png",
+      "name": "Technic Brick 2 x 4 with Top/Side/End Holes and Hollow Studs",
+      "part_cat_id": "8",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "468c03",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/u9040c01.png",
+      "name": "Battery Box, 4.5V 6 x 11 x 3 1/3 Type 3 [Complete Assembly]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "498",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/3096-f1.png",
+      "name": "Technic Tread Crawler",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "7039",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/7039.png",
+      "name": "Wheel Old with 4 Studs",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "upn0142c01",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u9228c01.png",
+      "name": "Electric Connector, 2 Way Male Rounded Narrow Type 1 with Cross-Cut Pins",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "upn0257",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/x466-15-d2588fde-efc4-4354-9c4b-2453fd6c76da.jpg",
+      "name": "Wire 12V / 4.5V with Two Leads [Undetermined Length]",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "10041",
+      "part_num": "upn0259c01",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/581c01.png",
+      "name": "Motor, Train, 4.5V 12 x 4 x 3 1/3 Type II",
+      "part_cat_id": "45",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "901-1",
+    "name": "4.5V Motor Set",
+    "year": "1976",
+    "theme_id": "473",
+    "num_parts": "31",
+    "img_url": "https://cdn.rebrickable.com/media/sets/901-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 31,
+  "minfigSetParts": []
+}

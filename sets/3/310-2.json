@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "30557",
+      "part_num": "3031c01",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3031c01-14-61313af0-5899-4ead-835e-17106a2b0d10.jpg",
+      "name": "Scala, Plate Special 4 x 4 with Clip",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068apr0006",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bpfk.png",
+      "name": "Tile 2 x 2 with Number 5 Blue print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068bpr0073",
+      "color_id": "14",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bp67.png",
+      "name": "Tile 2 x 2 with Red Quarter Rings Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068bpr0104",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bpfj.png",
+      "name": "Tile 2 x 2 with Groove and Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068bpr0276",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bpf1.png",
+      "name": "Tile 2 x 2 with Red Top Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068bpr9913",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bpf3.png",
+      "name": "Tile 2 x 2 with Number 7 Brown Background Pattern",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068bpr9914",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bpfq.png",
+      "name": "Tile 2 x 2 with Number 6 / 9 Green Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068bpr9915",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bpfp.png",
+      "name": "Tile 2 x 2 with Number 3 Purple Pattern",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "3068bpr9919",
+      "color_id": "14",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/3068bpfs.png",
+      "name": "Tile 2 x 2 with Groove and Flower Print",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "scalaupn0014",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/3035clip-14-94443dfe-309b-4f11-b17d-1523401ddb8c.jpg",
+      "name": "Scala, Plate Special 4 x 8 with Clip",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "30557",
+      "part_num": "scalaupn0074pat0001",
+      "color_id": "4",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Jewelry Cord 23L with Yellow Beads",
+      "part_cat_id": "31",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "310-2",
+    "name": "Pendant",
+    "year": "1979",
+    "theme_id": "668",
+    "num_parts": "30",
+    "img_url": "https://cdn.rebrickable.com/media/sets/310-2.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 30,
+  "minfigSetParts": []
+}

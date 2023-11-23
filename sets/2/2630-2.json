@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "28083",
+      "part_num": "2235c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2235c01-4-b661e87f-063c-4ce4-93c4-035d3bf47fb2.jpg",
+      "name": "Duplo Car with 1 x 2 Studs with Yellow Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "2250c01",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/2250c01-14-88aa7908-ff47-4558-ab4b-27be449b6561.jpg",
+      "name": "Duplo Camer van / Caravan / Trailer with Black Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "2251",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2251-4-dd86bffe-6fc5-47fb-b5df-477144550fae.jpg",
+      "name": "Duplo Camper van / Caravan / Trailer Roof",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "4066pr0061",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4066bp10.png",
+      "name": "Duplo Brick 1 x 2 x 2 with Red Grill and Hot Dog Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "4121",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4121.png",
+      "name": "Duplo Plate 2 x 4 x 1/3 with 4 Center Studs [Thin]",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "4555c01pr0021",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4555pr0021-14-9d8aaaed-9dab-424e-8619-43c856d54349.jpg",
+      "name": "Duplo Figure, Early, with Short Parted Hair Brown, Blue Legs, White Tennis Racket and Ball Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "4555c03pr0020",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4555pr0020-14-1f024ec8-7e77-42d4-87e5-305778723ea4.jpg",
+      "name": "Duplo Figure, Early, Hair Bob Fabuland Brown, Red Legs, Red Buttons and Undershirt",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "4839",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4839.png",
+      "name": "Duplo Chair 2 x 2 x 2 with One Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "4943pr0005",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/4943pr0005-1-ee0d45a3-7a8a-444e-b4b1-230f19dbcd6a.jpg",
+      "name": "Duplo Figure, Early with Joined Legs Blue, with Ice Cream Cone Print, and Yellow Hair",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "28083",
+      "part_num": "74587",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/74587.png",
+      "name": "Duplo Plant Bush or Tree Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2630-2",
+    "name": "Car and Campervan",
+    "year": "1990",
+    "theme_id": "632",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2630-2.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

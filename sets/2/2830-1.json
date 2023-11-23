@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "26810",
+      "part_num": "3011",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/301128.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "31220",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/10/31220-10-3cb419ee-2ca7-4dd0-b3e5-3922af54e809.jpg",
+      "name": "Duplo Plant, Leaf, with 2 x 2 Top Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "31221",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/31221-4-1f83acd0-7cc7-4133-a41c-b7f52abb802a.jpg",
+      "name": "Duplo Coffeepot / Teapot, Strawberry Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "31229pr0001",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/10/31229pr0001-10-7f333609-da88-4c54-a613-b9ebcd361202.jpg",
+      "name": "Duplo Animal Snail Body with 2 x 2 Studs",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "31230",
+      "color_id": "117",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/117/31230-117-8f14fa4e-587e-4c79-a46c-262ef1942b38.jpg",
+      "name": "Duplo Snail Shell with 2 x 2 Studs on Top",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Glitter Trans-Clear"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "31231pr0002",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/92/31231pr0002-92-06b76dea-9e26-44dd-b4a3-c2bb0bb59345.jpg",
+      "name": "Duplo Figure Little Forest Friend Female, Red Dress with Two White Flower Buttons Print (Lolly Strawberry)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "31232pr0001",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/31232pr0001-4-663d0068-fe97-43cf-bdd5-83f9c8927af5.jpg",
+      "name": "Duplo Figure Little Forest Friend, Male, Red Overalls with Green and Yellow Leaf Print (Baby Jelly Strawberry)",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "4066pr0050",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4066pr0050-14-d8bd1875-2bb0-4c9e-a03c-ddbf09b72fa9.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with Pinecone Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "4125099Esp",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4125099Esp-9999-20bb6fc4-f981-4f20-b302-ccd1b9c43eaa.jpg",
+      "name": "Duplo Book, Little Forest Friends 'A Strawberry Surprise' (Spanish)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "6510",
+      "color_id": "112",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121573.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Bluish Violet"
+    },
+    {
+      "inventory_id": "26810",
+      "part_num": "6510",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121575.jpg",
+      "name": "Duplo Plant, Flower with 1 Top Stud",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2830-1",
+    "name": "The Strawberries",
+    "year": "1999",
+    "theme_id": "660",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2830-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

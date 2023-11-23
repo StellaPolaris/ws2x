@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "14594",
+      "part_num": "3003d",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u8002c.png",
+      "name": "Brick 2 x 2 without Bottom Tubes, Slotted (with 2 slots, opposite)",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3003d",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u8002c.png",
+      "name": "Brick 2 x 2 without Bottom Tubes, Slotted (with 2 slots, opposite)",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3003d",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/u8002c.png",
+      "name": "Brick 2 x 2 without Bottom Tubes, Slotted (with 2 slots, opposite)",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3005",
+      "color_id": "15",
+      "quantity": "14",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300501.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3005",
+      "color_id": "4",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300521.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3005",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300523.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3062c",
+      "color_id": "1",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u9026.png",
+      "name": "Brick Round 1 x 1 Solid Stud, No Bottom Groove",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3062c",
+      "color_id": "14",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u9026.png",
+      "name": "Brick Round 1 x 1 Solid Stud, No Bottom Groove",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3063b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/306301.jpg",
+      "name": "Brick Round Corner 2 x 2 Macaroni with Stud Notch",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3065b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/u8001b.png",
+      "name": "Brick 1 x 2 without Bottom Tube, Slotted (with 1 slot)",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "3065b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u8001b.png",
+      "name": "Brick 1 x 2 without Bottom Tube, Slotted (with 1 slot)",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "700e",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u8010.png",
+      "name": "Brick 10 x 20 without Bottom Tubes, with '+' Cross Support and 4 Side Supports (early Baseplate)",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "14594",
+      "part_num": "716",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/716.png",
+      "name": "Brick Round Corner 2 x 4 Half Round with Cutouts",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "1300-1",
+    "name": "Lego Mosaik Set (Small)",
+    "year": "1955",
+    "theme_id": "365",
+    "num_parts": "47",
+    "img_url": "https://cdn.rebrickable.com/media/sets/1300-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 47,
+  "minfigSetParts": []
+}

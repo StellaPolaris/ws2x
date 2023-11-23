@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "37125",
+      "part_num": "31021",
+      "color_id": "6",
+      "quantity": "9",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100731.jpg",
+      "name": "Duplo Fence 1 x 6 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "4882",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/488224.jpg",
+      "name": "Duplo Horse Trough 2 x 4 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75020",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/75020.jpg",
+      "name": "Duplo Animal Chicken / Hen / Rooster, Tail, Lobe Comb, on Green Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75021pr0001",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/75021.jpg",
+      "name": "Duplo Animal Chicken / Hen, Tail, Smooth Red Comb, on Green Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75720pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/75720.jpg",
+      "name": "Duplo Animal Cow with Black Spots Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75721pr0001",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/75721.jpg",
+      "name": "Duplo Animal Cow, Baby (Calf) with Spots Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75722",
+      "color_id": "92",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/75722.jpg",
+      "name": "Duplo Animal Pig, Adult",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75723pr0001",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4621437.jpg",
+      "name": "Duplo Animal Horse/Foal without Spots",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75725pr0001",
+      "color_id": "484",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143789.jpg",
+      "name": "Duplo Animal Horse with One Stud and Moveable Head, Eyes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Orange"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "75726",
+      "color_id": "92",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/75726.jpg",
+      "name": "Duplo Animal Pig / Piglet on Green Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Nougat"
+    },
+    {
+      "inventory_id": "37125",
+      "part_num": "dupupn0005",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/dupupn0005-15-74280378-f87c-464e-b361-ba0e7bf73a73.jpg",
+      "name": "Duplo Animal Sheep",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "9174-1",
+    "name": "Duplo Farm Animals",
+    "year": "1997",
+    "theme_id": "516",
+    "num_parts": "23",
+    "img_url": "https://cdn.rebrickable.com/media/sets/9174-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 23,
+  "minfigSetParts": []
+}

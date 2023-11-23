@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "1955",
+      "part_num": "45449",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4197605.jpg",
+      "name": "Clikits Icon, Heart 2 x 2 Large with Pin",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "45450",
+      "color_id": "29",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4197610.jpg",
+      "name": "Clikits Icon, Heart 2 x 2 Small with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Bright Pink"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "45455",
+      "color_id": "212",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/212/45455-212-02907f0b-be6c-46fe-a25b-c16a42db8d38.jpg",
+      "name": "Clikits Icon, Flower 2 x 2 Large, 10 Petals with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "45456",
+      "color_id": "212",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/212/45456-212-a8e73c44-a8ec-4342-be86-67bd33be405c.jpg",
+      "name": "Clikits Icon, Flower 2 x 2 Small, 10 Petals with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Blue"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "45462",
+      "color_id": "1007",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1007/45462-1007-477e282c-8b15-4e0c-8aef-9ceef8fda223.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Large with Pin",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Reddish Lilac"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "45463",
+      "color_id": "1007",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1007/45463-1007-988cf85b-bdf8-4ac9-ae25-863cbbfb5c49.jpg",
+      "name": "Clikits Icon, Star 2 x 2 Small with Pin [Frosted]",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Reddish Lilac"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "45499",
+      "color_id": "1094",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4197196.jpg",
+      "name": "Clikits Ring, Narrow Band with Hole in Top",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Medium Purple"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "45499",
+      "color_id": "230",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/230/45499-230-0c3195df-9975-4f4c-80bc-023c3be8b52b.jpg",
+      "name": "Clikits Ring, Narrow Band with Hole in Top",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Pink"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "47912",
+      "color_id": "1006",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4254730.jpg",
+      "name": "Clikits Bracelet with Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Royal Blue"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "47912",
+      "color_id": "236",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4244929.jpg",
+      "name": "Clikits Bracelet with Hole",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Purple"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "48173",
+      "color_id": "230",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216059.jpg",
+      "name": "Clikits Icon Accent, Heart 3 3/8 x 3 3/8 with Raised Border",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Pink"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "48174",
+      "color_id": "1006",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4254403.jpg",
+      "name": "Clikits Icon Accent, Flower 3 5/8 x 3 5/8, 10 Petals with Raised Border",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Royal Blue"
+    },
+    {
+      "inventory_id": "1955",
+      "part_num": "48175",
+      "color_id": "1094",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4216081.jpg",
+      "name": "Clikits Icon Accent, Star 3 5/8 x 3 5/8 with Raised Border",
+      "part_cat_id": "48",
+      "part_material": "Plastic",
+      "colorName": "Trans-Medium Purple"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4875-1",
+    "name": "Groovy Friends Gems",
+    "year": "2005",
+    "theme_id": "500",
+    "num_parts": "13",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4875-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 13,
+  "minfigSetParts": []
+}

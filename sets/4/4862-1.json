@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "113997",
+      "part_num": "3011",
+      "color_id": "28",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4196412.jpg",
+      "name": "Duplo Brick 2 x 4",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "31169",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505570.jpg",
+      "name": "Duplo Horse Harness",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "31174c04",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4530479.jpg",
+      "name": "Duplo Wagon Base 2 x 8 x 1 1/2 with Large Reddish Brown Spoked Wheels",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "31176",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4505571.jpg",
+      "name": "Duplo Horse Carriage Body",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "3437",
+      "color_id": "19",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4166963.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "48036",
+      "color_id": "320",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4249895.jpg",
+      "name": "Duplo Treasure Chest 2 x 4 x 3",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Red"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "48647",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4279735.jpg",
+      "name": "Duplo Treasure / Gold",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "51714",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4252450.jpg",
+      "name": "Duplo Sword, Thick",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "51741pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4265813.jpg",
+      "name": "Duplo Figure with Rounded Head with Dark Bluish Gray Legs, White Chest, Yellow Arms, Dark Bluish Gray Hands",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "51741pr0005",
+      "color_id": "191",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4265815.jpg",
+      "name": "Duplo Figure with Rounded Head with Black Legs, Black Dragon on Shield, Red Arms, Dark Bluish Gray Hands, Smile Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "51996",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4252642.jpg",
+      "name": "Duplo Broadaxe",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "113997",
+      "part_num": "75725pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4260391.jpg",
+      "name": "Duplo Animal Horse with One Stud and Moveable Head, Eyes Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "White"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4862-1",
+    "name": "Ambush",
+    "year": "2008",
+    "theme_id": "647",
+    "num_parts": "15",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4862-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": []
+}

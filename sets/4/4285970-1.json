@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "7747",
+      "part_num": "45568",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4224042.jpg",
+      "name": "Technic Beam 3 x 11 Flexible Double",
+      "part_cat_id": "55",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45573",
+      "color_id": "72",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4224142.jpg",
+      "name": "Technic Spike Connector Flexible with Four Holes, Raised Center",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45574",
+      "color_id": "71",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4236947.jpg",
+      "name": "Technic Spike Connector Flexible with Four Holes Perpendicular",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45575",
+      "color_id": "71",
+      "quantity": "16",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4224139.jpg",
+      "name": "Technic Spike Connector Pin Double 3L",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45783",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286412.jpg",
+      "name": "Technic Panel RC Car - Flexible Right",
+      "part_cat_id": "40",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45784",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286410.jpg",
+      "name": "Technic Panel RC Car Flexible Bumper Right",
+      "part_cat_id": "40",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45785",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286414.jpg",
+      "name": "Technic Panel RC Car - Flexible Left",
+      "part_cat_id": "40",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45786",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286411.jpg",
+      "name": "Technic Panel RC Car Flexible Bumper Left",
+      "part_cat_id": "40",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "45803",
+      "color_id": "27",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286415.jpg",
+      "name": "Technic Beam 3 x 7 L-Shape Double",
+      "part_cat_id": "55",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "49823",
+      "color_id": "148",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286409.jpg",
+      "name": "Technic Panel RC Car Brush Guard",
+      "part_cat_id": "40",
+      "part_material": "Plastic",
+      "colorName": "Pearl Dark Gray"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "49828",
+      "color_id": "148",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286406.jpg",
+      "name": "Engine, Technic RC Car Quadruple Pipe",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Pearl Dark Gray"
+    },
+    {
+      "inventory_id": "7747",
+      "part_num": "49829",
+      "color_id": "148",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4286408.jpg",
+      "name": "Engine / Air Scoop, Technic Double (RC Car)",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Pearl Dark Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4285970-1",
+    "name": "Transformation Kit Dirt Crusher (Green)",
+    "year": "2005",
+    "theme_id": "112",
+    "num_parts": "47",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4285970-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 47,
+  "minfigSetParts": []
+}

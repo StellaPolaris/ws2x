@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0002",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0002-0-33f6cb92-0cc4-40a6-ae17-7a7f829ee7a3.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0003pr0019",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0003pr0019-0-591b6ccd-47d4-4179-b953-c8de7f1f27c7.jpg",
+      "name": "Pen Bead, Round Orb with 'STAR WARS' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0003pr0040",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Orb with 'JANGO' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0004pr0099",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/PART-11896-383-c8f5e2bd-5224-48ac-adf8-85dab9ac5fec.jpg",
+      "name": "Pen Bead, Square with Mythosaur Skull Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0006",
+      "color_id": "110",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/47/penupn0006-47-cf2c3bc8-6489-4906-aa7e-31048d32b978.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Violet"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0006",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/47/penupn0006-47-cf2c3bc8-6489-4906-aa7e-31048d32b978.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0008",
+      "color_id": "110",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/penupn0008-383-0b9de320-0b9c-4414-a6ee-b140c43d175e.jpg",
+      "name": "Pen Bead, Round Orb, 4 Discs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Violet"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0010",
+      "color_id": "110",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/110/penupn0010-110-3f195839-8e32-42cb-b82f-924a4b722a4d.jpg",
+      "name": "Pen Bead, Minifigure Legs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Violet"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0011pr0002",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/71/penupn0011pr0002-71-2055c9e1-4b19-4110-8f74-69703703523b.jpg",
+      "name": "Pen Bead, Minifigure Torso with Jango Fett Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0017pr0001",
+      "color_id": "383",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/383/penupn0017pr0001-383-e2f286e3-ac01-4af8-b700-cd2e00728cca.jpg",
+      "name": "Pen Bead, Helmet, Mandalorian, Jango Fett Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn0039c01",
+      "color_id": "110",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1001/penupn0039c01-1001-5917634f-caa4-4775-b9be-7e0cdeca9646.jpg",
+      "name": "Pen Body, with Black Tip, Chrome Silver Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Violet"
+    },
+    {
+      "inventory_id": "94117",
+      "part_num": "penupn9976",
+      "color_id": "110",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1001/penupn0033-1001-6cd148e3-205d-451e-b3e1-be3929e0864c.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Violet"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2851070-1",
+    "name": "Jango Fett Pen",
+    "year": "2008",
+    "theme_id": "739",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2851070-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

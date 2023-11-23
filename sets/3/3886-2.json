@@ -1,0 +1,217 @@
+{
+  "standard": [
+    {
+      "inventory_id": "8673",
+      "part_num": "3004",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "30043",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3004326.jpg",
+      "name": "Plate Special 1 x 4 with Arm Down",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "3070b",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/307001.jpg",
+      "name": "Tile 1 x 1 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "41747",
+      "color_id": "288",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4276003.jpg",
+      "name": "Wedge Curved 6 x 2 Right",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "41748",
+      "color_id": "288",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4276005.jpg",
+      "name": "Wedge Curved 6 x 2 Left",
+      "part_cat_id": "6",
+      "part_material": "Plastic",
+      "colorName": "Dark Green"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "4360",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/436026.jpg",
+      "name": "Equipment Camera with Side Sight [aka Space Gun]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "4623",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/462326.jpg",
+      "name": "Plate Special 1 x 2 with Arm Up [Horizontal Arm 6mm]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "52107",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4253815.jpg",
+      "name": "Brick Special 1 x 2 with Studs on 2 Sides",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "54383",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4282786.jpg",
+      "name": "Wedge Plate 6 x 3 Right",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "54384",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4282789.jpg",
+      "name": "Wedge Plate 6 x 3 Left",
+      "part_cat_id": "49",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "8673",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "8673",
+      "part_num": "6141",
+      "color_id": "36",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/3005741.jpg",
+      "name": "Plate Round 1 x 1 with Solid Stud",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Trans-Red"
+    }
+  ],
+  "setInfo": {
+    "set_num": "3886-2",
+    "name": "Ryo Walker - Boxed Version",
+    "year": "2007",
+    "theme_id": "389",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/3886-2.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 1,
+  "countedStandardParts": 15,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51808",
+        "part_num": "3626bpr0463",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4292012.jpg",
+        "name": "Minifig Head Ryo, Dual Sided, Blue Eyes, Headband, Mouth Closed / Bared Teeth Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000993"
+      },
+      {
+        "inventory_id": "51808",
+        "part_num": "53982",
+        "color_id": "85",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4289562.jpg",
+        "name": "Hair Angular Swept Back",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Dark Purple",
+        "fig_num": "fig-000993"
+      },
+      {
+        "inventory_id": "51808",
+        "part_num": "970c35",
+        "color_id": "288",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4226869.jpg",
+        "name": "Hips and Dark Green Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Green",
+        "fig_num": "fig-000993"
+      },
+      {
+        "inventory_id": "51808",
+        "part_num": "973c35h03pr1303",
+        "color_id": "288",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4500865.jpg",
+        "name": "Torso with Gold Armour with Large Cog and 'AT.10' Print, Dark Green Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Green",
+        "fig_num": "fig-000993"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "308",
+      "part_num": "2431",
+      "color_id": "7",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/243102.jpg",
+      "name": "Tile 1 x 4 with Groove",
+      "part_cat_id": "19",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "30285",
+      "color_id": "7",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141735.jpg",
+      "name": "Wheel 18 x 14 with Tread Small Hub",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "30300",
+      "color_id": "7",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4194029.jpg",
+      "name": "Tipper Bed 12 x 8 x 3 1/3",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Light Gray"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "30391",
+      "color_id": "0",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140670.jpg",
+      "name": "Tyre 30.4 x 14 Offset Tread",
+      "part_cat_id": "29",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "30397",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140701.jpg",
+      "name": "Technic Link 1 x 5",
+      "part_cat_id": "26",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "30619",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4193323.jpg",
+      "name": "Cockpit 6 x 6 x 5 with Hinge",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "30633pr0001",
+      "color_id": "40",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/40/30633pb02-40-b743da35-cc38-4a0a-ae48-ba2f41cf461a.jpg",
+      "name": "Windscreen 4 x 6 x 4 Canopy with Hinge with 'BRICK' Text and Grille Print",
+      "part_cat_id": "47",
+      "part_material": "Plastic",
+      "colorName": "Trans-Brown"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "30642",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4153093.jpg",
+      "name": "Vehicle Base 4 x 14 x 2 1/3",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "45408",
+      "color_id": "383",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/383/45408p01.png",
+      "name": "Fuel Tank 2 x 4 [Two Pins]",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Chrome Silver"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "45409pr0002",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/2/45409pb02-2-d948bec8-b9d2-4eb9-9165-0baaac73d18a.jpg",
+      "name": "Grille 2 x 6 with 2 Technic Pins, 'ID 3672' and Headlights Print",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "4jfig0003pr0001",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4j003a-9999-52c646b0-9912-4a6b-a7a6-e518bfa776bf.jpg",
+      "name": "Juniors Minifig, Construction Worker - Blue Shirt, Green Vest, Cap with 'Brick', Sunglasses and Moustache",
+      "part_cat_id": "13",
+      "part_material": "Plastic",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "308",
+      "part_num": "6249",
+      "color_id": "8",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100411.jpg",
+      "name": "Brick Special 2 x 4 with Pins",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "4653-1",
+    "name": "Dump Truck",
+    "year": "2003",
+    "theme_id": "279",
+    "num_parts": "28",
+    "img_url": "https://cdn.rebrickable.com/media/sets/4653-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 28,
+  "minfigSetParts": []
+}

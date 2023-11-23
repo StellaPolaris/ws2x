@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "16391",
+      "part_num": "2486",
+      "color_id": "4",
+      "quantity": "6",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/248621.jpg",
+      "name": "Bar 1 x 8 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "3185",
+      "color_id": "15",
+      "quantity": "10",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/318501.jpg",
+      "name": "Fence 1 x 4 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "3186",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3186.png",
+      "name": "Fence Gate 1 x 4 x 2",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "3187",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3187.png",
+      "name": "Fence Gate 1 x 4 x 2 Base",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "3596pr0001",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3596p01.png",
+      "name": "Flag on Flagpole, Straight with Stripes Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "3596pr0003",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3596p03.png",
+      "name": "Flag on Flagpole, Straight with Red Small Lego Print",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "3957a",
+      "color_id": "15",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/3957a.png",
+      "name": "Antenna 1 x 4 with Rounded Top",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "4495a",
+      "color_id": "2",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/2/4495a.png",
+      "name": "Flag 4 x 1 Wavy [First Wave Left]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "4495a",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/4495a.png",
+      "name": "Flag 4 x 1 Wavy [First Wave Left]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "4495a",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/4495a.png",
+      "name": "Flag 4 x 1 Wavy [First Wave Left]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "16391",
+      "part_num": "4495a",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/4495a.png",
+      "name": "Flag 4 x 1 Wavy [First Wave Left]",
+      "part_cat_id": "38",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "6316-1",
+    "name": "Flags and Fences",
+    "year": "1988",
+    "theme_id": "67",
+    "num_parts": "38",
+    "img_url": "https://cdn.rebrickable.com/media/sets/6316-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 38,
+  "minfigSetParts": []
+}

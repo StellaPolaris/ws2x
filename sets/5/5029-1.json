@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "27547",
+      "part_num": "2164",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/2164-4-5bb871d5-1596-4ba3-a247-f0b561ca82a9.jpg",
+      "name": "Duplo Umbrella without Stop Ring",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "2299c01pr0001",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/2299c01pr0001-0-f17118ba-9316-45de-ba19-2fb83159d790.jpg",
+      "name": "Duplo Animal Dog, Scottish Terrier / Scottie on Green Base",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "4555c01pr0009",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/4555c01pr0009-14-836fbd32-e40a-4b4d-8650-8493752fe123.jpg",
+      "name": "Duplo Figure, Early, with Short Parted Hair Light Gray, Green Legs, Argyle Sweater Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "4555c01pr0087",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/15/4555c01pr0087-15-a414e525-e93b-4604-877b-b9e47f546174.jpg",
+      "name": "Duplo Figure, Early, with Short Parted Hair Brown, Blue Legs, Cardigan with 2 Buttons and Medium Green Neck Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "4555c03pr0013",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/4555c03pr0013-4-788d0954-c99c-4d43-b8d7-c8dd60c53740.jpg",
+      "name": "Duplo Figure, Early, Hair Bob Light Gray, Black Legs, White Collar and Buttons, Glasses Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "4555c03pr0024",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo Figure, Early, Hair Bob Yellow, Yellow Legs, Red Buttons and Undershirt Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "6427",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100727.jpg",
+      "name": "Duplo Suitcase",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "6453c01pr0001",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/118/PART-5823-118-934b37a7-c47c-400f-86b5-3f86d909434b.jpg",
+      "name": "Duplo Figure, Early Child, with Bonnet White, and White Legs, Yellow Bib with Red Lace Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "6453c06pr0003",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/6453c06pr0003-14-41af77d3-3a91-47df-8d91-5ab239c15e57.jpg",
+      "name": "Duplo Figure, Early Child, Hair Swept Left Dark Orange, Red Legs, Red Collar and Blue Argyle Print",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "6504",
+      "color_id": "8",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4100730.jpg",
+      "name": "Duplo Video Camera",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Gray"
+    },
+    {
+      "inventory_id": "27547",
+      "part_num": "92937c01",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/92937c01-4-8ca5be42-dec1-4373-9034-2b03b15d9a20.jpg",
+      "name": "Duplo Pram (Baby Carriage, Stroller) with Yellow Wheels - Complete Assembly",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5029-1",
+    "name": "Family (Caucasian)",
+    "year": "1996",
+    "theme_id": "504",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5029-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

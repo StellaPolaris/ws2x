@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "5320",
+      "part_num": "33011a",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/73/33011a-73-3373b166-c8da-4f17-a3f8-2998cacc7968.jpg",
+      "name": "Belville / Scala, Food, Milk Carton",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33011b",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/73/33011b-73-c537122e-ce93-4250-8856-77703e07e534.jpg",
+      "name": "Belville / Scala, Food, Bottle Wine",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33011c",
+      "color_id": "73",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/73/33011c-73-9e3b6f0e-e3a6-4c80-9f03-69559a58afa3.jpg",
+      "name": "Belville / Scala, Food, Jar Jam / Jelly",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33014",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/33014-14-93497581-2bb1-410e-939d-9a263096bf1a.jpg",
+      "name": "Scala, Equipment Tray with Eating Utensils",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33048",
+      "color_id": "366",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106856.jpg",
+      "name": "Food Turkey Body",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Earth Orange"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33051",
+      "color_id": "2",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106525.jpg",
+      "name": "Plant, Apple",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Green"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33051",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107050.jpg",
+      "name": "Plant, Apple",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33057",
+      "color_id": "366",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4106861.jpg",
+      "name": "Food Turkey Drumstick [Short] - 20 mm Opening",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Earth Orange"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "33061",
+      "color_id": "47",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112844.jpg",
+      "name": "Equipment Goblet Large",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "4342",
+      "color_id": "366",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4107427.jpg",
+      "name": "Food Bread",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Earth Orange"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "6945",
+      "color_id": "20",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/20/6945-20-16dda747-4062-4411-a4e4-f04daf9f806f.jpg",
+      "name": "Belville / Scala, Equipment Saucepan",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Light Violet"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "6992",
+      "color_id": "20",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/6992-4-d28cb104-cc7b-4b59-b557-903d06ac77eb.jpg",
+      "name": "Belville / Scala, Equipment Skillet",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Light Violet"
+    },
+    {
+      "inventory_id": "5320",
+      "part_num": "scalaupn0124",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/14/x14-14-ae74ed5e-9682-40b3-a709-8f62704a835f.jpg",
+      "name": "Belville / Scala, Equipment Cordless Phone",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5401-1",
+    "name": "Kitchen Accessories",
+    "year": "1997",
+    "theme_id": "443",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5401-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

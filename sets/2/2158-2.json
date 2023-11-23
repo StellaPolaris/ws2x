@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0002",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0002-0-33f6cb92-0cc4-40a6-ae17-7a7f829ee7a3.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0002",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/penupn0002-1-ef8394e9-6d33-49b1-9ca5-c7dabc463c4b.jpg",
+      "name": "Pen Bead, Round Short, Curved Edge",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0003pr0043",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/PART-11918-0-a05746c5-9ef7-40b2-b577-06d6f348968a.jpg",
+      "name": "Pen Bead, Round Orb with Lime 'CHEWBACCA' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0004",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/27/penupn0004-27-b40d976f-b3b0-4371-9583-070b0fe17eac.jpg",
+      "name": "Pen Bead, Square",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0004",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/1/penupn0004-1-0a822a74-5021-43a0-bdeb-649852ee370a.jpg",
+      "name": "Pen Bead, Square",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0006",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/47/penupn0006-47-cf2c3bc8-6489-4906-aa7e-31048d32b978.jpg",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0010",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/110/penupn0010-110-3f195839-8e32-42cb-b82f-924a4b722a4d.jpg",
+      "name": "Pen Bead, Minifigure Legs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0011",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Minifigure Torso",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0028",
+      "color_id": "70",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/6/penupn0028-6-365b0931-57f8-46eb-a344-6f4e1e0462ab.jpg",
+      "name": "Pen Bead, Head, Chewbacca",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Reddish Brown"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn0037c01",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/25/penupn0036c08-25-38a19606-1979-4ab4-b93b-10aa78970048.jpg",
+      "name": "Pen Body, with Blue Tip, Lime Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "95128",
+      "part_num": "penupn9976",
+      "color_id": "6",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Brown"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2158-2",
+    "name": "Chewbacca Pen",
+    "year": "2006",
+    "theme_id": "739",
+    "num_parts": "12",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2158-2.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": []
+}

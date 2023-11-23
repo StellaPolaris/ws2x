@@ -1,0 +1,228 @@
+{
+  "standard": [
+    {
+      "inventory_id": "6161",
+      "part_num": "2654",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4278274.jpg",
+      "name": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "3004",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/300421.jpg",
+      "name": "Brick 1 x 2",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "30173b",
+      "color_id": "297",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/297/30173b.png",
+      "name": "Weapon Sword / Katana / Shamshir with Uncapped Pommel [Square Guard]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Gold"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "3022",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/302221.jpg",
+      "name": "Plate 2 x 2",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "4497",
+      "color_id": "1103",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/148/4497-148-ef72d25e-bc8f-462f-b6df-57ee7ff066ec.jpg",
+      "name": "Weapon Pike / Spear Round End",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Pearl Titanium"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "4612926",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4612926-9999-a7431668-aa0d-404d-8658-990f09490bfd.jpg",
+      "name": "Trading Card, Ninjago Deck #1: 1 - Kai - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "4612927",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4612927-9999-4c15af17-a165-45eb-a511-9308222eae80.jpg",
+      "name": "Trading Card, Ninjago Deck #1: 21 - Power Up - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "4612928",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4612928-9999-f51c1d50-b5b0-496f-80ad-46fefc504068.jpg",
+      "name": "Trading Card, Ninjago Deck #1: 74 - Higher Ground - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "4612929",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4612929-9999-d9c8b41f-1356-4c47-8b4d-0b745924b55a.jpg",
+      "name": "Trading Card, Ninjago Deck #1: 38 - Shaky Bones - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "4612930",
+      "color_id": "9999",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/4612930-9999-433d1452-554d-4d42-9633-b0a92c927ba2.jpg",
+      "name": "Trading Card, Ninjago Deck #1: 24 - Wall of Fire - International Version",
+      "part_cat_id": "17",
+      "part_material": "Cardboard/Paper",
+      "colorName": "[No Color/Any Color]"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "64567",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4539481.jpg",
+      "name": "Weapon Lightsaber Hilt with Bottom Ring",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "64727",
+      "color_id": "71",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4616840.jpg",
+      "name": "Weapon Spike Flexible 3.5L",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "6161",
+      "part_num": "92547pr0004",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612291.jpg",
+      "name": "Turntable 6 x 6 Round Dark Bluish Gray Base with Orange Top and Yellow Faces on Red Print (Ninjago Spinner)",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2111-1",
+    "name": "Kai",
+    "year": "2011",
+    "theme_id": "435",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2111-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 15,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51232",
+        "part_num": "30177",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4121918.jpg",
+        "name": "Wrap, Ninja, with Clip",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000418"
+      },
+      {
+        "inventory_id": "51232",
+        "part_num": "3626bpr0744",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4611424.jpg",
+        "name": "Minifig Head Kai, Stern Eyebrows, White Pupils, Frown, Scar Across Left Eye Print [Blocked Open Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-000418"
+      },
+      {
+        "inventory_id": "51232",
+        "part_num": "970c22pr0193",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4667796.jpg",
+        "name": "Hips and Red Legs with Dark Red Belt Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000418"
+      },
+      {
+        "inventory_id": "51232",
+        "part_num": "973c22h03pr1716",
+        "color_id": "4",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4612645.jpg",
+        "name": "Torso Robe with Brown Rope, Gold Medallion and Dark Red Undershirt Print, Red Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Red",
+        "fig_num": "fig-000418"
+      }
+    ]
+  ]
+}

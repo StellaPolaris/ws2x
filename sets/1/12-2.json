@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "83606",
+      "part_num": "3003mib",
+      "color_id": "14",
+      "quantity": "8",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3003mib-4-60fc3fe6-b3fc-474a-a887-3de367339b34.jpg",
+      "name": "Minitalia Brick 2 x 2 with Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "3003mib",
+      "color_id": "4",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3003mib-4-60fc3fe6-b3fc-474a-a887-3de367339b34.jpg",
+      "name": "Minitalia Brick 2 x 2 with Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "3003mib",
+      "color_id": "1",
+      "quantity": "5",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3003mib-4-60fc3fe6-b3fc-474a-a887-3de367339b34.jpg",
+      "name": "Minitalia Brick 2 x 2 with Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "3007mib",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3007mib-4-1ad85be5-ec5c-4e42-8594-c44302bcaf4d.jpg",
+      "name": "Minitalia Brick 2 x 8 with Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "3007mib",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3007mib-4-1ad85be5-ec5c-4e42-8594-c44302bcaf4d.jpg",
+      "name": "Minitalia Brick 2 x 8 with Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "3007mib",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/3007mib-4-1ad85be5-ec5c-4e42-8594-c44302bcaf4d.jpg",
+      "name": "Minitalia Brick 2 x 8 with Bottom Tubes",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "carbasemi",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Vehicle Base, Minitalia Brick Special 16 x 6 with 4 wheels",
+      "part_cat_id": "36",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "dupupn0047c95",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Duplo String, Cord Thick Flat (2mm) 95cm",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "m3001",
+      "color_id": "14",
+      "quantity": "14",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/14/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "m3001",
+      "color_id": "4",
+      "quantity": "14",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/4/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "m3001",
+      "color_id": "1",
+      "quantity": "19",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/u8100.png",
+      "name": "Minitalia Brick 2 x 4 with Centre Cross Supports",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "83606",
+      "part_num": "upn0322b",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Minitalia Arch 2 x 10 x 2 with Bottom Tubes",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "12-2",
+    "name": "Medium Pre-School Set",
+    "year": "1973",
+    "theme_id": "433",
+    "num_parts": "71",
+    "img_url": "https://cdn.rebrickable.com/media/sets/12-2.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 71,
+  "minfigSetParts": []
+}

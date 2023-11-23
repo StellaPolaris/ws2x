@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0003",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/47/penupn0003-47-d35fd41e-9961-4e33-ba0d-94b369abbdde.jpg",
+      "name": "Pen Bead, Round Orb",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0003pr0019",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0003pr0019-0-591b6ccd-47d4-4179-b953-c8de7f1f27c7.jpg",
+      "name": "Pen Bead, Round Orb with 'STAR WARS' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0003pr0048",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Orb with 'TUSKEN RAIDER' Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0004pr0113",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Square with Tusken Raider Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0006pr0044",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Round Large, Curved Edges / Cylinder with Minifigure Face, Tusken Raider Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0007",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/0/penupn0007-0-6937cce3-bced-4244-b682-a06772ad9f46.jpg",
+      "name": "Pen Bead, Round Curved, Hourglass",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0008",
+      "color_id": "47",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/47/penupn0008-47-d8e861f2-9e16-49b6-b99b-7120574b058c.jpg",
+      "name": "Pen Bead, Round Orb, 4 Discs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Trans-Clear"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0010",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/110/penupn0010-110-3f195839-8e32-42cb-b82f-924a4b722a4d.jpg",
+      "name": "Pen Bead, Minifigure Legs",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0011pr0005",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Bead, Minifigure Torso with Cross Straps, Tusken Raider Print",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn0043c01",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "",
+      "name": "Pen Body, with Dark Bluish Gray Tip, Orange Ends",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "94165",
+      "part_num": "penupn9976",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/4/penupn0033-4-fedcbd98-26e4-4cba-bfbf-450447d4b009.jpg",
+      "name": "Pen Shaft, with Pocket Clip [Plain]",
+      "part_cat_id": "17",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "2851135-1",
+    "name": "Tusken Raider Pen",
+    "year": "2009",
+    "theme_id": "739",
+    "num_parts": "11",
+    "img_url": "https://cdn.rebrickable.com/media/sets/2851135-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 11,
+  "minfigSetParts": []
+}

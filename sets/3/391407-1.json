@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "4385",
+      "part_num": "10288",
+      "color_id": "308",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6005755.jpg",
+      "name": "Technic Axle and Pin Connector Triple [120 Offset]",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Brown"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "11106",
+      "color_id": "179",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6037878.jpg",
+      "name": "Weapon Hammer Head",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "30592",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4239373.jpg",
+      "name": "Brick Special 2 x 4, with 2 x 2 Brick with Top Pin and 1 x 2 Side Plates",
+      "part_cat_id": "5",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "3660",
+      "color_id": "25",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4118829.jpg",
+      "name": "Slope Inverted 45 2 x 2 [Ovoid Bottom Pin, Bar-sized Stud Holes]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "3673",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211807.jpg",
+      "name": "Technic Pin without Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "6126b",
+      "color_id": "57",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/612647.jpg",
+      "name": "Wave / Flame Rounded with Base Rim",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Orange"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "6179",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129831.jpg",
+      "name": "Plate Special 4 x 4 with Studs on One Edge [Plain]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "62462",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4526984.jpg",
+      "name": "Technic Pin Connector Round [Slotted]",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "6587",
+      "color_id": "28",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566927.jpg",
+      "name": "Technic Axle 3 with Stud",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "93273",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4633914.jpg",
+      "name": "Slope Curved 4 x 1 Double with No Studs",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "4385",
+      "part_num": "98138pr0023",
+      "color_id": "182",
+      "quantity": "3",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6074926.jpg",
+      "name": "Tile Round 1 x 1 with Flame Print",
+      "part_cat_id": "67",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "391407-1",
+    "name": "Fire Spinner",
+    "year": "2014",
+    "theme_id": "571",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/391407-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 21,
+  "minfigSetParts": []
+}

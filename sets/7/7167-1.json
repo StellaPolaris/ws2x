@@ -1,0 +1,149 @@
+{
+  "standard": [
+    {
+      "inventory_id": "11573",
+      "part_num": "64251",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4541816.jpg",
+      "name": "Large Figure Hand, Fist with Axle Hole",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "64262",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4543428.jpg",
+      "name": "Large Figure Head Connector Block (Glatorian)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87794",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4578958.jpg",
+      "name": "Large Figure Skeletal, Torso, Angular with Ball Joints",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87796",
+      "color_id": "191",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582134.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular with Ball Joint and Ball Socket",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Bright Light Orange"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87797",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582138.jpg",
+      "name": "Large Figure Foot, Type 1",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87798",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582143.jpg",
+      "name": "Large Figure Limb Cover, Leg Guard",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87799",
+      "color_id": "42",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4581874.jpg",
+      "name": "Large Figure Chest Badge with 'H' Hero Factory Logo in Spiked Circle",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Trans-Neon Green"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87806pat0002",
+      "color_id": "135",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/135/87806pat0002-135-97e62b5c-1ff0-4b04-b579-0480ac874f4d.jpg",
+      "name": "Large Figure Weapon Blade, Fire Shooter with Orange Blade",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87807",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4582148.jpg",
+      "name": "Large Figure Chest Cover, Armor with Rounded Shoulders",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "87808",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4579005.jpg",
+      "name": "Large Figure Mask, Furno",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "11573",
+      "part_num": "93571",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4610948.jpg",
+      "name": "Technic Axle Connector 2 x 3 with Ball Socket, Open Lower Axle Holes",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "7167-1",
+    "name": "William Furno",
+    "year": "2010",
+    "theme_id": "401",
+    "num_parts": "19",
+    "img_url": "https://cdn.rebrickable.com/media/sets/7167-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 19,
+  "minfigSetParts": []
+}

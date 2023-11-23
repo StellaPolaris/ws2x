@@ -1,0 +1,242 @@
+{
+  "standard": [
+    {
+      "inventory_id": "181053",
+      "part_num": "15068",
+      "color_id": "1062",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6380125.jpg",
+      "name": "Slope Curved 2 x 2 x 2/3",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "Vibrant Yellow"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "15068pr0015",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6174872.jpg",
+      "name": "Slope Curved 2 x 2 x 2/3 with Badge and Blue 'POLICE' Text print",
+      "part_cat_id": "37",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "20482",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271752.jpg",
+      "name": "Tile Round 1 x 1 with Hollow Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "2340",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/234023.jpg",
+      "name": "Tail 4 x 1 x 3",
+      "part_cat_id": "35",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "2397",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/239726.jpg",
+      "name": "Animal / Creature Accessory, Horse Hitching [Studded]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "28802",
+      "color_id": "1",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271125.jpg",
+      "name": "Bracket 1 x 2 - 1 x 4 [Rounded Corners at Bottom, Square Corners at Top]",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "3002",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211105.jpg",
+      "name": "Brick 2 x 3",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "33909",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6309059.jpg",
+      "name": "Plate Special 2 x 2 with Only 2 studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "3747b",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/1/3747b.png",
+      "name": "Slope Inverted 33 3 x 2 [Connections between Studs]",
+      "part_cat_id": "3",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "3795",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/379523.jpg",
+      "name": "Plate 2 x 6",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "59900",
+      "color_id": "182",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4567338.jpg",
+      "name": "Cone 1 x 1 [Top Groove]",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Orange"
+    },
+    {
+      "inventory_id": "181053",
+      "part_num": "99780",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6000606.jpg",
+      "name": "Bracket 1 x 2 - 1 x 2 Inverted",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "181053",
+      "part_num": "20482",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271752.jpg",
+      "name": "Tile Round 1 x 1 with Hollow Bar",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "952307-1",
+    "name": "Police-Jet",
+    "year": "2023",
+    "theme_id": "61",
+    "num_parts": "21",
+    "img_url": "https://cdn.rebrickable.com/media/sets/952307-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 1,
+  "countedStandardParts": 16,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "181125",
+        "part_num": "3626cpr0891",
+        "color_id": "14",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4651441.jpg",
+        "name": "Minifig Head, Black Eyebrows, Thin Grin, Eyes with White Pupils Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Yellow",
+        "fig_num": "fig-014091"
+      },
+      {
+        "inventory_id": "181125",
+        "part_num": "41805",
+        "color_id": "41",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6248530.jpg",
+        "name": "Headwear Accessory Visor",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Trans-Light Blue",
+        "fig_num": "fig-014091"
+      },
+      {
+        "inventory_id": "181125",
+        "part_num": "93560",
+        "color_id": "15",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6252744.jpg",
+        "name": "Helmet, Sports [Plain]",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "White",
+        "fig_num": "fig-014091"
+      },
+      {
+        "inventory_id": "181125",
+        "part_num": "970c32",
+        "color_id": "73",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/4255808.jpg",
+        "name": "Hips and Medium Blue Legs",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Medium Blue",
+        "fig_num": "fig-014091"
+      },
+      {
+        "inventory_id": "181125",
+        "part_num": "973c29h03pr4527",
+        "color_id": "212",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6252270.jpg",
+        "name": "Torso Shirt under Bulletproof Vest with Police Badge and Pouches Print, Bright Light Blue Arms, Black Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Bright Light Blue",
+        "fig_num": "fig-014091"
+      }
+    ]
+  ]
+}

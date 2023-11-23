@@ -1,0 +1,222 @@
+{
+  "standard": [
+    {
+      "inventory_id": "15803",
+      "part_num": "22667",
+      "color_id": "351",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129916.jpg",
+      "name": "Plant, Cherries",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "3005",
+      "color_id": "46",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4227497.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Yellow"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "3005",
+      "color_id": "34",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4112802.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Green"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "3005",
+      "color_id": "45",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129874.jpg",
+      "name": "Brick 1 x 1",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "30218",
+      "color_id": "17",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/ldraw/17/30218-f1.png",
+      "name": "Animal, Clam [Type 1 - Continuous Scalloped Inner Lip]",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Light Green"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "30222",
+      "color_id": "45",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4218498.jpg",
+      "name": "Food Popsicle / Lollipop",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "3031",
+      "color_id": "25",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4125266.jpg",
+      "name": "Plate 4 x 4",
+      "part_cat_id": "14",
+      "part_material": "Plastic",
+      "colorName": "Orange"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "3065",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4219685.jpg",
+      "name": "Brick 1 x 2 without Bottom Tube",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "33007",
+      "color_id": "351",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/5/33007-5-813444a8-e7e4-41e8-a677-2aab02b01cc8.jpg",
+      "name": "Belville / Scala, Bag / Suitcase",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "33085",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114584.jpg",
+      "name": "Plant, Banana",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "33121",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119262.jpg",
+      "name": "Animal, Crab",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "33291",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141532.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 4 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "3899",
+      "color_id": "45",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4143404.jpg",
+      "name": "Equipment Cup / Mug [Plain]",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Dark Pink"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "6186",
+      "color_id": "118",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163870.jpg",
+      "name": "Belville / Scala, Animal, Teddy Bear - Arms Up",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Aqua"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "6186",
+      "color_id": "11",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4164242.jpg",
+      "name": "Belville / Scala, Animal, Teddy Bear - Arms Up",
+      "part_cat_id": "42",
+      "part_material": "Plastic",
+      "colorName": "Light Turquoise"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "15803",
+      "part_num": "22667",
+      "color_id": "351",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4129916.jpg",
+      "name": "Plant, Cherries",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Medium Dark Pink"
+    },
+    {
+      "inventory_id": "15803",
+      "part_num": "33291",
+      "color_id": "41",
+      "quantity": "2",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4141532.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 4 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    }
+  ],
+  "setInfo": {
+    "set_num": "5977-1",
+    "name": "Bears on the Beach",
+    "year": "2001",
+    "theme_id": "318",
+    "num_parts": "17",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5977-1.jpg"
+  },
+  "countedUniqueParts": 17,
+  "countedSpareParts": 4,
+  "countedStandardParts": 17,
+  "minfigSetParts": []
+}

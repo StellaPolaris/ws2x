@@ -1,0 +1,161 @@
+{
+  "standard": [
+    {
+      "inventory_id": "83623",
+      "part_num": "11833",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6062087.jpg",
+      "name": "Plate Round 4 x 4 with 2 x 2 Round Opening",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "2456",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022000.jpg",
+      "name": "Brick 2 x 6",
+      "part_cat_id": "11",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "24866",
+      "color_id": "5",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6209679.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Dark Pink"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "24866",
+      "color_id": "4",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6206148.jpg",
+      "name": "Plant, Flower, Plate Round 1 x 1 with 5 Petals",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "27448",
+      "color_id": "15",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6238334.jpg",
+      "name": "Turntable 2 x 2 Female",
+      "part_cat_id": "18",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "28318pr0002",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6288358.jpg",
+      "name": "Animal, Pig, Small with Bright Light Pink Snout, Light Bluish Grey Spots, Sad (Pua)",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "30367c",
+      "color_id": "27",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4279734.jpg",
+      "name": "Brick Round 2 x 2 Dome Top - Hollow Stud with Bottom Axle Holder x Shape + Orientation",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Lime"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "32607",
+      "color_id": "10",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6182261.jpg",
+      "name": "Plant, Plate 1 x 1 Round with 3 Leaves",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "35442",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6271207.jpg",
+      "name": "Plate Special 2 x 2 Splat Gear with 6 Teeth",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "35443",
+      "color_id": "322",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6238331.jpg",
+      "name": "Plate Special 4 x 4 Splat Gear with 10 Teeth",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Medium Azure"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "3941",
+      "color_id": "3",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6290502.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Dark Turquoise"
+    },
+    {
+      "inventory_id": "83623",
+      "part_num": "49576pr0001",
+      "color_id": "158",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6259896.jpg",
+      "name": "Animal, Turtle, Baby with Dark Green Hearts",
+      "part_cat_id": "28",
+      "part_material": "Plastic",
+      "colorName": "Yellowish Green"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "302008-1",
+    "name": "Pig Pua and Turtle",
+    "year": "2020",
+    "theme_id": "579",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/302008-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 0,
+  "countedStandardParts": 18,
+  "minfigSetParts": []
+}

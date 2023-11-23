@@ -1,0 +1,230 @@
+{
+  "standard": [
+    {
+      "inventory_id": "8550",
+      "part_num": "11127",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6019570.jpg",
+      "name": "Rock 1 x 1 Crystal 4 Point",
+      "part_cat_id": "33",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "13549",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6053028.jpg",
+      "name": "Weapon Sword Double Blade Serrated with Bar Holder (Chi Sword)",
+      "part_cat_id": "27",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "15535",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6055313.jpg",
+      "name": "Tile Round 2 x 2 with Hole",
+      "part_cat_id": "15",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "30374",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211628.jpg",
+      "name": "Bar 4L (Lightsaber Blade / Wand)",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "3941",
+      "color_id": "41",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4178398.jpg",
+      "name": "Brick Round 2 x 2 with Axle Hole",
+      "part_cat_id": "20",
+      "part_material": "Plastic",
+      "colorName": "Trans-Light Blue"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "4032a",
+      "color_id": "19",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4140562.jpg",
+      "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "60474",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4528323.jpg",
+      "name": "Plate Round 4 x 4 with Pin Hole",
+      "part_cat_id": "21",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "6587",
+      "color_id": "28",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566927.jpg",
+      "name": "Technic Axle 3 with Stud",
+      "part_cat_id": "46",
+      "part_material": "Plastic",
+      "colorName": "Dark Tan"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "75937",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6018805.jpg",
+      "name": "Plate Special 2 x 2 with Bar Frame Octagonal, Reinforced, Completely Round Studs",
+      "part_cat_id": "9",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "87747",
+      "color_id": "15",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4566256.jpg",
+      "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Medium",
+      "part_cat_id": "28",
+      "part_material": "Rubber",
+      "colorName": "White"
+    },
+    {
+      "inventory_id": "8550",
+      "part_num": "92690",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4640844.jpg",
+      "name": "Bar 1L with Top Stud and Two Side Studs",
+      "part_cat_id": "32",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "391404-1",
+    "name": "Worriz",
+    "year": "2014",
+    "theme_id": "571",
+    "num_parts": "18",
+    "img_url": "https://cdn.rebrickable.com/media/sets/391404-1.jpg"
+  },
+  "countedUniqueParts": 11,
+  "countedSpareParts": 0,
+  "countedStandardParts": 12,
+  "minfigSetParts": [
+    [
+      {
+        "inventory_id": "51917",
+        "part_num": "11098",
+        "color_id": "179",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6035010.jpg",
+        "name": "Minifig Neckwear Armour Breastplate with Shoulder Pads, 1 Front Stud and 2 Back Studs",
+        "part_cat_id": "27",
+        "part_material": "Plastic",
+        "colorName": "Flat Silver",
+        "fig_num": "fig-001102"
+      },
+      {
+        "inventory_id": "51917",
+        "part_num": "11233pr0002",
+        "color_id": "71",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022236.jpg",
+        "name": "Mask Wolf with Face Details, Scars and White Ears Print",
+        "part_cat_id": "65",
+        "part_material": "Plastic",
+        "colorName": "Light Bluish Gray",
+        "fig_num": "fig-001102"
+      },
+      {
+        "inventory_id": "51917",
+        "part_num": "3626cpr1134",
+        "color_id": "71",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022510.jpg",
+        "name": "Minifig Head Worriz, Dual Sided, Wolf with Yellow Eyes, Black Scars, Fangs, Closed Mouth / Open Mouth Print [Hollow Stud]",
+        "part_cat_id": "59",
+        "part_material": "Plastic",
+        "colorName": "Light Bluish Gray",
+        "fig_num": "fig-001102"
+      },
+      {
+        "inventory_id": "51917",
+        "part_num": "970c14pr0436",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6023039.jpg",
+        "name": "Hips and Light Bluish Gray Legs with Dark Red Loincloth, Fur Tail Charm and Claws Print",
+        "part_cat_id": "61",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-001102"
+      },
+      {
+        "inventory_id": "51917",
+        "part_num": "973c14h27pr2234",
+        "color_id": "320",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6028032.jpg",
+        "name": "Torso Armour Vest with Silver Wolf Head and Blue Chi Jewel Print, Light Bluish Gray Arms, White Hands",
+        "part_cat_id": "60",
+        "part_material": "Plastic",
+        "colorName": "Dark Red",
+        "fig_num": "fig-001102"
+      },
+      {
+        "inventory_id": "51917",
+        "part_num": "98138",
+        "color_id": "41",
+        "quantity": "1",
+        "is_spare": "f",
+        "img_url": "https://cdn.rebrickable.com/media/parts/elements/6022171.jpg",
+        "name": "Tile Round 1 x 1",
+        "part_cat_id": "67",
+        "part_material": "Plastic",
+        "colorName": "Trans-Light Blue",
+        "fig_num": "fig-001102"
+      }
+    ]
+  ]
+}

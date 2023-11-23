@@ -1,0 +1,162 @@
+{
+  "standard": [
+    {
+      "inventory_id": "10271",
+      "part_num": "32002",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211050.jpg",
+      "name": "Technic Pin 3/4",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "32063",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4114634.jpg",
+      "name": "Technic Beam 1 x 6 Thin",
+      "part_cat_id": "51",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "32173",
+      "color_id": "0",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119324.jpg",
+      "name": "Large Figure Skeletal, Limb, Angular, 2 x 7 with 2 Ball Joints",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "32175",
+      "color_id": "0",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4119333.jpg",
+      "name": "Technic Connector Block 3 x 3 Triangular with Axle, and Pin Hole",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "32533pr0338",
+      "color_id": "21",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/photos/21/32533pb338-21-19be5fb4-e0ad-47a5-a1f2-974aa52d9294.jpg",
+      "name": "Large Figure Throwing Disc, Kanoka, Po-Metru 338 Print",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Glow In Dark Opaque"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "32556a",
+      "color_id": "71",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211709.jpg",
+      "name": "Technic Pin Long without Friction Ridges - Single Slot",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Light Bluish Gray"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "40507",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4163742.jpg",
+      "name": "Large Figure Weapon, Disk Throwing Arm (Tohunga)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "43093",
+      "color_id": "1",
+      "quantity": "4",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4206482.jpg",
+      "name": "Technic Axle Pin with Friction Ridges Lengthwise",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "44807",
+      "color_id": "0",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238329.jpg",
+      "name": "Large Figure Head Rahkshi",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Black"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "47295",
+      "color_id": "135",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4238327.jpg",
+      "name": "Large Figure Skeletal, Torso with 6 Holes (Matoran)",
+      "part_cat_id": "41",
+      "part_material": "Plastic",
+      "colorName": "Pearl Light Gray"
+    },
+    {
+      "inventory_id": "10271",
+      "part_num": "47296",
+      "color_id": "72",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4217826.jpg",
+      "name": "Technic Axle and Pin Connector 2 x 5 with Two Ball Joint Sockets",
+      "part_cat_id": "12",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [
+    {
+      "inventory_id": "10271",
+      "part_num": "32002",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "t",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4211050.jpg",
+      "name": "Technic Pin 3/4",
+      "part_cat_id": "53",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "setInfo": {
+    "set_num": "8026-1",
+    "name": "Kraatu",
+    "year": "2004",
+    "theme_id": "324",
+    "num_parts": "20",
+    "img_url": "https://cdn.rebrickable.com/media/sets/8026-1.jpg"
+  },
+  "countedUniqueParts": 12,
+  "countedSpareParts": 1,
+  "countedStandardParts": 20,
+  "minfigSetParts": []
+}

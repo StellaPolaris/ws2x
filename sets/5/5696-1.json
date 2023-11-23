@@ -1,0 +1,173 @@
+{
+  "standard": [
+    {
+      "inventory_id": "25184",
+      "part_num": "29988",
+      "color_id": "19",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624837.jpg",
+      "name": "Duplo Blanket 5 x 6",
+      "part_cat_id": "4",
+      "part_material": "Cloth",
+      "colorName": "Tan"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "31042",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4622564.jpg",
+      "name": "Duplo Kettle with Closed Handles 2 x 2 x 1.5",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "3437",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343721.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "3437",
+      "color_id": "14",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/343724.jpg",
+      "name": "Duplo Brick 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "4066pr0151",
+      "color_id": "4",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4257528.jpg",
+      "name": "Duplo Brick 1 x 2 x 2 with No Bottom Tube, Traffic Signal Double Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Red"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "45141",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4624417.jpg",
+      "name": "Duplo Fuel Container 1 x 2 x 2",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "47509",
+      "color_id": "179",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4620277.jpg",
+      "name": "Duplo Wrench",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Flat Silver"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "51704pr0003",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6020807.jpg",
+      "name": "Duplo Brick 2 x 10 x 2 Arch with Car Wash Logo and Red Arrows Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "53898c03",
+      "color_id": "73",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/6021125.jpg",
+      "name": "Duplo Car Coupe with Dark Gray Base, and Headlights",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Medium Blue"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "63710c01pr0004",
+      "color_id": "10",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4596028.jpg",
+      "name": "Duplo Figure with Cap Blue, with Bright Green Long Sleeve Shirt over White Shirt - Blue Legs",
+      "part_cat_id": "57",
+      "part_material": "Plastic",
+      "colorName": "Bright Green"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "6474pr9987",
+      "color_id": "1",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4547756.jpg",
+      "name": "Duplo Brick 2 x 2 Slope 45 with Gauge, Buttons, Display with '34.50' Print",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Blue"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "94905",
+      "color_id": "14",
+      "quantity": "2",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4657328.jpg",
+      "name": "Duplo Car Wash Brush (94905)",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Yellow"
+    },
+    {
+      "inventory_id": "25184",
+      "part_num": "95463",
+      "color_id": "72",
+      "quantity": "1",
+      "is_spare": "f",
+      "img_url": "https://cdn.rebrickable.com/media/parts/elements/4621458.jpg",
+      "name": "Duplo Plate 6 x 12 with Centre Ramp",
+      "part_cat_id": "4",
+      "part_material": "Plastic",
+      "colorName": "Dark Bluish Gray"
+    }
+  ],
+  "spareParts": [],
+  "setInfo": {
+    "set_num": "5696-1",
+    "name": "Car Wash",
+    "year": "2011",
+    "theme_id": "632",
+    "num_parts": "14",
+    "img_url": "https://cdn.rebrickable.com/media/sets/5696-1.jpg"
+  },
+  "countedUniqueParts": 13,
+  "countedSpareParts": 0,
+  "countedStandardParts": 14,
+  "minfigSetParts": []
+}
