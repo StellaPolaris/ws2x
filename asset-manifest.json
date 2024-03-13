@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/ws2x/static/css/main.3252ca7a.css",
-    "main.js": "/ws2x/static/js/main.8add0e7e.js",
+    "main.css": "/ws2x/static/css/main.4b7b638e.css",
+    "main.js": "/ws2x/static/js/main.b75a266a.js",
     "index.html": "/ws2x/index.html"
   },
   "entrypoints": [
-    "static/css/main.3252ca7a.css",
-    "static/js/main.8add0e7e.js"
+    "static/css/main.4b7b638e.css",
+    "static/js/main.b75a266a.js"
   ]
 }
